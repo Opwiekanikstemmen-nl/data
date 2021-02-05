@@ -54,8 +54,10 @@ print("🏎  start")
 
 print("📁 creating output folder if it doesn’t exist")
 
-if not os.path.exists('output'):
-    os.mkdir('output')
+output_dir = file[:-4]
+
+if not os.path.exists(output_dir):
+    os.mkdir(output_dir)
 
 # Create file name for the plain text output
 output_txt = "{}.txt".format(file)
@@ -256,12 +258,12 @@ for partij in partijen:
         'procesverbaalnaam': partij
     }
 
-    with open("output/{}".format(filename), 'w') as fp:
+    with open("{}/{}".format(output_dir, filename), 'w') as fp:
         json.dump(partijlijsten[partij], fp)
 
 print("📄 storing parties in json files")
 
-with open("output/partijen.json", 'w') as fp:
+with open("{}/partijen.json".format(output_dir), 'w') as fp:
     json.dump(partijen_json, fp)
 
 
