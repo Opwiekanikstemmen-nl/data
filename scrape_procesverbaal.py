@@ -39,6 +39,7 @@ else:
 kieskringen = []
 partijen = []
 partijlijsten = {}
+kandidaten = {}
 geslachten = []
 
 # Status variables
@@ -193,6 +194,7 @@ for line in lines:
             }
             # - append person to party object
             partijlijsten[partij][full_name] = person
+            kandidaten[full_name] = person
 
         # Make sure not to treat the next line as the party name
         next_is_location = False
@@ -262,10 +264,13 @@ for partij in partijen:
     with open("{}/{}".format(output_dir, filename), 'w') as fp:
         json.dump(partijlijsten[partij], fp)
 
-print("📄 storing parties in json files")
+print("📄 storing parties and all candidates in json files")
 
 with open("{}/partijen.json".format(output_dir), 'w') as fp:
     json.dump(partijen_json, fp)
+
+with open("{}/kandidaten.json".format(output_dir), 'w') as fp:
+    json.dump(kandidaten, fp)
 
 
 print("🏳️‍🌈  geslachten: {}".format(", ".join(geslachten)))
