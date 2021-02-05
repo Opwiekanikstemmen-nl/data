@@ -189,6 +189,7 @@ for line in lines:
                 'voornaam': voornaam,
                 'geslacht': geslacht,
                 'stad': woonplaats,
+                'partij_naam': partij,
             }
             # - append person to party object
             partijlijsten[partij][full_name] = person
