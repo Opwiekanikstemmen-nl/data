@@ -175,7 +175,7 @@ for line in lines:
 
         # check if person is already in party
         if full_name in partijlijsten[partij]:
-            # if so, add kiesdistrict
+            # if so, add kieskring
             partijlijsten[partij][full_name]['kieskringen'].append(kieskring)
         else:
             # if not,
