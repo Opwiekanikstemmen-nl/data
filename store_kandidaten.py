@@ -1,0 +1,112 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
+import json
+import argparse
+from decouple import config
+from slugify import slugify
+from graphqlclient import GraphQLClient
+
+api_token = "Bearer {}".format(config('GRAPH_API'))
+client = GraphQLClient(config('GRAPH_URL'))
+client.inject_token(api_token)
+
+parser = argparse.ArgumentParser(
+    description="Parse JSON and mutate the people into GraphCMS")
+parser.add_argument("-f", "--folder", action="store",
+    help="the procesverbaal PDF with just the pages with lists")
+parser.add_argument("-p", "--partij", action="store",
+    help="the GraphCMS party id")
+parser.add_argument("-d", "--dryrun", action="store_true",
+    help="only does a dry run, so it doesn’t connect to GraphCMSs")
+args = parser.parse_args()
+
+if args.folder:
+    folder = args.folder
+else:
+    folder = "output"
+
+if args.dryrun:
+    print("🚧 dry run")
+
+request = '''
+mutation CreatePersoon {{
+  __typename
+  createPersoon(data: {{
+    naam: "{naam}",
+    achternaam: "{achternaam}",
+    geslacht: "{geslacht}",
+    kieskringen: {kieskringen},
+    lijstnummer: {lijstnummer},
+    slug: "{slug}",
+    voornaam: "{voornaam}",
+    voorletters: "{voorletters}",
+    woonplaats: "{woonplaats}",
+    partij: {{connect: {{id: "{partij_id}"}}}}
+  }}) {{
+    naam
+  }}
+}}
+'''
+
+
+
+print("🗄 reading partijen file")
+
+partijen_file = "{}/partijen.json".format(folder)
+laatste_partij = ""
+
+with open(partijen_file, 'r') as pf:
+    partijen = json.load(pf)
+
+for partij in partijen:
+    print("- working on {}".format(partij))
+
+    partij_id = partijen[partij]['id']
+    partij_file = "{}/{}".format(folder, partijen[partij]['file'])
+
+    with open(partij_file, 'r') as fp:
+        people = json.load(fp)
+
+    for key in people:
+
+        person = people[key]
+
+        string_kieskringen = '["'
+        for kieskring in person['kieskringen']:
+            string_kieskringen += kieskring[10:]
+            string_kieskringen += '", "'
+
+        string_kieskringen = string_kieskringen[:-4] + '"]'
+
+        slug = slugify(key)
+
+        if '(' in person['naam']:
+            print("{} van {}".format(person['naam'], partij))
+
+        filled_request = request.format(
+            naam = person['naam'],
+            achternaam = person['achternaam'],
+            geslacht = person['geslacht'],
+            kieskringen = string_kieskringen,
+            lijstnummer = person['lijstnummer'],
+            slug = slug,
+            voornaam = person['voornaam'],
+            voorletters = person['voorletters'],
+            woonplaats = person['stad'],
+            partij_id = partij_id
+        )
+
+        if args.dryrun:
+
+            if partij != laatste_partij:
+                print(filled_request)
+                # client.execute(filled_request)
+                laatste_partij = partij
+
+        else:
+            client.execute(filled_request)
+
+
+
+print("✅ done")
