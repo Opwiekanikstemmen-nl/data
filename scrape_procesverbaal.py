@@ -212,7 +212,7 @@ for line in lines:
     # If the kieskring is announced
     if "Kieskring" in line:
         # Find just that name
-        kieskring_match = re.search("Kieskring (?P<kieskring>[A-Za-z-\']+)", line)
+        kieskring_match = re.search("Kieskring (?P<kieskring>[A-Za-z-\'\s]+)", line)
         # Memorize it for later use
         kieskring = kieskring_match.group('kieskring')
         # Store it
