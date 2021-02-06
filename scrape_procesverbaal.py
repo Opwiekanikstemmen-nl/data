@@ -239,7 +239,7 @@ for line in lines:
         try:
             geslacht = geslacht_match.group('geslacht')
         except AttributeError:
-            geslacht = ""
+            geslacht = "o"
 
         # Make sure we have list of all sexes to print
         if geslacht not in geslachten:
