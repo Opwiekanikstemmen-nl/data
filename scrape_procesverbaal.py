@@ -316,16 +316,16 @@ for partij in partijen:
         'procesverbaalnaam': partij
     }
 
-    with open("{}/{}".format(output_dir, filename), 'w') as fp:
-        json.dump(partijlijsten[partij], fp)
+    with open("{}/{}".format(output_dir, filename), 'w', encoding='utf8') as fp:
+        json.dump(partijlijsten[partij], fp, ensure_ascii=False)
 
 print("📄 storing parties and all candidates in json files")
 
-with open("{}/partijen.json".format(output_dir), 'w') as fp:
-    json.dump(partijen_json, fp)
+with open("{}/partijen.json".format(output_dir), 'w', encoding='utf8') as fp:
+    json.dump(partijen_json, fp, ensure_ascii=False)
 
-with open("{}/kandidaten.json".format(output_dir), 'w') as fp:
-    json.dump(kandidaten, fp)
+with open("{}/kandidaten.json".format(output_dir), 'w', encoding='utf8') as fp:
+    json.dump(kandidaten, fp, ensure_ascii=False)
 
 
 print("🏳️‍🌈  geslachten: {}".format(", ".join(geslachten)))
