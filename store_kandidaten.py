@@ -86,7 +86,7 @@ for partij in partijen:
 
         string_kieskringen = '["'
         for kieskring in person['kieskringen']:
-            string_kieskringen += kieskring[10:]
+            string_kieskringen += kieskring
             string_kieskringen += '", "'
 
         string_kieskringen = string_kieskringen[:-4] + '"]'
@@ -111,7 +111,7 @@ for partij in partijen:
 
         if args.dryrun:
 
-            if partij != laatste_partij:
+            if person['lijstnummer'] == 1:
                 print(filled_request)
                 # client.execute(filled_request)
                 laatste_partij = partij
