@@ -24,6 +24,8 @@ parser = argparse.ArgumentParser(
     description="Parse a procesverbaal PDF to a JSON file with all listed people")
 parser.add_argument("-f", "--file", action="store",
     help="The procesverbaal PDF with just the pages with lists")
+parser.add_argument("-p", "--previous", action="store",
+    help="The lists of the previous year")
 
 args = parser.parse_args()
 
@@ -31,6 +33,13 @@ if args.file:
     file = args.file
 else:
     file = "procesverbaal_content.pdf"
+
+if args.previous:
+    previous = args.previous
+else:
+    previous = False
+
+
 
 # Tool functions
 def safe_filename(filename):
@@ -90,6 +99,15 @@ print("💾 the procesverbaal is now plain text")
 
 
 
+print("🗄 opening previous year")
+
+if previous:
+    kandidaten_file = "{}/kandidaten.json".format(previous)
+    with open(kandidaten_file, 'r') as pf:
+        prev_lijst = json.load(pf)
+
+
+
 # Open plain text procesverbaal again for processing
 procesverbaal_txt = open(output_txt, 'r')
 # Create a list of all the lines in the procesverbaal
@@ -106,6 +124,30 @@ def save_candidate(lijstnummer, kieskring, full_name, achternaam, voorletters, v
         partijlijsten[partij][full_name]['kieskringen'].append(kieskring)
     else:
         # if not,
+        # - check if they’ve tried before, assume they didn’t
+        tweede_poging = False
+        vorige_partij = ""
+
+        # if we’re checking it against a previous year
+        if previous:
+            # If the candidate participated last year
+            if full_name in prev_lijst:
+                # Store that it’s their second run
+                tweede_poging = True
+                # Open previous partij file
+                safe_partij = safe_filename(partij)
+                prev_file = "{}/{}.json".format(previous, safe_partij)
+                # If the party existed
+                if os.path.isfile(prev_file):
+                    with open(prev_file, 'r') as fp:
+                        prev_partij = json.load(fp)
+                    # If they switched, save party name
+                    if full_name not in prev_partij:
+                        vorige_partij = prev_lijst[full_name]['partij_naam']
+                # If the party is new and they switched
+                else:
+                    print("➕ new {}, same {}".format(partij, full_name))
+                    vorige_partij = prev_lijst[full_name]['partij_naam']
 
         # - create person object
         person = {
@@ -118,6 +160,8 @@ def save_candidate(lijstnummer, kieskring, full_name, achternaam, voorletters, v
             'geslacht': geslacht,
             'stad': woonplaats,
             'partij_naam': partij,
+            'tweede_poging': tweede_poging,
+            'vorige_partij': vorige_partij
         }
         # - append person to party object
         partijlijsten[partij][full_name] = person
