@@ -7,16 +7,22 @@ from decouple import config
 from slugify import slugify
 from graphqlclient import GraphQLClient
 
+
+
+# Environment variables
+
 api_token = "Bearer {}".format(config('GRAPH_API'))
 client = GraphQLClient(config('GRAPH_URL'))
 client.inject_token(api_token)
 
+
+
+# Passable variables
+
 parser = argparse.ArgumentParser(
     description="Parse JSON and mutate the people into GraphCMS")
 parser.add_argument("-f", "--folder", action="store",
-    help="the procesverbaal PDF with just the pages with lists")
-parser.add_argument("-p", "--partij", action="store",
-    help="the GraphCMS party id")
+    help="the folder with the party json files")
 parser.add_argument("-d", "--dryrun", action="store_true",
     help="only does a dry run, so it doesn’t connect to GraphCMSs")
 args = parser.parse_args()
@@ -28,6 +34,10 @@ else:
 
 if args.dryrun:
     print("🚧 dry run")
+
+
+
+# Query
 
 request = '''
 mutation CreatePersoon {{
@@ -54,10 +64,12 @@ mutation CreatePersoon {{
 print("🗄 reading partijen file")
 
 partijen_file = "{}/partijen.json".format(folder)
-laatste_partij = ""
-
 with open(partijen_file, 'r') as pf:
     partijen = json.load(pf)
+
+
+
+# Loop through all parties
 
 for partij in partijen:
     print("- working on {}".format(partij))
