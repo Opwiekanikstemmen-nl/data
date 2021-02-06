@@ -126,7 +126,11 @@ for partij in partijen:
                 laatste_partij = partij
 
         else:
-            client.execute(filled_request)
+            try:
+                client.execute(filled_request)
+            except:
+                print("⚠️ ignored")
+                print(filled_request)
 
 
 
