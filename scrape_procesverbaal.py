@@ -32,6 +32,14 @@ if args.file:
 else:
     file = "procesverbaal_content.pdf"
 
+# Tool functions
+def safe_filename(filename):
+    # Safe name for files
+    illegal_chars = ['(', ')', '.', '/', ',']
+    for char in illegal_chars:
+        filename = filename.replace(char, '')
+    return filename
+
 
 
 # Fillable variables
@@ -248,12 +256,7 @@ print("📄 storing people in json files")
 partijen_json = {}
 
 for partij in partijen:
-    # Safe name for files
-    illegal_chars = ['(', ')', '.', '/', ',']
-    safe_partij = partij
-    for char in illegal_chars:
-        safe_partij = safe_partij.replace(char, '')
-
+    safe_partij = safe_filename(partij)
     filename = '{}.json'.format(safe_partij)
 
     partijen_json[safe_partij] = {
