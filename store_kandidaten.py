@@ -23,6 +23,8 @@ parser = argparse.ArgumentParser(
     description="Parse JSON and mutate the people into GraphCMS")
 parser.add_argument("-f", "--folder", action="store",
     help="the folder with the party json files")
+parser.add_argument("-p", "--onlypartij", action="store",
+    help="limits to certain party name")
 parser.add_argument("-d", "--dryrun", action="store_true",
     help="only does a dry run, so it doesn’t connect to GraphCMSs")
 args = parser.parse_args()
@@ -31,6 +33,9 @@ if args.folder:
     folder = args.folder
 else:
     folder = "output"
+
+if args.onlypartij:
+    onlypartij = args.onlypartij
 
 if args.dryrun:
     print("🚧 dry run")
@@ -73,6 +78,10 @@ with open(partijen_file, 'r') as pf:
 
 for partij in partijen:
     print("- working on {}".format(partij))
+
+    if partij != onlypartij:
+        print('skip')
+        continue
 
     partij_id = partijen[partij]['id']
     partij_file = "{}/{}".format(folder, partijen[partij]['file'])
