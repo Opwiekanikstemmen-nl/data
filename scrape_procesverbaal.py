@@ -127,6 +127,7 @@ def save_candidate(lijstnummer, kieskring, full_name, achternaam, voorletters, v
         # - check if they’ve tried before, assume they didn’t
         tweede_poging = False
         vorige_partij = ""
+        vorige_woonplaats = ""
 
         # if we’re checking it against a previous year
         if previous:
@@ -149,6 +150,11 @@ def save_candidate(lijstnummer, kieskring, full_name, achternaam, voorletters, v
                     print("➕ new {}, same {}".format(partij, full_name))
                     vorige_partij = prev_lijst[full_name]['partij_naam']
 
+                # If the candidate moved to another city
+                if woonplaats != prev_lijst[full_name]['stad']:
+                    vorige_woonplaats = prev_lijst[full_name]['stad']
+
+
         # - create person object
         person = {
             'lijstnummer': lijstnummer,
@@ -161,7 +167,8 @@ def save_candidate(lijstnummer, kieskring, full_name, achternaam, voorletters, v
             'stad': woonplaats,
             'partij_naam': partij,
             'tweede_poging': tweede_poging,
-            'vorige_partij': vorige_partij
+            'vorige_partij': vorige_partij,
+            'vorige_woonplaats': vorige_woonplaats
         }
         # - append person to party object
         partijlijsten[partij][full_name] = person
