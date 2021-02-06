@@ -97,6 +97,34 @@ lines = procesverbaal_txt.read().splitlines()
 
 
 
+# Function to save a candidate
+
+def save_candidate(lijstnummer, kieskring, full_name, achternaam, voorletters, voornaam, geslacht, woonplaats, partij):
+    # check if person is already in party
+    if full_name in partijlijsten[partij]:
+        # if so, add kieskring
+        partijlijsten[partij][full_name]['kieskringen'].append(kieskring)
+    else:
+        # if not,
+
+        # - create person object
+        person = {
+            'lijstnummer': lijstnummer,
+            'kieskringen': [kieskring],
+            'naam': full_name,
+            'achternaam': achternaam,
+            'voorletters': voorletters,
+            'voornaam': voornaam,
+            'geslacht': geslacht,
+            'stad': woonplaats,
+            'partij_naam': partij,
+        }
+        # - append person to party object
+        partijlijsten[partij][full_name] = person
+        kandidaten[full_name] = person
+
+
+
 # Looping through all lines of procesverbaal
 
 for line in lines:
@@ -182,27 +210,7 @@ for line in lines:
         else:
             full_name = "{} {}".format(voorletters, achternaam)
 
-        # check if person is already in party
-        if full_name in partijlijsten[partij]:
-            # if so, add kieskring
-            partijlijsten[partij][full_name]['kieskringen'].append(kieskring)
-        else:
-            # if not,
-            # - create person object
-            person = {
-                'lijstnummer': lijstnummer,
-                'kieskringen': [kieskring],
-                'naam': full_name,
-                'achternaam': achternaam,
-                'voorletters': voorletters,
-                'voornaam': voornaam,
-                'geslacht': geslacht,
-                'stad': woonplaats,
-                'partij_naam': partij,
-            }
-            # - append person to party object
-            partijlijsten[partij][full_name] = person
-            kandidaten[full_name] = person
+        save_candidate(lijstnummer, kieskring, full_name, achternaam, voorletters, voornaam, geslacht, woonplaats, partij)
 
         # Make sure not to treat the next line as the party name
         next_is_location = False
