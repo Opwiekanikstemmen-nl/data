@@ -52,6 +52,8 @@ else:
 
 if args.onlypartij:
     onlypartij = args.onlypartij
+else:
+    onlypartij = False
 
 if args.dryrun:
     print("🚧 dry run")
@@ -95,9 +97,10 @@ with open(partijen_file, 'r') as pf:
 for partij in partijen:
     print("- working on {}".format(partij))
 
-    if partij != onlypartij:
-        print('skip')
-        continue
+    if onlypartij:
+        if partij != onlypartij:
+            print('skip')
+            continue
 
     partij_id = partijen[partij]['id']
     partij_file = "{}/{}".format(folder, partijen[partij]['file'])
