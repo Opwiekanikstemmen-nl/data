@@ -168,7 +168,8 @@ def save_candidate(lijstnummer, kieskring, full_name, achternaam, voorletters, v
             'partij_naam': partij,
             'tweede_poging': tweede_poging,
             'vorige_partij': vorige_partij,
-            'vorige_woonplaats': vorige_woonplaats
+            'vorige_woonplaats': vorige_woonplaats,
+            'links': []
         }
         # - append person to party object
         partijlijsten[partij][full_name] = person
