@@ -43,6 +43,8 @@ parser.add_argument("-p", "--onlypartij", action="store",
     help="limits to certain party name")
 parser.add_argument("-d", "--dryrun", action="store_true",
     help="only does a dry run, so it doesn’t connect to GraphCMSs")
+parser.add_argument("-u", "--update", action="store_true",
+    help="updates people instead of trying to add them new")
 args = parser.parse_args()
 
 if args.folder:
@@ -62,25 +64,53 @@ if args.dryrun:
 
 # Query
 
-request = '''
-mutation CreatePersoon {{
-  __typename
-  createPersoon(data: {{
-    naam: "{naam}",
-    achternaam: "{achternaam}",
-    geslacht: "{geslacht}",
-    kieskringen: {kieskringen},
-    lijstnummer: {lijstnummer},
-    slug: "{slug}",
-    voornaam: "{voornaam}",
-    voorletters: "{voorletters}",
-    woonplaats: "{woonplaats}",
-    partij: {{connect: {{id: "{partij_id}"}}}}
-  }}) {{
-    naam
-  }}
-}}
-'''
+if args.update:
+    request = '''
+    mutation MutatePersoon {{
+      __typename
+      updatePersoon(data: {{
+        naam: "{naam}",
+        achternaam: "{achternaam}",
+        geslacht: "{geslacht}",
+        kieskringen: {kieskringen},
+        lijstnummer: {lijstnummer},
+        slug: "{slug}",
+        voornaam: "{voornaam}",
+        voorletters: "{voorletters}",
+        woonplaats: "{woonplaats}",
+        links: {links},
+        tweede_poging: {tweede_poging},
+        vorige_partij: "{vorige_partij}",
+        vorige_woonplaats: "{vorige_woonplaats}"
+      }} where: {{slug: "{slug}"}}) {{
+        naam
+      }}
+    }}
+    '''
+else:
+    request = '''
+    mutation CreatePersoon {{
+      __typename
+      createPersoon(data: {{
+        naam: "{naam}",
+        achternaam: "{achternaam}",
+        geslacht: "{geslacht}",
+        kieskringen: {kieskringen},
+        lijstnummer: {lijstnummer},
+        slug: "{slug}",
+        voornaam: "{voornaam}",
+        voorletters: "{voorletters}",
+        woonplaats: "{woonplaats}",
+        partij: {{connect: {{id: "{partij_id}"}}}},
+        links: {links},
+        tweede_poging: {tweede_poging},
+        vorige_partij: "{vorige_partij}",
+        vorige_woonplaats: "{vorige_woonplaats}"
+      }}) {{
+        naam
+      }}
+    }}
+    '''
 
 
 
@@ -127,14 +157,17 @@ for partij in partijen:
             voornaam = person['voornaam'],
             voorletters = person['voorletters'],
             woonplaats = person['stad'],
-            partij_id = partij_id
+            partij_id = partij_id,
+            links = array_to_string(person['links']),
+            tweede_poging = str(person['tweede_poging']).lower(),
+            vorige_partij = person['vorige_partij'],
+            vorige_woonplaats = person['vorige_woonplaats']
         )
 
         if args.dryrun:
 
             if person['lijstnummer'] == 1:
                 print(filled_request)
-                # client.execute(filled_request)
                 laatste_partij = partij
 
         else:
