@@ -17,6 +17,22 @@ client.inject_token(api_token)
 
 
 
+# Tool functions
+
+# Turn array into a string which is acceptable for GraphQL
+def array_to_string(array):
+    string = '["'
+    for item in array:
+        string += item
+        string += '", "'
+    string = string + '"]'
+    # Remove empty items
+    string = string.replace(', ""', '')
+    string = string.replace('""', '')
+    return string
+
+
+
 # Passable variables
 
 parser = argparse.ArgumentParser(
@@ -93,13 +109,6 @@ for partij in partijen:
 
         person = people[key]
 
-        string_kieskringen = '["'
-        for kieskring in person['kieskringen']:
-            string_kieskringen += kieskring
-            string_kieskringen += '", "'
-
-        string_kieskringen = string_kieskringen[:-4] + '"]'
-
         slug = slugify(key)
 
         if '(' in person['naam']:
@@ -109,7 +118,7 @@ for partij in partijen:
             naam = person['naam'],
             achternaam = person['achternaam'],
             geslacht = person['geslacht'],
-            kieskringen = string_kieskringen,
+            kieskringen = array_to_string(person['kieskringen']),
             lijstnummer = person['lijstnummer'],
             slug = slug,
             voornaam = person['voornaam'],
