@@ -1,0 +1,187 @@
+{
+  "VVD": {
+    "file": "VVD.json",
+    "procesverbaalnaam": "VVD",
+    "id": "ckjkejvpc1b8i0a526rats9ka"
+  },
+  "PVV Partij voor de Vrijheid": {
+    "file": "PVV Partij voor de Vrijheid.json",
+    "procesverbaalnaam": "PVV (Partij voor de Vrijheid)",
+    "id": "ckjppik4o2ipd0946sdpdmsk4"
+  },
+  "CDA": {
+    "file": "CDA.json",
+    "procesverbaalnaam": "CDA",
+    "id": "ckk74uq8089n50910fquchjn5"
+  },
+  "D66": {
+    "file": "D66.json",
+    "procesverbaalnaam": "D66",
+    "id": "ckk74uxxs8d2n0a54oprs7cc7"
+  },
+  "GROENLINKS": {
+    "file": "GROENLINKS.json",
+    "procesverbaalnaam": "GROENLINKS",
+    "id": "ckjkdd9r40zrr0b45q2v0ij9q"
+  },
+  "SP Socialistische Partij": {
+    "file": "SP Socialistische Partij.json",
+    "procesverbaalnaam": "SP (Socialistische Partij)",
+    "id": "ckk74uja08buj0b018eb15ltv"
+  },
+  "Partij van de Arbeid PvdA": {
+    "file": "Partij van de Arbeid PvdA.json",
+    "procesverbaalnaam": "Partij van de Arbeid (P.v.d.A.)",
+    "id": "ckk74s4348ckp0a54h7y4g1ht"
+  },
+  "ChristenUnie": {
+    "file": "ChristenUnie.json",
+    "procesverbaalnaam": "ChristenUnie",
+    "id": "ckk74v77489s6091084g8ym8a"
+  },
+  "Partij voor de Dieren": {
+    "file": "Partij voor de Dieren.json",
+    "procesverbaalnaam": "Partij voor de Dieren",
+    "id": "ckk74vpps0u7j0a14usufny68"
+  },
+  "50PLUS": {
+    "file": "50PLUS.json",
+    "procesverbaalnaam": "50PLUS",
+    "id": "ckk74vvw088hr09549jynhsbq"
+  },
+  "Staatkundig Gereformeerde Partij SGP": {
+    "file": "Staatkundig Gereformeerde Partij SGP.json",
+    "procesverbaalnaam": "Staatkundig Gereformeerde Partij (SGP)",
+    "id": "ckk74vfoo8c2e0b01mn832hzn"
+  },
+  "DENK": {
+    "file": "DENK.json",
+    "procesverbaalnaam": "DENK",
+    "id": "ckk74wriw88nf09546rn1a20b"
+  },
+  "Forum voor Democratie": {
+    "file": "Forum voor Democratie.json",
+    "procesverbaalnaam": "Forum voor Democratie",
+    "id": "ckk74xzi88a690910bi1907g3"
+  },
+  "JEZUS LEEFT": {
+    "file": "JEZUS LEEFT.json",
+    "procesverbaalnaam": "JEZUS LEEFT",
+    "id": "ckk74z5688aa80910x0go1zhw"
+  },
+  "BBB": {
+    "file": "BBB.json",
+    "procesverbaalnaam": "BBB",
+    "id": "ckktt5os0c2dq0f48ku1wpx6p"
+  },
+  "CODE ORANJE": {
+    "file": "CODE ORANJE.json",
+    "procesverbaalnaam": "CODE ORANJE",
+    "id": "ckktt77k8c2hp0f48qjby56m7"
+  },
+  "Vrij en Sociaal Nederland": {
+    "file": "Vrij en Sociaal Nederland.json",
+    "procesverbaalnaam": "Vrij en Sociaal Nederland",
+    "id": "ckktt8tfkbw4z0a64mass7gyn"
+  },
+  "JA21": {
+    "file": "JA21.json",
+    "procesverbaalnaam": "JA21",
+    "id": "ckktt9zvcc0iv0a64crmf91j6"
+  },
+  "Volt": {
+    "file": "Volt.json",
+    "procesverbaalnaam": "Volt",
+    "id": "ckkttakpcbwae0a64n6puwi3h"
+  },
+  "NLBeter": {
+    "file": "NLBeter.json",
+    "procesverbaalnaam": "NLBeter",
+    "id": "ckkttbbpkc0m70a64g4db8qgj"
+  },
+  "LP Libertaire Partij": {
+    "file": "LP Libertaire Partij.json",
+    "procesverbaalnaam": "LP (Libertaire Partij)",
+    "id": "ckk74yvww0uo40a14sg5rcw66"
+  },
+  "Splinter": {
+    "file": "Splinter.json",
+    "procesverbaalnaam": "Splinter",
+    "id": "ckkttbrwwc2m30a45hkmg22g0"
+  },
+  "Lijst Henk Krol": {
+    "file": "Lijst Henk Krol.json",
+    "procesverbaalnaam": "Lijst Henk Krol",
+    "id": "ckkttcnjsc2ok0a45pk8jm1rv"
+  },
+  "NIDA": {
+    "file": "NIDA.json",
+    "procesverbaalnaam": "NIDA",
+    "id": "ckkttdd0gc1sq0a477dbr9o33"
+  },
+  "Piratenpartij": {
+    "file": "Piratenpartij.json",
+    "procesverbaalnaam": "Piratenpartij",
+    "id": "ckk74yh9488tq0954w6se9m34"
+  },
+  "DE FEESTPARTIJ DFP": {
+    "file": "DE FEESTPARTIJ DFP.json",
+    "procesverbaalnaam": "DE FEESTPARTIJ (DFP)",
+    "id": "ckktte8ncc2jb0b07c39u468m"
+  },
+  "OPRECHT": {
+    "file": "OPRECHT.json",
+    "procesverbaalnaam": "OPRECHT",
+    "id": "ckktteqe8c3580f485yliw94x"
+  },
+  "U-Buntu Connected Front": {
+    "file": "U-Buntu Connected Front.json",
+    "procesverbaalnaam": "U-Buntu Connected Front",
+    "id": "ckkttfrfkc22a0a47gqer6xna"
+  },
+  "JONG": {
+    "file": "JONG.json",
+    "procesverbaalnaam": "JONG",
+    "id": "ckkttgj7kc2650a47t6idsaw4"
+  },
+  "Trots op Nederland TROTS": {
+    "file": "Trots op Nederland TROTS.json",
+    "procesverbaalnaam": "Trots op Nederland (TROTS)",
+    "id": "ckkttitrsc31v0b07lobhwgj4"
+  },
+  "BIJ1": {
+    "file": "BIJ1.json",
+    "procesverbaalnaam": "BIJ1",
+    "id": "ckk74ymnk8dkx0a541s3fnm69"
+  },
+  "De Groenen": {
+    "file": "De Groenen.json",
+    "procesverbaalnaam": "De Groenen",
+    "id": "ckkttjd28c1d20a64y8n1qvsn"
+  },
+  "Partij voor de Republiek": {
+    "file": "Partij voor de Republiek.json",
+    "procesverbaalnaam": "Partij voor de Republiek",
+    "id": "ckkttjzfsc3t40f48s4xvaawi"
+  },
+  "blanco lijst met als eerste kandidaat Zeven AJLB": {
+    "file": "blanco lijst met als eerste kandidaat Zeven AJLB.json",
+    "procesverbaalnaam": "blanco lijst met als eerste kandidaat Zeven, A.J.L.B.",
+    "id": "ckkttltsoc1mp0a64zkiz964y"
+  },
+  "Modern Nederland": {
+    "file": "Modern Nederland.json",
+    "procesverbaalnaam": "Modern Nederland",
+    "id": "ckkttmmcgc3ms0b071kkgqfo6"
+  },
+  "Wij zijn Nederland": {
+    "file": "Wij zijn Nederland.json",
+    "procesverbaalnaam": "Wij zijn Nederland",
+    "id": "ckktto6o8c3i70a47b2429lfs"
+  },
+  "Partij van de Eenheid": {
+    "file": "Partij van de Eenheid.json",
+    "procesverbaalnaam": "Partij van de Eenheid",
+    "id": "ckkttpasoc2e10a64hjnbzk1c"
+  }
+}
