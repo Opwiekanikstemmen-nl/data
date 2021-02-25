@@ -15,6 +15,7 @@ kieskringen = kieskring_data[4::5]
 gemeenten_raw = kieskring_data[3::5]
 
 gemeenten = []
+dict = {}
 
 # Alle gemeenten per kieskring in een aparte lijst zetten en wat nutteloze
 # tekst aan het begin van iedere lijst verwijderen
@@ -24,13 +25,17 @@ for el in gemeenten_raw[:-1]:
 # Voor overzeese gebieden in Nederlandse koninkrijk
 gemeenten.append(gemeenten_raw[-1][21:][:-1].split(','))
 
+# Alternatieve naam voor 's-Gravenhage toepassen
+gemeenten[11].append("Den Haag")
+kieskringen[11] = "Den Haag"
+
 # alle spaties voor en na gemeentenamen verwijderen
 gemeenten_final = [[el.strip() for el in list] for list in gemeenten]
 
-# Dict maken waar kieskringen de key zijn en de gemeenten per kieskring staan
-result = dict(zip(kieskringen, gemeenten_final))
-print(result)
+# Lijsten combineren en omzetten in dictionary
+for i, gemeente_list in enumerate(gemeenten_final):
+    dict.update(dict.fromkeys(gemeente_list, kieskringen[i]))
 
 # Opslaan als JSON
-with open("kieskringen-gemeenten.json", "w") as outfile:
-    json.dump(result, outfile)
+with open("gemeente-kieskring.json", "w") as outfile:
+    json.dump(dict, outfile)
