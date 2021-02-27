@@ -117,11 +117,11 @@ lines = procesverbaal_txt.read().splitlines()
 
 # Function to save a candidate
 
-def save_candidate(lijstnummer, kieskring, full_name, achternaam, voorletters, voornaam, geslacht, woonplaats, partij):
+def save_candidate(lijstnummer, kieskring, full_name, achternaam, voorletters, voornaam, geslacht, woonplaats, partij, store_name):
     # check if person is already in party
-    if full_name in partijlijsten[partij]:
+    if store_name in partijlijsten[partij]:
         # if so, add kieskring
-        partijlijsten[partij][full_name]['kieskringen'].append(kieskring)
+        partijlijsten[partij][store_name]['kieskringen'].append(kieskring)
     else:
         # if not,
         # - check if they’ve tried before, assume they didn’t
@@ -132,7 +132,7 @@ def save_candidate(lijstnummer, kieskring, full_name, achternaam, voorletters, v
         # if we’re checking it against a previous year
         if previous:
             # If the candidate participated last year
-            if full_name in prev_lijst:
+            if store_name in prev_lijst:
                 # Store that it’s their second run
                 tweede_poging = True
                 # Open previous partij file
@@ -143,16 +143,16 @@ def save_candidate(lijstnummer, kieskring, full_name, achternaam, voorletters, v
                     with open(prev_file, 'r') as fp:
                         prev_partij = json.load(fp)
                     # If they switched, save party name
-                    if full_name not in prev_partij:
-                        vorige_partij = prev_lijst[full_name]['partij_naam']
+                    if store_name not in prev_partij:
+                        vorige_partij = prev_lijst[store_name]['partij_naam']
                 # If the party is new and they switched
                 else:
-                    print("➕ new {}, same {}".format(partij, full_name))
-                    vorige_partij = prev_lijst[full_name]['partij_naam']
+                    print("➕ new {}, same {}".format(partij, store_name))
+                    vorige_partij = prev_lijst[store_name]['partij_naam']
 
                 # If the candidate moved to another city
-                if woonplaats != prev_lijst[full_name]['stad']:
-                    vorige_woonplaats = prev_lijst[full_name]['stad']
+                if woonplaats != prev_lijst[store_name]['stad']:
+                    vorige_woonplaats = prev_lijst[store_name]['stad']
 
 
         # - create person object
@@ -257,12 +257,13 @@ for line in lines:
         # Memorize
         woonplaats = line
         # Store candidate in party
+        store_name = "{} {}".format(voorletters, achternaam)
         if voornaam:
             full_name = "{} {}".format(voornaam, achternaam)
         else:
-            full_name = "{} {}".format(voorletters, achternaam)
+            full_name = store_name
 
-        save_candidate(lijstnummer, kieskring, full_name, achternaam, voorletters, voornaam, geslacht, woonplaats, partij)
+        save_candidate(lijstnummer, kieskring, full_name, achternaam, voorletters, voornaam, geslacht, woonplaats, partij, store_name)
 
         # Make sure not to treat the next line as the party name
         next_is_location = False
