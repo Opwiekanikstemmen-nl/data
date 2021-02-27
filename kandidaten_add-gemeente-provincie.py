@@ -11,6 +11,7 @@ import argparse
 parser.add_argument("-f", "--folder", action="store",
     help="the folder with the party json files")
 
+args = parser.parse_args()
 
 if args.folder:
     folder = args.folder
