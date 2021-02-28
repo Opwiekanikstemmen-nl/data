@@ -8,6 +8,8 @@ import argparse
 
 # Passable variables
 
+parser = argparse.ArgumentParser(
+    description="Add municipalities and provinces to candidates")
 parser.add_argument("-f", "--folder", action="store",
     help="the folder with the party json files")
 
