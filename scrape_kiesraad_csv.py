@@ -5,6 +5,7 @@ import csv
 import argparse
 import os
 import json
+import re
 
 
 
@@ -122,7 +123,7 @@ if previous:
 
 # Function to save a candidate
 
-def save_candidate(lijstnummer, kieskring, full_name, achternaam, voorletters, voornaam, geslacht, woonplaats, partij):
+def save_candidate(lijstnummer, kieskring, full_name, achternaam, voorletters, voornaam, tussenvoegsel, geslacht, woonplaats, partij):
     # check if person is already in party
     if full_name in partijlijsten[partij]:
         # if so, add kieskring
@@ -169,6 +170,7 @@ def save_candidate(lijstnummer, kieskring, full_name, achternaam, voorletters, v
             'achternaam': achternaam,
             'voorletters': voorletters,
             'voornaam': voornaam,
+            'tussenvoegsel': tussenvoegsel,
             'geslacht': geslacht,
             'stad': woonplaats,
             'partij_naam': partij,
@@ -210,11 +212,14 @@ for row in reader:
     achternaam = row[columns['Achternaam']]
     voorletters = row[columns['Voorletters']]
     voornaam = row[columns['Roepnaam']]
+    tussenvoegsel = row[columns['Tussenvoegsel']]
 
     if voornaam:
-        full_name = "{} {}".format(voornaam, achternaam)
+        full_name = "{} {} {}".format(voornaam, tussenvoegsel, achternaam)
     else:
-        full_name = "{} {}".format(voorletters, achternaam)
+        full_name = "{} {} {}".format(voorletters, tussenvoegsel, achternaam)
+
+    full_name = re.sub("\s\s+" , " ", full_name)
 
     if row[columns['Publiceer geslacht']] == 'ja':
         geslacht = row[columns['Geslacht']]
@@ -235,7 +240,7 @@ for row in reader:
         partijen.append(partij)
         partijlijsten[partij] = {}
 
-    save_candidate(lijstnummer, kieskring, full_name, achternaam, voorletters, voornaam, geslacht, woonplaats, partij)
+    save_candidate(lijstnummer, kieskring, full_name, achternaam, voorletters, voornaam, tussenvoegsel, geslacht, woonplaats, partij)
 
 
 
