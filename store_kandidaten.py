@@ -125,7 +125,7 @@ with open(partijen_file, 'r') as pf:
 # Loop through all parties
 
 for partij in partijen:
-    print("- working on {}".format(partij))
+    print("# working on {}".format(partij))
 
     if onlypartij:
         if partij != onlypartij:
@@ -174,7 +174,7 @@ for partij in partijen:
             try:
                 client.execute(filled_request)
             except:
-                print("⚠️ ignored")
+                print("# ⚠️ ignored")
                 print(filled_request)
 
 
