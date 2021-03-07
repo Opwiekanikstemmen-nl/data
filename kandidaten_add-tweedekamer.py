@@ -1,16 +1,7 @@
 #! python3
 """
-version 1 - 6/3/2021
-
-- inladen (x2)
-- loop door eigen database per kkdaat
-	- vind kkdaat in grote DB
-
-- loop andere data: zodat je hebt:
-	- {name_tuple: naam}
-- loop door jouw data kkdaat:
-	- gebruik je sleutel!
-
+version 1 - 7/3/2021
+adds data from tweedekamer.nl to kandidaten.json
 """
 
 import json
