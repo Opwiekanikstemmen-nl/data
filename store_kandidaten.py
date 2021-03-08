@@ -84,7 +84,9 @@ if args.update:
         links: {links},
         tweede_poging: {tweede_poging},
         vorige_partij: "{vorige_partij}",
-        vorige_woonplaats: "{vorige_woonplaats}"
+        vorige_woonplaats: "{vorige_woonplaats}",
+        kleurdekamer: {kleurdekamer},
+        kamerlid_2021: {kamerlid_2021}
       }} where: {{slug: "{slug}"}}) {{
         naam
       }}
@@ -111,7 +113,9 @@ else:
         links: {links},
         tweede_poging: {tweede_poging},
         vorige_partij: "{vorige_partij}",
-        vorige_woonplaats: "{vorige_woonplaats}"
+        vorige_woonplaats: "{vorige_woonplaats}",
+        kleurdekamer: {kleurdekamer},
+        kamerlid_2021: {kamerlid_2021}
       }}) {{
         naam
       }}
@@ -170,7 +174,9 @@ for partij in partijen:
             links = array_to_string(person['links']),
             tweede_poging = str(person['tweede_poging']).lower(),
             vorige_partij = person['vorige_partij'],
-            vorige_woonplaats = person['vorige_woonplaats']
+            vorige_woonplaats = person['vorige_woonplaats'],
+            kleurdekamer = str(person['kleurdekamer']).lower(),
+            kamerlid_2021 = str(person['kamerlid_2021']).lower()
         )
 
         if args.dryrun:
