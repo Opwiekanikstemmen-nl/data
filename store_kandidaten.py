@@ -130,6 +130,10 @@ partijen_file = "{}/partijen.json".format(folder)
 with open(partijen_file, 'r') as pf:
     partijen = json.load(pf)
 
+kandidaten_file = "{}/kandidaten.json".format(folder)
+with open(kandidaten_file, 'r') as pf:
+    kandidaten = json.load(pf)
+
 
 
 # Loop through all parties
@@ -150,12 +154,18 @@ for partij in partijen:
 
     for key in people:
 
-        person = people[key]
+        person = kandidaten[key]
 
         slug = slugify(key)
 
         if '(' in person['naam']:
             print("{} van {}".format(person['naam'], partij))
+
+        links = []
+        for link_key in person['links']:
+            link = person['links'][link_key]
+            if link[:6] != "mailto":
+                links.append(person['links'][link_key].lower())
 
         filled_request = request.format(
             naam = person['naam'],
@@ -171,7 +181,7 @@ for partij in partijen:
             gemeente = person['gemeente'],
             provincie = person['provincie'],
             partij_id = partij_id,
-            links = array_to_string(person['links']),
+            links = array_to_string(links),
             tweede_poging = str(person['tweede_poging']).lower(),
             vorige_partij = person['vorige_partij'],
             vorige_woonplaats = person['vorige_woonplaats'],
