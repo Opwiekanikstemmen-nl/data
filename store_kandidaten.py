@@ -86,7 +86,7 @@ if args.update:
         vorige_partij: "{vorige_partij}",
         vorige_woonplaats: "{vorige_woonplaats}",
         kleurdekamer: {kleurdekamer},
-        kamerlid_2021: {kamerlid_2021}
+        kamerlid_2021: {kamerlid_2021}{extra}
       }} where: {{slug: "{slug}"}}) {{
         naam
       }}
@@ -115,7 +115,7 @@ else:
         vorige_partij: "{vorige_partij}",
         vorige_woonplaats: "{vorige_woonplaats}",
         kleurdekamer: {kleurdekamer},
-        kamerlid_2021: {kamerlid_2021}
+        kamerlid_2021: {kamerlid_2021}{extra}
       }}) {{
         naam
       }}
@@ -167,6 +167,20 @@ for partij in partijen:
             if link[:6] != "mailto":
                 links.append(person['links'][link_key].lower())
 
+        if len(people[key]['links']) > 0:
+            if people[key]['links'][0] not in links:
+                links += people[key]['links']
+
+        try:
+            extra = ',\ngeboortedatum: "{}"'.format(person['geboortedatum'])
+        except KeyError:
+            extra = ""
+
+        try:
+            extra += ',\nancienniteit: "{}"'.format(person['ancienniteit'])
+        except KeyError:
+            extra += ""
+
         filled_request = request.format(
             naam = person['naam'],
             achternaam = person['achternaam'],
@@ -186,7 +200,8 @@ for partij in partijen:
             vorige_partij = person['vorige_partij'],
             vorige_woonplaats = person['vorige_woonplaats'],
             kleurdekamer = str(person['kleurdekamer']).lower(),
-            kamerlid_2021 = str(person['kamerlid_2021']).lower()
+            kamerlid_2021 = str(person['kamerlid_2021']).lower(),
+            extra = extra
         )
 
         if args.dryrun:
