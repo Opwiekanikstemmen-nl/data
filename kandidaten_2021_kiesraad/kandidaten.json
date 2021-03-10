@@ -34,12 +34,15 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Mark_Rutte"
+    },
     "gemeente": "Den Haag",
     "provincie": "Zuid-Holland",
     "kamerlid_2021": false,
     "fotos": [],
-    "socials": {}
+    "socials": {},
+    "geboortedatum": "1967-02-14"
   },
   "Tamara van Ark": {
     "lijstnummer": 2,
@@ -76,12 +79,15 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Tamara_van_Ark"
+    },
     "gemeente": "Zuidplas",
     "provincie": "Zuid-Holland",
     "kamerlid_2021": false,
     "fotos": [],
-    "socials": {}
+    "socials": {},
+    "geboortedatum": "1974-08-11"
   },
   "Sophie Hermans": {
     "lijstnummer": 3,
@@ -120,7 +126,8 @@
     "vorige_woonplaats": "",
     "links": {
       "email": "mailto:s.hermans@tweedekamer.nl/",
-      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/hermans-stm-vvd"
+      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/hermans-stm-vvd",
+      "wikipedia": "https://nl.wikipedia.org/wiki/Sophie_Hermans"
     },
     "gemeente": "Amsterdam",
     "provincie": "Noord-Holland",
@@ -131,8 +138,8 @@
     "socials": {
       "email": "s.hermans@tweedekamer.nl"
     },
-    "leeftijd": 39,
-    "ancienniteit": "2017-03-22"
+    "ancienniteit": "2017-03-22",
+    "geboortedatum": "1981-05-01"
   },
   "Bente Becker": {
     "lijstnummer": 4,
@@ -174,7 +181,8 @@
       "email": "mailto:b.becker@tweedekamer.nl/",
       "twitter": "https://twitter.com/bentebecker/",
       "facebook": "https://www.facebook.com/bentebecker14/",
-      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/becker-b-vvd"
+      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/becker-b-vvd",
+      "wikipedia": "https://nl.wikipedia.org/wiki/Bente_Becker"
     },
     "gemeente": "Den Haag",
     "provincie": "Zuid-Holland",
@@ -188,8 +196,8 @@
       "twitter": "@bentebecker",
       "facebook": "bentebecker14"
     },
-    "leeftijd": 35,
-    "ancienniteit": "2017-07-12"
+    "ancienniteit": "2017-07-12",
+    "geboortedatum": "1985-08-12"
   },
   "Dilan Ye\u015filg\u00f6z-Zegerius": {
     "lijstnummer": 5,
@@ -228,7 +236,8 @@
     "vorige_woonplaats": "",
     "links": {
       "email": "mailto:d.yesilgoz@tweedekamer.nl/",
-      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/ye%C5%9Filg%C3%B6z-zegerius-d-vvd"
+      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/ye%C5%9Filg%C3%B6z-zegerius-d-vvd",
+      "wikipedia": "https://nl.wikipedia.org/wiki/Dilan_Ye\u015filg\u00f6z-Zegerius"
     },
     "gemeente": "Amsterdam",
     "provincie": "Noord-Holland",
@@ -239,8 +248,8 @@
     "socials": {
       "email": "d.yesilgoz@tweedekamer.nl"
     },
-    "leeftijd": 43,
-    "ancienniteit": "2017-03-22"
+    "ancienniteit": "2017-03-22",
+    "geboortedatum": "1977-06-18"
   },
   "Bas van 't Wout": {
     "lijstnummer": 6,
@@ -278,7 +287,8 @@
     "vorige_partij": "",
     "vorige_woonplaats": "",
     "links": {
-      "instagram": "https://www.instagram.com/bvantwout/"
+      "instagram": "https://www.instagram.com/bvantwout/",
+      "wikipedia": "https://nl.wikipedia.org/wiki/Bas_van_'t_Wout"
     },
     "gemeente": "Sint Anthonis",
     "provincie": "Noord-Brabant",
@@ -286,7 +296,8 @@
     "fotos": [],
     "socials": {
       "instagram": "bvantwout"
-    }
+    },
+    "geboortedatum": "1979-04-22"
   },
   "Mark Harbers": {
     "lijstnummer": 7,
@@ -327,7 +338,8 @@
       "instagram": "https://www.instagram.com/mark.harbers/",
       "email": "mailto:m.harbers@tweedekamer.nl/",
       "web": "www.markharbers.vvd.nl/",
-      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/harbers-mgj-vvd"
+      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/harbers-mgj-vvd",
+      "wikipedia": "https://nl.wikipedia.org/wiki/Mark_Harbers"
     },
     "gemeente": "Albrandswaard",
     "provincie": "Zuid-Holland",
@@ -340,8 +352,8 @@
       "email": "m.harbers@tweedekamer.nl",
       "web": "www.markharbers.vvd.nl "
     },
-    "leeftijd": 51,
-    "ancienniteit": "2011-07-16"
+    "ancienniteit": "2011-07-16",
+    "geboortedatum": "1969-04-19"
   },
   "Aukje de Vries": {
     "lijstnummer": 8,
@@ -380,7 +392,8 @@
     "vorige_woonplaats": "",
     "links": {
       "email": "mailto:aukjedevries@tweedekamer.nl/",
-      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/vries-de-vvd"
+      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/vries-de-vvd",
+      "wikipedia": "https://nl.wikipedia.org/wiki/Aukje_de_Vries"
     },
     "gemeente": "Leeuwarden",
     "provincie": "Frysl\u00e2n",
@@ -391,8 +404,8 @@
     "socials": {
       "email": "aukjedevries@tweedekamer.nl"
     },
-    "leeftijd": 56,
-    "ancienniteit": "2012-11-07"
+    "ancienniteit": "2012-11-07",
+    "geboortedatum": "1964-10-21"
   },
   "Dennis Wiersma": {
     "lijstnummer": 9,
@@ -432,7 +445,8 @@
     "links": {
       "instagram": "https://www.instagram.com/denniswiersma/",
       "email": "mailto:d.wiersma@tweedekamer.nl/",
-      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/wiersma-ad-vvd"
+      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/wiersma-ad-vvd",
+      "wikipedia": "https://nl.wikipedia.org/wiki/Dennis_Wiersma"
     },
     "gemeente": "Utrecht",
     "provincie": "Utrecht",
@@ -444,8 +458,8 @@
       "instagram": "denniswiersma",
       "email": "d.wiersma@tweedekamer.nl"
     },
-    "leeftijd": 35,
-    "ancienniteit": "2017-03-22"
+    "ancienniteit": "2017-03-22",
+    "geboortedatum": "1986-02-19"
   },
   "Ockje Tellegen": {
     "lijstnummer": 10,
@@ -485,7 +499,8 @@
     "links": {
       "instagram": "https://www.instagram.com/ockjetellegen/",
       "email": "mailto:Secretariaat.Tellegen@tweedekamer.nl/",
-      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/tellegen-oc-vvd"
+      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/tellegen-oc-vvd",
+      "wikipedia": "https://nl.wikipedia.org/wiki/Ockje_Tellegen"
     },
     "gemeente": "Den Haag",
     "provincie": "Zuid-Holland",
@@ -497,8 +512,8 @@
       "instagram": "ockjetellegen",
       "email": "Secretariaat.Tellegen@tweedekamer.nl"
     },
-    "leeftijd": 46,
-    "ancienniteit": "2012-09-19"
+    "ancienniteit": "2012-09-19",
+    "geboortedatum": "1974-10-16"
   },
   "Thierry Aartsen": {
     "lijstnummer": 11,
@@ -538,7 +553,8 @@
     "links": {
       "instagram": "https://www.instagram.com/thierryaartsen/",
       "email": "mailto:t.aartsen@tweedekamer.nl/",
-      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/aartsen-aa-vvd"
+      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/aartsen-aa-vvd",
+      "wikipedia": "https://nl.wikipedia.org/wiki/Thierry_Aartsen"
     },
     "gemeente": "Breda",
     "provincie": "Noord-Brabant",
@@ -550,8 +566,8 @@
       "instagram": "thierryaartsen",
       "email": "t.aartsen@tweedekamer.nl"
     },
-    "leeftijd": 31,
-    "ancienniteit": "2018-09-12"
+    "ancienniteit": "2018-09-12",
+    "geboortedatum": "1989-12-19"
   },
   "Eelco Heinen": {
     "lijstnummer": 12,
@@ -716,7 +732,8 @@
     "vorige_woonplaats": "",
     "links": {
       "email": "mailto:z.elyassini@tweedekamer.nl/",
-      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/el-yassini-z-vvd"
+      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/el-yassini-z-vvd",
+      "wikipedia": "https://nl.wikipedia.org/wiki/Zohair_El_Yassini"
     },
     "gemeente": "Utrecht",
     "provincie": "Utrecht",
@@ -727,8 +744,8 @@
     "socials": {
       "email": "z.elyassini@tweedekamer.nl"
     },
-    "leeftijd": 41,
-    "ancienniteit": "2017-03-22"
+    "ancienniteit": "2017-03-22",
+    "geboortedatum": "1979-11-17"
   },
   "Thom van Campen": {
     "lijstnummer": 16,
@@ -896,7 +913,8 @@
       "email": "mailto:d.koerhuis@tweedekamer.nl/",
       "twitter": "https://twitter.com/danielkoerhuis/",
       "facebook": "https://www.facebook.com/danielkoerhuisVVD/",
-      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/koerhuis-dan-vvd"
+      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/koerhuis-dan-vvd",
+      "wikipedia": "https://nl.wikipedia.org/wiki/Daniel_Koerhuis"
     },
     "gemeente": "Raalte",
     "provincie": "Overijssel",
@@ -910,8 +928,8 @@
       "twitter": "@danielkoerhuis",
       "facebook": "danielkoerhuisVVD"
     },
-    "leeftijd": 39,
-    "ancienniteit": "2017-03-22"
+    "ancienniteit": "2017-03-22",
+    "geboortedatum": "1981-07-26"
   },
   "Ingrid Michon-Derkzen": {
     "lijstnummer": 20,
@@ -1032,12 +1050,15 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Ulysse_Ellian"
+    },
     "gemeente": "Almere",
     "provincie": "Flevoland",
     "kamerlid_2021": false,
     "fotos": [],
-    "socials": {}
+    "socials": {},
+    "geboortedatum": "1988-03-10"
   },
   "Jeroen Van Wijngaarden": {
     "lijstnummer": 23,
@@ -1248,7 +1269,8 @@
       "twitter": "https://twitter.com/JudithTielenVVD/",
       "facebook": "https://www.facebook.com/judith.tielen.52/",
       "web": "www.judithtielen.com/",
-      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/tielen-jzcm-vvd"
+      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/tielen-jzcm-vvd",
+      "wikipedia": "https://nl.wikipedia.org/wiki/Judith_Tielen"
     },
     "gemeente": "Utrecht",
     "provincie": "Utrecht",
@@ -1263,8 +1285,8 @@
       "facebook": "judith.tielen.52",
       "web": "www.judithtielen.com "
     },
-    "leeftijd": 48,
-    "ancienniteit": "2017-10-30"
+    "ancienniteit": "2017-10-30",
+    "geboortedatum": "1972-04-02"
   },
   "Daan de Kort": {
     "lijstnummer": 28,
@@ -1349,7 +1371,8 @@
       "twitter": "https://twitter.com/RudmerHeerema/",
       "facebook": "https://www.facebook.com/rj.heerema/",
       "web": "www.rudmerheerema.vvd.nl/",
-      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/heerema-rj-vvd"
+      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/heerema-rj-vvd",
+      "wikipedia": "https://nl.wikipedia.org/wiki/Rudmer_Heerema"
     },
     "gemeente": "Alkmaar",
     "provincie": "Noord-Holland",
@@ -1364,8 +1387,8 @@
       "facebook": "rj.heerema",
       "web": "www.rudmerheerema.vvd.nl "
     },
-    "leeftijd": 43,
-    "ancienniteit": "2014-04-12"
+    "ancienniteit": "2014-04-12",
+    "geboortedatum": "1978-02-02"
   },
   "Ruben Brekelmans": {
     "lijstnummer": 30,
@@ -1658,7 +1681,8 @@
       "email": "mailto:k.regterschot@tweedekamer.nl/",
       "twitter": "https://twitter.com/RegterschotK/",
       "facebook": "https://www.facebook.com/Kelly.regterschot/",
-      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/regterschot-k-vvd"
+      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/regterschot-k-vvd",
+      "wikipedia": "https://nl.wikipedia.org/wiki/Kelly_Regterschot"
     },
     "gemeente": "Landgraaf",
     "provincie": "Limburg",
@@ -1671,8 +1695,8 @@
       "twitter": "@RegterschotK",
       "facebook": "Kelly.regterschot"
     },
-    "leeftijd": 46,
-    "ancienniteit": "2019-06-24"
+    "ancienniteit": "2019-06-24",
+    "geboortedatum": "1975-02-22"
   },
   "Bart Smals": {
     "lijstnummer": 37,
@@ -1713,7 +1737,8 @@
       "instagram": "https://www.instagram.com/smalsbart/",
       "email": "mailto:b.smals@tweedekamer.nl/",
       "twitter": "https://twitter.com/bsmals/",
-      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/smals-bmg-vvd"
+      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/smals-bmg-vvd",
+      "wikipedia": "https://nl.wikipedia.org/wiki/Bart_Smals"
     },
     "gemeente": "Delft",
     "provincie": "Zuid-Holland",
@@ -1726,8 +1751,8 @@
       "email": "b.smals@tweedekamer.nl",
       "twitter": "@bsmals"
     },
-    "leeftijd": 50,
-    "ancienniteit": "2019-07-04"
+    "ancienniteit": "2019-07-04",
+    "geboortedatum": "1970-04-05"
   },
   "Mark Strolenberg": {
     "lijstnummer": 38,
@@ -2562,12 +2587,15 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Sanneke_Vermeulen"
+    },
     "gemeente": "Roosendaal",
     "provincie": "Noord-Brabant",
     "kamerlid_2021": false,
     "fotos": [],
-    "socials": {}
+    "socials": {},
+    "geboortedatum": "1992-07-26"
   },
   "Sabine Koebrugge": {
     "lijstnummer": 58,
@@ -3528,12 +3556,15 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Maarten_van_der_Weijden"
+    },
     "gemeente": "Waalwijk",
     "provincie": "Noord-Brabant",
     "kamerlid_2021": false,
     "fotos": [],
-    "socials": {}
+    "socials": {},
+    "geboortedatum": "1981-03-31"
   },
   "Geert Wilders": {
     "lijstnummer": 1,
@@ -3573,7 +3604,8 @@
     "links": {
       "email": "mailto:g.wilders@tweedekamer.nl/",
       "web": "www.geertwilders.nl/",
-      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/wilders-g-pvv"
+      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/wilders-g-pvv",
+      "wikipedia": "https://nl.wikipedia.org/wiki/Geert_Wilders"
     },
     "gemeente": "Den Haag",
     "provincie": "Zuid-Holland",
@@ -3585,8 +3617,8 @@
       "email": "g.wilders@tweedekamer.nl",
       "web": "www.geertwilders.nl "
     },
-    "leeftijd": 57,
-    "ancienniteit": "1998-10-27"
+    "ancienniteit": "1998-10-27",
+    "geboortedatum": "1963-09-06"
   },
   "Fleur Agema": {
     "lijstnummer": 2,
@@ -3627,7 +3659,8 @@
       "email": "mailto:m.agema@tweedekamer.nl/",
       "twitter": "https://twitter.com/FleurAgemaPVV/",
       "web": "https://www.pvv.nl/fracties/tweede-kamer/fleur-agema.html/",
-      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/agema-m-pvv"
+      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/agema-m-pvv",
+      "wikipedia": "https://nl.wikipedia.org/wiki/Fleur_Agema"
     },
     "gemeente": "Den Haag",
     "provincie": "Zuid-Holland",
@@ -3640,8 +3673,8 @@
       "twitter": "@FleurAgemaPVV",
       "web": "https://www.pvv.nl/fracties/tweede-kamer/fleur-agema.html "
     },
-    "leeftijd": 44,
-    "ancienniteit": "2007-03-21"
+    "ancienniteit": "2007-03-21",
+    "geboortedatum": "1976-09-16"
   },
   "Gidi Markuszower": {
     "lijstnummer": 3,
@@ -3680,7 +3713,8 @@
     "vorige_woonplaats": "",
     "links": {
       "email": "mailto:g.markuszower@tweedekamer.nl/",
-      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/markuszower-g-pvv"
+      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/markuszower-g-pvv",
+      "wikipedia": "https://nl.wikipedia.org/wiki/Gidi_Markuszower"
     },
     "gemeente": "Amsterdam",
     "provincie": "Noord-Holland",
@@ -3691,8 +3725,8 @@
     "socials": {
       "email": "g.markuszower@tweedekamer.nl"
     },
-    "leeftijd": 43,
-    "ancienniteit": "2017-03-22"
+    "ancienniteit": "2017-03-22",
+    "geboortedatum": "1977-10-27"
   },
   "L\u00e9on de Jong": {
     "lijstnummer": 4,
@@ -3732,7 +3766,8 @@
     "links": {
       "instagram": "https://www.instagram.com/leondejongpvv/",
       "email": "mailto:Leondejong@tweedekamer.nl/",
-      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/jong-lwe-de-pvv"
+      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/jong-lwe-de-pvv",
+      "wikipedia": "https://nl.wikipedia.org/wiki/L\u00e9on_de_Jong"
     },
     "gemeente": "Den Haag",
     "provincie": "Zuid-Holland",
@@ -3744,8 +3779,8 @@
       "instagram": "leondejongpvv",
       "email": "Leondejong@tweedekamer.nl"
     },
-    "leeftijd": 38,
-    "ancienniteit": "2014-12-17"
+    "ancienniteit": "2014-12-17",
+    "geboortedatum": "1982-08-31"
   },
   "Vicky Maeijer": {
     "lijstnummer": 5,
@@ -3782,12 +3817,15 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Vicky_Maeijer"
+    },
     "gemeente": "Krimpen aan den IJssel",
     "provincie": "Zuid-Holland",
     "kamerlid_2021": false,
     "fotos": [],
-    "socials": {}
+    "socials": {},
+    "geboortedatum": "1986-09-07"
   },
   "Alexander Kops": {
     "lijstnummer": 6,
@@ -3826,7 +3864,8 @@
     "vorige_woonplaats": "",
     "links": {
       "email": "mailto:a.kops@tweedekamer.nl/",
-      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/kops-pvv"
+      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/kops-pvv",
+      "wikipedia": "https://nl.wikipedia.org/wiki/Alexander_Kops"
     },
     "gemeente": "Heumen",
     "provincie": "Gelderland",
@@ -3837,8 +3876,8 @@
     "socials": {
       "email": "a.kops@tweedekamer.nl"
     },
-    "leeftijd": 36,
-    "ancienniteit": "2017-03-22"
+    "ancienniteit": "2017-03-22",
+    "geboortedatum": "1984-11-23"
   },
   "Martin Bosma": {
     "lijstnummer": 7,
@@ -3875,12 +3914,15 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Martin_Bosma"
+    },
     "gemeente": "Amsterdam",
     "provincie": "Noord-Holland",
     "kamerlid_2021": false,
     "fotos": [],
-    "socials": {}
+    "socials": {},
+    "geboortedatum": "1964-07-16"
   },
   "Tony van Dijck": {
     "lijstnummer": 8,
@@ -3919,7 +3961,8 @@
     "vorige_woonplaats": "",
     "links": {
       "email": "mailto:t.vdijck@tweedekamer.nl/",
-      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/dijck-apc-van-pvv"
+      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/dijck-apc-van-pvv",
+      "wikipedia": "https://nl.wikipedia.org/wiki/Tony_van_Dijck"
     },
     "gemeente": "Den Haag",
     "provincie": "Zuid-Holland",
@@ -3971,7 +4014,8 @@
     "links": {
       "instagram": "https://www.instagram.com/ilianheldere35b/",
       "email": "mailto:l.helder@tweedekamer.nl/",
-      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/helder-lmjs-pvv"
+      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/helder-lmjs-pvv",
+      "wikipedia": "https://nl.wikipedia.org/wiki/Lilian_Helder"
     },
     "gemeente": "Venlo",
     "provincie": "Limburg",
@@ -3983,8 +4027,8 @@
       "instagram": "ilianheldere35b",
       "email": "l.helder@tweedekamer.nl"
     },
-    "leeftijd": 47,
-    "ancienniteit": "2010-06-16"
+    "ancienniteit": "2010-06-16",
+    "geboortedatum": "1973-05-30"
   },
   "Barry Madlener": {
     "lijstnummer": 10,
@@ -4023,7 +4067,8 @@
     "vorige_woonplaats": "",
     "links": {
       "email": "mailto:b.madlener@tweedekamer.nl/",
-      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/madlener-b-pvv"
+      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/madlener-b-pvv",
+      "wikipedia": "https://nl.wikipedia.org/wiki/Barry_Madlener"
     },
     "gemeente": "Westvoorne",
     "provincie": "Zuid-Holland",
@@ -4034,8 +4079,8 @@
     "socials": {
       "email": "b.madlener@tweedekamer.nl"
     },
-    "leeftijd": 52,
-    "ancienniteit": "2010-02-05"
+    "ancienniteit": "2010-02-05",
+    "geboortedatum": "1969-01-06"
   },
   "Sietse Fritsma": {
     "lijstnummer": 11,
@@ -4074,7 +4119,8 @@
     "vorige_woonplaats": "",
     "links": {
       "email": "mailto:s.r.fritsma@tweedekamer.nl/",
-      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/fritsma-sr-pvv"
+      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/fritsma-sr-pvv",
+      "wikipedia": "https://nl.wikipedia.org/wiki/Sietse_Fritsma"
     },
     "gemeente": "Den Haag",
     "provincie": "Zuid-Holland",
@@ -4085,8 +4131,8 @@
     "socials": {
       "email": "s.r.fritsma@tweedekamer.nl"
     },
-    "leeftijd": 48,
-    "ancienniteit": "2007-09-30"
+    "ancienniteit": "2007-09-30",
+    "geboortedatum": "1972-03-31"
   },
   "Danai van Weerdenburg": {
     "lijstnummer": 12,
@@ -4126,7 +4172,8 @@
     "links": {
       "instagram": "https://www.instagram.com/danaivanweerdenburg/",
       "email": "mailto:d.vanweerdenburg@tweedekamer.nl/",
-      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/weerdenburg-vdd-van-pvv"
+      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/weerdenburg-vdd-van-pvv",
+      "wikipedia": "https://nl.wikipedia.org/wiki/Danai_van_Weerdenburg"
     },
     "gemeente": "Amstelveen",
     "provincie": "Noord-Holland",
@@ -4138,8 +4185,8 @@
       "instagram": "danaivanweerdenburg",
       "email": "d.vanweerdenburg@tweedekamer.nl"
     },
-    "leeftijd": 44,
-    "ancienniteit": "2017-03-22"
+    "ancienniteit": "2017-03-22",
+    "geboortedatum": "1976-08-01"
   },
   "Dion Graus": {
     "lijstnummer": 13,
@@ -4178,7 +4225,8 @@
     "vorige_woonplaats": "",
     "links": {
       "email": "mailto:d.graus@tweedekamer.nl/",
-      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/graus-djg-pvv"
+      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/graus-djg-pvv",
+      "wikipedia": "https://nl.wikipedia.org/wiki/Dion_Graus"
     },
     "gemeente": "Heerlen",
     "provincie": "Limburg",
@@ -4189,8 +4237,8 @@
     "socials": {
       "email": "d.graus@tweedekamer.nl"
     },
-    "leeftijd": 53,
-    "ancienniteit": "2006-11-29"
+    "ancienniteit": "2006-11-29",
+    "geboortedatum": "1967-03-19"
   },
   "Machiel de Graaf": {
     "lijstnummer": 14,
@@ -4230,7 +4278,8 @@
     "links": {
       "instagram": "https://www.instagram.com/machieldegraaf_prive/",
       "email": "mailto:m.dgraaf@tweedekamer.nl/",
-      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/graaf-m-de-pvv"
+      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/graaf-m-de-pvv",
+      "wikipedia": "https://nl.wikipedia.org/wiki/Machiel_de_Graaf"
     },
     "gemeente": "Den Haag",
     "provincie": "Zuid-Holland",
@@ -4242,8 +4291,8 @@
       "instagram": "machieldegraaf_prive",
       "email": "m.dgraaf@tweedekamer.nl"
     },
-    "leeftijd": 51,
-    "ancienniteit": "2012-09-19"
+    "ancienniteit": "2012-09-19",
+    "geboortedatum": "1969-06-26"
   },
   "Edgar Mulder": {
     "lijstnummer": 15,
@@ -4282,7 +4331,8 @@
     "vorige_woonplaats": "",
     "links": {
       "email": "mailto:edgar.mulder@tweedekamer.nl/",
-      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/mulder-e-pvv"
+      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/mulder-e-pvv",
+      "wikipedia": "https://nl.wikipedia.org/wiki/Edgar_Mulder"
     },
     "gemeente": "Zwolle",
     "provincie": "Overijssel",
@@ -4293,8 +4343,8 @@
     "socials": {
       "email": "edgar.mulder@tweedekamer.nl"
     },
-    "leeftijd": 59,
-    "ancienniteit": "2017-03-22"
+    "ancienniteit": "2017-03-22",
+    "geboortedatum": "1961-11-22"
   },
   "Harm Beertema": {
     "lijstnummer": 16,
@@ -4335,7 +4385,8 @@
       "email": "mailto:h.beertema@tweedekamer.nl/",
       "twitter": "https://twitter.com/harmbeertema/",
       "web": "https://www.pvv.nl/fracties/tweede-kamer/harm-beertema.html/",
-      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/beertema-hj-pvv"
+      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/beertema-hj-pvv",
+      "wikipedia": "https://nl.wikipedia.org/wiki/Harm_Beertema"
     },
     "gemeente": "Leidschendam-Voorburg",
     "provincie": "Zuid-Holland",
@@ -4348,8 +4399,8 @@
       "twitter": "@harmbeertema",
       "web": "https://www.pvv.nl/fracties/tweede-kamer/harm-beertema.html "
     },
-    "leeftijd": 68,
-    "ancienniteit": "2010-06-16"
+    "ancienniteit": "2010-06-16",
+    "geboortedatum": "1952-03-09"
   },
   "Raymond de Roon": {
     "lijstnummer": 17,
@@ -4388,7 +4439,8 @@
     "vorige_woonplaats": "",
     "links": {
       "email": "mailto:r.deroon@tweedekamer.nl/",
-      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/roon-r-de-pvv"
+      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/roon-r-de-pvv",
+      "wikipedia": "https://nl.wikipedia.org/wiki/Raymond_de_Roon"
     },
     "gemeente": "Venray",
     "provincie": "Limburg",
@@ -4399,8 +4451,8 @@
     "socials": {
       "email": "r.deroon@tweedekamer.nl"
     },
-    "leeftijd": 68,
-    "ancienniteit": "2006-11-29"
+    "ancienniteit": "2006-11-29",
+    "geboortedatum": "1952-09-01"
   },
   "Marjolein Faber": {
     "lijstnummer": 18,
@@ -4437,12 +4489,15 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Marjolein_Faber"
+    },
     "gemeente": "Nijkerk",
     "provincie": "Gelderland",
     "kamerlid_2021": false,
     "fotos": [],
-    "socials": {}
+    "socials": {},
+    "geboortedatum": "1960-06-16"
   },
   "Roy van Aalst": {
     "lijstnummer": 19,
@@ -4482,7 +4537,8 @@
     "links": {
       "email": "mailto:r.vaalst@tweedekamer.nl/",
       "twitter": "https://twitter.com/rvanaalst/",
-      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/aalst-rr-van-pvv"
+      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/aalst-rr-van-pvv",
+      "wikipedia": "https://nl.wikipedia.org/wiki/Roy_van_Aalst"
     },
     "gemeente": "Hengelo",
     "provincie": "Overijssel",
@@ -4494,8 +4550,8 @@
       "email": "r.vaalst@tweedekamer.nl",
       "twitter": "@rvanaalst"
     },
-    "leeftijd": 37,
-    "ancienniteit": "2017-03-22"
+    "ancienniteit": "2017-03-22",
+    "geboortedatum": "1983-03-28"
   },
   "Emiel van Dijk": {
     "lijstnummer": 20,
@@ -4534,7 +4590,8 @@
     "vorige_woonplaats": "",
     "links": {
       "email": "mailto:e.vdijk@tweedekamer.nl/",
-      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/dijk-e-van-pvv"
+      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/dijk-e-van-pvv",
+      "wikipedia": "https://nl.wikipedia.org/wiki/Emiel_van_Dijk"
     },
     "gemeente": "Den Haag",
     "provincie": "Zuid-Holland",
@@ -4587,7 +4644,8 @@
       "email": "mailto:c.jansen@tweedekamer.nl/",
       "twitter": "https://twitter.com/eerlijkzeggen/",
       "facebook": "https://www.facebook.com/chris.jansen.5015/",
-      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/jansen-ca-pvv"
+      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/jansen-ca-pvv",
+      "wikipedia": "https://nl.wikipedia.org/wiki/Chris_Jansen"
     },
     "gemeente": "Almere",
     "provincie": "Flevoland",
@@ -4600,8 +4658,8 @@
       "twitter": "@eerlijkzeggen",
       "facebook": "chris.jansen.5015"
     },
-    "leeftijd": 54,
-    "ancienniteit": "2019-11-26"
+    "ancienniteit": "2019-11-26",
+    "geboortedatum": "1966-10-27"
   },
   "Henk de Vree": {
     "lijstnummer": 22,
@@ -4639,7 +4697,8 @@
     "vorige_partij": "",
     "vorige_woonplaats": "",
     "links": {
-      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/vree-jh-de-pvv"
+      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/vree-jh-de-pvv",
+      "wikipedia": "https://nl.wikipedia.org/wiki/Henk_de_Vree"
     },
     "gemeente": "Hardinxveld-Giessendam",
     "provincie": "Zuid-Holland",
@@ -4648,8 +4707,8 @@
       "https://www.tweedekamer.nl/sites/default/files/styles/member_parlement_profile_square/public/fe0f0f14-651a-45b2-82d6-f8a2a065b76f.jpg?itok=RuJPoKOy"
     ],
     "socials": {},
-    "leeftijd": 67,
-    "ancienniteit": "2020-12-07"
+    "ancienniteit": "2020-12-07",
+    "geboortedatum": "1954-01-29"
   },
   "Nicole Moinat": {
     "lijstnummer": 23,
@@ -5232,7 +5291,9 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Harry_van_den_Berg"
+    },
     "gemeente": "Tilburg",
     "provincie": "Noord-Brabant",
     "kamerlid_2021": false,
@@ -5652,12 +5713,15 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Patricia_van_der_Kammen"
+    },
     "gemeente": "Tilburg",
     "provincie": "Noord-Brabant",
     "kamerlid_2021": false,
     "fotos": [],
-    "socials": {}
+    "socials": {},
+    "geboortedatum": "1972-04-08"
   },
   "Max Aardema": {
     "lijstnummer": 47,
@@ -5694,12 +5758,15 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Max_Aardema"
+    },
     "gemeente": "Smallingerland",
     "provincie": "Frysl\u00e2n",
     "kamerlid_2021": false,
     "fotos": [],
-    "socials": {}
+    "socials": {},
+    "geboortedatum": "1963-02-11"
   },
   "Sebastian Kruis": {
     "lijstnummer": 48,
@@ -5778,12 +5845,15 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Robert_Housmans"
+    },
     "gemeente": "Sittard-Geleen",
     "provincie": "Limburg",
     "kamerlid_2021": false,
     "fotos": [],
-    "socials": {}
+    "socials": {},
+    "geboortedatum": "1974-03-10"
   },
   "Gom van Strien": {
     "lijstnummer": 50,
@@ -5820,12 +5890,15 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Gom_van_Strien"
+    },
     "gemeente": "Venlo",
     "provincie": "Limburg",
     "kamerlid_2021": false,
     "fotos": [],
-    "socials": {}
+    "socials": {},
+    "geboortedatum": "1951-06-10"
   },
   "Wopke Hoekstra": {
     "lijstnummer": 1,
@@ -5862,12 +5935,15 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Wopke_Hoekstra"
+    },
     "gemeente": "Gooise Meren",
     "provincie": "Noord-Holland",
     "kamerlid_2021": false,
     "fotos": [],
-    "socials": {}
+    "socials": {},
+    "geboortedatum": "1975-09-30"
   },
   "Pieter Omtzigt": {
     "lijstnummer": 2,
@@ -5908,7 +5984,8 @@
       "instagram": "https://www.instagram.com/pieteromtzigt/",
       "email": "mailto:pieter.omtzigt@tweedekamer.nl/",
       "web": "www.cda.nl/omtzigt/",
-      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/omtzigt-ph-cda"
+      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/omtzigt-ph-cda",
+      "wikipedia": "https://nl.wikipedia.org/wiki/Pieter_Omtzigt"
     },
     "gemeente": "Enschede",
     "provincie": "Overijssel",
@@ -5921,8 +5998,8 @@
       "email": "pieter.omtzigt@tweedekamer.nl",
       "web": "www.cda.nl/omtzigt "
     },
-    "leeftijd": 47,
-    "ancienniteit": "2003-10-11"
+    "ancienniteit": "2003-10-11",
+    "geboortedatum": "1974-01-08"
   },
   "Anne Kuik": {
     "lijstnummer": 3,
@@ -5961,7 +6038,8 @@
     "vorige_woonplaats": "",
     "links": {
       "email": "mailto:a.kuik@tweedekamer.nl/",
-      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/kuik-cda"
+      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/kuik-cda",
+      "wikipedia": "https://nl.wikipedia.org/wiki/Anne_Kuik"
     },
     "gemeente": "Groningen",
     "provincie": "Groningen",
@@ -5972,8 +6050,8 @@
     "socials": {
       "email": "a.kuik@tweedekamer.nl"
     },
-    "leeftijd": 34,
-    "ancienniteit": "2017-03-22"
+    "ancienniteit": "2017-03-22",
+    "geboortedatum": "1987-01-22"
   },
   "Inge van Dijk": {
     "lijstnummer": 4,
@@ -6052,12 +6130,15 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Raymond_Knops"
+    },
     "gemeente": "Horst aan de Maas",
     "provincie": "Limburg",
     "kamerlid_2021": false,
     "fotos": [],
-    "socials": {}
+    "socials": {},
+    "geboortedatum": "1971-11-10"
   },
   "Pieter Heerma": {
     "lijstnummer": 6,
@@ -6097,7 +6178,8 @@
     "links": {
       "instagram": "https://www.instagram.com/pieter.heerma/",
       "email": "mailto:P.Heerma@tweedekamer.nl/",
-      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/heerma-pe-cda"
+      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/heerma-pe-cda",
+      "wikipedia": "https://nl.wikipedia.org/wiki/Pieter_Heerma"
     },
     "gemeente": "Purmerend",
     "provincie": "Noord-Holland",
@@ -6109,8 +6191,8 @@
       "instagram": "pieter.heerma",
       "email": "P.Heerma@tweedekamer.nl"
     },
-    "leeftijd": 43,
-    "ancienniteit": "2012-09-19"
+    "ancienniteit": "2012-09-19",
+    "geboortedatum": "1977-08-05"
   },
   "Mona Keijzer": {
     "lijstnummer": 7,
@@ -6147,12 +6229,15 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Mona_Keijzer"
+    },
     "gemeente": "Edam-Volendam",
     "provincie": "Noord-Holland",
     "kamerlid_2021": false,
     "fotos": [],
-    "socials": {}
+    "socials": {},
+    "geboortedatum": "1968-10-09"
   },
   "Agnes Mulder": {
     "lijstnummer": 8,
@@ -6191,7 +6276,8 @@
     "vorige_woonplaats": "",
     "links": {
       "email": "mailto:agnes.mulder@tweedekamer.nl/",
-      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/mulder-ah-cda"
+      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/mulder-ah-cda",
+      "wikipedia": "https://nl.wikipedia.org/wiki/Agnes_Mulder"
     },
     "gemeente": "Assen",
     "provincie": "Drenthe",
@@ -6202,8 +6288,8 @@
     "socials": {
       "email": "agnes.mulder@tweedekamer.nl"
     },
-    "leeftijd": 47,
-    "ancienniteit": "2012-09-19"
+    "ancienniteit": "2012-09-19",
+    "geboortedatum": "1973-10-21"
   },
   "Harry van der Molen": {
     "lijstnummer": 9,
@@ -6243,7 +6329,8 @@
     "links": {
       "instagram": "https://www.instagram.com/harryvdmolen/",
       "email": "mailto:h.vdmolen@tweedekamer.nl/",
-      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/molen-h-van-der-cda"
+      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/molen-h-van-der-cda",
+      "wikipedia": "https://nl.wikipedia.org/wiki/Harry_van_der_Molen"
     },
     "gemeente": "Leeuwarden",
     "provincie": "Frysl\u00e2n",
@@ -6255,8 +6342,8 @@
       "instagram": "harryvdmolen",
       "email": "h.vdmolen@tweedekamer.nl"
     },
-    "leeftijd": 40,
-    "ancienniteit": "2017-03-22"
+    "ancienniteit": "2017-03-22",
+    "geboortedatum": "1980-04-22"
   },
   "Lucille Werner": {
     "lijstnummer": 10,
@@ -6293,12 +6380,15 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Lucille_Werner"
+    },
     "gemeente": "Wijdemeren",
     "provincie": "Noord-Holland",
     "kamerlid_2021": false,
     "fotos": [],
-    "socials": {}
+    "socials": {},
+    "geboortedatum": "1967-10-12"
   },
   "Jaco Geurts": {
     "lijstnummer": 11,
@@ -6338,7 +6428,8 @@
     "links": {
       "instagram": "https://www.instagram.com/jaco_geurts/",
       "email": "mailto:j.geurts@tweedekamer.nl/",
-      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/geurts-jl-cda"
+      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/geurts-jl-cda",
+      "wikipedia": "https://nl.wikipedia.org/wiki/Jaco_Geurts"
     },
     "gemeente": "Barneveld",
     "provincie": "Gelderland",
@@ -6350,8 +6441,8 @@
       "instagram": "jaco_geurts",
       "email": "j.geurts@tweedekamer.nl"
     },
-    "leeftijd": 50,
-    "ancienniteit": "2012-09-19"
+    "ancienniteit": "2012-09-19",
+    "geboortedatum": "1970-07-11"
   },
   "Hilde Palland-Mulder": {
     "lijstnummer": 12,
@@ -6388,12 +6479,15 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Hilde_Palland-Mulder"
+    },
     "gemeente": "S\u00fadwest-Frysl\u00e2n",
     "provincie": "Frysl\u00e2n",
     "kamerlid_2021": false,
     "fotos": [],
-    "socials": {}
+    "socials": {},
+    "geboortedatum": "1979-09-13"
   },
   "Ren\u00e9 Peters": {
     "lijstnummer": 13,
@@ -6432,7 +6526,8 @@
     "vorige_woonplaats": "",
     "links": {
       "email": "mailto:r.peters@tweedekamer.nl/",
-      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/peters-wphj-cda"
+      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/peters-wphj-cda",
+      "wikipedia": "https://nl.wikipedia.org/wiki/Ren\u00e9_Peters"
     },
     "gemeente": "Oss",
     "provincie": "Noord-Brabant",
@@ -6529,7 +6624,8 @@
       "twitter": "https://twitter.com/MustafaAmhaouch/",
       "facebook": "https://www.facebook.com/mustafaamhaouchcda/",
       "web": "Https://www.cda.nl/amhaouch/",
-      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/amhaouch-m-cda"
+      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/amhaouch-m-cda",
+      "wikipedia": "https://nl.wikipedia.org/wiki/Mustafa_Amhaouch"
     },
     "gemeente": "Peel en Maas",
     "provincie": "Limburg",
@@ -6544,8 +6640,8 @@
       "facebook": "mustafaamhaouchcda",
       "web": "Https://www.cda.nl/amhaouch "
     },
-    "leeftijd": 50,
-    "ancienniteit": "2016-01-11"
+    "ancienniteit": "2016-01-11",
+    "geboortedatum": "1970-06-27"
   },
   "Joba van den Berg-Jansen": {
     "lijstnummer": 16,
@@ -6582,12 +6678,15 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Joba_van_den_Berg-Jansen"
+    },
     "gemeente": "Goes",
     "provincie": "Zeeland",
     "kamerlid_2021": false,
     "fotos": [],
-    "socials": {}
+    "socials": {},
+    "geboortedatum": "1958-08-21"
   },
   "Henri Bontenbal": {
     "lijstnummer": 17,
@@ -6729,7 +6828,8 @@
       "instagram": "https://www.instagram.com/wytske_postma/",
       "email": "mailto:w.postma@tweedekamer.nl/",
       "facebook": "https://www.facebook.com/depaterCDA22/",
-      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/postma-wl-cda"
+      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/postma-wl-cda",
+      "wikipedia": "https://nl.wikipedia.org/wiki/Wytske_Postma"
     },
     "gemeente": "Den Haag",
     "provincie": "Zuid-Holland",
@@ -6742,8 +6842,8 @@
       "email": "w.postma@tweedekamer.nl",
       "facebook": "depaterCDA22"
     },
-    "leeftijd": 43,
-    "ancienniteit": "2019-06-04"
+    "ancienniteit": "2019-06-04",
+    "geboortedatum": "1977-04-16"
   },
   "Julius Terpstra": {
     "lijstnummer": 20,
@@ -6783,7 +6883,8 @@
     "links": {
       "email": "mailto:j.terpstra@tweedekamer.nl/",
       "twitter": "https://twitter.com/JHTerpstra/",
-      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/terpstra-jh-cda"
+      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/terpstra-jh-cda",
+      "wikipedia": "https://nl.wikipedia.org/wiki/Julius_Terpstra"
     },
     "gemeente": "Leiden",
     "provincie": "Zuid-Holland",
@@ -6795,8 +6896,8 @@
       "email": "j.terpstra@tweedekamer.nl",
       "twitter": "@JHTerpstra"
     },
-    "leeftijd": 32,
-    "ancienniteit": "2020-05-19"
+    "ancienniteit": "2020-05-19",
+    "geboortedatum": "1989-02-21"
   },
   "Harmen Krul": {
     "lijstnummer": 21,
@@ -7005,7 +7106,8 @@
       "instagram": "https://www.instagram.com/martijnvanhelvert/",
       "email": "mailto:m.vhelvert@tweedekamer.nl/",
       "web": "https://www.cda.nl/vanhelvert/",
-      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/helvert-mjf-van-cda"
+      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/helvert-mjf-van-cda",
+      "wikipedia": "https://nl.wikipedia.org/wiki/Martijn_van_Helvert"
     },
     "gemeente": "Sittard-Geleen",
     "provincie": "Limburg",
@@ -7018,8 +7120,8 @@
       "email": "m.vhelvert@tweedekamer.nl",
       "web": "https://www.cda.nl/vanhelvert "
     },
-    "leeftijd": 42,
-    "ancienniteit": "2014-11-11"
+    "ancienniteit": "2014-11-11",
+    "geboortedatum": "1978-04-07"
   },
   "Jantine Zwinkels": {
     "lijstnummer": 26,
@@ -7266,12 +7368,15 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Froukje_de_Jonge"
+    },
     "gemeente": "Almere",
     "provincie": "Flevoland",
     "kamerlid_2021": false,
     "fotos": [],
-    "socials": {}
+    "socials": {},
+    "geboortedatum": "1965-09-03"
   },
   "Lea van der Tuin-Kuipers": {
     "lijstnummer": 32,
@@ -7392,7 +7497,9 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Cees_de_Jong"
+    },
     "gemeente": "Molenlanden",
     "provincie": "Zuid-Holland",
     "kamerlid_2021": false,
@@ -7770,12 +7877,15 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Douwe_de_Vries"
+    },
     "gemeente": "Noardeast-Frysl\u00e2n",
     "provincie": "Frysl\u00e2n",
     "kamerlid_2021": false,
     "fotos": [],
-    "socials": {}
+    "socials": {},
+    "geboortedatum": "1982-06-14"
   },
   "Bo ter Braak": {
     "lijstnummer": 44,
@@ -7942,7 +8052,8 @@
       "email": "mailto:C.vDam@tweedekamer.nl/",
       "twitter": "https://twitter.com/chrisvandamcda/",
       "facebook": "https://www.facebook.com/chrisvandamcda/",
-      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/dam-cjl-van-cda"
+      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/dam-cjl-van-cda",
+      "wikipedia": "https://nl.wikipedia.org/wiki/Chris_van_Dam"
     },
     "gemeente": "Den Haag",
     "provincie": "Zuid-Holland",
@@ -7955,8 +8066,8 @@
       "twitter": "@chrisvandamcda",
       "facebook": "chrisvandamcda"
     },
-    "leeftijd": 57,
-    "ancienniteit": "2017-03-22"
+    "ancienniteit": "2017-03-22",
+    "geboortedatum": "1963-07-09"
   },
   "Ingeborg ter Laak": {
     "lijstnummer": 48,
@@ -8077,7 +8188,9 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Ferd_Grapperhaus"
+    },
     "gemeente": "Amsterdam",
     "provincie": "Noord-Holland",
     "kamerlid_2021": false,
@@ -8119,12 +8232,15 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Ank_Bijleveld-Schouten"
+    },
     "gemeente": "Hof van Twente",
     "provincie": "Overijssel",
     "kamerlid_2021": false,
     "fotos": [],
-    "socials": {}
+    "socials": {},
+    "geboortedatum": "1962-03-17"
   },
   "Dick Berghuis": {
     "lijstnummer": 52,
@@ -8602,12 +8718,15 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Robert_de_Wit"
+    },
     "gemeente": "Groningen",
     "provincie": "Groningen",
     "kamerlid_2021": false,
     "fotos": [],
-    "socials": {}
+    "socials": {},
+    "geboortedatum": "1962-08-07"
   },
   "Agnes Wubs-Kramer": {
     "lijstnummer": 73,
@@ -8667,12 +8786,15 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Sigrid_Kaag"
+    },
     "gemeente": "Den Haag",
     "provincie": "Zuid-Holland",
     "kamerlid_2021": false,
     "fotos": [],
-    "socials": {}
+    "socials": {},
+    "geboortedatum": "1961-11-02"
   },
   "Rob Jetten": {
     "lijstnummer": 2,
@@ -8714,7 +8836,8 @@
       "email": "mailto:r.jetten@tweedekamer.nl/",
       "twitter": "https://twitter.com/RobJetten/",
       "facebook": "https://www.facebook.com/RobJettenD66/",
-      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/jetten-raa-d66"
+      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/jetten-raa-d66",
+      "wikipedia": "https://nl.wikipedia.org/wiki/Rob_Jetten"
     },
     "gemeente": "Berg en Dal",
     "provincie": "Gelderland",
@@ -8728,8 +8851,8 @@
       "twitter": "@RobJetten",
       "facebook": "RobJettenD66"
     },
-    "leeftijd": 33,
-    "ancienniteit": "2017-03-22"
+    "ancienniteit": "2017-03-22",
+    "geboortedatum": "1987-03-25"
   },
   "Vera Bergkamp": {
     "lijstnummer": 3,
@@ -8772,7 +8895,8 @@
       "twitter": "https://twitter.com/Vera_Bergkamp/",
       "facebook": "https://www.facebook.com/verabergkamp/",
       "web": "https://d66.nl/mensen/vera-bergkamp/",
-      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/bergkamp-va-d66"
+      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/bergkamp-va-d66",
+      "wikipedia": "https://nl.wikipedia.org/wiki/Vera_Bergkamp"
     },
     "gemeente": "Amsterdam",
     "provincie": "Noord-Holland",
@@ -8787,8 +8911,8 @@
       "facebook": "verabergkamp",
       "web": "https://d66.nl/mensen/vera-bergkamp/ "
     },
-    "leeftijd": 49,
-    "ancienniteit": "2012-09-19"
+    "ancienniteit": "2012-09-19",
+    "geboortedatum": "1971-06-01"
   },
   "Jan Paternotte": {
     "lijstnummer": 4,
@@ -8830,7 +8954,8 @@
       "email": "mailto:j.paternotte@tweedekamer.nl/",
       "twitter": "https://twitter.com/jpaternotte/",
       "facebook": "https://www.facebook.com/Jan-Paternotte-460256660794215/?fref=ts/",
-      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/paternotte-jm-d66"
+      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/paternotte-jm-d66",
+      "wikipedia": "https://nl.wikipedia.org/wiki/Jan_Paternotte"
     },
     "gemeente": "Leiden",
     "provincie": "Zuid-Holland",
@@ -8844,8 +8969,8 @@
       "twitter": "@jpaternotte",
       "facebook": "Jan-Paternotte-460256660794215/?fref=ts"
     },
-    "leeftijd": 37,
-    "ancienniteit": "2017-03-22"
+    "ancienniteit": "2017-03-22",
+    "geboortedatum": "1984-02-26"
   },
   "Sjoerd Wiemer Sjoerdsma": {
     "lijstnummer": 5,
@@ -8886,7 +9011,8 @@
       "instagram": "https://www.instagram.com/swsjoerdsma/",
       "email": "mailto:s.sjoerdsma@tweedekamer.nl/",
       "twitter": "https://twitter.com/swsjoerdsma/",
-      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/sjoerdsma-sw-d66"
+      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/sjoerdsma-sw-d66",
+      "wikipedia": "https://nl.wikipedia.org/wiki/Sjoerd_Wiemer_Sjoerdsma"
     },
     "gemeente": "Den Haag",
     "provincie": "Zuid-Holland",
@@ -8899,8 +9025,8 @@
       "email": "s.sjoerdsma@tweedekamer.nl",
       "twitter": "@swsjoerdsma"
     },
-    "leeftijd": 39,
-    "ancienniteit": "2012-09-19"
+    "ancienniteit": "2012-09-19",
+    "geboortedatum": "1981-07-10"
   },
   "Salima Belhaj": {
     "lijstnummer": 6,
@@ -8943,7 +9069,8 @@
       "twitter": "https://twitter.com/SalimaBelhaj/",
       "facebook": "https://www.facebook.com/salima.belhaj.31/",
       "web": "https://d66.nl/mensen/salima-belhaj/",
-      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/belhaj-s-d66"
+      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/belhaj-s-d66",
+      "wikipedia": "https://nl.wikipedia.org/wiki/Salima_Belhaj"
     },
     "gemeente": "Albrandswaard",
     "provincie": "Zuid-Holland",
@@ -8958,8 +9085,8 @@
       "facebook": "salima.belhaj.31",
       "web": "https://d66.nl/mensen/salima-belhaj "
     },
-    "leeftijd": 42,
-    "ancienniteit": "2016-01-25"
+    "ancienniteit": "2016-01-25",
+    "geboortedatum": "1978-10-18"
   },
   "Steven Van Weyenberg": {
     "lijstnummer": 7,
@@ -9047,7 +9174,8 @@
       "email": "mailto:t.dgroot@tweedekamer.nl/",
       "twitter": "https://twitter.com/TjeerdD66/",
       "facebook": "https://www.facebook.com/TjeerdD66/",
-      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/groot-tc-de-d66"
+      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/groot-tc-de-d66",
+      "wikipedia": "https://nl.wikipedia.org/wiki/Tjeerd_de_Groot"
     },
     "gemeente": "Haarlem",
     "provincie": "Noord-Holland",
@@ -9061,8 +9189,8 @@
       "twitter": "@TjeerdD66",
       "facebook": "TjeerdD66"
     },
-    "leeftijd": 52,
-    "ancienniteit": "2017-03-22"
+    "ancienniteit": "2017-03-22",
+    "geboortedatum": "1968-04-10"
   },
   "Hanneke van der Werf": {
     "lijstnummer": 9,
@@ -9188,7 +9316,8 @@
       "email": "mailto:p.vmeenen@tweedekamer.nl/",
       "twitter": "https://twitter.com/Paul_van_Meenen/",
       "facebook": "https://www.facebook.com/profile.php?id=100011345046975&fref=ts/",
-      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/meenen-ph-van-d66"
+      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/meenen-ph-van-d66",
+      "wikipedia": "https://nl.wikipedia.org/wiki/Paul_van_Meenen"
     },
     "gemeente": "Leiden",
     "provincie": "Zuid-Holland",
@@ -9202,8 +9331,8 @@
       "twitter": "@Paul_van_Meenen",
       "facebook": "profile.php?id=100011345046975&fref=ts"
     },
-    "leeftijd": 65,
-    "ancienniteit": "2012-09-19"
+    "ancienniteit": "2012-09-19",
+    "geboortedatum": "1956-01-29"
   },
   "Hans Vijlbrief": {
     "lijstnummer": 12,
@@ -9240,12 +9369,15 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Hans_Vijlbrief"
+    },
     "gemeente": "Kaag en Braassem",
     "provincie": "Zuid-Holland",
     "kamerlid_2021": false,
     "fotos": [],
-    "socials": {}
+    "socials": {},
+    "geboortedatum": "1963-08-17"
   },
   "Jeanet van der Laan": {
     "lijstnummer": 13,
@@ -9329,7 +9461,8 @@
       "email": "mailto:j.sneller@tweedekamer.nl/",
       "twitter": "https://twitter.com/sneller/",
       "facebook": "https://www.facebook.com/joost.sneller/",
-      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/sneller-jc-d66"
+      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/sneller-jc-d66",
+      "wikipedia": "https://nl.wikipedia.org/wiki/Joost_Sneller"
     },
     "gemeente": "Den Haag",
     "provincie": "Zuid-Holland",
@@ -9343,8 +9476,8 @@
       "twitter": "@sneller",
       "facebook": "joost.sneller"
     },
-    "leeftijd": 38,
-    "ancienniteit": "2017-10-30"
+    "ancienniteit": "2017-10-30",
+    "geboortedatum": "1982-07-24"
   },
   "Wieke Paulusma": {
     "lijstnummer": 15,
@@ -9507,12 +9640,15 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Sidney_Smeets"
+    },
     "gemeente": "Amsterdam",
     "provincie": "Noord-Holland",
     "kamerlid_2021": false,
     "fotos": [],
-    "socials": {}
+    "socials": {},
+    "geboortedatum": "1975-06-18"
   },
   "Rens Raemakers": {
     "lijstnummer": 19,
@@ -9555,7 +9691,8 @@
       "twitter": "https://twitter.com/rensraemakers/",
       "facebook": "https://www.facebook.com/rensraemakersd66/",
       "instagram2": "https://www.instagram.com/rensraemakers/",
-      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/raemakers-r-d66"
+      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/raemakers-r-d66",
+      "wikipedia": "https://nl.wikipedia.org/wiki/Rens_Raemakers"
     },
     "gemeente": "Leudal",
     "provincie": "Limburg",
@@ -9570,8 +9707,8 @@
       "facebook": "rensraemakersd66",
       "instagram2": "rensraemakers"
     },
-    "leeftijd": 29,
-    "ancienniteit": "2017-07-12"
+    "ancienniteit": "2017-07-12",
+    "geboortedatum": "1991-03-27"
   },
   "Jorien Wuite": {
     "lijstnummer": 20,
@@ -9608,12 +9745,15 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Jorien_Wuite"
+    },
     "gemeente": "Overig",
     "provincie": "Overig",
     "kamerlid_2021": false,
     "fotos": [],
-    "socials": {}
+    "socials": {},
+    "geboortedatum": "1964-12-06"
   },
   "Kiki Hagen": {
     "lijstnummer": 21,
@@ -9821,7 +9961,8 @@
     "links": {
       "email": "mailto:m.vanbeukering@tweedekamer.nl/",
       "twitter": "https://twitter.com/Marijke_vB/",
-      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/beukering-huijbregts-mjtg-van-d66"
+      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/beukering-huijbregts-mjtg-van-d66",
+      "wikipedia": "https://nl.wikipedia.org/wiki/Marijke_van_Beukering-Huijbregts"
     },
     "gemeente": "IJsselstein",
     "provincie": "Utrecht",
@@ -9833,8 +9974,8 @@
       "email": "m.vanbeukering@tweedekamer.nl",
       "twitter": "@Marijke_vB"
     },
-    "leeftijd": 49,
-    "ancienniteit": "2020-01-28"
+    "ancienniteit": "2020-01-28",
+    "geboortedatum": "1971-12-30"
   },
   "Anne-Marijke Podt": {
     "lijstnummer": 26,
@@ -10081,12 +10222,15 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Hans_Teunissen"
+    },
     "gemeente": "Breda",
     "provincie": "Noord-Brabant",
     "kamerlid_2021": false,
     "fotos": [],
-    "socials": {}
+    "socials": {},
+    "geboortedatum": "1963-04-11"
   },
   "Carline van Breugel": {
     "lijstnummer": 32,
@@ -10417,12 +10561,15 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Marcel_Beukeboom"
+    },
     "gemeente": "Wassenaar",
     "provincie": "Zuid-Holland",
     "kamerlid_2021": false,
     "fotos": [],
-    "socials": {}
+    "socials": {},
+    "geboortedatum": "1972-02-01"
   },
   "Ojanne de Vries-Chang": {
     "lijstnummer": 40,
@@ -11914,12 +12061,15 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Jan_van_de_Ven"
+    },
     "gemeente": "Venray",
     "provincie": "Limburg",
     "kamerlid_2021": false,
     "fotos": [],
-    "socials": {}
+    "socials": {},
+    "geboortedatum": "1925-09-18"
   },
   "Marietje Schaake": {
     "lijstnummer": 77,
@@ -11956,12 +12106,15 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Marietje_Schaake"
+    },
     "gemeente": "Amsterdam",
     "provincie": "Noord-Holland",
     "kamerlid_2021": false,
     "fotos": [],
-    "socials": {}
+    "socials": {},
+    "geboortedatum": "1978-10-28"
   },
   "Sumer Chaban": {
     "lijstnummer": 78,
@@ -12040,12 +12193,15 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Stientje_van_Veldhoven-van_der_Meer"
+    },
     "gemeente": "Buren",
     "provincie": "Gelderland",
     "kamerlid_2021": false,
     "fotos": [],
-    "socials": {}
+    "socials": {},
+    "geboortedatum": "1973-06-22"
   },
   "Kajsa Ollongren": {
     "lijstnummer": 80,
@@ -12082,12 +12238,15 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Kajsa_Ollongren"
+    },
     "gemeente": "Amsterdam",
     "provincie": "Noord-Holland",
     "kamerlid_2021": false,
     "fotos": [],
-    "socials": {}
+    "socials": {},
+    "geboortedatum": "1967-05-28"
   },
   "Jesse Klaver": {
     "lijstnummer": 1,
@@ -12130,7 +12289,8 @@
       "twitter": "https://twitter.com/jesseklaver/",
       "facebook": "https://www.facebook.com/687496011309020/",
       "web": "www.jesseklaver.nl/",
-      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/klaver-jf-gl"
+      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/klaver-jf-gl",
+      "wikipedia": "https://nl.wikipedia.org/wiki/Jesse_Klaver"
     },
     "gemeente": "Den Haag",
     "provincie": "Zuid-Holland",
@@ -12145,8 +12305,8 @@
       "facebook": "687496011309020",
       "web": "www.jesseklaver.nl "
     },
-    "leeftijd": 34,
-    "ancienniteit": "2010-06-16"
+    "ancienniteit": "2010-06-16",
+    "geboortedatum": "1986-05-01"
   },
   "Corinne de Jonge van Ellemeet": {
     "lijstnummer": 2,
@@ -12183,12 +12343,15 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Corinne_de_Jonge_van_Ellemeet"
+    },
     "gemeente": "De Ronde Venen",
     "provincie": "Utrecht",
     "kamerlid_2021": false,
     "fotos": [],
-    "socials": {}
+    "socials": {},
+    "geboortedatum": "1976-04-26"
   },
   "Tom van der Lee": {
     "lijstnummer": 3,
@@ -12230,7 +12393,8 @@
       "email": "mailto:t.vdlee@tweedekamer.nl/",
       "twitter": "https://twitter.com/TomvanderLee/",
       "facebook": "https://www.facebook.com/TomGroenLinks/",
-      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/lee-tmt-van-der-gl"
+      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/lee-tmt-van-der-gl",
+      "wikipedia": "https://nl.wikipedia.org/wiki/Tom_van_der_Lee"
     },
     "gemeente": "Amsterdam",
     "provincie": "Noord-Holland",
@@ -12244,8 +12408,8 @@
       "twitter": "@TomvanderLee",
       "facebook": "TomGroenLinks"
     },
-    "leeftijd": 56,
-    "ancienniteit": "2017-03-22"
+    "ancienniteit": "2017-03-22",
+    "geboortedatum": "1964-07-09"
   },
   "Laura Bromet": {
     "lijstnummer": 4,
@@ -12286,7 +12450,8 @@
       "email": "mailto:l.bromet@tweedekamer.nl/",
       "twitter": "https://twitter.com/LauraBromet/",
       "web": "https://groenlinks.nl/laura-bromet/",
-      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/bromet-l-gl"
+      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/bromet-l-gl",
+      "wikipedia": "https://nl.wikipedia.org/wiki/Laura_Bromet"
     },
     "gemeente": "Waterland",
     "provincie": "Noord-Holland",
@@ -12299,8 +12464,8 @@
       "twitter": "@LauraBromet",
       "web": "https://groenlinks.nl/laura-bromet "
     },
-    "leeftijd": 51,
-    "ancienniteit": "2018-06-06"
+    "ancienniteit": "2018-06-06",
+    "geboortedatum": "1970-01-17"
   },
   "Senna Maatoug": {
     "lijstnummer": 5,
@@ -12337,7 +12502,9 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Senna_Maatoug"
+    },
     "gemeente": "Leiden",
     "provincie": "Zuid-Holland",
     "kamerlid_2021": false,
@@ -12382,7 +12549,8 @@
     "links": {
       "email": "mailto:b.snels@tweedekamer.nl/",
       "twitter": "https://twitter.com/bartsnels/",
-      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/snels-baw-gl"
+      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/snels-baw-gl",
+      "wikipedia": "https://nl.wikipedia.org/wiki/Bart_Snels"
     },
     "gemeente": "Utrecht",
     "provincie": "Utrecht",
@@ -12394,8 +12562,8 @@
       "email": "b.snels@tweedekamer.nl",
       "twitter": "@bartsnels"
     },
-    "leeftijd": 55,
-    "ancienniteit": "2017-03-22"
+    "ancienniteit": "2017-03-22",
+    "geboortedatum": "1966-01-06"
   },
   "Suzanne Kr\u00f6ger": {
     "lijstnummer": 7,
@@ -12436,7 +12604,8 @@
       "email": "mailto:s.kroger@tweedekamer.nl/",
       "twitter": "https://twitter.com/suzanne_GL/",
       "facebook": "https://www.facebook.com/suzannegroenlinks/",
-      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/kr%C3%B6ger-sc-gl"
+      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/kr%C3%B6ger-sc-gl",
+      "wikipedia": "https://nl.wikipedia.org/wiki/Suzanne_Kr\u00f6ger"
     },
     "gemeente": "Amsterdam",
     "provincie": "Noord-Holland",
@@ -12449,8 +12618,8 @@
       "twitter": "@suzanne_GL",
       "facebook": "suzannegroenlinks"
     },
-    "leeftijd": 44,
-    "ancienniteit": "2017-03-22"
+    "ancienniteit": "2017-03-22",
+    "geboortedatum": "1976-06-06"
   },
   "Paul Smeulders": {
     "lijstnummer": 8,
@@ -12492,7 +12661,8 @@
       "email": "mailto:p.smeulders@tweedekamer.nl/",
       "twitter": "https://twitter.com/PaulSmeulders/",
       "web": "https://groenlinks.nl/paul-smeulders/",
-      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/smeulders-phm-gl"
+      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/smeulders-phm-gl",
+      "wikipedia": "https://nl.wikipedia.org/wiki/Paul_Smeulders"
     },
     "gemeente": "Leidschendam-Voorburg",
     "provincie": "Zuid-Holland",
@@ -12591,7 +12761,8 @@
       "email": "mailto:l.westerveld@tweedekamer.nl/",
       "twitter": "https://twitter.com/Lisawesterveld/",
       "facebook": "https://www.facebook.com/LisaWesterveldGroenLinks/",
-      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/westerveld-em-gl"
+      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/westerveld-em-gl",
+      "wikipedia": "https://nl.wikipedia.org/wiki/Lisa_Westerveld"
     },
     "gemeente": "Nijmegen",
     "provincie": "Gelderland",
@@ -12605,8 +12776,8 @@
       "twitter": "@Lisawesterveld",
       "facebook": "LisaWesterveldGroenLinks"
     },
-    "leeftijd": 39,
-    "ancienniteit": "2017-03-22"
+    "ancienniteit": "2017-03-22",
+    "geboortedatum": "1981-11-16"
   },
   "April Ranshuijsen": {
     "lijstnummer": 11,
@@ -12690,7 +12861,8 @@
       "email": "mailto:n.vdberge@tweedekamer.nl/",
       "twitter": "https://twitter.com/NielsvdBerge/",
       "web": "www.nielsvandenberge.nl/",
-      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/berge-cn-van-den-gl"
+      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/berge-cn-van-den-gl",
+      "wikipedia": "https://nl.wikipedia.org/wiki/Niels_van_den_Berge"
     },
     "gemeente": "Den Haag",
     "provincie": "Zuid-Holland",
@@ -12704,8 +12876,8 @@
       "twitter": "@NielsvdBerge",
       "web": "www.nielsvandenberge.nl "
     },
-    "leeftijd": 36,
-    "ancienniteit": "2019-04-07"
+    "ancienniteit": "2019-04-07",
+    "geboortedatum": "1984-12-28"
   },
   "Andrew Harijgens": {
     "lijstnummer": 13,
@@ -12914,7 +13086,8 @@
       "email": "mailto:n.ozutok@tweedekamer.nl/",
       "twitter": "https://twitter.com/NevinOzutok/",
       "facebook": "https://www.facebook.com/196419777520959/",
-      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/%C3%B6z%C3%BCtok-n-gl"
+      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/%C3%B6z%C3%BCtok-n-gl",
+      "wikipedia": "https://nl.wikipedia.org/wiki/Nevin_\u00d6z\u00fctok"
     },
     "gemeente": "Amsterdam",
     "provincie": "Noord-Holland",
@@ -12927,8 +13100,8 @@
       "twitter": "@NevinOzutok",
       "facebook": "196419777520959"
     },
-    "leeftijd": 60,
-    "ancienniteit": "2016-09-19"
+    "ancienniteit": "2016-09-19",
+    "geboortedatum": "1960-03-20"
   },
   "Stephanie Bennett": {
     "lijstnummer": 18,
@@ -13136,7 +13309,8 @@
     "links": {
       "instagram": "https://www.instagram.com/tom_vdnn/",
       "email": "mailto:t.vdnieuwenhuijzen@tweedekamer.nl/",
-      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/nieuwenhuijzen-tjh-van-den-gl"
+      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/nieuwenhuijzen-tjh-van-den-gl",
+      "wikipedia": "https://nl.wikipedia.org/wiki/Tom_van_den_Nieuwenhuijzen"
     },
     "gemeente": "Utrecht",
     "provincie": "Utrecht",
@@ -13148,8 +13322,8 @@
       "instagram": "tom_vdnn",
       "email": "t.vdnieuwenhuijzen@tweedekamer.nl"
     },
-    "leeftijd": 38,
-    "ancienniteit": "2020-05-06"
+    "ancienniteit": "2020-05-06",
+    "geboortedatum": "1982-07-18"
   },
   "Raja Alouani": {
     "lijstnummer": 23,
@@ -13606,7 +13780,9 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Romano_Boshove"
+    },
     "gemeente": "Hardenberg",
     "provincie": "Overijssel",
     "kamerlid_2021": false,
@@ -13942,12 +14118,15 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Leoni_Jansen"
+    },
     "gemeente": "Beemster",
     "provincie": "Noord-Holland",
     "kamerlid_2021": false,
     "fotos": [],
-    "socials": {}
+    "socials": {},
+    "geboortedatum": "1955-09-18"
   },
   "Nienke Homan": {
     "lijstnummer": 42,
@@ -13984,12 +14163,15 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Nienke_Homan"
+    },
     "gemeente": "Groningen",
     "provincie": "Groningen",
     "kamerlid_2021": false,
     "fotos": [],
-    "socials": {}
+    "socials": {},
+    "geboortedatum": "1979-05-10"
   },
   "Ufuk Kahya": {
     "lijstnummer": 43,
@@ -14114,7 +14296,8 @@
       "email": "mailto:w.renkema@tweedekamer.nl/",
       "twitter": "https://twitter.com/wimjanrenkema/",
       "web": "https://groenlinks.nl/wim-jan-renkema/",
-      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/renkema-wjt-gl"
+      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/renkema-wjt-gl",
+      "wikipedia": "https://nl.wikipedia.org/wiki/Wim-Jan_Renkema"
     },
     "gemeente": "Steenwijkerland",
     "provincie": "Overijssel",
@@ -14127,8 +14310,8 @@
       "twitter": "@wimjanrenkema",
       "web": "https://groenlinks.nl/wim-jan-renkema "
     },
-    "leeftijd": 53,
-    "ancienniteit": "2018-06-12"
+    "ancienniteit": "2018-06-12",
+    "geboortedatum": "1968-03-04"
   },
   "Kim Schmitz": {
     "lijstnummer": 46,
@@ -14165,12 +14348,15 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Kim_Schmitz"
+    },
     "gemeente": "Sittard-Geleen",
     "provincie": "Limburg",
     "kamerlid_2021": false,
     "fotos": [],
-    "socials": {}
+    "socials": {},
+    "geboortedatum": "1974-01-21"
   },
   "Tofik Dibi": {
     "lijstnummer": 47,
@@ -14207,12 +14393,15 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Tofik_Dibi"
+    },
     "gemeente": "Amsterdam",
     "provincie": "Noord-Holland",
     "kamerlid_2021": false,
     "fotos": [],
-    "socials": {}
+    "socials": {},
+    "geboortedatum": "1980-11-19"
   },
   "Glimina Chakor": {
     "lijstnummer": 48,
@@ -14291,12 +14480,15 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Eric_Corton"
+    },
     "gemeente": "Amsterdam",
     "provincie": "Noord-Holland",
     "kamerlid_2021": false,
     "fotos": [],
-    "socials": {}
+    "socials": {},
+    "geboortedatum": "1969-01-11"
   },
   "Bram van Ojik": {
     "lijstnummer": 50,
@@ -14337,7 +14529,8 @@
       "email": "mailto:a.vojik@tweedekamer.nl/",
       "twitter": "https://twitter.com/BramvanOjikGL/",
       "facebook": "https://www.facebook.com/bramvanojik/",
-      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/ojik-van-gl"
+      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/ojik-van-gl",
+      "wikipedia": "https://nl.wikipedia.org/wiki/Bram_van_Ojik"
     },
     "gemeente": "Amsterdam",
     "provincie": "Noord-Holland",
@@ -14350,8 +14543,8 @@
       "twitter": "@BramvanOjikGL",
       "facebook": "bramvanojik"
     },
-    "leeftijd": 66,
-    "ancienniteit": "2013-06-28"
+    "ancienniteit": "2013-06-28",
+    "geboortedatum": "1954-09-22"
   },
   "Lilian Marijnissen": {
     "lijstnummer": 1,
@@ -14393,7 +14586,8 @@
       "email": "mailto:lilianmarijnissen@sp.nl/",
       "twitter": "https://twitter.com/MarijnissenL/",
       "facebook": "https://www.facebook.com/LilianMarijnissenSP/",
-      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/marijnissen-lmc-sp"
+      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/marijnissen-lmc-sp",
+      "wikipedia": "https://nl.wikipedia.org/wiki/Lilian_Marijnissen"
     },
     "gemeente": "Oss",
     "provincie": "Noord-Brabant",
@@ -14407,8 +14601,8 @@
       "twitter": "@MarijnissenL",
       "facebook": "LilianMarijnissenSP"
     },
-    "leeftijd": 35,
-    "ancienniteit": "2017-03-22"
+    "ancienniteit": "2017-03-22",
+    "geboortedatum": "1985-07-11"
   },
   "Renske Leijten": {
     "lijstnummer": 2,
@@ -14448,7 +14642,8 @@
     "links": {
       "instagram": "https://www.instagram.com/renskeleijten/",
       "email": "mailto:r.leijten@tweedekamer.nl/",
-      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/leijten-rm-sp"
+      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/leijten-rm-sp",
+      "wikipedia": "https://nl.wikipedia.org/wiki/Renske_Leijten"
     },
     "gemeente": "Haarlem",
     "provincie": "Noord-Holland",
@@ -14460,8 +14655,8 @@
       "instagram": "renskeleijten",
       "email": "r.leijten@tweedekamer.nl"
     },
-    "leeftijd": 41,
-    "ancienniteit": "2007-03-21"
+    "ancienniteit": "2007-03-21",
+    "geboortedatum": "1979-03-17"
   },
   "Mahir Alkaya": {
     "lijstnummer": 3,
@@ -14500,7 +14695,8 @@
     "vorige_woonplaats": "",
     "links": {
       "email": "mailto:m.alkaya@tweedekamer.nl/",
-      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/alkaya-m%C3%B6-sp"
+      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/alkaya-m%C3%B6-sp",
+      "wikipedia": "https://nl.wikipedia.org/wiki/Mahir_Alkaya"
     },
     "gemeente": "Amsterdam",
     "provincie": "Noord-Holland",
@@ -14511,8 +14707,8 @@
     "socials": {
       "email": "m.alkaya@tweedekamer.nl"
     },
-    "leeftijd": 32,
-    "ancienniteit": "2018-01-17"
+    "ancienniteit": "2018-01-17",
+    "geboortedatum": "1988-07-06"
   },
   "Michiel van Nispen": {
     "lijstnummer": 4,
@@ -14552,7 +14748,8 @@
     "links": {
       "email": "mailto:m.vnispen@tweedekamer.nl/",
       "web": "https://www.sp.nl/michielvannispen/",
-      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/nispen-m-van-sp"
+      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/nispen-m-van-sp",
+      "wikipedia": "https://nl.wikipedia.org/wiki/Michiel_van_Nispen"
     },
     "gemeente": "Breda",
     "provincie": "Noord-Brabant",
@@ -14564,8 +14761,8 @@
       "email": "m.vnispen@tweedekamer.nl",
       "web": "https://www.sp.nl/michielvannispen "
     },
-    "leeftijd": 38,
-    "ancienniteit": "2014-04-01"
+    "ancienniteit": "2014-04-01",
+    "geboortedatum": "1982-10-14"
   },
   "Maarten Hijink": {
     "lijstnummer": 5,
@@ -14605,7 +14802,8 @@
     "links": {
       "instagram": "https://www.instagram.com/maarten_hijink/",
       "email": "mailto:m.hijink@tweedekamer.nl/",
-      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/hijink-hpm-sp"
+      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/hijink-hpm-sp",
+      "wikipedia": "https://nl.wikipedia.org/wiki/Maarten_Hijink"
     },
     "gemeente": "Amersfoort",
     "provincie": "Utrecht",
@@ -14617,8 +14815,8 @@
       "instagram": "maarten_hijink",
       "email": "m.hijink@tweedekamer.nl"
     },
-    "leeftijd": 37,
-    "ancienniteit": "2017-03-22"
+    "ancienniteit": "2017-03-22",
+    "geboortedatum": "1983-05-24"
   },
   "Sandra Beckerman": {
     "lijstnummer": 6,
@@ -14660,7 +14858,8 @@
       "email": "mailto:s.beckerman@tweedekamer.nl/",
       "twitter": "https://twitter.com/SandraBeckerman/",
       "facebook": "https://www.facebook.com/sandra.beckerman.9/",
-      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/beckerman-sm-sp"
+      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/beckerman-sm-sp",
+      "wikipedia": "https://nl.wikipedia.org/wiki/Sandra_Beckerman"
     },
     "gemeente": "Groningen",
     "provincie": "Groningen",
@@ -14674,8 +14873,8 @@
       "twitter": "@SandraBeckerman",
       "facebook": "sandra.beckerman.9"
     },
-    "leeftijd": 37,
-    "ancienniteit": "2017-03-22"
+    "ancienniteit": "2017-03-22",
+    "geboortedatum": "1983-03-31"
   },
   "Peter Kwint": {
     "lijstnummer": 7,
@@ -14715,7 +14914,8 @@
     "links": {
       "instagram": "https://www.instagram.com/pkwint/",
       "email": "mailto:p.kwint@tweedekamer.nl/",
-      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/kwint-jp-sp"
+      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/kwint-jp-sp",
+      "wikipedia": "https://nl.wikipedia.org/wiki/Peter_Kwint"
     },
     "gemeente": "Amsterdam",
     "provincie": "Noord-Holland",
@@ -14727,8 +14927,8 @@
       "instagram": "pkwint",
       "email": "p.kwint@tweedekamer.nl"
     },
-    "leeftijd": 36,
-    "ancienniteit": "2017-03-22"
+    "ancienniteit": "2017-03-22",
+    "geboortedatum": "1984-12-19"
   },
   "Bart van Kent": {
     "lijstnummer": 8,
@@ -14768,7 +14968,8 @@
     "links": {
       "instagram": "https://www.instagram.com/bartvankent/",
       "email": "mailto:b.vkent@tweedekamer.nl/",
-      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/kent-b-van-sp"
+      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/kent-b-van-sp",
+      "wikipedia": "https://nl.wikipedia.org/wiki/Bart_van_Kent"
     },
     "gemeente": "Den Haag",
     "provincie": "Zuid-Holland",
@@ -14780,8 +14981,8 @@
       "instagram": "bartvankent",
       "email": "b.vkent@tweedekamer.nl"
     },
-    "leeftijd": 37,
-    "ancienniteit": "2017-03-22"
+    "ancienniteit": "2017-03-22",
+    "geboortedatum": "1983-12-18"
   },
   "Jasper van Dijk": {
     "lijstnummer": 9,
@@ -14820,7 +15021,8 @@
     "vorige_woonplaats": "",
     "links": {
       "email": "mailto:jasper.vdijk@tweedekamer.nl/",
-      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/dijk-jj-van-sp"
+      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/dijk-jj-van-sp",
+      "wikipedia": "https://nl.wikipedia.org/wiki/Jasper_van_Dijk"
     },
     "gemeente": "Utrecht",
     "provincie": "Utrecht",
@@ -14831,8 +15033,8 @@
     "socials": {
       "email": "jasper.vdijk@tweedekamer.nl"
     },
-    "leeftijd": 49,
-    "ancienniteit": "2006-11-29"
+    "ancienniteit": "2006-11-29",
+    "geboortedatum": "1971-04-20"
   },
   "Jimmy Dijk": {
     "lijstnummer": 10,
@@ -15249,7 +15451,8 @@
     "vorige_woonplaats": "",
     "links": {
       "email": "mailto:f.futselaar@tweedekamer.nl/",
-      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/futselaar-fw-sp"
+      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/futselaar-fw-sp",
+      "wikipedia": "https://nl.wikipedia.org/wiki/Frank_Futselaar"
     },
     "gemeente": "Zwolle",
     "provincie": "Overijssel",
@@ -15550,12 +15753,15 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Arnout_Hoekstra"
+    },
     "gemeente": "Vlaardingen",
     "provincie": "Zuid-Holland",
     "kamerlid_2021": false,
     "fotos": [],
-    "socials": {}
+    "socials": {},
+    "geboortedatum": "1984-12-02"
   },
   "Michel Verschuren": {
     "lijstnummer": 27,
@@ -15844,12 +16050,15 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Hans_van_Hooft"
+    },
     "gemeente": "Nijmegen",
     "provincie": "Gelderland",
     "kamerlid_2021": false,
     "fotos": [],
-    "socials": {}
+    "socials": {},
+    "geboortedatum": "1941-11-25"
   },
   "Eric van den Broek": {
     "lijstnummer": 34,
@@ -16096,12 +16305,15 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Arda_Gerkens"
+    },
     "gemeente": "Haarlem",
     "provincie": "Noord-Holland",
     "kamerlid_2021": false,
     "fotos": [],
-    "socials": {}
+    "socials": {},
+    "geboortedatum": "1965-06-05"
   },
   "Spencer Zeegers": {
     "lijstnummer": 40,
@@ -16390,7 +16602,8 @@
     "vorige_woonplaats": "",
     "links": {
       "email": "mailto:rvraak@sp.nl/",
-      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/raak-aagm-van-sp"
+      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/raak-aagm-van-sp",
+      "wikipedia": "https://nl.wikipedia.org/wiki/Ronald_van_Raak"
     },
     "gemeente": "Amsterdam",
     "provincie": "Noord-Holland",
@@ -16401,8 +16614,8 @@
     "socials": {
       "email": "rvraak@sp.nl"
     },
-    "leeftijd": 51,
-    "ancienniteit": "2006-11-29"
+    "ancienniteit": "2006-11-29",
+    "geboortedatum": "1969-10-30"
   },
   "Emile Roemer": {
     "lijstnummer": 50,
@@ -16439,12 +16652,15 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Emile_Roemer"
+    },
     "gemeente": "Boxmeer",
     "provincie": "Noord-Brabant",
     "kamerlid_2021": false,
     "fotos": [],
-    "socials": {}
+    "socials": {},
+    "geboortedatum": "1962-08-24"
   },
   "Lilianne Ploumen": {
     "lijstnummer": 1,
@@ -16484,7 +16700,8 @@
     "links": {
       "instagram": "https://www.instagram.com/lilianne_ploumen/",
       "email": "mailto:l.ploumen@tweedekamer.nl/",
-      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/ploumen-emj-pvda"
+      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/ploumen-emj-pvda",
+      "wikipedia": "https://nl.wikipedia.org/wiki/Lilianne_Ploumen"
     },
     "gemeente": "Amsterdam",
     "provincie": "Noord-Holland",
@@ -16496,8 +16713,8 @@
       "instagram": "lilianne_ploumen",
       "email": "l.ploumen@tweedekamer.nl"
     },
-    "leeftijd": 58,
-    "ancienniteit": "2017-03-22"
+    "ancienniteit": "2017-03-22",
+    "geboortedatum": "1962-07-12"
   },
   "Khadija Arib": {
     "lijstnummer": 2,
@@ -16540,7 +16757,8 @@
       "twitter": "https://twitter.com/khadijaArib/",
       "facebook": "https://www.facebook.com/VoorzitterKhadijaArib/",
       "web": "https://www.pvda.nl/politici/khadija-arib/",
-      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/arib-k-pvda"
+      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/arib-k-pvda",
+      "wikipedia": "https://nl.wikipedia.org/wiki/Khadija_Arib"
     },
     "gemeente": "Amsterdam",
     "provincie": "Noord-Holland",
@@ -16555,8 +16773,8 @@
       "facebook": "VoorzitterKhadijaArib/",
       "web": "https://www.pvda.nl/politici/khadija-arib "
     },
-    "leeftijd": 60,
-    "ancienniteit": "1998-08-17"
+    "ancienniteit": "1998-08-17",
+    "geboortedatum": "1960-10-10"
   },
   "Henk Nijboer": {
     "lijstnummer": 3,
@@ -16595,7 +16813,8 @@
     "vorige_woonplaats": "",
     "links": {
       "email": "mailto:h.nijboer@tweedekamer.nl/",
-      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/nijboer-h-pvda"
+      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/nijboer-h-pvda",
+      "wikipedia": "https://nl.wikipedia.org/wiki/Henk_Nijboer"
     },
     "gemeente": "Groningen",
     "provincie": "Groningen",
@@ -16606,8 +16825,8 @@
     "socials": {
       "email": "h.nijboer@tweedekamer.nl"
     },
-    "leeftijd": 37,
-    "ancienniteit": "2012-09-19"
+    "ancienniteit": "2012-09-19",
+    "geboortedatum": "1983-03-31"
   },
   "Attje Kuiken": {
     "lijstnummer": 4,
@@ -16647,7 +16866,8 @@
     "links": {
       "instagram": "https://www.instagram.com/kuikenattje/",
       "email": "mailto:a.kuiken@tweedekamer.nl/",
-      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/kuiken-ah-pvda"
+      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/kuiken-ah-pvda",
+      "wikipedia": "https://nl.wikipedia.org/wiki/Attje_Kuiken"
     },
     "gemeente": "Breda",
     "provincie": "Noord-Brabant",
@@ -16659,8 +16879,8 @@
       "instagram": "kuikenattje",
       "email": "a.kuiken@tweedekamer.nl"
     },
-    "leeftijd": 43,
-    "ancienniteit": "2007-03-21"
+    "ancienniteit": "2007-03-21",
+    "geboortedatum": "1977-10-27"
   },
   "Kati Piri": {
     "lijstnummer": 5,
@@ -16697,12 +16917,15 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Kati_Piri"
+    },
     "gemeente": "Den Haag",
     "provincie": "Zuid-Holland",
     "kamerlid_2021": false,
     "fotos": [],
-    "socials": {}
+    "socials": {},
+    "geboortedatum": "1979-04-08"
   },
   "Joris Thijssen": {
     "lijstnummer": 6,
@@ -16739,7 +16962,9 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Joris_Thijssen"
+    },
     "gemeente": "Gooise Meren",
     "provincie": "Noord-Holland",
     "kamerlid_2021": false,
@@ -16781,12 +17006,15 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Barbara_Kathmann"
+    },
     "gemeente": "Albrandswaard",
     "provincie": "Zuid-Holland",
     "kamerlid_2021": false,
     "fotos": [],
-    "socials": {}
+    "socials": {},
+    "geboortedatum": "1978-05-12"
   },
   "Gijs van Dijk": {
     "lijstnummer": 8,
@@ -16826,7 +17054,8 @@
     "links": {
       "instagram": "https://www.instagram.com/vandijk_gijs/",
       "email": "mailto:g.vdijk@tweedekamer.nl/",
-      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/dijk-gj-van-pvda"
+      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/dijk-gj-van-pvda",
+      "wikipedia": "https://nl.wikipedia.org/wiki/Gijs_van_Dijk"
     },
     "gemeente": "Texel",
     "provincie": "Noord-Holland",
@@ -16838,8 +17067,8 @@
       "instagram": "vandijk_gijs",
       "email": "g.vdijk@tweedekamer.nl"
     },
-    "leeftijd": 40,
-    "ancienniteit": "2017-03-22"
+    "ancienniteit": "2017-03-22",
+    "geboortedatum": "1980-10-27"
   },
   "Habtamu de Hoop": {
     "lijstnummer": 9,
@@ -16876,7 +17105,9 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Habtamu_de_Hoop"
+    },
     "gemeente": "Terschelling",
     "provincie": "Frysl\u00e2n",
     "kamerlid_2021": false,
@@ -16918,7 +17149,9 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Song\u00fcl_Mutluer"
+    },
     "gemeente": "Zaanstad",
     "provincie": "Noord-Holland",
     "kamerlid_2021": false,
@@ -16960,12 +17193,15 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Mohammed_Mohandis"
+    },
     "gemeente": "Gouda",
     "provincie": "Zuid-Holland",
     "kamerlid_2021": false,
     "fotos": [],
-    "socials": {}
+    "socials": {},
+    "geboortedatum": "1985-06-28"
   },
   "Kirsten van den Hul": {
     "lijstnummer": 12,
@@ -17005,7 +17241,8 @@
     "links": {
       "instagram": "https://www.instagram.com/thechangeagent/",
       "email": "mailto:k.vdhul@tweedekamer.nl/",
-      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/hul-kae-van-den-pvda"
+      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/hul-kae-van-den-pvda",
+      "wikipedia": "https://nl.wikipedia.org/wiki/Kirsten_van_den_Hul"
     },
     "gemeente": "Den Haag",
     "provincie": "Zuid-Holland",
@@ -17017,8 +17254,8 @@
       "instagram": "thechangeagent",
       "email": "k.vdhul@tweedekamer.nl"
     },
-    "leeftijd": 44,
-    "ancienniteit": "2017-03-22"
+    "ancienniteit": "2017-03-22",
+    "geboortedatum": "1976-08-18"
   },
   "Julian Bushoff": {
     "lijstnummer": 13,
@@ -17349,12 +17586,15 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Barbara_Oomen"
+    },
     "gemeente": "Middelburg",
     "provincie": "Zeeland",
     "kamerlid_2021": false,
     "fotos": [],
-    "socials": {}
+    "socials": {},
+    "geboortedatum": "1969-04-04"
   },
   "Inge Oosting": {
     "lijstnummer": 21,
@@ -17979,12 +18219,15 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Loes_Ypma"
+    },
     "gemeente": "Woerden",
     "provincie": "Utrecht",
     "kamerlid_2021": false,
     "fotos": [],
-    "socials": {}
+    "socials": {},
+    "geboortedatum": "1980-02-20"
   },
   "Jerzy Soetekouw": {
     "lijstnummer": 36,
@@ -18021,12 +18264,15 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Jerzy_Soetekouw"
+    },
     "gemeente": "Almere",
     "provincie": "Flevoland",
     "kamerlid_2021": false,
     "fotos": [],
-    "socials": {}
+    "socials": {},
+    "geboortedatum": "1988-06-13"
   },
   "Bas Bijlsma": {
     "lijstnummer": 37,
@@ -18189,12 +18435,15 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Yasin_Torunoglu"
+    },
     "gemeente": "Eindhoven",
     "provincie": "Noord-Brabant",
     "kamerlid_2021": false,
     "fotos": [],
-    "socials": {}
+    "socials": {},
+    "geboortedatum": "1982-05-16"
   },
   "Aya Selman": {
     "lijstnummer": 41,
@@ -18483,7 +18732,9 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Amma_Asante"
+    },
     "gemeente": "Haarlemmermeer",
     "provincie": "Noord-Holland",
     "kamerlid_2021": false,
@@ -18506,12 +18757,15 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Tjeerd_van_Dekken"
+    },
     "gemeente": "Groningen",
     "provincie": "Groningen",
     "kamerlid_2021": false,
     "fotos": [],
-    "socials": {}
+    "socials": {},
+    "geboortedatum": "1967-05-14"
   },
   "Laura Broekhuizen": {
     "lijstnummer": 49,
@@ -18594,12 +18848,15 @@
     "tweede_poging": true,
     "vorige_partij": "",
     "vorige_woonplaats": "Hoogland",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Gert-Jan_Segers"
+    },
     "gemeente": "Amersfoort",
     "provincie": "Utrecht",
     "kamerlid_2021": false,
     "fotos": [],
-    "socials": {}
+    "socials": {},
+    "geboortedatum": "1969-07-09"
   },
   "Carola Schouten": {
     "lijstnummer": 2,
@@ -18636,12 +18893,15 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Carola_Schouten"
+    },
     "gemeente": "Albrandswaard",
     "provincie": "Zuid-Holland",
     "kamerlid_2021": false,
     "fotos": [],
-    "socials": {}
+    "socials": {},
+    "geboortedatum": "1977-10-06"
   },
   "Mirjam Bikker": {
     "lijstnummer": 3,
@@ -18678,12 +18938,15 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Mirjam_Bikker"
+    },
     "gemeente": "Gouda",
     "provincie": "Zuid-Holland",
     "kamerlid_2021": false,
     "fotos": [],
-    "socials": {}
+    "socials": {},
+    "geboortedatum": "1982-09-08"
   },
   "Don Ceder": {
     "lijstnummer": 4,
@@ -18720,12 +18983,15 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Don_Ceder"
+    },
     "gemeente": "Amsterdam",
     "provincie": "Noord-Holland",
     "kamerlid_2021": false,
     "fotos": [],
-    "socials": {}
+    "socials": {},
+    "geboortedatum": "1989-10-20"
   },
   "Pieter Grinwis": {
     "lijstnummer": 5,
@@ -18810,7 +19076,8 @@
       "twitter": "https://twitter.com/StienekevdGraaf/",
       "facebook": "https://www.facebook.com/stienekevandergraafCU/",
       "web": "https://www.christenunie.nl/stienekevandergraaf/",
-      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/graaf-sjf-van-der-cu"
+      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/graaf-sjf-van-der-cu",
+      "wikipedia": "https://nl.wikipedia.org/wiki/Stieneke_van_der_Graaf"
     },
     "gemeente": "Groningen",
     "provincie": "Groningen",
@@ -18825,8 +19092,8 @@
       "facebook": "stienekevandergraafCU",
       "web": "https://www.christenunie.nl/stienekevandergraaf "
     },
-    "leeftijd": 36,
-    "ancienniteit": "2018-02-19"
+    "ancienniteit": "2018-02-19",
+    "geboortedatum": "1984-10-07"
   },
   "Eppo Bruins": {
     "lijstnummer": 7,
@@ -18869,7 +19136,8 @@
       "twitter": "https://twitter.com/eppobruins/",
       "facebook": "https://www.facebook.com/eppobruins/",
       "web": "https://www.christenunie.nl/eppo-bruins/",
-      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/bruins-eew-cu"
+      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/bruins-eew-cu",
+      "wikipedia": "https://nl.wikipedia.org/wiki/Eppo_Bruins"
     },
     "gemeente": "Ermelo",
     "provincie": "Gelderland",
@@ -18884,8 +19152,8 @@
       "facebook": "eppobruins",
       "web": "https://www.christenunie.nl/eppo-bruins "
     },
-    "leeftijd": 51,
-    "ancienniteit": "2015-12-01"
+    "ancienniteit": "2015-12-01",
+    "geboortedatum": "1969-09-19"
   },
   "Nico Drost": {
     "lijstnummer": 8,
@@ -18922,12 +19190,15 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Nico_Drost"
+    },
     "gemeente": "Rhenen",
     "provincie": "Utrecht",
     "kamerlid_2021": false,
     "fotos": [],
-    "socials": {}
+    "socials": {},
+    "geboortedatum": "1980-07-19"
   },
   "Hermen Vreugdenhil": {
     "lijstnummer": 9,
@@ -19048,7 +19319,9 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Frank_Visser"
+    },
     "gemeente": "Haarlem",
     "provincie": "Noord-Holland",
     "kamerlid_2021": false,
@@ -20686,12 +20959,15 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Henk_Stoorvogel"
+    },
     "gemeente": "Zwolle",
     "provincie": "Overijssel",
     "kamerlid_2021": false,
     "fotos": [],
-    "socials": {}
+    "socials": {},
+    "geboortedatum": "1977-08-14"
   },
   "Esther Ouwehand": {
     "lijstnummer": 1,
@@ -20732,7 +21008,8 @@
       "instagram": "https://www.instagram.com/esther_ouwehand_pvdd/",
       "email": "mailto:esther.ouwehand@tweedekamer.nl/",
       "web": "www.partijvoordedieren.nl/",
-      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/ouwehand-e-pvdd"
+      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/ouwehand-e-pvdd",
+      "wikipedia": "https://nl.wikipedia.org/wiki/Esther_Ouwehand"
     },
     "gemeente": "Leiden",
     "provincie": "Zuid-Holland",
@@ -20745,8 +21022,8 @@
       "email": "esther.ouwehand@tweedekamer.nl",
       "web": "www.partijvoordedieren.nl "
     },
-    "leeftijd": 44,
-    "ancienniteit": "2007-10-31"
+    "ancienniteit": "2007-10-31",
+    "geboortedatum": "1976-06-10"
   },
   "Christine Teunissen": {
     "lijstnummer": 2,
@@ -20783,12 +21060,15 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Christine_Teunissen"
+    },
     "gemeente": "Den Haag",
     "provincie": "Zuid-Holland",
     "kamerlid_2021": false,
     "fotos": [],
-    "socials": {}
+    "socials": {},
+    "geboortedatum": "1985-09-06"
   },
   "Leonie Vestering": {
     "lijstnummer": 3,
@@ -20825,12 +21105,15 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Leonie_Vestering"
+    },
     "gemeente": "Almere",
     "provincie": "Flevoland",
     "kamerlid_2021": false,
     "fotos": [],
-    "socials": {}
+    "socials": {},
+    "geboortedatum": "1984-03-13"
   },
   "Frank Wassenberg": {
     "lijstnummer": 4,
@@ -20870,7 +21153,8 @@
     "links": {
       "instagram": "https://www.instagram.com/frankwassenberg/",
       "email": "mailto:Frank.wassenberg@tweedekamer.nl/",
-      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/wassenberg-fp-pvdd"
+      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/wassenberg-fp-pvdd",
+      "wikipedia": "https://nl.wikipedia.org/wiki/Frank_Wassenberg"
     },
     "gemeente": "Sittard-Geleen",
     "provincie": "Limburg",
@@ -20882,8 +21166,8 @@
       "instagram": "frankwassenberg",
       "email": "Frank.wassenberg@tweedekamer.nl"
     },
-    "leeftijd": 54,
-    "ancienniteit": "2016-04-20"
+    "ancienniteit": "2016-04-20",
+    "geboortedatum": "1966-05-02"
   },
   "Lammert van Raan": {
     "lijstnummer": 5,
@@ -20922,7 +21206,8 @@
     "vorige_woonplaats": "",
     "links": {
       "email": "mailto:Lammert.vanraan@tweedekamer.nl/",
-      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/raan-l-van-pvdd"
+      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/raan-l-van-pvdd",
+      "wikipedia": "https://nl.wikipedia.org/wiki/Lammert_van_Raan"
     },
     "gemeente": "Amsterdam",
     "provincie": "Noord-Holland",
@@ -20933,8 +21218,8 @@
     "socials": {
       "email": "Lammert.vanraan@tweedekamer.nl"
     },
-    "leeftijd": 59,
-    "ancienniteit": "2017-03-22"
+    "ancienniteit": "2017-03-22",
+    "geboortedatum": "1962-02-03"
   },
   "Eva van Esch": {
     "lijstnummer": 6,
@@ -20973,7 +21258,8 @@
     "vorige_woonplaats": "",
     "links": {
       "email": "mailto:eva.vanesch@tweedekamer.nl/",
-      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/esch-em-van-pvdd"
+      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/esch-em-van-pvdd",
+      "wikipedia": "https://nl.wikipedia.org/wiki/Eva_van_Esch"
     },
     "gemeente": "Utrecht",
     "provincie": "Utrecht",
@@ -20984,8 +21270,8 @@
     "socials": {
       "email": "eva.vanesch@tweedekamer.nl"
     },
-    "leeftijd": 34,
-    "ancienniteit": "2019-10-08"
+    "ancienniteit": "2019-10-08",
+    "geboortedatum": "1986-05-12"
   },
   "Eva Akerboom": {
     "lijstnummer": 7,
@@ -21022,12 +21308,15 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Eva_Akerboom"
+    },
     "gemeente": "Amsterdam",
     "provincie": "Noord-Holland",
     "kamerlid_2021": false,
     "fotos": [],
-    "socials": {}
+    "socials": {},
+    "geboortedatum": "1992-03-12"
   },
   "Pascale Plusquin": {
     "lijstnummer": 8,
@@ -21064,12 +21353,15 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Pascale_Plusquin"
+    },
     "gemeente": "Heerlen",
     "provincie": "Limburg",
     "kamerlid_2021": false,
     "fotos": [],
-    "socials": {}
+    "socials": {},
+    "geboortedatum": "1974-03-10"
   },
   "Maarten van Heuven": {
     "lijstnummer": 9,
@@ -21526,7 +21818,9 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Robert_Barker"
+    },
     "gemeente": "Den Haag",
     "provincie": "Zuid-Holland",
     "kamerlid_2021": false,
@@ -22198,12 +22492,15 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Luuk_Folkerts"
+    },
     "gemeente": "Olst-Wijhe",
     "provincie": "Overijssel",
     "kamerlid_2021": false,
     "fotos": [],
-    "socials": {}
+    "socials": {},
+    "geboortedatum": "1963-03-10"
   },
   "Mensje van der Steen": {
     "lijstnummer": 36,
@@ -22282,12 +22579,15 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Maryam_Hassouni"
+    },
     "gemeente": "Amsterdam",
     "provincie": "Noord-Holland",
     "kamerlid_2021": false,
     "fotos": [],
-    "socials": {}
+    "socials": {},
+    "geboortedatum": "1985-09-21"
   },
   "Eva Meijer": {
     "lijstnummer": 38,
@@ -22366,12 +22666,15 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Bibi_Dumon_Tak"
+    },
     "gemeente": "Waterland",
     "provincie": "Noord-Holland",
     "kamerlid_2021": false,
     "fotos": [],
-    "socials": {}
+    "socials": {},
+    "geboortedatum": "1964-12-21"
   },
   "Miryanna Boom": {
     "lijstnummer": 40,
@@ -22450,12 +22753,15 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Babette_van_Veen"
+    },
     "gemeente": "De Bilt",
     "provincie": "Utrecht",
     "kamerlid_2021": false,
     "fotos": [],
-    "socials": {}
+    "socials": {},
+    "geboortedatum": "1968-04-30"
   },
   "Chatilla van Grinsven": {
     "lijstnummer": 42,
@@ -22492,12 +22798,15 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Chatilla_van_Grinsven"
+    },
     "gemeente": "'s-Hertogenbosch",
     "provincie": "Noord-Brabant",
     "kamerlid_2021": false,
     "fotos": [],
-    "socials": {}
+    "socials": {},
+    "geboortedatum": "1991-02-23"
   },
   "Naphassa Parinussa": {
     "lijstnummer": 43,
@@ -22618,12 +22927,15 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Barbara_Stok"
+    },
     "gemeente": "Groningen",
     "provincie": "Groningen",
     "kamerlid_2021": false,
     "fotos": [],
-    "socials": {}
+    "socials": {},
+    "geboortedatum": "1970-02-24"
   },
   "Guus Kuijer": {
     "lijstnummer": 46,
@@ -22660,12 +22972,15 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Guus_Kuijer"
+    },
     "gemeente": "Alkmaar",
     "provincie": "Noord-Holland",
     "kamerlid_2021": false,
     "fotos": [],
-    "socials": {}
+    "socials": {},
+    "geboortedatum": "1942-08-01"
   },
   "Anoek Nuijens": {
     "lijstnummer": 47,
@@ -22828,12 +23143,15 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Marianne_Thieme"
+    },
     "gemeente": "Renkum",
     "provincie": "Gelderland",
     "kamerlid_2021": false,
     "fotos": [],
-    "socials": {}
+    "socials": {},
+    "geboortedatum": "1972-03-06"
   },
   "Liane den Haan": {
     "lijstnummer": 1,
@@ -22870,12 +23188,15 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Liane_den_Haan"
+    },
     "gemeente": "Woerden",
     "provincie": "Utrecht",
     "kamerlid_2021": false,
     "fotos": [],
-    "socials": {}
+    "socials": {},
+    "geboortedatum": "1967-08-24"
   },
   "Raymond Brood": {
     "lijstnummer": 2,
@@ -24046,7 +24367,9 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Frans_Mol"
+    },
     "gemeente": "Helmond",
     "provincie": "Noord-Brabant",
     "kamerlid_2021": false,
@@ -24130,12 +24453,15 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Peter_van_Lier"
+    },
     "gemeente": "Breda",
     "provincie": "Noord-Brabant",
     "kamerlid_2021": false,
     "fotos": [],
-    "socials": {}
+    "socials": {},
+    "geboortedatum": "1960-12-23"
   },
   "Herman Nota": {
     "lijstnummer": 32,
@@ -24510,7 +24836,8 @@
     "vorige_woonplaats": "",
     "links": {
       "email": "mailto:l.sazias@tweedekamer.nl/",
-      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/sazias-l-50plus"
+      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/sazias-l-50plus",
+      "wikipedia": "https://nl.wikipedia.org/wiki/Leonie_Sazias"
     },
     "gemeente": "Hilversum",
     "provincie": "Noord-Holland",
@@ -24521,8 +24848,8 @@
     "socials": {
       "email": "l.sazias@tweedekamer.nl"
     },
-    "leeftijd": 63,
-    "ancienniteit": "2017-11-01"
+    "ancienniteit": "2017-11-01",
+    "geboortedatum": "1957-07-27"
   },
   "Kees van der Staaij": {
     "lijstnummer": 1,
@@ -24563,7 +24890,8 @@
       "instagram": "https://www.instagram.com/keesvanderstaaij/",
       "email": "mailto:C.vdStaaij@tweedekamer.nl/",
       "web": "www.sgp.nl/",
-      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/staaij-cg-van-der-sgp"
+      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/staaij-cg-van-der-sgp",
+      "wikipedia": "https://nl.wikipedia.org/wiki/Kees_van_der_Staaij"
     },
     "gemeente": "Alphen aan den Rijn",
     "provincie": "Zuid-Holland",
@@ -24576,8 +24904,8 @@
       "email": "C.vdStaaij@tweedekamer.nl",
       "web": "www.sgp.nl "
     },
-    "leeftijd": 52,
-    "ancienniteit": "1998-05-18"
+    "ancienniteit": "1998-05-18",
+    "geboortedatum": "1968-09-12"
   },
   "Chris Stoffer": {
     "lijstnummer": 2,
@@ -24617,7 +24945,8 @@
     "links": {
       "instagram": "https://www.instagram.com/stoffer.chris/",
       "email": "mailto:c.stoffer@tweedekamer.nl/",
-      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/stoffer-c-sgp"
+      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/stoffer-c-sgp",
+      "wikipedia": "https://nl.wikipedia.org/wiki/Chris_Stoffer"
     },
     "gemeente": "Nunspeet",
     "provincie": "Gelderland",
@@ -24629,8 +24958,8 @@
       "instagram": "stoffer.chris",
       "email": "c.stoffer@tweedekamer.nl"
     },
-    "leeftijd": 46,
-    "ancienniteit": "2018-04-10"
+    "ancienniteit": "2018-04-10",
+    "geboortedatum": "1974-09-19"
   },
   "Roelof Bisschop": {
     "lijstnummer": 3,
@@ -24669,7 +24998,8 @@
     "vorige_woonplaats": "",
     "links": {
       "email": "mailto:r.bisschop@tweedekamer.nl/",
-      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/bisschop-r-sgp"
+      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/bisschop-r-sgp",
+      "wikipedia": "https://nl.wikipedia.org/wiki/Roelof_Bisschop"
     },
     "gemeente": "Veenendaal",
     "provincie": "Utrecht",
@@ -24680,8 +25010,8 @@
     "socials": {
       "email": "r.bisschop@tweedekamer.nl"
     },
-    "leeftijd": 64,
-    "ancienniteit": "2012-09-19"
+    "ancienniteit": "2012-09-19",
+    "geboortedatum": "1956-11-30"
   },
   "Andr\u00e9 Flach": {
     "lijstnummer": 4,
@@ -24760,12 +25090,15 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Diederik_van_Dijk"
+    },
     "gemeente": "Alphen aan den Rijn",
     "provincie": "Zuid-Holland",
     "kamerlid_2021": false,
     "fotos": [],
-    "socials": {}
+    "socials": {},
+    "geboortedatum": "1971-11-22"
   },
   "Wouter van den Berg": {
     "lijstnummer": 6,
@@ -25180,12 +25513,15 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Harry_van_der_Maas"
+    },
     "gemeente": "Veere",
     "provincie": "Zeeland",
     "kamerlid_2021": false,
     "fotos": [],
-    "socials": {}
+    "socials": {},
+    "geboortedatum": "1971-03-10"
   },
   "Hans Tanis": {
     "lijstnummer": 16,
@@ -25474,12 +25810,15 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Tom_Bakker"
+    },
     "gemeente": "Dantumadiel",
     "provincie": "Frysl\u00e2n",
     "kamerlid_2021": false,
     "fotos": [],
-    "socials": {}
+    "socials": {},
+    "geboortedatum": "1971-11-04"
   },
   "Wim Kok": {
     "lijstnummer": 23,
@@ -25516,7 +25855,9 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Wim_Kok"
+    },
     "gemeente": "Middelburg",
     "provincie": "Zeeland",
     "kamerlid_2021": false,
@@ -26025,7 +26366,8 @@
       "email": "mailto:f.azarkan@tweedekamer.nl/",
       "twitter": "https://twitter.com/F_azarkan/",
       "facebook": "https://www.facebook.com/faridazarkannl/",
-      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/azarkan-f-denk"
+      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/azarkan-f-denk",
+      "wikipedia": "https://nl.wikipedia.org/wiki/Farid_Azarkan"
     },
     "gemeente": "Culemborg",
     "provincie": "Gelderland",
@@ -26039,8 +26381,8 @@
       "twitter": "@F_azarkan",
       "facebook": "faridazarkannl"
     },
-    "leeftijd": 49,
-    "ancienniteit": "2017-03-22"
+    "ancienniteit": "2017-03-22",
+    "geboortedatum": "1971-10-16"
   },
   "Tunahan Kuzu": {
     "lijstnummer": 2,
@@ -26080,7 +26422,8 @@
     "links": {
       "instagram": "https://www.instagram.com/tunahankuzunl/",
       "email": "mailto:t.kuzu@tweedekamer.nl/",
-      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/kuzu-t-denk"
+      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/kuzu-t-denk",
+      "wikipedia": "https://nl.wikipedia.org/wiki/Tunahan_Kuzu"
     },
     "gemeente": "Albrandswaard",
     "provincie": "Zuid-Holland",
@@ -26092,8 +26435,8 @@
       "instagram": "tunahankuzunl",
       "email": "t.kuzu@tweedekamer.nl"
     },
-    "leeftijd": 39,
-    "ancienniteit": "2012-09-19"
+    "ancienniteit": "2012-09-19",
+    "geboortedatum": "1981-06-05"
   },
   "Stephan van Baarle": {
     "lijstnummer": 3,
@@ -26550,7 +26893,9 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Ahmet_Kaya"
+    },
     "gemeente": "Deventer",
     "provincie": "Overijssel",
     "kamerlid_2021": false,
@@ -29062,12 +29407,15 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Sylvana_Simons"
+    },
     "gemeente": "Ouder-Amstel",
     "provincie": "Noord-Holland",
     "kamerlid_2021": false,
     "fotos": [],
-    "socials": {}
+    "socials": {},
+    "geboortedatum": "1971-01-31"
   },
   "Quinsy Gario": {
     "lijstnummer": 2,
@@ -29104,12 +29452,15 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Quinsy_Gario"
+    },
     "gemeente": "Amsterdam",
     "provincie": "Noord-Holland",
     "kamerlid_2021": false,
     "fotos": [],
-    "socials": {}
+    "socials": {},
+    "geboortedatum": "1984-04-07"
   },
   "Rebekka Timmer": {
     "lijstnummer": 3,
@@ -29146,12 +29497,15 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Rebekka_Timmer"
+    },
     "gemeente": "Hilversum",
     "provincie": "Noord-Holland",
     "kamerlid_2021": false,
     "fotos": [],
-    "socials": {}
+    "socials": {},
+    "geboortedatum": "1999-01-10"
   },
   "Jeanette Chedda": {
     "lijstnummer": 4,
@@ -29314,12 +29668,15 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Lennon_Fokkens"
+    },
     "gemeente": "Haarlem",
     "provincie": "Noord-Holland",
     "kamerlid_2021": false,
     "fotos": [],
-    "socials": {}
+    "socials": {},
+    "geboortedatum": "1994-12-26"
   },
   "Nih\u00e2l Altmi\u015f": {
     "lijstnummer": 8,
@@ -29692,12 +30049,15 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Gloria_Wekker"
+    },
     "gemeente": "Amsterdam",
     "provincie": "Noord-Holland",
     "kamerlid_2021": false,
     "fotos": [],
-    "socials": {}
+    "socials": {},
+    "geboortedatum": "1950-06-13"
   },
   "Anousha Nzume": {
     "lijstnummer": 17,
@@ -29734,12 +30094,15 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Anousha_Nzume"
+    },
     "gemeente": "Overig",
     "provincie": "Overig",
     "kamerlid_2021": false,
     "fotos": [],
-    "socials": {}
+    "socials": {},
+    "geboortedatum": "1969-07-12"
   },
   "Romana Vrede": {
     "lijstnummer": 18,
@@ -29776,12 +30139,15 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Romana_Vrede"
+    },
     "gemeente": "Albrandswaard",
     "provincie": "Zuid-Holland",
     "kamerlid_2021": false,
     "fotos": [],
-    "socials": {}
+    "socials": {},
+    "geboortedatum": "1972-10-24"
   },
   "Joost Eerdmans": {
     "lijstnummer": 1,
@@ -29818,12 +30184,15 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Joost_Eerdmans"
+    },
     "gemeente": "Albrandswaard",
     "provincie": "Zuid-Holland",
     "kamerlid_2021": false,
     "fotos": [],
-    "socials": {}
+    "socials": {},
+    "geboortedatum": "1971-01-09"
   },
   "Nicki Pouw-Verweij": {
     "lijstnummer": 2,
@@ -29860,12 +30229,15 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Nicki_Pouw-Verweij"
+    },
     "gemeente": "Stichtse Vecht",
     "provincie": "Utrecht",
     "kamerlid_2021": false,
     "fotos": [],
-    "socials": {}
+    "socials": {},
+    "geboortedatum": "1991-05-21"
   },
   "Derk Jan Eppink": {
     "lijstnummer": 3,
@@ -29902,7 +30274,9 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Derk_Jan_Eppink"
+    },
     "gemeente": "Den Haag",
     "provincie": "Zuid-Holland",
     "kamerlid_2021": false,
@@ -30070,7 +30444,9 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Jan_Cees_Vogelaar"
+    },
     "gemeente": "Lelystad",
     "provincie": "Flevoland",
     "kamerlid_2021": false,
@@ -30490,12 +30866,15 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Ruud_Burlet"
+    },
     "gemeente": "Sittard-Geleen",
     "provincie": "Limburg",
     "kamerlid_2021": false,
     "fotos": [],
-    "socials": {}
+    "socials": {},
+    "geboortedatum": "1957-01-05"
   },
   "Johan Almekinders": {
     "lijstnummer": 18,
@@ -30826,12 +31205,15 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Loek_van_Wely"
+    },
     "gemeente": "Oss",
     "provincie": "Noord-Brabant",
     "kamerlid_2021": false,
     "fotos": [],
-    "socials": {}
+    "socials": {},
+    "geboortedatum": "1972-10-07"
   },
   "Roy Blijlevens": {
     "lijstnummer": 26,
@@ -30952,12 +31334,15 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Rob_Roos"
+    },
     "gemeente": "Albrandswaard",
     "provincie": "Zuid-Holland",
     "kamerlid_2021": false,
     "fotos": [],
-    "socials": {}
+    "socials": {},
+    "geboortedatum": "1966-08-02"
   },
   "Ronald S\u00f6rensen": {
     "lijstnummer": 29,
@@ -30994,12 +31379,15 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Ronald_S\u00f6rensen"
+    },
     "gemeente": "Albrandswaard",
     "provincie": "Zuid-Holland",
     "kamerlid_2021": false,
     "fotos": [],
-    "socials": {}
+    "socials": {},
+    "geboortedatum": "1947-05-04"
   },
   "Annabel Nanninga": {
     "lijstnummer": 30,
@@ -31036,12 +31424,15 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Annabel_Nanninga"
+    },
     "gemeente": "Amsterdam",
     "provincie": "Noord-Holland",
     "kamerlid_2021": false,
     "fotos": [],
-    "socials": {}
+    "socials": {},
+    "geboortedatum": "1977-11-06"
   },
   "Richard de Mos": {
     "lijstnummer": 1,
@@ -31078,12 +31469,15 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Richard_de_Mos"
+    },
     "gemeente": "Den Haag",
     "provincie": "Zuid-Holland",
     "kamerlid_2021": false,
     "fotos": [],
-    "socials": {}
+    "socials": {},
+    "geboortedatum": "1976-05-05"
   },
   "Peter Plasman": {
     "lijstnummer": 2,
@@ -31120,12 +31514,15 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Peter_Plasman"
+    },
     "gemeente": "Amsterdam",
     "provincie": "Noord-Holland",
     "kamerlid_2021": false,
     "fotos": [],
-    "socials": {}
+    "socials": {},
+    "geboortedatum": "1952-03-13"
   },
   "Tanya Hoogwerf": {
     "lijstnummer": 3,
@@ -31204,12 +31601,15 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Ruud_Koornstra"
+    },
     "gemeente": "Arnhem",
     "provincie": "Gelderland",
     "kamerlid_2021": false,
     "fotos": [],
-    "socials": {}
+    "socials": {},
+    "geboortedatum": "1964-10-18"
   },
   "Mick de Vlieger": {
     "lijstnummer": 5,
@@ -31412,12 +31812,15 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Hannie_Stuurman"
+    },
     "gemeente": "Goeree-Overflakkee",
     "provincie": "Zuid-Holland",
     "kamerlid_2021": false,
     "fotos": [],
-    "socials": {}
+    "socials": {},
+    "geboortedatum": "1963-10-28"
   },
   "\u00d6ner \u00c7atalpinar": {
     "lijstnummer": 10,
@@ -31900,7 +32303,9 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Koert_Westerman"
+    },
     "gemeente": "Oudewater",
     "provincie": "Utrecht",
     "kamerlid_2021": false,
@@ -32305,12 +32710,15 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Wil_van_Soest"
+    },
     "gemeente": "Amsterdam",
     "provincie": "Noord-Holland",
     "kamerlid_2021": false,
     "fotos": [],
-    "socials": {}
+    "socials": {},
+    "geboortedatum": "1936-10-22"
   },
   "Vanessa Bruin": {
     "lijstnummer": 32,
@@ -32472,7 +32880,9 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Peter_van_der_Velden"
+    },
     "gemeente": "Nissewaard",
     "provincie": "Zuid-Holland",
     "kamerlid_2021": false,
@@ -33067,12 +33477,15 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Bert_Blase"
+    },
     "gemeente": "Papendrecht",
     "provincie": "Zuid-Holland",
     "kamerlid_2021": false,
     "fotos": [],
-    "socials": {}
+    "socials": {},
+    "geboortedatum": "1959-04-14"
   },
   "Laurens Dassen": {
     "lijstnummer": 1,
@@ -33109,7 +33522,9 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Laurens_Dassen"
+    },
     "gemeente": "Amsterdam",
     "provincie": "Noord-Holland",
     "kamerlid_2021": false,
@@ -33151,7 +33566,9 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Nil\u00fcfer_G\u00fcndo\u011fan"
+    },
     "gemeente": "Amsterdam",
     "provincie": "Noord-Holland",
     "kamerlid_2021": false,
@@ -34117,12 +34534,15 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Theo_Doreleijers"
+    },
     "gemeente": "Amsterdam",
     "provincie": "Noord-Holland",
     "kamerlid_2021": false,
     "fotos": [],
-    "socials": {}
+    "socials": {},
+    "geboortedatum": "1948-06-14"
   },
   "Elske Kroesen": {
     "lijstnummer": 26,
@@ -34243,12 +34663,15 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Reinier_van_Lanschot"
+    },
     "gemeente": "Amsterdam",
     "provincie": "Noord-Holland",
     "kamerlid_2021": false,
     "fotos": [],
-    "socials": {}
+    "socials": {},
+    "geboortedatum": "1989-09-07"
   },
   "Nourdin El Ouali": {
     "lijstnummer": 1,
@@ -34285,12 +34708,15 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Nourdin_El_Ouali"
+    },
     "gemeente": "Albrandswaard",
     "provincie": "Zuid-Holland",
     "kamerlid_2021": false,
     "fotos": [],
-    "socials": {}
+    "socials": {},
+    "geboortedatum": "1981-01-10"
   },
   "Elsa van de Loo": {
     "lijstnummer": 2,
@@ -35587,7 +36013,9 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Matthijs_Pontier"
+    },
     "gemeente": "Amsterdam",
     "provincie": "Noord-Holland",
     "kamerlid_2021": false,
@@ -36763,7 +37191,9 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Robert_Valentine"
+    },
     "gemeente": "Amsterdam",
     "provincie": "Noord-Holland",
     "kamerlid_2021": false,
@@ -37687,12 +38117,15 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Sander_Fischer"
+    },
     "gemeente": "Buren",
     "provincie": "Gelderland",
     "kamerlid_2021": false,
     "fotos": [],
-    "socials": {}
+    "socials": {},
+    "geboortedatum": "1988-09-03"
   },
   "Joeri Jungschlager": {
     "lijstnummer": 24,
@@ -38023,12 +38456,15 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Arno_Wellens"
+    },
     "gemeente": "Amsterdam",
     "provincie": "Noord-Holland",
     "kamerlid_2021": false,
     "fotos": [],
-    "socials": {}
+    "socials": {},
+    "geboortedatum": "1978-02-02"
   },
   "Jaron Tichelaar": {
     "lijstnummer": 1,
@@ -38761,12 +39197,15 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Jan_Geelen"
+    },
     "gemeente": "S\u00fadwest-Frysl\u00e2n",
     "provincie": "Frysl\u00e2n",
     "kamerlid_2021": false,
     "fotos": [],
-    "socials": {}
+    "socials": {},
+    "geboortedatum": "1896-08-11"
   },
   "Femke Merel van Kooten-Arissen": {
     "lijstnummer": 1,
@@ -38806,7 +39245,8 @@
       "email": "mailto:femkemerelvankooten@tweedekamer.nl/",
       "twitter": "https://twitter.com/FemkeMerel/",
       "instagram": "https://www.instagram.com/fmvankooten/",
-      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/kooten-arissen-fm-van-vka"
+      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/kooten-arissen-fm-van-vka",
+      "wikipedia": "https://nl.wikipedia.org/wiki/Femke_Merel_van_Kooten-Arissen"
     },
     "gemeente": "Woerden",
     "provincie": "Utrecht",
@@ -38819,8 +39259,8 @@
       "twitter": "@FemkeMerel",
       "instagram": "fmvankooten"
     },
-    "leeftijd": 37,
-    "ancienniteit": "2017-07-12"
+    "ancienniteit": "2017-07-12",
+    "geboortedatum": "1983-11-09"
   },
   "Marjan Schnetz": {
     "lijstnummer": 2,
@@ -39266,7 +39706,9 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Meiny_Prins"
+    },
     "gemeente": "Overig",
     "provincie": "Overig",
     "kamerlid_2021": false,
@@ -40373,12 +40815,15 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Esther_van_Fenema"
+    },
     "gemeente": "Utrechtse Heuvelrug",
     "provincie": "Utrecht",
     "kamerlid_2021": false,
     "fotos": [],
-    "socials": {}
+    "socials": {},
+    "geboortedatum": "1970-11-25"
   },
   "Ton van Haperen": {
     "lijstnummer": 2,
@@ -40455,12 +40900,15 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Janneke_Wittekoek"
+    },
     "gemeente": "Stichtse Vecht",
     "provincie": "Utrecht",
     "kamerlid_2021": false,
     "fotos": [],
-    "socials": {}
+    "socials": {},
+    "geboortedatum": "1969-03-10"
   },
   "Ronald Mann": {
     "lijstnummer": 4,
@@ -40578,12 +41026,15 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Gerrit_Breteler"
+    },
     "gemeente": "Heerenveen",
     "provincie": "Frysl\u00e2n",
     "kamerlid_2021": false,
     "fotos": [],
-    "socials": {}
+    "socials": {},
+    "geboortedatum": "1954-03-10"
   },
   "Meindert Bolt": {
     "lijstnummer": 7,
@@ -40783,12 +41234,15 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Fred_Schonewille"
+    },
     "gemeente": "Deventer",
     "provincie": "Overijssel",
     "kamerlid_2021": false,
     "fotos": [],
-    "socials": {}
+    "socials": {},
+    "geboortedatum": "1969-03-03"
   },
   "Maurice Leeser": {
     "lijstnummer": 12,
@@ -40950,7 +41404,8 @@
     "links": {
       "instagram": "https://www.instagram.com/henk_krol/",
       "email": "mailto:h.krol@tweedekamer.nl/",
-      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/krol-hcm-krol"
+      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/krol-hcm-krol",
+      "wikipedia": "https://nl.wikipedia.org/wiki/Henk_Krol"
     },
     "gemeente": "Eindhoven",
     "provincie": "Noord-Brabant",
@@ -40962,8 +41417,8 @@
       "instagram": "henk_krol",
       "email": "h.krol@tweedekamer.nl"
     },
-    "leeftijd": 70,
-    "ancienniteit": "2013-08-26"
+    "ancienniteit": "2013-08-26",
+    "geboortedatum": "1950-04-01"
   },
   "Rosa Molenaar": {
     "lijstnummer": 2,
@@ -41040,7 +41495,9 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Dick_van_Zanten"
+    },
     "gemeente": "Gorinchem",
     "provincie": "Zuid-Holland",
     "kamerlid_2021": false,
@@ -41245,12 +41702,15 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Rob_Cohen"
+    },
     "gemeente": "Almere",
     "provincie": "Flevoland",
     "kamerlid_2021": false,
     "fotos": [],
-    "socials": {}
+    "socials": {},
+    "geboortedatum": "1949-03-12"
   },
   "Daan Pruimboom": {
     "lijstnummer": 9,
@@ -41573,12 +42033,15 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Ger_de_Groot"
+    },
     "gemeente": "Buren",
     "provincie": "Gelderland",
     "kamerlid_2021": false,
     "fotos": [],
-    "socials": {}
+    "socials": {},
+    "geboortedatum": "1941-09-04"
   },
   "Janneke Koning": {
     "lijstnummer": 17,
@@ -41942,12 +42405,15 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Dannij_van_der_Sluijs"
+    },
     "gemeente": "Uitgeest",
     "provincie": "Noord-Holland",
     "kamerlid_2021": false,
     "fotos": [],
-    "socials": {}
+    "socials": {},
+    "geboortedatum": "1963-09-24"
   },
   "Jos\u00e9 Imlabla": {
     "lijstnummer": 4,
@@ -43920,12 +44386,15 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Johan_Vlemmix"
+    },
     "gemeente": "Heeze-Leende",
     "provincie": "Noord-Brabant",
     "kamerlid_2021": false,
     "fotos": [],
-    "socials": {}
+    "socials": {},
+    "geboortedatum": "1959-02-04"
   },
   "Bas Filippini": {
     "lijstnummer": 1,
@@ -44066,12 +44535,15 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Theo_Vos"
+    },
     "gemeente": "Lochem",
     "provincie": "Gelderland",
     "kamerlid_2021": false,
     "fotos": [],
-    "socials": {}
+    "socials": {},
+    "geboortedatum": "1887-04-04"
   },
   "Christian Kromme": {
     "lijstnummer": 6,
@@ -44162,12 +44634,15 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Norbert_Klein"
+    },
     "gemeente": "Nijkerk",
     "provincie": "Gelderland",
     "kamerlid_2021": false,
     "fotos": [],
-    "socials": {}
+    "socials": {},
+    "geboortedatum": "1956-03-01"
   },
   "Kees van Driel": {
     "lijstnummer": 9,
@@ -44494,12 +44969,15 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Bearn_Bilker"
+    },
     "gemeente": "Noardeast-Frysl\u00e2n",
     "provincie": "Frysl\u00e2n",
     "kamerlid_2021": false,
     "fotos": [],
-    "socials": {}
+    "socials": {},
+    "geboortedatum": "1952-12-12"
   },
   "Jouke Spoelstra": {
     "lijstnummer": 64,
@@ -44586,7 +45064,9 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Wil_van_den_Berg"
+    },
     "gemeente": "Noardeast-Frysl\u00e2n",
     "provincie": "Frysl\u00e2n",
     "kamerlid_2021": false,
@@ -44632,12 +45112,15 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Joop_Atsma"
+    },
     "gemeente": "Achtkarspelen",
     "provincie": "Frysl\u00e2n",
     "kamerlid_2021": false,
     "fotos": [],
-    "socials": {}
+    "socials": {},
+    "geboortedatum": "1956-07-06"
   },
   "Uilkje Attema-de Groot": {
     "lijstnummer": 70,
@@ -44678,12 +45161,15 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Sietske_Poepjes"
+    },
     "gemeente": "S\u00fadwest-Frysl\u00e2n",
     "provincie": "Frysl\u00e2n",
     "kamerlid_2021": false,
     "fotos": [],
-    "socials": {}
+    "socials": {},
+    "geboortedatum": "1979-08-21"
   },
   "Jieskje Hollander": {
     "lijstnummer": 72,
@@ -44724,12 +45210,15 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Magda_Berndsen"
+    },
     "gemeente": "Noardeast-Frysl\u00e2n",
     "provincie": "Frysl\u00e2n",
     "kamerlid_2021": false,
     "fotos": [],
-    "socials": {}
+    "socials": {},
+    "geboortedatum": "1950-05-04"
   },
   "Hayo Apotheker": {
     "lijstnummer": 74,
@@ -44747,12 +45236,15 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Hayo_Apotheker"
+    },
     "gemeente": "Leeuwarden",
     "provincie": "Frysl\u00e2n",
     "kamerlid_2021": false,
     "fotos": [],
-    "socials": {}
+    "socials": {},
+    "geboortedatum": "1950-06-05"
   },
   "Sjoerd Feitsma": {
     "lijstnummer": 48,
@@ -44881,12 +45373,15 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Otto_ter_Haar"
+    },
     "gemeente": "Utrecht",
     "provincie": "Utrecht",
     "kamerlid_2021": false,
     "fotos": [],
-    "socials": {}
+    "socials": {},
+    "geboortedatum": "1943-08-09"
   },
   "Angela Zikking": {
     "lijstnummer": 2,
@@ -45792,12 +46287,15 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Henk_Jumelet"
+    },
     "gemeente": "Emmen",
     "provincie": "Drenthe",
     "kamerlid_2021": false,
     "fotos": [],
-    "socials": {}
+    "socials": {},
+    "geboortedatum": "1962-03-17"
   },
   "Henk Pragt": {
     "lijstnummer": 72,
@@ -45964,7 +46462,9 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Anna_Zeven"
+    },
     "gemeente": "Den Haag",
     "provincie": "Zuid-Holland",
     "kamerlid_2021": false,
@@ -45998,12 +46498,15 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Willem_Engel"
+    },
     "gemeente": "Albrandswaard",
     "provincie": "Zuid-Holland",
     "kamerlid_2021": false,
     "fotos": [],
-    "socials": {}
+    "socials": {},
+    "geboortedatum": "1977-03-10"
   },
   "Mordechai Krispijn": {
     "lijstnummer": 3,
@@ -46508,7 +47011,9 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Ab_Gietelink"
+    },
     "gemeente": "Amsterdam",
     "provincie": "Noord-Holland",
     "kamerlid_2021": false,
@@ -46542,12 +47047,15 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Kees_van_der_Pijl"
+    },
     "gemeente": "Amsterdam",
     "provincie": "Noord-Holland",
     "kamerlid_2021": false,
     "fotos": [],
-    "socials": {}
+    "socials": {},
+    "geboortedatum": "1947-06-15"
   },
   "Niels Heeze": {
     "lijstnummer": 1,
@@ -46871,12 +47379,15 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Yme_Drost"
+    },
     "gemeente": "Hengelo",
     "provincie": "Overijssel",
     "kamerlid_2021": false,
     "fotos": [],
-    "socials": {}
+    "socials": {},
+    "geboortedatum": "1961-11-06"
   },
   "Jan Nabers": {
     "lijstnummer": 55,
@@ -47032,7 +47543,9 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Theo_Schouten"
+    },
     "gemeente": "Almelo",
     "provincie": "Overijssel",
     "kamerlid_2021": false,
@@ -47108,7 +47621,9 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Arnoud_van_Doorn"
+    },
     "gemeente": "Den Haag",
     "provincie": "Zuid-Holland",
     "kamerlid_2021": false,
@@ -47434,12 +47949,15 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Wim_Elsthout"
+    },
     "gemeente": "Haarlem",
     "provincie": "Noord-Holland",
     "kamerlid_2021": false,
     "fotos": [],
-    "socials": {}
+    "socials": {},
+    "geboortedatum": "1963-06-06"
   },
   "Georges Scheffer": {
     "lijstnummer": 3,
@@ -47602,12 +48120,15 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Johan_Mulder"
+    },
     "gemeente": "Enschede",
     "provincie": "Overijssel",
     "kamerlid_2021": false,
     "fotos": [],
-    "socials": {}
+    "socials": {},
+    "geboortedatum": "1920-06-13"
   },
   "Adriana Gilles": {
     "lijstnummer": 9,
@@ -47727,12 +48248,15 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Jan-Nico_Appelman"
+    },
     "gemeente": "Lelystad",
     "provincie": "Flevoland",
     "kamerlid_2021": false,
     "fotos": [],
-    "socials": {}
+    "socials": {},
+    "geboortedatum": "1968-03-10"
   },
   "Aart Reussing": {
     "lijstnummer": 55,
@@ -48118,7 +48642,9 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Sanne_de_Wilde"
+    },
     "gemeente": "Lelystad",
     "provincie": "Flevoland",
     "kamerlid_2021": false,
@@ -48164,12 +48690,15 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Michiel_Rijsberman"
+    },
     "gemeente": "Almere",
     "provincie": "Flevoland",
     "kamerlid_2021": false,
     "fotos": [],
-    "socials": {}
+    "socials": {},
+    "geboortedatum": "1970-12-16"
   },
   "Annet Belt": {
     "lijstnummer": 41,
@@ -48320,12 +48849,15 @@
     "tweede_poging": true,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Anne-Marie_Mineur"
+    },
     "gemeente": "De Bilt",
     "provincie": "Utrecht",
     "kamerlid_2021": false,
     "fotos": [],
-    "socials": {}
+    "socials": {},
+    "geboortedatum": "1967-05-14"
   },
   "Mathijs ten Broeke": {
     "lijstnummer": 47,
@@ -48372,12 +48904,15 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Paulus_Jansen"
+    },
     "gemeente": "Utrecht",
     "provincie": "Utrecht",
     "kamerlid_2021": false,
     "fotos": [],
-    "socials": {}
+    "socials": {},
+    "geboortedatum": "1954-03-02"
   },
   "Willem de Jager": {
     "lijstnummer": 48,
@@ -48395,7 +48930,9 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Willem_de_Jager"
+    },
     "gemeente": "Lelystad",
     "provincie": "Flevoland",
     "kamerlid_2021": false,
@@ -48441,7 +48978,9 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Rien_van_der_Velde"
+    },
     "gemeente": "Noordoostpolder",
     "provincie": "Flevoland",
     "kamerlid_2021": false,
@@ -48464,12 +49003,15 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Bea_Schouten"
+    },
     "gemeente": "Wijchen",
     "provincie": "Gelderland",
     "kamerlid_2021": false,
     "fotos": [],
-    "socials": {}
+    "socials": {},
+    "geboortedatum": "1963-03-15"
   },
   "Ernst van der Schans": {
     "lijstnummer": 53,
@@ -48581,7 +49123,9 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Wim_Burgering"
+    },
     "gemeente": "Barneveld",
     "provincie": "Gelderland",
     "kamerlid_2021": false,
@@ -48605,12 +49149,15 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Peter_Drenth"
+    },
     "gemeente": "Doetinchem",
     "provincie": "Gelderland",
     "kamerlid_2021": false,
     "fotos": [],
-    "socials": {}
+    "socials": {},
+    "geboortedatum": "1968-03-10"
   },
   "Anna Ermers-Mulder": {
     "lijstnummer": 59,
@@ -48699,12 +49246,15 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Michiel_Scheffer"
+    },
     "gemeente": "Nijmegen",
     "provincie": "Gelderland",
     "kamerlid_2021": false,
     "fotos": [],
-    "socials": {}
+    "socials": {},
+    "geboortedatum": "1964-05-08"
   },
   "Marinka Mulder": {
     "lijstnummer": 48,
@@ -48770,12 +49320,15 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Peter_Kerris"
+    },
     "gemeente": "Nijmegen",
     "provincie": "Gelderland",
     "kamerlid_2021": false,
     "fotos": [],
-    "socials": {}
+    "socials": {},
+    "geboortedatum": "1985-08-06"
   },
   "Frans Biemans": {
     "lijstnummer": 18,
@@ -48819,7 +49372,9 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Ria_Aartsen-den_Harder"
+    },
     "gemeente": "Bronckhorst",
     "provincie": "Gelderland",
     "kamerlid_2021": false,
@@ -49658,7 +50213,8 @@
       "twitter": "https://twitter.com/poortvli/",
       "facebook": "https://www.facebook.com/lenny.gelukpoortvliet/",
       "web": "https://www.cda.mensen/Lenny-geluk-poortvliet/",
-      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/geluk-poortvliet-lwd-cda"
+      "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/geluk-poortvliet-lwd-cda",
+      "wikipedia": "https://nl.wikipedia.org/wiki/Lenny_Geluk-Poortvliet"
     },
     "gemeente": "Zeist",
     "provincie": "Utrecht",
@@ -49673,8 +50229,8 @@
       "facebook": "lenny.gelukpoortvliet",
       "web": "https://www.cda.mensen/Lenny-geluk-poortvliet "
     },
-    "leeftijd": 77,
-    "ancienniteit": "2017-10-30"
+    "ancienniteit": "2017-10-30",
+    "geboortedatum": "1943-07-15"
   },
   "Pim van den Berg": {
     "lijstnummer": 72,
@@ -49784,12 +50340,15 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Rob_van_Muilekom"
+    },
     "gemeente": "Amersfoort",
     "provincie": "Utrecht",
     "kamerlid_2021": false,
     "fotos": [],
-    "socials": {}
+    "socials": {},
+    "geboortedatum": "1958-10-18"
   },
   "Hans Spekman": {
     "lijstnummer": 50,
@@ -49807,12 +50366,15 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Hans_Spekman"
+    },
     "gemeente": "Utrecht",
     "provincie": "Utrecht",
     "kamerlid_2021": false,
     "fotos": [],
-    "socials": {}
+    "socials": {},
+    "geboortedatum": "1966-04-06"
   },
   "Rogier Havelaar": {
     "lijstnummer": 52,
@@ -49924,7 +50486,9 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Jaap_Bond"
+    },
     "gemeente": "Edam-Volendam",
     "provincie": "Noord-Holland",
     "kamerlid_2021": false,
@@ -50118,12 +50682,15 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Jakob_Wedemeijer"
+    },
     "gemeente": "Amsterdam",
     "provincie": "Noord-Holland",
     "kamerlid_2021": false,
     "fotos": [],
-    "socials": {}
+    "socials": {},
+    "geboortedatum": "1969-03-10"
   },
   "Eric Smaling": {
     "lijstnummer": 46,
@@ -50143,12 +50710,15 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Eric_Smaling"
+    },
     "gemeente": "Weesp",
     "provincie": "Noord-Holland",
     "kamerlid_2021": false,
     "fotos": [],
-    "socials": {}
+    "socials": {},
+    "geboortedatum": "1957-08-18"
   },
   "Ruud Kuin": {
     "lijstnummer": 47,
@@ -50193,12 +50763,15 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Laurens_Ivens"
+    },
     "gemeente": "Amsterdam",
     "provincie": "Noord-Holland",
     "kamerlid_2021": false,
     "fotos": [],
-    "socials": {}
+    "socials": {},
+    "geboortedatum": "1977-03-10"
   },
   "Carolien Gehrels": {
     "lijstnummer": 48,
@@ -50216,12 +50789,15 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Carolien_Gehrels"
+    },
     "gemeente": "Amsterdam",
     "provincie": "Noord-Holland",
     "kamerlid_2021": false,
     "fotos": [],
-    "socials": {}
+    "socials": {},
+    "geboortedatum": "1967-12-15"
   },
   "Elvira Sweet": {
     "lijstnummer": 49,
@@ -50239,12 +50815,15 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Elvira_Sweet"
+    },
     "gemeente": "Amsterdam",
     "provincie": "Noord-Holland",
     "kamerlid_2021": false,
     "fotos": [],
-    "socials": {}
+    "socials": {},
+    "geboortedatum": "1957-12-12"
   },
   "Hedy d' Ancona": {
     "lijstnummer": 50,
@@ -50264,12 +50843,15 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Hedy_d'_Ancona"
+    },
     "gemeente": "Amsterdam",
     "provincie": "Noord-Holland",
     "kamerlid_2021": false,
     "fotos": [],
-    "socials": {}
+    "socials": {},
+    "geboortedatum": "1937-10-01"
   },
   "Olaf Streutker": {
     "lijstnummer": 52,
@@ -50870,12 +51452,15 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Ilse_Zaal"
+    },
     "gemeente": "Zaanstad",
     "provincie": "Noord-Holland",
     "kamerlid_2021": false,
     "fotos": [],
-    "socials": {}
+    "socials": {},
+    "geboortedatum": "1982-09-22"
   },
   "Elly Konijn-Vermaas": {
     "lijstnummer": 74,
@@ -50962,12 +51547,15 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Stefan_Brau"
+    },
     "gemeente": "Heerhugowaard",
     "provincie": "Noord-Holland",
     "kamerlid_2021": false,
     "fotos": [],
-    "socials": {}
+    "socials": {},
+    "geboortedatum": "1977-07-18"
   },
   "Rabella de Faria": {
     "lijstnummer": 49,
@@ -50986,12 +51574,15 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Rabella_de_Faria"
+    },
     "gemeente": "Opmeer",
     "provincie": "Noord-Holland",
     "kamerlid_2021": false,
     "fotos": [],
-    "socials": {}
+    "socials": {},
+    "geboortedatum": "1960-03-16"
   },
   "Christiene Everaars": {
     "lijstnummer": 52,
@@ -51403,12 +51994,15 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Wim_van_de_Camp"
+    },
     "gemeente": "Den Haag",
     "provincie": "Zuid-Holland",
     "kamerlid_2021": false,
     "fotos": [],
-    "socials": {}
+    "socials": {},
+    "geboortedatum": "1953-07-27"
   },
   "Hilbert Bredemeijer": {
     "lijstnummer": 70,
@@ -51426,12 +52020,15 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Hilbert_Bredemeijer"
+    },
     "gemeente": "Den Haag",
     "provincie": "Zuid-Holland",
     "kamerlid_2021": false,
     "fotos": [],
-    "socials": {}
+    "socials": {},
+    "geboortedatum": "1983-11-27"
   },
   "Marjolein de Jong": {
     "lijstnummer": 72,
@@ -51449,7 +52046,9 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Marjolein_de_Jong"
+    },
     "gemeente": "Den Haag",
     "provincie": "Zuid-Holland",
     "kamerlid_2021": false,
@@ -51472,12 +52071,15 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Laurens_Jan_Brinkhorst"
+    },
     "gemeente": "Den Haag",
     "provincie": "Zuid-Holland",
     "kamerlid_2021": false,
     "fotos": [],
-    "socials": {}
+    "socials": {},
+    "geboortedatum": "1937-03-18"
   },
   "Eelco Keij": {
     "lijstnummer": 74,
@@ -51522,12 +52124,15 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Roos_van_Gelderen"
+    },
     "gemeente": "Leiden",
     "provincie": "Zuid-Holland",
     "kamerlid_2021": false,
     "fotos": [],
-    "socials": {}
+    "socials": {},
+    "geboortedatum": "1963-07-26"
   },
   "Lesley Arp": {
     "lijstnummer": 42,
@@ -51657,12 +52262,15 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Dennis_de_Jong"
+    },
     "gemeente": "Albrandswaard",
     "provincie": "Zuid-Holland",
     "kamerlid_2021": false,
     "fotos": [],
-    "socials": {}
+    "socials": {},
+    "geboortedatum": "1955-05-22"
   },
   "Theo Co\u015fkun": {
     "lijstnummer": 47,
@@ -51711,12 +52319,15 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Remi_Poppe"
+    },
     "gemeente": "Vlaardingen",
     "provincie": "Zuid-Holland",
     "kamerlid_2021": false,
     "fotos": [],
-    "socials": {}
+    "socials": {},
+    "geboortedatum": "1938-07-19"
   },
   "Samir Ahraui": {
     "lijstnummer": 48,
@@ -51757,12 +52368,15 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Marit_Maij"
+    },
     "gemeente": "Den Haag",
     "provincie": "Zuid-Holland",
     "kamerlid_2021": false,
     "fotos": [],
-    "socials": {}
+    "socials": {},
+    "geboortedatum": "1972-01-16"
   },
   "Jeltje van Nieuwenhoven": {
     "lijstnummer": 50,
@@ -51780,12 +52394,15 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Jeltje_van_Nieuwenhoven"
+    },
     "gemeente": "Den Haag",
     "provincie": "Zuid-Holland",
     "kamerlid_2021": false,
     "fotos": [],
-    "socials": {}
+    "socials": {},
+    "geboortedatum": "1943-08-02"
   },
   "Jelle Meinesz": {
     "lijstnummer": 11,
@@ -52274,12 +52891,15 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Wubbo_Tempel"
+    },
     "gemeente": "Albrandswaard",
     "provincie": "Zuid-Holland",
     "kamerlid_2021": false,
     "fotos": [],
-    "socials": {}
+    "socials": {},
+    "geboortedatum": "1959-03-10"
   },
   "Marieke Pronk": {
     "lijstnummer": 69,
@@ -52344,12 +52964,15 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Wiljan_Vloet"
+    },
     "gemeente": "Schiedam",
     "provincie": "Zuid-Holland",
     "kamerlid_2021": false,
     "fotos": [],
-    "socials": {}
+    "socials": {},
+    "geboortedatum": "1962-09-10"
   },
   "Esther de Lange": {
     "lijstnummer": 72,
@@ -52369,12 +52992,15 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Esther_de_Lange"
+    },
     "gemeente": "Bodegraven-Reeuwijk",
     "provincie": "Zuid-Holland",
     "kamerlid_2021": false,
     "fotos": [],
-    "socials": {}
+    "socials": {},
+    "geboortedatum": "1975-02-19"
   },
   "Adri Bom-Lemstra": {
     "lijstnummer": 74,
@@ -52394,12 +53020,15 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Adri_Bom-Lemstra"
+    },
     "gemeente": "Westland",
     "provincie": "Zuid-Holland",
     "kamerlid_2021": false,
     "fotos": [],
-    "socials": {}
+    "socials": {},
+    "geboortedatum": "1962-09-10"
   },
   "Christine Eskes-van Utrecht": {
     "lijstnummer": 75,
@@ -52440,12 +53069,15 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Sven_de_Langen"
+    },
     "gemeente": "Albrandswaard",
     "provincie": "Zuid-Holland",
     "kamerlid_2021": false,
     "fotos": [],
-    "socials": {}
+    "socials": {},
+    "geboortedatum": "1986-12-12"
   },
   "Cemile Sezer": {
     "lijstnummer": 72,
@@ -52486,12 +53118,15 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Said_Kasmi"
+    },
     "gemeente": "Albrandswaard",
     "provincie": "Zuid-Holland",
     "kamerlid_2021": false,
     "fotos": [],
-    "socials": {}
+    "socials": {},
+    "geboortedatum": "1975-11-01"
   },
   "Elene Walgenbach": {
     "lijstnummer": 74,
@@ -52555,12 +53190,15 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Richard_Moti"
+    },
     "gemeente": "Albrandswaard",
     "provincie": "Zuid-Holland",
     "kamerlid_2021": false,
     "fotos": [],
-    "socials": {}
+    "socials": {},
+    "geboortedatum": "1979-12-01"
   },
   "Hamit Karakus": {
     "lijstnummer": 50,
@@ -52578,12 +53216,15 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Hamit_Karakus"
+    },
     "gemeente": "Albrandswaard",
     "provincie": "Zuid-Holland",
     "kamerlid_2021": false,
     "fotos": [],
-    "socials": {}
+    "socials": {},
+    "geboortedatum": "1965-02-22"
   },
   "Dries Mosch": {
     "lijstnummer": 9,
@@ -52813,12 +53454,15 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Koos_Karssen"
+    },
     "gemeente": "Bodegraven-Reeuwijk",
     "provincie": "Zuid-Holland",
     "kamerlid_2021": false,
     "fotos": [],
-    "socials": {}
+    "socials": {},
+    "geboortedatum": "1944-10-14"
   },
   "Cilia Meerman-van Benthem": {
     "lijstnummer": 59,
@@ -53204,12 +53848,15 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Arie_Slob"
+    },
     "gemeente": "Molenlanden",
     "provincie": "Zuid-Holland",
     "kamerlid_2021": false,
     "fotos": [],
-    "socials": {}
+    "socials": {},
+    "geboortedatum": "1961-11-16"
   },
   "Peter Heijkoop": {
     "lijstnummer": 77,
@@ -53250,12 +53897,15 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Gerard_Schouw"
+    },
     "gemeente": "Dordrecht",
     "provincie": "Zuid-Holland",
     "kamerlid_2021": false,
     "fotos": [],
-    "socials": {}
+    "socials": {},
+    "geboortedatum": "1965-12-30"
   },
   "Anouschka Biekman": {
     "lijstnummer": 73,
@@ -53664,12 +54314,15 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Gerrit_Goedhart"
+    },
     "gemeente": "Noordwijk",
     "provincie": "Zuid-Holland",
     "kamerlid_2021": false,
     "fotos": [],
-    "socials": {}
+    "socials": {},
+    "geboortedatum": "1955-07-23"
   },
   "Elly van den Bosch-Damen": {
     "lijstnummer": 66,
@@ -53733,12 +54386,15 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Hans_van_Ek"
+    },
     "gemeente": "Teylingen",
     "provincie": "Zuid-Holland",
     "kamerlid_2021": false,
     "fotos": [],
-    "socials": {}
+    "socials": {},
+    "geboortedatum": "1901-04-11"
   },
   "Jaap Schep": {
     "lijstnummer": 69,
@@ -53986,12 +54642,15 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Robert_Strijk"
+    },
     "gemeente": "Utrecht",
     "provincie": "Utrecht",
     "kamerlid_2021": false,
     "fotos": [],
-    "socials": {}
+    "socials": {},
+    "geboortedatum": "1965-03-10"
   },
   "Sophie Heesen": {
     "lijstnummer": 48,
@@ -54078,12 +54737,15 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Hilbrand_Nawijn"
+    },
     "gemeente": "Zoetermeer",
     "provincie": "Zuid-Holland",
     "kamerlid_2021": false,
     "fotos": [],
-    "socials": {}
+    "socials": {},
+    "geboortedatum": "1948-08-08"
   },
   "Ren\u00e9 Molenaar": {
     "lijstnummer": 52,
@@ -54262,12 +54924,15 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Karin_van_den_Broeke"
+    },
     "gemeente": "Noord-Beveland",
     "provincie": "Zeeland",
     "kamerlid_2021": false,
     "fotos": [],
-    "socials": {}
+    "socials": {},
+    "geboortedatum": "1963-06-18"
   },
   "Mitchel Vermeulen": {
     "lijstnummer": 60,
@@ -54400,7 +55065,9 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Wim_Jansen"
+    },
     "gemeente": "Middelburg",
     "provincie": "Zeeland",
     "kamerlid_2021": false,
@@ -54849,12 +55516,15 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Henri_Swinkels"
+    },
     "gemeente": "Vught",
     "provincie": "Noord-Brabant",
     "kamerlid_2021": false,
     "fotos": [],
-    "socials": {}
+    "socials": {},
+    "geboortedatum": "1963-10-25"
   },
   "Cynthia Smeets": {
     "lijstnummer": 45,
@@ -54927,7 +55597,9 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Erik_de_Vries"
+    },
     "gemeente": "Helmond",
     "provincie": "Noord-Brabant",
     "kamerlid_2021": false,
@@ -54999,12 +55671,15 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Chris_Maas"
+    },
     "gemeente": "Veere",
     "provincie": "Zeeland",
     "kamerlid_2021": false,
     "fotos": [],
-    "socials": {}
+    "socials": {},
+    "geboortedatum": "1921-08-21"
   },
   "Kees Verburg": {
     "lijstnummer": 50,
@@ -55737,12 +56412,15 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Frans_Wouters"
+    },
     "gemeente": "Boxmeer",
     "provincie": "Noord-Brabant",
     "kamerlid_2021": false,
     "fotos": [],
-    "socials": {}
+    "socials": {},
+    "geboortedatum": "1612-03-10"
   },
   "Frans Kuppens": {
     "lijstnummer": 57,
@@ -55944,7 +56622,9 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Mark_Janssen"
+    },
     "gemeente": "Mill en Sint Hubert",
     "provincie": "Noord-Brabant",
     "kamerlid_2021": false,
@@ -56013,7 +56693,9 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Jan_Boersma"
+    },
     "gemeente": "Son en Breugel",
     "provincie": "Noord-Brabant",
     "kamerlid_2021": false,
@@ -56266,12 +56948,15 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Sultan_G\u00fcnal-Gezer"
+    },
     "gemeente": "Uden",
     "provincie": "Noord-Brabant",
     "kamerlid_2021": false,
     "fotos": [],
-    "socials": {}
+    "socials": {},
+    "geboortedatum": "1961-05-01"
   },
   "Antoinette Knoet": {
     "lijstnummer": 49,
@@ -56312,12 +56997,15 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Erik_van_Merrienboer"
+    },
     "gemeente": "Eindhoven",
     "provincie": "Noord-Brabant",
     "kamerlid_2021": false,
     "fotos": [],
-    "socials": {}
+    "socials": {},
+    "geboortedatum": "1966-02-02"
   },
   "Mieke de Kok": {
     "lijstnummer": 15,
@@ -56703,12 +57391,15 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Manon_Fokke"
+    },
     "gemeente": "Maastricht",
     "provincie": "Limburg",
     "kamerlid_2021": false,
     "fotos": [],
-    "socials": {}
+    "socials": {},
+    "geboortedatum": "1976-01-16"
   },
   "Jan Smeets": {
     "lijstnummer": 50,
@@ -56726,7 +57417,9 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/Jan_Smeets"
+    },
     "gemeente": "Sittard-Geleen",
     "provincie": "Limburg",
     "kamerlid_2021": false,
@@ -56887,11 +57580,14 @@
     "tweede_poging": false,
     "vorige_partij": "",
     "vorige_woonplaats": "",
-    "links": {},
+    "links": {
+      "wikipedia": "https://nl.wikipedia.org/wiki/John_Leerdam"
+    },
     "gemeente": "Amsterdam",
     "provincie": "Noord-Holland",
     "kamerlid_2021": false,
     "fotos": [],
-    "socials": {}
+    "socials": {},
+    "geboortedatum": "1961-07-23"
   }
 }
