@@ -258,15 +258,15 @@ for partij in partijen:
     }
 
     with open("{}/{}".format(output_dir, filename), 'w', encoding='utf8') as fp:
-        json.dump(partijlijsten[partij], fp, ensure_ascii=False)
+        json.dump(partijlijsten[partij], fp, ensure_ascii=False, indent=2)
 
 print("📄 storing parties and all candidates in json files")
 
 with open("{}/partijen.json".format(output_dir), 'w', encoding='utf8') as fp:
-    json.dump(partijen_json, fp, ensure_ascii=False)
+    json.dump(partijen_json, fp, ensure_ascii=False, indent=2)
 
 with open("{}/kandidaten.json".format(output_dir), 'w', encoding='utf8') as fp:
-    json.dump(kandidaten, fp, ensure_ascii=False)
+    json.dump(kandidaten, fp, ensure_ascii=False, indent=2)
 
 
 print("🏳️‍🌈  geslachten: {}".format(", ".join(geslachten)))
