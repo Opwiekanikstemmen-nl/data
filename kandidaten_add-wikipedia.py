@@ -97,7 +97,7 @@ def get_wiki_age(info_list):
 
 if __name__ == '__main__':
 	ARGV_OVERRIDE = None
-	ARGV_OVERRIDE = ['-i', 'kandidaten_nieuw.json', '-o', 'kandidaten_nieuw_wikipedia.json']
+	ARGV_OVERRIDE = ['-i', 'kandidaten.json', '-o', 'kandidaten_nieuw_wikipedia.json']
 
 	from argparse import ArgumentParser, FileType
 	parser = ArgumentParser(description=__doc__)

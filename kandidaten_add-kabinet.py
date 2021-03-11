@@ -45,7 +45,7 @@ def kabinet(url=None, inputfile=None, outputfile=None):
 
 if __name__ == '__main__':
 	ARGV_OVERRIDE = None
-	ARGV_OVERRIDE = ['-i', 'kandidaten_change_functie.json', '-o', 'kandidaten_add_kabinet.json']
+	ARGV_OVERRIDE = ['-i', 'kandidaten.json', '-o', 'kandidaten_add_kabinet.json']
 
 	from argparse import ArgumentParser, FileType
 	parser = ArgumentParser(description=__doc__)
