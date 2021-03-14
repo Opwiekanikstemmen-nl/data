@@ -25,8 +25,13 @@ def wikipedia(inputfile=None, outputfile=None):
 
 	for person in tqdm(kandidaten.values()):
 		
-		# Add wikipedia url
 		naam_zonder_spaces = person['naam'].replace(' ', '_')
+		
+		# Check for Ferd
+		if naam_zonder_spaces == "Ferd_Grapperhaus": #lelijk lelijk lelijk sorry
+			naam_zonder_spaces = "Ferdinand_Grapperhaus"
+		
+		# Create wikipedia url
 		url = "https://nl.wikipedia.org/wiki/" + naam_zonder_spaces
 		
 		# Scrape wikipage for info
@@ -97,7 +102,7 @@ def get_wiki_age(info_list):
 
 if __name__ == '__main__':
 	ARGV_OVERRIDE = None
-	ARGV_OVERRIDE = ['-i', 'kandidaten.json', '-o', 'kandidaten_nieuw_wikipedia.json']
+	ARGV_OVERRIDE = ['-i', 'kandidaten_2021_kiesraad/kandidaten.json', '-o', 'kandidaten_2021_kiesraad/kandidaten_nieuw_wikipedia.json']
 
 	from argparse import ArgumentParser, FileType
 	parser = ArgumentParser(description=__doc__)
