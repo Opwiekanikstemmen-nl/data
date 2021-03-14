@@ -86,7 +86,7 @@ if args.update:
         vorige_partij: "{vorige_partij}",
         vorige_woonplaats: "{vorige_woonplaats}",
         kleurdekamer: {kleurdekamer},
-        kamerlid_2021: {kamerlid_2021}{extra}
+        functie_2021: "{functie_2021}"{extra}
       }} where: {{slug: "{slug}"}}) {{
         naam
       }}
@@ -115,7 +115,7 @@ else:
         vorige_partij: "{vorige_partij}",
         vorige_woonplaats: "{vorige_woonplaats}",
         kleurdekamer: {kleurdekamer},
-        kamerlid_2021: {kamerlid_2021}{extra}
+        functie_2021: "{functie_2021}"{extra}
       }}) {{
         naam
       }}
@@ -200,7 +200,7 @@ for partij in partijen:
             vorige_partij = person['vorige_partij'],
             vorige_woonplaats = person['vorige_woonplaats'],
             kleurdekamer = str(person['kleurdekamer']).lower(),
-            kamerlid_2021 = str(person['kamerlid_2021']).lower(),
+            functie_2021 = person['functie_2021'],
             extra = extra
         )
 
