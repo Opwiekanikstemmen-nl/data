@@ -165,7 +165,7 @@ for partij in partijen:
         for link_key in person['links']:
             link = person['links'][link_key]
             if link[:6] != "mailto":
-                links.append(person['links'][link_key].lower())
+                links.append(person['links'][link_key].replace("Https", "https"))
 
         if len(people[key]['links']) > 0:
             if people[key]['links'][0] not in links:
