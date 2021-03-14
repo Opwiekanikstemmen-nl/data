@@ -86,7 +86,7 @@ if args.update:
         vorige_partij: "{vorige_partij}",
         vorige_woonplaats: "{vorige_woonplaats}",
         kleurdekamer: {kleurdekamer},
-        kamerlid_2021: {kamerlid_2021}
+        functie_2021: "{functie_2021}"{extra}
       }} where: {{slug: "{slug}"}}) {{
         naam
       }}
@@ -115,7 +115,7 @@ else:
         vorige_partij: "{vorige_partij}",
         vorige_woonplaats: "{vorige_woonplaats}",
         kleurdekamer: {kleurdekamer},
-        kamerlid_2021: {kamerlid_2021}
+        functie_2021: "{functie_2021}"{extra}
       }}) {{
         naam
       }}
@@ -129,6 +129,10 @@ print("🗄 reading partijen file")
 partijen_file = "{}/partijen.json".format(folder)
 with open(partijen_file, 'r') as pf:
     partijen = json.load(pf)
+
+kandidaten_file = "{}/kandidaten.json".format(folder)
+with open(kandidaten_file, 'r') as pf:
+    kandidaten = json.load(pf)
 
 
 
@@ -150,12 +154,39 @@ for partij in partijen:
 
     for key in people:
 
-        person = people[key]
+        person = kandidaten[key]
 
         slug = slugify(key)
 
         if '(' in person['naam']:
             print("{} van {}".format(person['naam'], partij))
+
+        links = []
+        for link_key in person['links']:
+            link = person['links'][link_key]
+            if link[:6] != "mailto":
+                links.append(person['links'][link_key].replace("Https", "https"))
+
+        if len(people[key]['links']) > 0:
+            if people[key]['links'][0] not in links:
+                links += people[key]['links']
+
+        try:
+            extra = ',\ngeboortedatum: "{}"'.format(person['geboortedatum'])
+        except KeyError:
+            extra = ""
+
+        try:
+            extra += ',\nancienniteit: "{}"'.format(person['ancienniteit'])
+        except KeyError:
+            extra += ""
+
+        try:
+            extra += ',\nfunctieomschrijving_2021: "{}"'.format(person['functieomschrijving_2021'])
+        except KeyError:
+            extra += ""
+
+            functieomschrijving_2021
 
         filled_request = request.format(
             naam = person['naam'],
@@ -171,12 +202,13 @@ for partij in partijen:
             gemeente = person['gemeente'],
             provincie = person['provincie'],
             partij_id = partij_id,
-            links = array_to_string(person['links']),
+            links = array_to_string(links),
             tweede_poging = str(person['tweede_poging']).lower(),
             vorige_partij = person['vorige_partij'],
             vorige_woonplaats = person['vorige_woonplaats'],
             kleurdekamer = str(person['kleurdekamer']).lower(),
-            kamerlid_2021 = str(person['kamerlid_2021']).lower()
+            functie_2021 = person['functie_2021'],
+            extra = extra
         )
 
         if args.dryrun:
