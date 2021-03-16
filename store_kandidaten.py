@@ -186,7 +186,13 @@ for partij in partijen:
         except KeyError:
             extra += ""
 
-            functieomschrijving_2021
+        try:
+            extra += ',\nstudie: "{}",\nonderwijsinstelling: "{}"'.format(
+                people[key]['studie'],
+                people[key]['onderwijsinstelling']
+            )
+        except KeyError:
+            extra += ""
 
         filled_request = request.format(
             naam = person['naam'],
