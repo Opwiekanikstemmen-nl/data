@@ -1,0 +1,12 @@
+[
+  {
+    "IRI": "https://dit-is-een-url",
+    "naam": "Gerda de Politicus",
+    "partijen": ["https://www.dit-is-hun-partij.nl"]
+  },
+  {
+    "IRI": "https://dbpedia/ik/heb/dit/opgezocht/voor/Clara",
+    "naam": "Clara Tweedekamera",
+    "partijen": ["https://www.dit-is-hun-partij.nl", "https://clara-in-de-tweedekamer.nl"]
+  }
+]
