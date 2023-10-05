@@ -1,7 +1,7 @@
 [
   {
-    "IRI": "https://dit-is-een-url",
-    "naam": "Gerda de Politicus",
+    "IRI": "https://url-van-gerda-de-politica.nl",
+    "naam": "Gerda de Politica",
     "partijen": ["https://www.dit-is-hun-partij.nl"]
   },
   {
