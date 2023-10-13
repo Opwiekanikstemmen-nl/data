@@ -2,137 +2,215 @@
     {
         "naam": "BBB",
         "deelname_jaren": [2021, 2023],
+        "lijstnummers": {
+            "2023": 15
+        },
         "website": "https://boerburgerbeweging.nl/"
     },
     {
         "naam": "BIJ1",
         "oude_namen": ["Artikel 1"],
         "deelname_jaren": [2017, 2021, 2023],
+        "lijstnummers": {
+            "2023": 16
+        },
         "website": "https://bij1.org/"
     },
     {
         "naam": "BVNL / Groep Van Haga",
         "deelneme_jaren": [2023],
+        "lijstnummers": {
+            "2023": 18
+        },
         "website": "https://bvnl.nl/"
     },
     {
         "naam": "CDA",
         "deelname_jaren": [2017, 2021, 2023],
+        "lijstnummers": {
+            "2023": 5
+        },
         "website": "https://www.cda.nl/"
     },
     {
         "naam": "ChristenUnie",
         "deelname_jaren": [2017, 2021, 2023],
+        "lijstnummers": {
+            "2023": 9
+        },
         "website": "https://www.christenunie.nl/"
     },
     {
         "naam": "DENK",
         "deelname_jaren": [2017, 2021, 2023],
+        "lijstnummers": {
+            "2023": 13
+        },
         "website": "https://www.bewegingdenk.nl/"
     },
     {
         "naam": "D66",
         "oude_namen": ["Democraten 66 (D66)"],
         "deelname_jaren": [2017, 2021, 2023],
+        "lijstnummers": {
+            "2023": 2
+        },
         "website": "https://d66.nl/"
     },
     {
         "naam": "Forum voor Democratie",
         "deelname_jaren": [2017, 2021, 2023],
+        "lijstnummers": {
+            "2023": 7
+        },
         "website": "https://fvd.nl"
     },
     {
         "naam": "GROENLINKS / Partij van de Arbeid (PvdA)",
         "oude_namen": ["GROENLINKS", "Partij van de Arbeid (P.v.d.A.)", "Partij van de Arbeid PvdA"],
         "deelname_jaren": [2017, 2021, 2023],
+        "lijstnummers": {
+            "2023": 3
+        },
         "website": "https://groenlinkspvda.nl/"
     },
     {
         "naam": "JA21",
         "deelname_jaren": [2021, 2023],
+        "lijstnummers": {
+            "2023": 11
+        },
         "website": "https://ja21.nl/"
     },
     {
         "naam": "LEF - Voor de Nieuwe Generatie",
         "deelneme_jaren": [2023],
+        "lijstnummers": {
+            "2023": 22
+        },
         "website": "https://www.lef.nl/"
     },
     {
         "naam": "LP (Libertaire Partij)",
         "oude_namen": "Libertarische Partij (LP)",
         "deelname_jaren": [2017, 2021, 2023],
+        "lijstnummers": {
+            "2023": 21
+        },
         "website": "https://stemlp.nl/"
     },
     {
         "naam": "Nederland met een PLAN",
         "deelneme_jaren": [2023],
+        "lijstnummers": {
+            "2023": 24
+        },
         "website": "https://nlplan.nl/"
     },
     {
         "naam": "Nieuw Sociaal Contract",
         "deelneme_jaren": [2023],
+        "lijstnummers": {
+            "2023": 19
+        },
         "website": "https://partijnieuwsociaalcontract.nl/"
     },
     {
         "naam": "PartijvdSport",
         "deelneme_jaren": [2023],
+        "lijstnummers": {
+            "2023": 25
+        },
         "website": "https://www.partijvdsport.nl/"
     },
     {
         "naam": "Partij voor de Dieren",
         "deelname_jaren": [2017, 2021, 2023],
+        "lijstnummers": {
+            "2023": 8
+        },
         "website": "https://www.partijvoordedieren.nl/"
     },
     {
         "naam": "Piratenpartij - De Groenen",
         "oude_namen": ["Piratenpartij", "De Groenen"],
         "deelname_jaren": [2017, 2021, 2023],
+        "lijstnummers": {
+            "2023": 17
+        },
         "website": "https://piratenpartij.nl/verkiezingen-tk2023/"
     },
     {
         "naam": "Politieke Partij voor Basisinkomen",
         "website": "https://basisinkomenpartij.nl/",
         "deelname_jaren": [2017, 2023],
+        "lijstnummers": {
+            "2023": 26
+        },
         "oude_namen": ["MenS en Spirit / Basisinkomen Partij / V-R"]
     },
     {
         "naam": "PVV (Partij voor de Vrijheid)",
         "deelname_jaren": [2017, 2021, 2023],
+        "lijstnummers": {
+            "2023": 4
+        },
         "website": "https://www.pvv.nl/"
     },
     {
         "naam": "Samen voor Nederland",
         "deelneme_jaren": [2023],
+        "lijstnummers": {
+            "2023": 23
+        },
         "website": "https://samen-voor-nederland.nl/"
     },
     {
         "naam": "SP (Socialistische Partij)",
         "deelname_jaren": [2017, 2021, 2023],
+        "lijstnummers": {
+            "2023": 6
+        },
         "website": "https://www.sp.nl/"
     },
     {
         "naam": "Splinter",
         "deelname_jaren": [2021, 2023],
+        "lijstnummers": {
+            "2023": 20
+        },
         "website": "https://www.splinterpolitiek.nl/"
     },
     {
         "naam": "Staatkundig Gereformeerde Partij (SGP)",
         "deelname_jaren": [2017, 2021, 2023],
+        "lijstnummers": {
+            "2023": 12
+        },
         "website": "https://sgp.nl/home"
     },
     {
         "naam": "Volt",
         "deelname_jaren": [2021, 2023],
+        "lijstnummers": {
+            "2023": 10
+        },
         "website": "https://voltnederland.org/"
     },
     {
         "naam": "VVD",
         "deelname_jaren": [2017, 2021, 2023],
+        "lijstnummers": {
+            "2023": 1
+        },
         "website": "https://www.vvd.nl/"
     },
     {
         "naam": "50PLUS",
         "deelname_jaren": [2017, 2021, 2023],
+        "lijstnummers": {
+            "2023": 14
+        },
         "website": "https://50pluspartij.nl/"
     },
     {
