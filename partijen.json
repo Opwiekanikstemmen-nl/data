@@ -11,11 +11,6 @@
         "website": "https://bij1.org/"
     },
     {
-        "naam": "Blanco (Sterenborg, G.)",
-        "deelneme_jaren": [2023],
-        "website": ""
-    },
-    {
         "naam": "BVNL / Groep Van Haga",
         "deelneme_jaren": [2023],
         "website": "https://bvnl.nl/"
@@ -58,11 +53,6 @@
         "website": "https://ja21.nl/"
     },
     {
-        "naam": "JEZUS LEEFT",
-        "deelname_jaren": [2017, 2021, 2023],
-        "website": "https://www.jezusleeft.nl/"
-    },
-    {
         "naam": "LEF - Voor de Nieuwe Generatie",
         "deelneme_jaren": [2023],
         "website": "https://www.lef.nl/"
@@ -92,11 +82,6 @@
         "naam": "Partij voor de Dieren",
         "deelname_jaren": [2017, 2021, 2023],
         "website": "https://www.partijvoordedieren.nl/"
-    },
-    {
-        "naam": "Partij voor Ontwikkeling",
-        "deelneme_jaren": [2023],
-        "website": "https://www.partijvoorontwikkeling.org/"
     },
     {
         "naam": "Piratenpartij - De Groenen",
@@ -149,6 +134,11 @@
         "naam": "50PLUS",
         "deelname_jaren": [2017, 2021, 2023],
         "website": "https://50pluspartij.nl/"
+    },
+    {
+        "naam": "JEZUS LEEFT",
+        "deelname_jaren": [2017, 2021],
+        "website": "https://www.jezusleeft.nl/"
     },
     {
         "naam": "OndernemersPartij",
