@@ -1,0 +1,12 @@
+{
+  "name": "party-to-list",
+  "version": "1.0.0",
+  "description": "Convert list of json to single file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "module"
+}
