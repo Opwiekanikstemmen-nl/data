@@ -1,0 +1,181 @@
+[
+	{
+		"naam": "Tom van Lamoen",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 1,
+				"woonplaats": "Amersfoort"
+			}
+		}
+	},
+	{
+		"naam": "Bart Burggraaf",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 2,
+				"woonplaats": "Voorschoten"
+			}
+		}
+	},
+	{
+		"naam": "Pasqual Verhagen",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 3,
+				"woonplaats": "Alkmaar"
+			}
+		}
+	},
+	{
+		"naam": "Johan Zijlstra",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 4,
+				"woonplaats": "Amersfoort"
+			}
+		}
+	},
+	{
+		"naam": "Jip Meijer",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 5,
+				"woonplaats": "Leiderdorp"
+			}
+		}
+	},
+	{
+		"naam": "Tom Huijs",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 6,
+				"woonplaats": "Horst aan de Maas"
+			}
+		}
+	},
+	{
+		"naam": "Simone Pailer",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 7,
+				"woonplaats": "Den Haag"
+			}
+		}
+	},
+	{
+		"naam": "Lex Loman",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 8,
+				"woonplaats": "Arnhem"
+			}
+		}
+	},
+	{
+		"naam": "Gerard van den Brink",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 9,
+				"woonplaats": "Rhenen"
+			}
+		}
+	},
+	{
+		"naam": "Quintus Backhuijs",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 10,
+				"woonplaats": "Rotterdam"
+			}
+		}
+	},
+	{
+		"naam": "Pallieter Koopmans",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 11,
+				"woonplaats": "Wassenaar"
+			}
+		}
+	},
+	{
+		"naam": "Klaas Wassenaar",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 12,
+				"woonplaats": "Leeuwarden"
+			}
+		}
+	},
+	{
+		"naam": "Martijn Noortman",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 13,
+				"woonplaats": "Soest"
+			}
+		}
+	},
+	{
+		"naam": "Pieter Visser",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 14,
+				"woonplaats": "Oss"
+			}
+		}
+	},
+	{
+		"naam": "Rody Mens",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 15,
+				"woonplaats": "Eindhoven"
+			}
+		}
+	},
+	{
+		"naam": "Mik Brokke",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 16,
+				"woonplaats": "Teylingen"
+			}
+		}
+	},
+	{
+		"naam": "Rik Kleinsmit",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 17,
+				"woonplaats": "Almere"
+			}
+		}
+	},
+	{
+		"naam": "Peter Hartkamp",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 18,
+				"woonplaats": "Amersfoort"
+			}
+		}
+	},
+	{
+		"naam": "Erik Vermeulen",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 19,
+				"woonplaats": "Haarlemmermeer"
+			}
+		}
+	},
+	{
+		"naam": "Arno Wellens",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 20
+			}
+		}
+	}
+]

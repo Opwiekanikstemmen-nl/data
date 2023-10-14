@@ -1,0 +1,762 @@
+[
+	{
+		"naam": "Mirjam Bikker",
+		"urls": {
+			"Twitter": "https://www.twitter.com/mirjambikker",
+			"Facebook": "https://www.facebook.com/MirjamBikkerCU/",
+			"Instagram": "https://www.instagram.com/mirjambikkercu/",
+			"LinkedIn": "https://www.linkedin.com/in/mirjam-bikker-45936616/"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 1,
+				"woonplaats": "Gouda"
+			}
+		},
+		"geboortejaar": 1982
+	},
+	{
+		"naam": "Pieter Grinwis",
+		"urls": {
+			"Twitter": "https://www.twitter.com/Pieter_Grinwis",
+			"Facebook": "https://www.facebook.com/PieterGrinwis070",
+			"Instagram": "https://www.instagram.com/pieter_grinwis/",
+			"LinkedIn": "https://www.linkedin.com/in/pieter-grinwis-336555156/"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 2,
+				"woonplaats": "Den Haag"
+			}
+		},
+		"geboortejaar": 1979
+	},
+	{
+		"naam": "Don Ceder",
+		"urls": {
+			"Twitter": "https://www.twitter.com/donceder",
+			"Facebook": "https://www.facebook.com/donceder",
+			"Instagram": "https://www.instagram.com/donceder/",
+			"LinkedIn": "https://www.linkedin.com/in/dceder/"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 3,
+				"woonplaats": "Amsterdam"
+			}
+		},
+		"geboortejaar": 1989
+	},
+	{
+		"naam": "Alwin te Rietstap",
+		"urls": {
+			"Twitter": "https://www.twitter.com/AlwinteRietstap",
+			"Facebook": "https://www.facebook.com/alwin.terietstap",
+			"Instagram": "https://www.instagram.com/alwinterietstap/",
+			"LinkedIn": "https://www.linkedin.com/in/alwin-te-rietstap-15bb2b28/"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 4,
+				"woonplaats": "Kloosterhaar"
+			}
+		},
+		"geboortejaar": 1979
+	},
+	{
+		"naam": "Joëlle Gooijer-Medema",
+		"urls": {
+			"Twitter": "https://twitter.com/joellegooijer",
+			"Facebook": "https://www.facebook.com/joelle.gooijer",
+			"Instagram": "https://www.instagram.com/joellegooijer/",
+			"LinkedIn": "https://www.linkedin.com/in/jo%C3%ABlle-gooijer-medema-65989321/"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 5,
+				"woonplaats": "Delft"
+			}
+		},
+		"geboortejaar": 1976
+	},
+	{
+		"naam": "Nico Drost",
+		"urls": {
+			"Twitter": "https://www.twitter.com/NicoDrost",
+			"Facebook": "https://www.facebook.com/DrostNico",
+			"Instagram": "https://www.instagram.com/nicodrost_cu/",
+			"LinkedIn": "https://www.linkedin.com/in/ndrost/"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 6,
+				"woonplaats": "Rhenen"
+			}
+		},
+		"geboortejaar": 1980
+	},
+	{
+		"naam": "Tobias Holtman",
+		"urls": {
+			"Twitter": "https://www.twitter.com/TobiasHoltman",
+			"LinkedIn": "https://www.linkedin.com/in/tobiasholtman/"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 7,
+				"woonplaats": "Aalten"
+			}
+		},
+		"geboortejaar": 1988
+	},
+	{
+		"naam": "Cora Otter-van den Bosch",
+		"urls": {
+			"Twitter": "https://twitter.com/coraotter",
+			"Facebook": "https://www.facebook.com/cora.otter.5",
+			"Instagram": "https://www.instagram.com/coraotter/",
+			"LinkedIn": "https://www.linkedin.com/in/cora-otter-van-den-bosch-8323b6288/"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 8,
+				"woonplaats": "Bennekom"
+			}
+		},
+		"geboortejaar": 1969
+	},
+	{
+		"naam": "Stieneke van der Graaf",
+		"urls": {
+			"Twitter": "https://www.twitter.com/StienekevdGraaf",
+			"Facebook": "https://www.facebook.com/stienekevandergraafCU/",
+			"Instagram": "https://www.instagram.com/stienekevdgraaf/",
+			"LinkedIn": "https://www.linkedin.com/in/stieneke-j-f-van-der-graaf-ll-m-22396415/"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 9,
+				"woonplaats": "Groningen"
+			}
+		},
+		"geboortejaar": 1984
+	},
+	{
+		"naam": "Michel Klein",
+		"urls": {
+			"Twitter": "https://twitter.com/MichelKleinCU",
+			"Facebook": "https://www.facebook.com/MichelKleinCU",
+			"Instagram": "https://www.instagram.com/michelkleincu/",
+			"LinkedIn": "https://www.linkedin.com/in/michelklein/"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 10,
+				"woonplaats": "Bussum"
+			}
+		},
+		"geboortejaar": 1973
+	},
+	{
+		"naam": "Carlijn Niesink",
+		"urls": {
+			"Twitter": "https://www.twitter.com/Carlijnniesink",
+			"Facebook": "https://www.facebook.com/niesink",
+			"Instagram": "https://www.instagram.com/carlijniesink/",
+			"LinkedIn": "https://www.linkedin.com/in/carlijn-niesink-18036083/"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 11,
+				"woonplaats": "Wirdum"
+			}
+		},
+		"geboortejaar": 1986
+	},
+	{
+		"naam": "Jerke Setz",
+		"urls": {
+			"Twitter": "https://twitter.com/SetzJerke",
+			"Facebook": "https://www.facebook.com/SetzJerke",
+			"Instagram": "https://www.instagram.com/mayorjetskii/",
+			"LinkedIn": "https://www.linkedin.com/in/jerke-setz-3b94a2139/"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 12,
+				"woonplaats": "Assen"
+			}
+		},
+		"geboortejaar": 1998
+	},
+	{
+		"naam": "Christian van der Krift",
+		"urls": {
+			"Facebook": "https://www.facebook.com/christian.vanderkrift",
+			"Instagram": "https://www.instagram.com/christian_vd_krift/",
+			"LinkedIn": "https://www.linkedin.com/in/christian-van-der-krift-phd/"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 13,
+				"woonplaats": "Eindhoven"
+			}
+		},
+		"geboortejaar": 1992
+	},
+	{
+		"naam": "Arjan Langen",
+		"urls": {
+			"Twitter": "https://twitter.com/ArjanLL",
+			"Facebook": "https://www.facebook.com/arjan.langen.7",
+			"Instagram": "https://www.instagram.com/arjanll/",
+			"LinkedIn": "https://www.linkedin.com/in/arjan-langen-1127592/"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 14,
+				"woonplaats": "Venlo"
+			}
+		},
+		"geboortejaar": 1970
+	},
+	{
+		"naam": "Lizo Koppejan",
+		"urls": {
+			"Twitter": "https://twitter.com/LizoKoppejan",
+			"Facebook": "https://www.facebook.com/lizo.koppejan",
+			"Instagram": "https://www.instagram.com/lizokoppejan/",
+			"LinkedIn": "https://www.linkedin.com/in/lizo-koppejan-55b97044/"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 15,
+				"woonplaats": "Goes"
+			}
+		},
+		"geboortejaar": 1971
+	},
+	{
+		"naam": "Elly van Wageningen",
+		"urls": {
+			"Twitter": "https://www.twitter.com/ellyvwageningen",
+			"LinkedIn": "https://www.linkedin.com/in/ellyvanwageningen/"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 16,
+				"woonplaats": "Lelystad"
+			}
+		},
+		"geboortejaar": 1962
+	},
+	{
+		"naam": "Bert Tijhof",
+		"urls": {
+			"Twitter": "https://www.twitter.com/BertTijhof",
+			"Facebook": "https://www.facebook.com/bert.tijhof",
+			"Instagram": "https://www.instagram.com/berttijhof/",
+			"LinkedIn": "https://www.linkedin.com/in/bert-tijhof-b3879a24/"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 17,
+				"woonplaats": "Rijssen"
+			}
+		},
+		"geboortejaar": 1973
+	},
+	{
+		"naam": "Wouter de Reus",
+		"urls": {
+			"Twitter": "https://twitter.com/wouterdereus",
+			"Facebook": "https://www.facebook.com/profile.php?id=100004191695853",
+			"Instagram": "https://www.instagram.com/wouterdereus/",
+			"LinkedIn": "https://www.linkedin.com/in/wouter-de-reus-576b3112b/"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 18,
+				"woonplaats": "Vlaardingen"
+			}
+		},
+		"geboortejaar": 1999
+	},
+	{
+		"naam": "Gaetan Mbwete",
+		"urls": {
+			"Twitter": "https://twitter.com/gaetan_mbwete",
+			"Facebook": "https://www.facebook.com/gaetan.mbwete",
+			"Instagram": "https://www.instagram.com/gaetan.mbwete/",
+			"LinkedIn": "https://www.linkedin.com/in/gaetan-mbwete-5a18a024/"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 19,
+				"woonplaats": "Den Haag"
+			}
+		},
+		"geboortejaar": 1987
+	},
+	{
+		"naam": "Mark Treurniet",
+		"urls": {
+			"LinkedIn": "https://www.linkedin.com/in/mark-treurniet-aab03371/"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 20,
+				"woonplaats": "Groningen"
+			}
+		},
+		"geboortejaar": 1990
+	},
+	{
+		"naam": "Arend Palland",
+		"urls": {
+			"Twitter": "https://www.twitter.com/ArendPalland",
+			"Facebook": "https://www.facebook.com/arendaan",
+			"Instagram": "https://www.instagram.com/pallandarend/",
+			"LinkedIn": "https://www.linkedin.com/in/arendpalland/"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 21,
+				"woonplaats": "Hattem"
+			}
+		},
+		"geboortejaar": 1985
+	},
+	{
+		"naam": "Bettelies Westerbeek",
+		"urls": {
+			"Twitter": "https://twitter.com/bettelies",
+			"Facebook": "https://www.facebook.com/bettelies",
+			"Instagram": "https://www.instagram.com/bettelies/",
+			"LinkedIn": "https://www.linkedin.com/in/bettelies-westerbeek-685b6457/"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 22,
+				"woonplaats": "Den Haag"
+			}
+		},
+		"geboortejaar": 1984
+	},
+	{
+		"naam": "IJmert Muilwijk",
+		"urls": {
+			"Twitter": "https://twitter.com/IJmertmuilwijk",
+			"Facebook": "https://www.facebook.com/ijmert.muilwijk",
+			"LinkedIn": "https://www.linkedin.com/in/ijmertmuilwijk/"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 23,
+				"woonplaats": "Hoornaar"
+			}
+		},
+		"geboortejaar": 1984
+	},
+	{
+		"naam": "Judith Westerink-Petersen",
+		"urls": {
+			"Twitter": "https://twitter.com/JudithWesterink",
+			"LinkedIn": "https://www.linkedin.com/in/judith-westerink-61869525/"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 24,
+				"woonplaats": "Heteren"
+			}
+		},
+		"geboortejaar": 1974
+	},
+	{
+		"naam": "Ingeborg Dijkstra-Verbeek",
+		"urls": {
+			"Twitter": "https://twitter.com/IngeborgDijkstr",
+			"Facebook": "https://www.facebook.com/ingeborg.dijkstra",
+			"Instagram": "https://www.instagram.com/ingeborgdijkstra/",
+			"LinkedIn": "https://www.linkedin.com/in/ingeborgdijkstraverbeek/"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 25,
+				"woonplaats": "Maastricht"
+			}
+		},
+		"geboortejaar": 1970
+	},
+	{
+		"naam": "Gert van den Berg",
+		"urls": {
+			"Twitter": "https://twitter.com/Gert_vd_Berg",
+			"Facebook": "https://www.facebook.com/gert.vandenberg.90",
+			"LinkedIn": "https://www.linkedin.com/in/gert-van-den-berg-b27467b/"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 26,
+				"woonplaats": "Nunspeet"
+			}
+		},
+		"geboortejaar": 1962
+	},
+	{
+		"naam": "Alma Broekmaat-Hagens",
+		"urls": {
+			"Twitter": "https://twitter.com/AlmaBroekmaat",
+			"Facebook": "https://www.facebook.com/alma.hagens",
+			"Instagram": "https://www.instagram.com/almahagens/",
+			"LinkedIn": "https://www.linkedin.com/in/alma-broekmaat-hagens-a7310814/"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 27,
+				"woonplaats": "Bunschoten-Spakenburg"
+			}
+		},
+		"geboortejaar": 1985
+	},
+	{
+		"naam": "Thera de Haan",
+		"urls": {
+			"Twitter": "https://www.twitter.com/thdehaan",
+			"Facebook": "https://www.facebook.com/thera.dehaan",
+			"Instagram": "https://www.instagram.com/thera_de_haan_jong/",
+			"LinkedIn": "https://www.linkedin.com/in/theradehaan/"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 28,
+				"woonplaats": "Gouda"
+			}
+		},
+		"geboortejaar": 1978
+	},
+	{
+		"naam": "Arjan Koer",
+		"urls": {
+			"Twitter": "https://twitter.com/ArjanKoerts",
+			"Facebook": "https://www.facebook.com/profile.php?id=100009338391664",
+			"LinkedIn": "https://www.linkedin.com/in/koerts/"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 29,
+				"woonplaats": "Veenendaal"
+			}
+		},
+		"geboortejaar": 1976
+	},
+	{
+		"naam": "Annebeth Roor-Wubs",
+		"urls": {
+			"LinkedIn": "https://www.linkedin.com/in/annebeth-roor-wubs-40836754/"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 30,
+				"woonplaats": "Utrecht"
+			}
+		},
+		"geboortejaar": 1994
+	},
+	{
+		"naam": "Jan Pieter Verweij",
+		"urls": {
+			"Twitter": "https://twitter.com/verweijanpieter",
+			"Facebook": "https://www.facebook.com/verweijanpieter",
+			"Instagram": "https://www.instagram.com/verweijjanpieter/",
+			"LinkedIn": "https://www.linkedin.com/in/jpverweij/"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 31,
+				"woonplaats": "Sliedrecht"
+			}
+		},
+		"geboortejaar": 1981
+	},
+	{
+		"naam": "Ingrid Paalman-Dijkenga",
+		"urls": {
+			"LinkedIn": "https://www.linkedin.com/in/ingrid-paalman-dijkenga-5a401b19/"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 32,
+				"woonplaats": "Biddinghuizen"
+			}
+		},
+		"geboortejaar": 1971
+	},
+	{
+		"naam": "Anil Kumar",
+		"urls": {
+			"Twitter": "https://www.twitter.com/ackumar070",
+			"Facebook": "https://www.facebook.com/anil.c.kumar.71",
+			"Instagram": "https://www.instagram.com/anil.c.kumar/",
+			"LinkedIn": "https://www.linkedin.com/in/anilckumar/"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 33,
+				"woonplaats": "Den Haag"
+			}
+		},
+		"geboortejaar": 1991
+	},
+	{
+		"naam": "Eva Kerklaan-van der Beek",
+		"urls": {
+			"Twitter": "https://twitter.com/EvaKerklaan",
+			"Facebook": "https://www.facebook.com/eva.kerklaan",
+			"LinkedIn": "https://www.linkedin.com/in/eva-kerklaan-van-der-beek-1991b315a/"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 34,
+				"woonplaats": "Wierden"
+			}
+		},
+		"geboortejaar": 1997
+	},
+	{
+		"naam": "Joël Visser",
+		"urls": {
+			"Twitter": "https://twitter.com/joavisser",
+			"Facebook": "https://www.facebook.com/joavisser",
+			"Instagram": "https://www.instagram.com/joelvisser1986/"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 35,
+				"woonplaats": "Utrecht"
+			}
+		},
+		"geboortejaar": 1986
+	},
+	{
+		"naam": "Lieuwe van der Pol",
+		"urls": {
+			"LinkedIn": "https://www.linkedin.com/in/lieuwevanderpol/"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 36,
+				"woonplaats": "Woudsend"
+			}
+		},
+		"geboortejaar": 1953
+	},
+	{
+		"naam": "Antrude Oudman",
+		"urls": {
+			"Twitter": "https://twitter.com/AntrudeO",
+			"LinkedIn": "https://www.linkedin.com/in/antrude-oudman/"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 37,
+				"woonplaats": "Groningen"
+			}
+		},
+		"geboortejaar": 1997
+	},
+	{
+		"naam": "Jarin van der Zande",
+		"urls": {
+			"Twitter": "https://twitter.com/JarinvdZande",
+			"Facebook": "https://www.facebook.com/jarin.vdzande",
+			"Instagram": "https://www.instagram.com/jarinvdzande/",
+			"LinkedIn": "https://www.linkedin.com/in/jarinvdzande/"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 38,
+				"woonplaats": "Apeldoorn"
+			}
+		},
+		"geboortejaar": 1992
+	},
+	{
+		"naam": "Gilco Grandia",
+		"urls": {
+			"Twitter": "https://twitter.com/ggrandia",
+			"Facebook": "https://www.facebook.com/gilco.grandia",
+			"LinkedIn": "https://www.linkedin.com/in/gilco-grandia-b38554a/"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 39,
+				"woonplaats": "Aalst"
+			}
+		},
+		"geboortejaar": 1972
+	},
+	{
+		"naam": "Sara van Oordt-Jonckheere",
+		"urls": {
+			"Facebook": "https://www.facebook.com/sara.vanoordtjonckheere",
+			"LinkedIn": "https://www.linkedin.com/in/sara-van-oordt-jonckheere-567b4857/"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 40,
+				"woonplaats": "Amersfoort"
+			}
+		},
+		"geboortejaar": 1981
+	},
+	{
+		"naam": "Bertus Cornelissen",
+		"urls": {
+			"Facebook": "https://www.facebook.com/bertus.cornelissen",
+			"Twitter": "https://twitter.com/bertusco",
+			"LinkedIn": "https://www.linkedin.com/in/bertus-cornelissen-ba31066/"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": "41",
+				"woonplaats": "Putten"
+			}
+		},
+		"geboortejaar": 1975
+	},
+	{
+		"naam": "Nathalie Nede",
+		"urls": {
+			"Twitter": "https://www.twitter.com/Nathalie_Nede",
+			"Facebook": "https://www.facebook.com/nathalie.nede",
+			"Instagram": "https://www.instagram.com/nathalie.nede/",
+			"LinkedIn": "https://www.linkedin.com/in/nathalie-nede/"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 42,
+				"woonplaats": "Arnhem"
+			}
+		},
+		"geboortejaar": 1987
+	},
+	{
+		"naam": "Jan Willem Schutte",
+		"urls": {
+			"Facebook": "https://www.facebook.com/janwillem.schutte.1",
+			"LinkedIn": "https://www.linkedin.com/in/janwillem-schutte-13243377/"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 43,
+				"woonplaats": "Kampen"
+			}
+		},
+		"geboortejaar": 1968
+	},
+	{
+		"naam": "Gerben van Dijk",
+		"urls": {
+			"Twitter": "https://twitter.com/gerben_vandijk",
+			"Facebook": "https://www.facebook.com/gerben1975",
+			"Instagram": "https://www.instagram.com/gerbenkijkt/",
+			"LinkedIn": "https://www.linkedin.com/in/vandijkgerben/"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 44,
+				"woonplaats": "Rotterdam"
+			}
+		},
+		"geboortejaar": 1975
+	},
+	{
+		"naam": "Piet Adema",
+		"urls": {
+			"Twitter": "https://twitter.com/ministerlnv",
+			"LinkedIn": "https://www.linkedin.com/in/piet-adema-b221591a/"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 45,
+				"woonplaats": "De Wilgen"
+			}
+		},
+		"geboortejaar": 1964
+	},
+	{
+		"naam": "Frank Bosman",
+		"urls": {
+			"Twitter": "https://twitter.com/frankgbosman",
+			"Facebook": "https://www.facebook.com/frankgbosman",
+			"Instagram": "https://www.instagram.com/frankgbosman/"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 46,
+				"woonplaats": "Vlijmen"
+			}
+		},
+		"geboortejaar": 1978
+	},
+	{
+		"naam": "Eline Hoogenboom",
+		"urls": {
+			"Twitter": "https://www.instagram.com/elinehoogenboom/",
+			"Facebook": "https://www.facebook.com/ElineHoogenboomAdviesenconcepten",
+			"LinkedIn": "https://www.linkedin.com/in/elinehoogenboom/"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 47,
+				"woonplaats": "Voorthuizen"
+			}
+		},
+		"geboortejaar": 1984
+	},
+	{
+		"naam": "Henk Stoorvogel",
+		"urls": {
+			"Twitter": "https://www.twitter.com/Henkstoorvogel",
+			"Facebook": "https://www.facebook.com/henk.stoorvogel",
+			"Instagram": "https://www.instagram.com/henkstoorvogel/",
+			"LinkedIn": "https://www.linkedin.com/in/dr-henk-stoorvogel-033394166/"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 48,
+				"woonplaats": "Zwolle"
+			}
+		},
+		"geboortejaar": 1977
+	},
+	{
+		"naam": "Reinier van den Berg",
+		"urls": {
+			"Twitter": "https://twitter.com/weermanreinier",
+			"LinkedIn": "https://www.linkedin.com/in/reinier-van-den-berg-a8868111/"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 49,
+				"woonplaats": "Wageningen"
+			}
+		},
+		"geboortejaar": 1962
+	},
+	{
+		"naam": "Beatrice de Graaf",
+		"urls": {
+			"Twitter": "https://twitter.com/beatricedegraaf",
+			"LinkedIn": "https://www.linkedin.com/in/beatrice-de-graaf-93630a6/"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 50,
+				"woonplaats": "Utrecht"
+			}
+		},
+		"geboortejaar": 1976
+	}
+]

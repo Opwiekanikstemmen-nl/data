@@ -1,0 +1,182 @@
+[
+	{
+		"naam": "Daniël van Duijn",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 1,
+				"woonplaats": "Amsterdam"
+			}
+		}
+	},
+	{
+		"naam": "Nuria Zantman",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 2,
+				"woonplaats": "Amsterdam"
+			}
+		}
+	},
+	{
+		"naam": "Zoë Neijts",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 3,
+				"woonplaats": "'s-Gravenhage"
+			}
+		}
+	},
+	{
+		"naam": "Madelief Wijnker",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 4,
+				"woonplaats": "Utrecht"
+			}
+		}
+	},
+	{
+		"naam": "Jip Bloem",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 5,
+				"woonplaats": "Leidschendam"
+			}
+		}
+	},
+	{
+		"naam": "Rogier van Westerlaak",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 6,
+				"woonplaats": "Amsterdam"
+			}
+		}
+	},
+	{
+		"naam": "Yumiko van Diest",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 7,
+				"woonplaats": "Amstelveen"
+			}
+		}
+	},
+	{
+		"naam": "Wail Kherrazi",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 8,
+				"woonplaats": "Amstelveen"
+			}
+		}
+	},
+	{
+		"naam": "Iva Pont",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 9,
+				"woonplaats": "Amersfoort"
+			}
+		}
+	},
+	{
+		"naam": "Didier Torres Noordenbos",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 10,
+				"woonplaats": "Amsterdam"
+			}
+		}
+	},
+	{
+		"naam": "Manu Gunning",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 11,
+				"woonplaats": "Amsterdam"
+			}
+		}
+	},
+	{
+		"naam": "Mar Berends",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 12,
+				"woonplaats": "Goteborg (SE)"
+			}
+		}
+	},
+	{
+		"naam": "Leia Pickkers",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 13,
+				"woonplaats": "Alkmaar"
+			}
+		}
+	},
+	{
+		"naam": "Shirley Sjiem-Fat",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 14,
+				"woonplaats": "Amsterdam"
+			}
+		}
+	},
+	{
+		"naam": "Pieter Hulst",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 15,
+				"woonplaats": "Amsterdam"
+			}
+		}
+	},
+	{
+		"naam": "Linda Bijl",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 16,
+				"woonplaats": "Amsterdam"
+			}
+		}
+	},
+	{
+		"naam": "Merlijn Twaalfhoven",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 17,
+				"woonplaats": "Amsterdam"
+			}
+		}
+	},
+	{
+		"naam": "Niraï Melis",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 18,
+				"woonplaats": "Epe"
+			}
+		}
+	},
+	{
+		"naam": "Britte van Die",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 19,
+				"woonplaats": "Babberich"
+			}
+		}
+	},
+	{
+		"naam": "Martin van Rooij",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 20,
+				"woonplaats": "Maastricht"
+			}
+		}
+	}
+]

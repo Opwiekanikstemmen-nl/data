@@ -1,0 +1,578 @@
+[
+	{
+		"naam": "Caroline van der Plas",
+		"urls": {
+			"partijwebsite": "https://boerburgerbeweging.nl/kandidaten/caroline-van-der-plas/"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 1,
+				"woonplaats": "Deventer"
+			}
+		}
+	},
+	{
+		"naam": "Mona Keijzer",
+		"urls": {
+			"partijwebsite": "https://boerburgerbeweging.nl/kandidaten/mona-keijzer/"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 2,
+				"woonplaats": "Volendam"
+			}
+		}
+	},
+	{
+		"naam": "Gijs Tuinman",
+		"urls": {
+			"partijwebsite": "https://boerburgerbeweging.nl/kandidaten/gijs-tuinman/"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 3,
+				"woonplaats": "Oud-Beijerland"
+			}
+		}
+	},
+	{
+		"naam": "Henk Vermeer",
+		"urls": {
+			"partijwebsite": "https://boerburgerbeweging.nl/kandidaten/henk-vermeer/"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 4,
+				"woonplaats": "Harderwijk"
+			}
+		}
+	},
+	{
+		"naam": "Lilian Helder",
+		"urls": {
+			"partijwebsite": "https://boerburgerbeweging.nl/kandidaten/lilian-helder/"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 5,
+				"woonplaats": "Venlo"
+			}
+		}
+	},
+	{
+		"naam": "Cor Pierik",
+		"urls": {
+			"partijwebsite": "https://boerburgerbeweging.nl/kandidaten/cor-pierik/"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 6,
+				"woonplaats": "Genemuiden"
+			}
+		}
+	},
+	{
+		"naam": "Claudia van Zanten",
+		"urls": {
+			"partijwebsite": "https://boerburgerbeweging.nl/kandidaten/claudia-van-zanten/"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 7,
+				"woonplaats": "Amsterdam"
+			}
+		}
+	},
+	{
+		"naam": "Jean Rummenie",
+		"urls": {
+			"partijwebsite": "https://boerburgerbeweging.nl/kandidaten/jean-rummenie/"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 8,
+				"woonplaats": "Den Haag"
+			}
+		}
+	},
+	{
+		"naam": "Nicki Pouw-Verweij",
+		"urls": {
+			"partijwebsite": "https://boerburgerbeweging.nl/kandidaten/nicki-pouw-verweij/"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 9,
+				"woonplaats": "Maarssen"
+			}
+		}
+	},
+	{
+		"naam": "Mariska Rikkers-Oosterkamp",
+		"urls": {
+			"partijwebsite": "https://boerburgerbeweging.nl/kandidaten/mariska-rikkers/"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 10,
+				"woonplaats": "Wolvega"
+			}
+		}
+	},
+	{
+		"naam": "Marieke Wijen-Nass",
+		"urls": {
+			"partijwebsite": "https://boerburgerbeweging.nl/kandidaten/marieke-wijen/"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 11,
+				"woonplaats": "Gulpen"
+			}
+		}
+	},
+	{
+		"naam": "Martin Oostenbrink",
+		"urls": {
+			"partijwebsite": "https://boerburgerbeweging.nl/kandidaten/martin-oostenbrink/"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 12,
+				"woonplaats": "Voorburg"
+			}
+		}
+	},
+	{
+		"naam": "Jasper Rekers",
+		"urls": {
+			"partijwebsite": "https://boerburgerbeweging.nl/kandidaten/jasper-rekers/"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 13,
+				"woonplaats": "Enschede"
+			}
+		}
+	},
+	{
+		"naam": "Alexander Hendriks",
+		"urls": {
+			"partijwebsite": "https://boerburgerbeweging.nl/kandidaten/alexander-hendriks/"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 14,
+				"woonplaats": "Leiden"
+			}
+		}
+	},
+	{
+		"naam": "Christine Govaert",
+		"urls": {
+			"partijwebsite": "https://boerburgerbeweging.nl/kandidaten/christine-govaert/"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 15,
+				"woonplaats": "Westdorpe"
+			}
+		}
+	},
+	{
+		"naam": "Laurens van Vliet",
+		"urls": {
+			"partijwebsite": "https://boerburgerbeweging.nl/kandidaten/laurens-van-vliet/"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 16,
+				"woonplaats": "Dalfsen"
+			}
+		}
+	},
+	{
+		"naam": "Herma Hemmen",
+		"urls": {
+			"partijwebsite": "https://boerburgerbeweging.nl/kandidaten/herma-hemmen/"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 17,
+				"woonplaats": "Ter Apel"
+			}
+		}
+	},
+	{
+		"naam": "Kees van Vuuren",
+		"urls": {
+			"partijwebsite": "https://boerburgerbeweging.nl/kandidaten/kees-van-vuuren-2/"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 18,
+				"woonplaats": "Baarn"
+			}
+		}
+	},
+	{
+		"naam": "Saskia van der Meer-Hartogh",
+		"urls": {
+			"partijwebsite": "https://boerburgerbeweging.nl/kandidaten/saskia-van-der-meer/"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 19,
+				"woonplaats": "Meppel"
+			}
+		}
+	},
+	{
+		"naam": "Kitty Stoop",
+		"urls": {
+			"partijwebsite": "https://boerburgerbeweging.nl/kandidaten/kitty-stoop/"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 20,
+				"woonplaats": "Moerdijk"
+			}
+		}
+	},
+	{
+		"naam": "Andrea van Veen - van de Berg",
+		"urls": {
+			"partijwebsite": "https://boerburgerbeweging.nl/kandidaten/andrea-van-veen-van-de-berg-2/"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 21,
+				"woonplaats": "Urk"
+			}
+		}
+	},
+	{
+		"naam": "Jan-Sebastian van Lissum",
+		"urls": {
+			"partijwebsite": "https://boerburgerbeweging.nl/kandidaten/jan-sebastian-van-lissum/"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 22,
+				"woonplaats": "Amsterdam"
+			}
+		}
+	},
+	{
+		"naam": "Erik Stegink",
+		"urls": {
+			"partijwebsite": "https://boerburgerbeweging.nl/kandidaten/erik-stegink/"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 23,
+				"woonplaats": "Bathmen"
+			}
+		}
+	},
+	{
+		"naam": "Florian Huiskamp",
+		"urls": {
+			"partijwebsite": "https://boerburgerbeweging.nl/kandidaten/florian-huiskamp/"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 24,
+				"woonplaats": "Groenlo"
+			}
+		}
+	},
+	{
+		"naam": "Derk-Jan Eppink",
+		"urls": {
+			"partijwebsite": "https://boerburgerbeweging.nl/kandidaten/derk-jan-eppink/"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 25,
+				"woonplaats": "Den Haag"
+			}
+		}
+	},
+	{
+		"naam": "Haidy Hankers",
+		"urls": {
+			"partijwebsite": "https://boerburgerbeweging.nl/kandidaten/haidy-hankers/"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 26,
+				"woonplaats": "Barneveld"
+			}
+		}
+	},
+	{
+		"naam": "Nils Berghout",
+		"urls": {
+			"partijwebsite": "https://boerburgerbeweging.nl/kandidaten/nils-berghout/"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 27,
+				"woonplaats": "Houten"
+			}
+		}
+	},
+	{
+		"naam": "Gerlof Roubos",
+		"urls": {
+			"partijwebsite": "https://boerburgerbeweging.nl/kandidaten/gerlof-roubos/"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 28,
+				"woonplaats": "Boxtel"
+			}
+		}
+	},
+	{
+		"naam": "Jordy Evers",
+		"urls": {
+			"partijwebsite": "https://boerburgerbeweging.nl/kandidaten/jordy-evers/"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 29,
+				"woonplaats": "Zwolle"
+			}
+		}
+	},
+	{
+		"naam": "Marcel Sijbolts",
+		"urls": {
+			"partijwebsite": "https://boerburgerbeweging.nl/kandidaten/marcel-sijbolts/"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 30,
+				"woonplaats": "Midwolda"
+			}
+		}
+	},
+	{
+		"naam": "Willem Poppe",
+		"urls": {
+			"partijwebsite": "https://boerburgerbeweging.nl/kandidaten/willem-poppe/"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 31,
+				"woonplaats": "Goes"
+			}
+		}
+	},
+	{
+		"naam": "Jan Swaag",
+		"urls": {
+			"partijwebsite": "https://boerburgerbeweging.nl/kandidaten/jan-swaag/"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 32,
+				"woonplaats": "Barsingerhorn"
+			}
+		}
+	},
+	{
+		"naam": "Derk-Evert Waalkens",
+		"urls": {
+			"partijwebsite": "https://boerburgerbeweging.nl/kandidaten/derk-evert-waalkens/"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 33,
+				"woonplaats": "Assen"
+			}
+		}
+	},
+	{
+		"naam": "Ines de Ridder",
+		"urls": {
+			"partijwebsite": "https://boerburgerbeweging.nl/kandidaten/ines-de-ridder/"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 34,
+				"woonplaats": "Nieuwkoop"
+			}
+		}
+	},
+	{
+		"naam": "Wim Jaspers",
+		"urls": {
+			"partijwebsite": "https://boerburgerbeweging.nl/kandidaten/wim-jaspers/"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 35,
+				"woonplaats": "Someren"
+			}
+		}
+	},
+	{
+		"naam": "Eric Floors",
+		"urls": {
+			"partijwebsite": "https://boerburgerbeweging.nl/kandidaten/eric-floors/"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 36,
+				"woonplaats": "Deventer"
+			}
+		}
+	},
+	{
+		"naam": "Joke Luitwieler - Bosma",
+		"urls": {
+			"partijwebsite": "https://boerburgerbeweging.nl/kandidaten/joke-luitwieler-bosma/"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 37,
+				"woonplaats": "Giethoorn"
+			}
+		}
+	},
+	{
+		"naam": "Inge Rood",
+		"urls": {
+			"partijwebsite": "https://boerburgerbeweging.nl/kandidaten/inge-rood/"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 38,
+				"woonplaats": "Beverwijk"
+			}
+		}
+	},
+	{
+		"naam": "Madelon van Noort",
+		"urls": {
+			"partijwebsite": "https://boerburgerbeweging.nl/kandidaten/madelon-van-noort/"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 39,
+				"woonplaats": "Lelystad"
+			}
+		}
+	},
+	{
+		"naam": "Koos Cromwijk",
+		"urls": {
+			"partijwebsite": "https://boerburgerbeweging.nl/kandidaten/koos-cromwijk-2/"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 40,
+				"woonplaats": "Kockengen"
+			}
+		}
+	},
+	{
+		"naam": "Jeroen van Wijk",
+		"urls": {
+			"partijwebsite": "https://boerburgerbeweging.nl/kandidaten/jeroen-van-wijk/"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 41,
+				"woonplaats": "Odijk"
+			}
+		}
+	},
+	{
+		"naam": "Lianne Bos-Zandstra",
+		"urls": {
+			"partijwebsite": "https://boerburgerbeweging.nl/kandidaten/lianne-bos-zandstra/"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 42,
+				"woonplaats": "Ureterp"
+			}
+		}
+	},
+	{
+		"naam": "Nicole Egelmeers",
+		"urls": {
+			"partijwebsite": "https://boerburgerbeweging.nl/kandidaten/nicole-egelmeers/"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 43,
+				"woonplaats": "Rosmalen"
+			}
+		}
+	},
+	{
+		"naam": "Ad Baltus",
+		"urls": {
+			"partijwebsite": "https://boerburgerbeweging.nl/kandidaten/ad-baltus/"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 44,
+				"woonplaats": "Zuidschermer"
+			}
+		}
+	},
+	{
+		"naam": "Petra van der Wereld-Verkerk",
+		"urls": {
+			"partijwebsite": "https://boerburgerbeweging.nl/kandidaten/petra-van-der-wereld-verkerk/"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 45,
+				"woonplaats": "Roelofarendsveen"
+			}
+		}
+	},
+	{
+		"naam": "Loretta Schoone",
+		"urls": {
+			"partijwebsite": "https://boerburgerbeweging.nl/kandidaten/loretta-schoone/"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 46,
+				"woonplaats": "Den Haag"
+			}
+		}
+	},
+	{
+		"naam": "Jo Spätgens",
+		"urls": {
+			"partijwebsite": "https://boerburgerbeweging.nl/kandidaten/jo-spatgens/"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 47,
+				"woonplaats": "Sittard"
+			}
+		}
+	},
+	{
+		"naam": "Duncan Zeedzen",
+		"urls": {
+			"partijwebsite": "https://boerburgerbeweging.nl/kandidaten/duncan-zeedzen/"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 48,
+				"woonplaats": "Brunssum"
+			}
+		}
+	}
+]

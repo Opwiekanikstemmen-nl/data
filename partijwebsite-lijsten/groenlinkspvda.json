@@ -1,0 +1,553 @@
+[
+	{
+		"naam": "Frans Timmermans",
+		"urls": {
+			"partijwebsite": "https://groenlinkspvda.nl/frans-timmermans"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 1
+			}
+		}
+	},
+	{
+		"naam": "Esmah Lahlah",
+		"urls": {
+			"partijwebsite": "https://groenlinkspvda.nl/kandidaat/esmah-lahlah/"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 2,
+				"woonplaats": "Tilburg"
+			}
+		}
+	},
+	{
+		"naam": "Jesse Klaver",
+		"urls": {
+			"partijwebsite": "https://groenlinkspvda.nl/kandidaat/jesse-klaver/"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 3,
+				"woonplaats": "Den Haag"
+			}
+		}
+	},
+	{
+		"naam": "Kati Piri",
+		"urls": {
+			"partijwebsite": "https://groenlinkspvda.nl/kandidaat/kati-piri/"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 4,
+				"woonplaats": "Den Haag"
+			}
+		}
+	},
+	{
+		"naam": "Lisa Westerveld",
+		"urls": {
+			"partijwebsite": "https://groenlinkspvda.nl/kandidaat/lisa-westerveld/"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 5,
+				"woonplaats": "Nijmegen"
+			}
+		}
+	},
+	{
+		"naam": "Mariëtte Patijn",
+		"urls": {
+			"partijwebsite": "https://groenlinkspvda.nl/kandidaat/mariette-patijn/"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 6,
+				"woonplaats": "Hilversum"
+			}
+		}
+	},
+	{
+		"naam": "Suzanne Kröger",
+		"urls": {
+			"partijwebsite": "https://groenlinkspvda.nl/kandidaat/suzanne-kroger/"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 7,
+				"woonplaats": "Amsterdam"
+			}
+		}
+	},
+	{
+		"naam": "Julian Bushoff",
+		"urls": {
+			"partijwebsite": "https://groenlinkspvda.nl/kandidaat/julian-bushoff/"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 8,
+				"woonplaats": "Groningen"
+			}
+		}
+	},
+	{
+		"naam": "Tom van der Lee",
+		"urls": {
+			"partijwebsite": "https://groenlinkspvda.nl/kandidaat/tom-van-der-lee/"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 9,
+				"woonplaats": "Amsterdam"
+			}
+		}
+	},
+	{
+		"naam": "Songül Mutluer",
+		"urls": {
+			"partijwebsite": "https://groenlinkspvda.nl/kandidaat/songul-mutluer/"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 10,
+				"woonplaats": "Zaandam"
+			}
+		}
+	},
+	{
+		"naam": "Laura Bromet",
+		"urls": {
+			"partijwebsite": "https://groenlinkspvda.nl/kandidaat/laura-bromet/"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 11,
+				"woonplaats": "Monnickendam"
+			}
+		}
+	},
+	{
+		"naam": "Habtamu de Hoop",
+		"urls": {
+			"partijwebsite": "https://groenlinkspvda.nl/kandidaat/habtamu-de-hoop/"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 12,
+				"woonplaats": "Wommels"
+			}
+		}
+	},
+	{
+		"naam": "Senna Maatoug",
+		"urls": {
+			"partijwebsite": "https://groenlinkspvda.nl/kandidaat/senna-maatoug/"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 13,
+				"woonplaats": "Leiden"
+			}
+		}
+	},
+	{
+		"naam": "Mohammed Mohandis",
+		"urls": {
+			"partijwebsite": "https://groenlinkspvda.nl/kandidaat/mohammed-mohandis/"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 14,
+				"woonplaats": "Gouda"
+			}
+		}
+	},
+	{
+		"naam": "Geert Gabriëls",
+		"urls": {
+			"partijwebsite": "https://groenlinkspvda.nl/kandidaat/geert-gabriels/"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 15,
+				"woonplaats": "Weert"
+			}
+		}
+	},
+	{
+		"naam": "Joris Thijssen",
+		"urls": {
+			"partijwebsite": "https://groenlinkspvda.nl/kandidaat/joris-thijssen/"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 16,
+				"woonplaats": "Muiderberg"
+			}
+		}
+	},
+	{
+		"naam": "Kauthar Bouchallikht",
+		"urls": {
+			"partijwebsite": "https://groenlinkspvda.nl/kandidaat/kauthar-bouchallikht/"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 17,
+				"woonplaats": "Amsterdam"
+			}
+		}
+	},
+	{
+		"naam": "Barbara Kathmann",
+		"urls": {
+			"partijwebsite": "https://groenlinkspvda.nl/kandidaat/barbara-kathmann/"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 18,
+				"woonplaats": "Rotterdam"
+			}
+		}
+	},
+	{
+		"naam": "Elke Slagt-Tichelman",
+		"urls": {
+			"partijwebsite": "https://groenlinkspvda.nl/kandidaat/elke-slagt-tichelman/"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 19,
+				"woonplaats": "Assen"
+			}
+		}
+	},
+	{
+		"naam": "Mikal Tseggai",
+		"urls": {
+			"partijwebsite": "https://groenlinkspvda.nl/kandidaat/mikal-tseggai/"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 20,
+				"woonplaats": "Den Haag"
+			}
+		}
+	},
+	{
+		"naam": "Raoul White",
+		"urls": {
+			"partijwebsite": "https://groenlinkspvda.nl/kandidaat/raoul-white/"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 21,
+				"woonplaats": "Purmerend"
+			}
+		}
+	},
+	{
+		"naam": "Anita Pijpelink",
+		"urls": {
+			"partijwebsite": "https://groenlinkspvda.nl/kandidaat/anita-pijpelink/"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 22,
+				"woonplaats": "Middelburg"
+			}
+		}
+	},
+	{
+		"naam": "Glimina Chakor",
+		"urls": {
+			"partijwebsite": "https://groenlinkspvda.nl/kandidaat/glimina-chakor/"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 23,
+				"woonplaats": "Groningen"
+			}
+		}
+	},
+	{
+		"naam": "Jimme Nordkamp",
+		"urls": {
+			"partijwebsite": "https://groenlinkspvda.nl/kandidaat/jimme-nordkamp/"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 24,
+				"woonplaats": "Losser"
+			}
+		}
+	},
+	{
+		"naam": "Luc Stultiens",
+		"urls": {
+			"partijwebsite": "https://groenlinkspvda.nl/kandidaat/luc-stultiens/"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 25,
+				"woonplaats": "Den Haag"
+			}
+		}
+	},
+	{
+		"naam": "Marleen Haage",
+		"urls": {
+			"partijwebsite": "https://groenlinkspvda.nl/kandidaat/marleen-haage/"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 26,
+				"woonplaats": "Rotterdam"
+			}
+		}
+	},
+	{
+		"naam": "Daniëlle Hirsch",
+		"urls": {
+			"partijwebsite": "https://groenlinkspvda.nl/kandidaat/danielle-hirsch/"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 27,
+				"woonplaats": "Amsterdam"
+			}
+		}
+	},
+	{
+		"naam": "Hayte de Jong",
+		"urls": {
+			"partijwebsite": "https://groenlinkspvda.nl/kandidaat/hayte-de-jong/"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 28,
+				"woonplaats": "Amsterdam"
+			}
+		}
+	},
+	{
+		"naam": "Jeroen Postma",
+		"urls": {
+			"partijwebsite": "https://groenlinkspvda.nl/kandidaat/jeroen-postma/"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 29,
+				"woonplaats": "Rotterdam"
+			}
+		}
+	},
+	{
+		"naam": "Inge Oosting",
+		"urls": {
+			"partijwebsite": "https://groenlinkspvda.nl/kandidaat/inge-oosting/"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 30,
+				"woonplaats": "Elim"
+			}
+		}
+	},
+	{
+		"naam": "Margreet de Boer",
+		"urls": {
+			"partijwebsite": "https://groenlinkspvda.nl/kandidaat/margreet-de-boer/"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 31,
+				"woonplaats": "Amsterdam"
+			}
+		}
+	},
+	{
+		"naam": "Jan Daenen",
+		"urls": {
+			"partijwebsite": "https://groenlinkspvda.nl/kandidaat/jan-daenen/"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 32,
+				"woonplaats": "Nijmegen"
+			}
+		}
+	},
+	{
+		"naam": "April Ranshuijsen",
+		"urls": {
+			"partijwebsite": "https://groenlinkspvda.nl/kandidaat/april-ranshuijsen/"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 33,
+				"woonplaats": "Nijmegen"
+			}
+		}
+	},
+	{
+		"naam": "Eylem Köseoglu",
+		"urls": {
+			"partijwebsite": "https://groenlinkspvda.nl/kandidaat/eylem-koseoglu/"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 34,
+				"woonplaats": "Zaandam"
+			}
+		}
+	},
+	{
+		"naam": "Evelien van Roemburg",
+		"urls": {
+			"partijwebsite": "https://groenlinkspvda.nl/kandidaat/evelien-van-roemburg/"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 35,
+				"woonplaats": "Maastricht"
+			}
+		}
+	},
+	{
+		"naam": "Abassin Nessar",
+		"urls": {
+			"partijwebsite": "https://groenlinkspvda.nl/kandidaat/abassin-nessar/"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 36,
+				"woonplaats": "Almere"
+			}
+		}
+	},
+	{
+		"naam": "Lyle Muns",
+		"urls": {
+			"partijwebsite": "https://groenlinkspvda.nl/kandidaat/lyle-muns/"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 37,
+				"woonplaats": "Amsterdam"
+			}
+		}
+	},
+	{
+		"naam": "Iris Vrolijks",
+		"urls": {
+			"partijwebsite": "https://groenlinkspvda.nl/kandidaat/iris-vrolijks/"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 38,
+				"woonplaats": "Maassluis"
+			}
+		}
+	},
+	{
+		"naam": "Paul Smits",
+		"urls": {
+			"partijwebsite": "https://groenlinkspvda.nl/kandidaat/paul-smits/"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 39,
+				"woonplaats": "Ede"
+			}
+		}
+	},
+	{
+		"naam": "Mohamed Nabih",
+		"urls": {
+			"partijwebsite": "https://groenlinkspvda.nl/kandidaat/mohamed-nabih/"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 40,
+				"woonplaats": "Alkmaar"
+			}
+		}
+	},
+	{
+		"naam": "David Rietveld",
+		"urls": {
+			"partijwebsite": "https://groenlinkspvda.nl/kandidaat/david-rietveld/"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 41,
+				"woonplaats": "Den Haag"
+			}
+		}
+	},
+	{
+		"naam": "Yasin Torunoglu",
+		"urls": {
+			"partijwebsite": "https://groenlinkspvda.nl/kandidaat/yasin-torunoglu/"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 42,
+				"woonplaats": "Eindhoven"
+			}
+		}
+	},
+	{
+		"naam": "Eva de Bruijn",
+		"urls": {
+			"partijwebsite": "https://groenlinkspvda.nl/kandidaat/eva-de-bruijn/"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 43,
+				"woonplaats": "Eindhoven"
+			}
+		}
+	},
+	{
+		"naam": "Eline Bosman",
+		"urls": {
+			"partijwebsite": "https://groenlinkspvda.nl/kandidaat/eline-bosman/"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 44,
+				"woonplaats": "Rijswijk"
+			}
+		}
+	},
+	{
+		"naam": "Charda Kuipers",
+		"urls": {
+			"partijwebsite": "https://groenlinkspvda.nl/kandidaat/charda-kuipers/"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 45,
+				"woonplaats": "Leeuwarden"
+			}
+		}
+	},
+	{
+		"naam": "Marlieke van Schalkwijk",
+		"urls": {
+			"partijwebsite": "https://groenlinkspvda.nl/kandidaat/marlieke-van-schalkwijk/"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 46,
+				"woonplaats": "IJsselstein"
+			}
+		}
+	}
+]

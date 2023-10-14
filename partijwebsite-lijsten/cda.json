@@ -1,0 +1,590 @@
+[
+	{
+		"naam": "Henri Bontenbal",
+		"urls": {
+			"partijwebsite": "https://www.cda.nl/henri"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 1,
+				"woonplaats": "Rotterdam"
+			}
+		}
+	},	
+	{
+		"naam": "Eline Vedder",
+		"urls": {
+			"partijwebsite": "https://www.cda.nl/eline-vedder-tk23"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 2,
+				"woonplaats": "De Wolden"
+			}
+		}
+	},	
+	{
+		"naam": "Derk Boswijk",
+		"urls": {
+			"partijwebsite": "https://www.cda.nl/derk-boswijk-tk23"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 3,
+				"woonplaats": "Kockengen"
+			}
+		}
+	},	
+	{
+		"naam": "Inge van Dijk",
+		"urls": {
+			"partijwebsite": "https://www.cda.nl/inge-van-dijk-tk23"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 4,
+				"woonplaats": "Gemert-Bakel"
+			}
+		}
+	},	
+	{
+		"naam": "Harmen Krul",
+		"urls": {
+			"partijwebsite": "https://www.cda.nl/harmen-krul-tk23"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 5,
+				"woonplaats": "Den Helder"
+			}
+		}
+	},	
+	{
+		"naam": "Hilde Palland-Mulder",
+		"urls": {
+			"partijwebsite": "https://www.cda.nl/hilde-palland"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 6,
+				"woonplaats": "Kampen"
+			}
+		}
+	},	
+	{
+		"naam": "Bart van den Brink",
+		"urls": {
+			"partijwebsite": "https://www.cda.nl/bart-van-den-brink-tk23"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 7,
+				"woonplaats": "Amersfoort"
+			}
+		}
+	},	
+	{
+		"naam": "Marlou Absil",
+		"urls": {
+			"partijwebsite": "https://www.cda.nl/marlou-absil"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 8,
+				"woonplaats": "Peel en Maas"
+			}
+		}
+	},	
+	{
+		"naam": "Hanneke Steen",
+		"urls": {
+			"partijwebsite": "https://www.cda.nl/hanneke-steen"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 9,
+				"woonplaats": "Hengelo"
+			}
+		}
+	},	
+	{
+		"naam": "Anne Kuik",
+		"urls": {
+			"partijwebsite": "https://www.cda.nl/anne-kuik-tk23"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 1,
+				"woonplaats": " Ermelo"
+			}
+		}
+	}, 	
+	{
+		"naam": "Jouke Spoelstra",
+		"urls": {
+			"partijwebsite": "https://www.cda.nl/jouke-spoelstra"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 1,
+				"woonplaats": " Achtkarspelen"
+			}
+		}
+	}, 	
+	{
+		"naam": "Evert Jan Slootweg",
+		"urls": {
+			"partijwebsite": "https://www.cda.nl/evert-jan-slootweg-tk23"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 1,
+				"woonplaats": " Bennekom"
+			}
+		}
+	}, 	
+	{
+		"naam": "Saïda Chaoudi",
+		"urls": {
+			"partijwebsite": "https://www.cda.nl/saida-chaoui"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 1,
+				"woonplaats": " Westland"
+			}
+		}
+	}, 	
+	{
+		"naam": "Jantine Zwinkels",
+		"urls": {
+			"partijwebsite": "https://www.cda.nl/jantine-zwinkels"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 1,
+				"woonplaats": " Utrecht"
+			}
+		}
+	}, 	
+	{
+		"naam": "Ralph Diederen",
+		"urls": {
+			"partijwebsite": "https://www.cda.nl/ralph-diederen"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 1,
+				"woonplaats": " Beek (L"
+			}
+		}
+	}, 	
+	{
+		"naam": "Sarath Hamstra",
+		"urls": {
+			"partijwebsite": "https://www.cda.nl/sarath-hamstra"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 1,
+				"woonplaats": " Ermelo"
+			}
+		}
+	}, 	
+	{
+		"naam": "Easther Houmes",
+		"urls": {
+			"partijwebsite": "https://www.cda.nl/easther-houmes"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 1,
+				"woonplaats": " Goes"
+			}
+		}
+	}, 	
+	{
+		"naam": "Chantal van den Berg",
+		"urls": {
+			"partijwebsite": "https://www.cda.nl/chantal-van-den-berg"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 1,
+				"woonplaats": " Vijfhuizen"
+			}
+		}
+	}, 	
+	{
+		"naam": "Jalt de Haan",
+		"urls": {
+			"partijwebsite": "https://www.cda.nl/jalt-de-haan"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 1,
+				"woonplaats": " Groningen"
+			}
+		}
+	}, 	
+	{
+		"naam": "Jenny Vermeer",
+		"urls": {
+			"partijwebsite": "https://www.cda.nl/jenny-vermeer"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 2,
+				"woonplaats": " Westland"
+			}
+		}
+	}, 	
+	{
+		"naam": "Liesbeth van der Heide",
+		"urls": {
+			"partijwebsite": "https://www.cda.nl/liesbeth-van-der-heide"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 2,
+				"woonplaats": " Leidschendam-Voorburg"
+			}
+		}
+	}, 	
+	{
+		"naam": "Johan Goos",
+		"urls": {
+			"partijwebsite": "https://www.cda.nl/johan-goos"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 2,
+				"woonplaats": " Noordoostpolder"
+			}
+		}
+	}, 	
+	{
+		"naam": "Paul Boogaard",
+		"urls": {
+			"partijwebsite": "https://www.cda.nl/paul-boogaard"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 2,
+				"woonplaats": " Hoeksche Waard"
+			}
+		}
+	}, 	
+	{
+		"naam": "Wieke Goudzwaard-Wiersma",
+		"urls": {
+			"partijwebsite": "https://www.cda.nl/wieke-goudzwaard-wiersma"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 2,
+				"woonplaats": " Leeuwarden"
+			}
+		}
+	}, 	
+	{
+		"naam": "René Segers",
+		"urls": {
+			"partijwebsite": "https://www.cda.nl/rene-segers-hoogendoorn"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 2,
+				"woonplaats": " Rotterdam"
+			}
+		}
+	}, 	
+	{
+		"naam": "Arjen van Gijssel",
+		"urls": {
+			"partijwebsite": "https://www.cda.nl/arjen-van-gijssel"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 2,
+				"woonplaats": " Berkelland"
+			}
+		}
+	}, 	
+	{
+		"naam": "Lennard Goudriaan",
+		"urls": {
+			"partijwebsite": "https://www.cda.nl/lennard-goudriaan"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 2,
+				"woonplaats": " Albranswaard"
+			}
+		}
+	}, 	
+	{
+		"naam": "Mart van Lagen",
+		"urls": {
+			"partijwebsite": "https://www.cda.nl/mart-van-lagen"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 2,
+				"woonplaats": " Enschede"
+			}
+		}
+	}, 	
+	{
+		"naam": "Marieke van der Spek",
+		"urls": {
+			"partijwebsite": "https://www.cda.nl/marieke-van-der-spek-den-besten"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 2,
+				"woonplaats": " Vijfheerenlanden"
+			}
+		}
+	}, 	
+	{
+		"naam": "Floris Out",
+		"urls": {
+			"partijwebsite": "https://www.cda.nl/floris-out"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 3,
+				"woonplaats": " Alphen aan den Rijn"
+			}
+		}
+	}, 	
+	{
+		"naam": "Jacky Silos",
+		"urls": {
+			"partijwebsite": "https://www.cda.nl/jacky-silos"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 3,
+				"woonplaats": " Vlaardingen"
+			}
+		}
+	}, 	
+	{
+		"naam": "Yusuf Tuncer",
+		"urls": {
+			"partijwebsite": "https://www.cda.nl/yusuf-tuncer"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 3,
+				"woonplaats": " Schiedam"
+			}
+		}
+	}, 	
+	{
+		"naam": "Chantal Broekhuis",
+		"urls": {
+			"partijwebsite": "https://www.cda.nl/chantal-broekhuis"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 3,
+				"woonplaats": " Utrechtse Heuvelrug"
+			}
+		}
+	}, 	
+	{
+		"naam": "Antoine van den Oever",
+		"urls": {
+			"partijwebsite": "https://www.cda.nl/antoine-van-den-oever"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 3,
+				"woonplaats": " Rotterdam"
+			}
+		}
+	}, 	
+	{
+		"naam": "Joba van den Berg",
+		"urls": {
+			"partijwebsite": "https://www.cda.nlhttps://www.cda.nl/joba-van-den-berg-jansen"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 3,
+				"woonplaats": " Utrecht"
+			}
+		}
+	}, 	
+	{
+		"naam": "Antje Beers",
+		"urls": {
+			"partijwebsite": "https://www.cda.nl/antje-beers"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 3,
+				"woonplaats": " Breda"
+			}
+		}
+	}, 	
+	{
+		"naam": "Delano van Luik",
+		"urls": {
+			"partijwebsite": "https://www.cda.nl/delano-van-luik"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 3,
+				"woonplaats": " Nijmegen"
+			}
+		}
+	}, 	
+	{
+		"naam": "Bart van Dekken",
+		"urls": {
+			"partijwebsite": "https://www.cda.nl/bart-van-dekken"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 3,
+				"woonplaats": " De Wolden"
+			}
+		}
+	}, 	
+	{
+		"naam": "Stef Luijten",
+		"urls": {
+			"partijwebsite": "https://www.cda.nl/stef-luijten"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 3,
+				"woonplaats": " Bergeijk"
+			}
+		}
+	}, 	
+	{
+		"naam": "Harma Dost",
+		"urls": {
+			"partijwebsite": "https://www.cda.nl/harma-dost"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 4,
+				"woonplaats": " Het Hogeland"
+			}
+		}
+	}, 	
+	{
+		"naam": "Frank Buijs",
+		"urls": {
+			"partijwebsite": "https://www.cda.nl/frank-buijs"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 4,
+				"woonplaats": " Veenendaal"
+			}
+		}
+	}, 	
+	{
+		"naam": "Laura van de Giessen",
+		"urls": {
+			"partijwebsite": "https://www.cda.nl/laura-van-de-giessen"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 4,
+				"woonplaats": " Zwolle"
+			}
+		}
+	}, 	
+	{
+		"naam": "Dani Bracke",
+		"urls": {
+			"partijwebsite": "https://www.cda.nl/dani-bracke"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 4,
+				"woonplaats": " Hulst"
+			}
+		}
+	}, 	
+	{
+		"naam": "Jan Joosten",
+		"urls": {
+			"partijwebsite": "https://www.cda.nl/jan-joosten"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 4,
+				"woonplaats": " Eindhoven"
+			}
+		}
+	}, 	
+	{
+		"naam": "Pien Meppelink",
+		"urls": {
+			"partijwebsite": "https://www.cda.nl/pien-meppelink"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 4,
+				"woonplaats": " Zuidplas"
+			}
+		}
+	}, 	
+	{
+		"naam": "Robert van Dijk",
+		"urls": {
+			"partijwebsite": "https://www.cda.nl/robert-van-dijk"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 4,
+				"woonplaats": " Maasdriel"
+			}
+		}
+	}, 	
+	{
+		"naam": "Franko van Lankvelt",
+		"urls": {
+			"partijwebsite": "https://www.cda.nl/franko-van-lankvelt"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 4,
+				"woonplaats": " Maashorst"
+			}
+		}
+	}, 	
+	{
+		"naam": "Arjen Siegmann",
+		"urls": {
+			"partijwebsite": "https://www.cda.nl/arjen-siegmann"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 4,
+				"woonplaats": " Amstelveen"
+			}
+		}
+	}, 	
+	{
+		"naam": "Lody van de Kamp",
+		"urls": {
+			"partijwebsite": "https://www.cda.nl/lody-van-de-kamp"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 4,
+				"woonplaats": " Amsterdam"
+			}
+		}
+	}
+]

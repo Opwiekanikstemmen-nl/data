@@ -1,0 +1,461 @@
+[
+	{
+		"naam": "Thierry Baudet",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 1,
+				"woonplaats": "Amsterdam"
+			}
+		}
+	},
+	{
+		"naam": "Frederik Jansen",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 2,
+				"woonplaats": "Amsterdam"
+			}
+		}
+	},
+	{
+		"naam": "Gideon van Meijeren",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 3,
+				"woonplaats": "'s-Gravenhage"
+			}
+		}
+	},
+	{
+		"naam": "Pepijn van Houwelingen",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 4,
+				"woonplaats": "'s-Gravenhage"
+			}
+		}
+	},
+	{
+		"naam": "Ralf Dekker",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 5,
+				"woonplaats": "Amsterdam"
+			}
+		}
+	},
+	{
+		"naam": "Lidewij de Vos",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 6,
+				"woonplaats": "'s-Gravenhage"
+			}
+		}
+	},
+	{
+		"naam": "Tom Russcher",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 7,
+				"woonplaats": "Amsterdam"
+			}
+		}
+	},
+	{
+		"naam": "Massimo Etalle",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 8,
+				"woonplaats": "'s-Gravenhage"
+			}
+		}
+	},
+	{
+		"naam": "Andreas Bakir",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 9,
+				"woonplaats": "Enschede"
+			}
+		}
+	},
+	{
+		"naam": "Johan Dessing",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 10,
+				"woonplaats": "Zaandam"
+			}
+		}
+	},
+	{
+		"naam": "Joyce Vastenhouw",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 11,
+				"woonplaats": "Rijssen-Holten"
+			}
+		}
+	},
+	{
+		"naam": "Iem Al Biyati",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 12,
+				"woonplaats": "Amsterdam"
+			}
+		}
+	},
+	{
+		"naam": "Rebecca de Knegt",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 13,
+				"woonplaats": "Castricum"
+			}
+		}
+	},
+	{
+		"naam": "Peter Verstegen",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 14,
+				"woonplaats": "Vierlingsbeek"
+			}
+		}
+	},
+	{
+		"naam": "Anton van Schijndel",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 15,
+				"woonplaats": "Amsterdam"
+			}
+		}
+	},
+	{
+		"naam": "Brigitte Antolini",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 16,
+				"woonplaats": "Hoofddorp"
+			}
+		}
+	},
+	{
+		"naam": "Martin Bos",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 17,
+				"woonplaats": "Middelburg"
+			}
+		}
+	},
+	{
+		"naam": "Pelle Koopman",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 18,
+				"woonplaats": "Amsterdam"
+			}
+		}
+	},
+	{
+		"naam": "Ramon van Asch",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 19,
+				"woonplaats": "Sint-Michielsgestel"
+			}
+		}
+	},
+	{
+		"naam": "Marco van den Boomgaard",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 20,
+				"woonplaats": "Zoetermeer"
+			}
+		}
+	},
+	{
+		"naam": "van Iperen A.",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 21,
+				"woonplaats": "Tiel"
+			}
+		}
+	},
+	{
+		"naam": "Hak E.",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 22,
+				"woonplaats": "Tiel"
+			}
+		}
+	},
+	{
+		"naam": "Claassen C.A.J.",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 23,
+				"woonplaats": "Beuningen"
+			}
+		}
+	},
+	{
+		"naam": "van Manen C.E.J.",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 24,
+				"woonplaats": "Nijkerk"
+			}
+		}
+	},
+	{
+		"naam": "Korpel D.",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 25,
+				"woonplaats": "Ede"
+			}
+		}
+	},
+	{
+		"naam": "van Meijeren L.",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 26,
+				"woonplaats": "Doetinchem"
+			}
+		}
+	},
+	{
+		"naam": "de Lange A.K.",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 27,
+				"woonplaats": "Lelystad"
+			}
+		}
+	},
+	{
+		"naam": "Hadderingh B.S.T.",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 28,
+				"woonplaats": "Almere"
+			}
+		}
+	},
+	{
+		"naam": "Wittebrood J.C.",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 29,
+				"woonplaats": "Oudorp"
+			}
+		}
+	},
+	{
+		"naam": "Bilgin T.",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 30,
+				"woonplaats": "Amsterdam"
+			}
+		}
+	},
+	{
+		"naam": "Luurssen G.A.A.",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 31,
+				"woonplaats": "Arnhem"
+			}
+		}
+	},
+	{
+		"naam": "Minkels J.D.",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 32,
+				"woonplaats": "Schijndel"
+			}
+		}
+	},
+	{
+		"naam": "Heller T.H.G.",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 33,
+				"woonplaats": "Helmond"
+			}
+		}
+	},
+	{
+		"naam": "Postuma J.V.",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 34,
+				"woonplaats": "Almere"
+			}
+		}
+	},
+	{
+		"naam": "Vos A.V.B.",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 35,
+				"woonplaats": "Hoogeveen"
+			}
+		}
+	},
+	{
+		"naam": "Hartman M.",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 36,
+				"woonplaats": "Haarlem"
+			}
+		}
+	},
+	{
+		"naam": "Panis T.",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 37,
+				"woonplaats": "IJmuiden"
+			}
+		}
+	},
+	{
+		"naam": "van der Voort J.A.",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 38,
+				"woonplaats": "Monster"
+			}
+		}
+	},
+	{
+		"naam": "Nijman M.",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 39,
+				"woonplaats": "Beverwijk"
+			}
+		}
+	},
+	{
+		"naam": "Wijngaard M.M.",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 40,
+				"woonplaats": "Lelystad"
+			}
+		}
+	},
+	{
+		"naam": "van Rij S.",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 41,
+				"woonplaats": "Delft"
+			}
+		}
+	},
+	{
+		"naam": "van Run E.R.",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 42,
+				"woonplaats": "Heukelum"
+			}
+		}
+	},
+	{
+		"naam": "van de Breevaart J.O.",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 43,
+				"woonplaats": "Hendrik-Ido-Ambacht"
+			}
+		}
+	},
+	{
+		"naam": "Schaap D.V.",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 44,
+				"woonplaats": "Alkmaar"
+			}
+		}
+	},
+	{
+		"naam": "de Graaff M.J.R.L.",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 45,
+				"woonplaats": "Bonheiden (BE)"
+			}
+		}
+	},
+	{
+		"naam": "Zwitser T.",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 46,
+				"woonplaats": "Aduard"
+			}
+		}
+	},
+	{
+		"naam": "van den Oetelaar J.C.M.",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 47,
+				"woonplaats": "Schijndel"
+			}
+		}
+	},
+	{
+		"naam": "Kerseboom S.",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 48,
+				"woonplaats": "Maastricht"
+			}
+		}
+	},
+	{
+		"naam": "Cliteur P.B.",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 49,
+				"woonplaats": "Amsterdam"
+			}
+		}
+	}
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

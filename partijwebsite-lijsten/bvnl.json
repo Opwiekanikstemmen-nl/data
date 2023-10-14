@@ -1,0 +1,602 @@
+[
+	{
+		"naam": "Wybren van Haga",
+		"urls": {
+			"partijwebsite": "https://bvnl.nl/k/1"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 1,
+				"woonplaats": "Haarlem"
+			}
+		}
+	},
+	{
+		"naam": "Henk Krol",
+		"urls": {
+			"partijwebsite": "https://bvnl.nl/k/2"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 2,
+				"woonplaats": "Zeewolde"
+			}
+		}
+	},
+	{
+		"naam": "Sieta van Keimpema",
+		"urls": {
+			"partijwebsite": "https://bvnl.nl/k/3"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 3,
+				"woonplaats": "Nes"
+			}
+		}
+	},
+	{
+		"naam": "René Dercksen",
+		"urls": {
+			"partijwebsite": "https://bvnl.nl/k/4"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 4,
+				"woonplaats": "Bosch en Duin"
+			}
+		}
+	},
+	{
+		"naam": "Nynke Koopmans",
+		"urls": {
+			"partijwebsite": "https://bvnl.nl/k/5"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 5,
+				"woonplaats": "Tietjerk"
+			}
+		}
+	},
+	{
+		"naam": "Roy Van Aalst",
+		"urls": {
+			"partijwebsite": "https://bvnl.nl/k/6"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 6,
+				"woonplaats": "Hengelo"
+			}
+		}
+	},
+	{
+		"naam": "Imke Emons",
+		"urls": {
+			"partijwebsite": "https://bvnl.nl/k/7"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 7,
+				"woonplaats": "Sevenum"
+			}
+		}
+	},
+	{
+		"naam": "Shohreh Shahbazi Fishtali",
+		"urls": {
+			"partijwebsite": "https://bvnl.nl/k/8"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 8,
+				"woonplaats": "Amersfoort"
+			}
+		}
+	},
+	{
+		"naam": "Arjan de Kok",
+		"urls": {
+			"partijwebsite": "https://bvnl.nl/k/9"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 9,
+				"woonplaats": "Noordeinde"
+			}
+		}
+	},
+	{
+		"naam": "Hans van Tellingen",
+		"urls": {
+			"partijwebsite": "https://bvnl.nl/k/10"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 10,
+				"woonplaats": "Amstelveen"
+			}
+		}
+	},
+	{
+		"naam": "Peter Van der Velden",
+		"urls": {
+			"partijwebsite": "https://bvnl.nl/k/11"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 11,
+				"woonplaats": "Rotterdam"
+			}
+		}
+	},
+	{
+		"naam": "Yernaz Ramautarsing",
+		"urls": {
+			"partijwebsite": "https://bvnl.nl/k/12"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 12,
+				"woonplaats": "Amsterdam"
+			}
+		}
+	},
+	{
+		"naam": "Carmen Bosscher",
+		"urls": {
+			"partijwebsite": "https://bvnl.nl/k/13"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 13,
+				"woonplaats": "Dijk en Waard"
+			}
+		}
+	},
+	{
+		"naam": "Harry Wijnschenk",
+		"urls": {
+			"partijwebsite": "https://bvnl.nl/k/14"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 14,
+				"woonplaats": "Almere"
+			}
+		}
+	},
+	{
+		"naam": "Sven-Äke Hulleman",
+		"urls": {
+			"partijwebsite": "https://bvnl.nl/k/15"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 15,
+				"woonplaats": "Parijs"
+			}
+		}
+	},
+	{
+		"naam": "Arjen Schuiling",
+		"urls": {
+			"partijwebsite": "https://bvnl.nl/k/16"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 16,
+				"woonplaats": "Tynaarlo"
+			}
+		}
+	},
+	{
+		"naam": "Tjitske Aline Van der Veen",
+		"urls": {
+			"partijwebsite": "https://bvnl.nl/k/17"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 17,
+				"woonplaats": "Kollumerzwaag"
+			}
+		}
+	},
+	{
+		"naam": "Patrick Schilder",
+		"urls": {
+			"partijwebsite": "https://bvnl.nl/k/18"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 18,
+				"woonplaats": "Edam-Volendam"
+			}
+		}
+	},
+	{
+		"naam": "Siebe Jan Vogelzang",
+		"urls": {
+			"partijwebsite": "https://bvnl.nl/k/19"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 19,
+				"woonplaats": "Dokkum"
+			}
+		}
+	},
+	{
+		"naam": "Robert Pestman",
+		"urls": {
+			"partijwebsite": "https://bvnl.nl/k/20"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 20,
+				"woonplaats": "Groningen"
+			}
+		}
+	},
+	{
+		"naam": "Stefanie Vulders",
+		"urls": {
+			"partijwebsite": "https://bvnl.nl/k/21"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 21,
+				"woonplaats": "Oisterwijk"
+			}
+		}
+	},
+	{
+		"naam": "Danielle Van der Wiele",
+		"urls": {
+			"partijwebsite": "https://bvnl.nl/k/22"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 22,
+				"woonplaats": "Kerkwijk"
+			}
+		}
+	},
+	{
+		"naam": "Robert Brunke",
+		"urls": {
+			"partijwebsite": "https://bvnl.nl/k/23"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 23,
+				"woonplaats": "Vlissingen"
+			}
+		}
+	},
+	{
+		"naam": "Mirjam De Vos",
+		"urls": {
+			"partijwebsite": "https://bvnl.nl/k/24"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 24,
+				"woonplaats": "Heerenveen"
+			}
+		}
+	},
+	{
+		"naam": "Elbert Van Dalen",
+		"urls": {
+			"partijwebsite": "https://bvnl.nl/k/25"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 25,
+				"woonplaats": "Zaltbommel"
+			}
+		}
+	},
+	{
+		"naam": "Kevin Wiersma",
+		"urls": {
+			"partijwebsite": "https://bvnl.nl/k/26"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 26,
+				"woonplaats": "Oentsjerk"
+			}
+		}
+	},
+	{
+		"naam": "Pascal Van Kassel",
+		"urls": {
+			"partijwebsite": "https://bvnl.nl/k/27"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 27,
+				"woonplaats": "Weesp"
+			}
+		}
+	},
+	{
+		"naam": "Grite Wymenga",
+		"urls": {
+			"partijwebsite": "https://bvnl.nl/k/28"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 28,
+				"woonplaats": "Drachten"
+			}
+		}
+	},
+	{
+		"naam": "Saul Jonk",
+		"urls": {
+			"partijwebsite": "https://bvnl.nl/k/29"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 29,
+				"woonplaats": "Edam-Volendam"
+			}
+		}
+	},
+	{
+		"naam": "Cor Zuidema",
+		"urls": {
+			"partijwebsite": "https://bvnl.nl/k/30"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 30,
+				"woonplaats": "Eastermar"
+			}
+		}
+	},
+	{
+		"naam": "Camiel Van der Meeren",
+		"urls": {
+			"partijwebsite": "https://bvnl.nl/k/31"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 31,
+				"woonplaats": "Bergen op Zoom"
+			}
+		}
+	},
+	{
+		"naam": "Charlotte Marie Mensing",
+		"urls": {
+			"partijwebsite": "https://bvnl.nl/k/32"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 32,
+				"woonplaats": "Den Haag"
+			}
+		}
+	},
+	{
+		"naam": "Frederique Durlacher",
+		"urls": {
+			"partijwebsite": "https://bvnl.nl/k/33"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 33,
+				"woonplaats": "Hilversum"
+			}
+		}
+	},
+	{
+		"naam": "Iwan Dienjes",
+		"urls": {
+			"partijwebsite": "https://bvnl.nl/k/34"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 34,
+				"woonplaats": "Breda"
+			}
+		}
+	},
+	{
+		"naam": "Maikel De Bekker",
+		"urls": {
+			"partijwebsite": "https://bvnl.nl/k/35"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 35,
+				"woonplaats": "Bergen op Zoom"
+			}
+		}
+	},
+	{
+		"naam": "Onno Laarhoven",
+		"urls": {
+			"partijwebsite": "https://bvnl.nl/k/36"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 36,
+				"woonplaats": "Oegstgeest"
+			}
+		}
+	},
+	{
+		"naam": "Roos Eradus",
+		"urls": {
+			"partijwebsite": "https://bvnl.nl/k/37"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 37,
+				"woonplaats": "Oegstgeest"
+			}
+		}
+	},
+	{
+		"naam": "Roel Westhoff",
+		"urls": {
+			"partijwebsite": "https://bvnl.nl/k/38"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 38,
+				"woonplaats": "Nuth"
+			}
+		}
+	},
+	{
+		"naam": "Marco Beverloo",
+		"urls": {
+			"partijwebsite": "https://bvnl.nl/k/39"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 39,
+				"woonplaats": "Nederhemert"
+			}
+		}
+	},
+	{
+		"naam": "Meindert Van Buuren",
+		"urls": {
+			"partijwebsite": "https://bvnl.nl/k/40"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 40,
+				"woonplaats": "Rockanje"
+			}
+		}
+	},
+	{
+		"naam": "Alistair Overeem",
+		"urls": {
+			"partijwebsite": "https://bvnl.nl/k/41"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 41,
+				"woonplaats": "Miami"
+			}
+		}
+	},
+	{
+		"naam": "Frederike Thiessens",
+		"urls": {
+			"partijwebsite": "https://bvnl.nl/k/42"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 42,
+				"woonplaats": "Apeldoorn"
+			}
+		}
+	},
+	{
+		"naam": "Arjan Brouwer",
+		"urls": {
+			"partijwebsite": "https://bvnl.nl/k/43"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 43,
+				"woonplaats": "Enschede"
+			}
+		}
+	},
+	{
+		"naam": "Toine Manders",
+		"urls": {
+			"partijwebsite": "https://bvnl.nl/k/44"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 44,
+				"woonplaats": "Maarheeze"
+			}
+		}
+	},
+	{
+		"naam": "Bas Filippini",
+		"urls": {
+			"partijwebsite": "https://bvnl.nl/k/45"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 45,
+				"woonplaats": "Ouderkerk ad Amstel"
+			}
+		}
+	},
+	{
+		"naam": "Willy Verweij",
+		"urls": {
+			"partijwebsite": "https://bvnl.nl/k/46"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 46,
+				"woonplaats": "Nigtevecht"
+			}
+		}
+	},
+	{
+		"naam": "Rob Elens",
+		"urls": {
+			"partijwebsite": "https://bvnl.nl/k/47"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 47,
+				"woonplaats": "Venray"
+			}
+		}
+	},
+	{
+		"naam": "Marcus Rolloos",
+		"urls": {
+			"partijwebsite": "https://bvnl.nl/k/48"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 48,
+				"woonplaats": "Oegstgeest"
+			}
+		}
+	},
+	{
+		"naam": "Johan Talsma",
+		"urls": {
+			"partijwebsite": "https://bvnl.nl/k/49"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 49,
+				"woonplaats": "Dokkum"
+			}
+		}
+	},
+	{
+		"naam": "Hans Smolders",
+		"urls": {
+			"partijwebsite": "https://bvnl.nl/k/50"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 50,
+				"woonplaats": "Tilburg"
+			}
+		}
+	}
+]

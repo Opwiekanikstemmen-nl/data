@@ -1,0 +1,343 @@
+[
+	{
+		"naam": "Femke Merel van Kooten - Arissen",
+		"urls": {
+			"partijwebsite": "https://www.splinterpolitiek.nl/kandidaten/femkemerel"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 1
+			}
+		}
+	},
+	{
+		"naam": "Nienke Ipenburg - Van Zelst",
+		"urls": {
+			"partijwebsite": "https://www.splinterpolitiek.nl/kandidaten/nienke"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 2
+			}
+		}
+	},
+	{
+		"naam": "Thijs Bogers",
+		"urls": {
+			"partijwebsite": "https://www.splinterpolitiek.nl/kandidaten/thijs"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 3
+			}
+		}
+	},
+	{
+		"naam": "Jeroen Vos",
+		"urls": {
+			"partijwebsite": "https://www.splinterpolitiek.nl/kandidaten/jeroen-vos"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 4
+			}
+		}
+	},
+	{
+		"naam": "Marcel Jansma",
+		"urls": {
+			"partijwebsite": "https://www.splinterpolitiek.nl/kandidaten/marcel"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 5
+			}
+		}
+	},
+	{
+		"naam": "Niek Mu'ayyed Mir-Damádi",
+		"urls": {
+			"partijwebsite": "https://www.splinterpolitiek.nl/kandidaten/niek"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 6
+			}
+		}
+	},
+	{
+		"naam": "Novella Rasenberg",
+		"urls": {
+			"partijwebsite": "https://www.splinterpolitiek.nl/kandidaten/novella"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 7
+			}
+		}
+	},
+	{
+		"naam": "Paul Janssen",
+		"urls": {
+			"partijwebsite": "https://www.splinterpolitiek.nl/kandidaten/paul"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 8
+			}
+		}
+	},
+	{
+		"naam": "Yasmine van der Weide",
+		"urls": {
+			"partijwebsite": "https://www.splinterpolitiek.nl/kandidaten/yasmine"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 9
+			}
+		}
+	},
+	{
+		"naam": "Eduard Wehnes",
+		"urls": {
+			"partijwebsite": "https://www.splinterpolitiek.nl/kandidaten/eduard"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 10
+			}
+		}
+	},
+	{
+		"naam": "Ralph de Backer",
+		"urls": {
+			"partijwebsite": "https://www.splinterpolitiek.nl/kandidaten/ralph"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 11
+			}
+		}
+	},
+	{
+		"naam": "Anne Hoedeman",
+		"urls": {
+			"partijwebsite": "https://www.splinterpolitiek.nl/kandidaten/anne"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 12
+			}
+		}
+	},
+	{
+		"naam": "Bryan Rechards",
+		"urls": {
+			"partijwebsite": "https://www.splinterpolitiek.nl/kandidaten/bryan"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 13
+			}
+		}
+	},
+	{
+		"naam": "Jeroen Weyers",
+		"urls": {
+			"partijwebsite": "https://www.splinterpolitiek.nl/kandidaten/jeroen-weyers"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 14
+			}
+		}
+	},
+	{
+		"naam": "Gilia van Dam",
+		"urls": {
+			"partijwebsite": "https://www.splinterpolitiek.nl/kandidaten/gilia"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 15
+			}
+		}
+	},
+	{
+		"naam": "Jean - Christophe Abrahams",
+		"urls": {
+			"partijwebsite": "https://www.splinterpolitiek.nl/kandidaten/jean-christophe"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 16
+			}
+		}
+	},
+	{
+		"naam": "Dick Kuin",
+		"urls": {
+			"partijwebsite": "https://www.splinterpolitiek.nl/kandidaten/dick"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 17
+			}
+		}
+	},
+	{
+		"naam": "Marie Claire Gerritsen",
+		"urls": {
+			"partijwebsite": "https://www.splinterpolitiek.nl/kandidaten/marie-claire"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 18
+			}
+		}
+	},
+	{
+		"naam": "Laura Leijendekkers",
+		"urls": {
+			"partijwebsite": "https://www.splinterpolitiek.nl/kandidaten/laura-leijendekkers"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 19
+			}
+		}
+	},
+	{
+		"naam": "Tycho de Ruiter",
+		"urls": {
+			"partijwebsite": "https://www.splinterpolitiek.nl/kandidaten/tycho"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 20
+			}
+		}
+	},
+	{
+		"naam": "Gerard Pijnenburg",
+		"urls": {
+			"partijwebsite": "https://www.splinterpolitiek.nl/kandidaten/gerard"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 21
+			}
+		}
+	},
+	{
+		"naam": "Marise Schot",
+		"urls": {
+			"partijwebsite": "https://www.splinterpolitiek.nl/kandidaten/marise"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 22
+			}
+		}
+	},
+	{
+		"naam": "Nora Ezendam",
+		"urls": {
+			"partijwebsite": "https://www.splinterpolitiek.nl/kandidaten/nora"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 23
+			}
+		}
+	},
+	{
+		"naam": "Laura Peeters",
+		"urls": {
+			"partijwebsite": "https://www.splinterpolitiek.nl/kandidaten/laura-peeters"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 24
+			}
+		}
+	},
+	{
+		"naam": "Dion de Groot",
+		"urls": {
+			"partijwebsite": "https://www.splinterpolitiek.nl/kandidaten/dion"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 25
+			}
+		}
+	},
+	{
+		"naam": "Magda van den Heuvel - Luczycki",
+		"urls": {
+			"partijwebsite": "https://www.splinterpolitiek.nl/kandidaten/magda"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 26
+			}
+		}
+	},
+	{
+		"naam": "Patrick Bruijstens",
+		"urls": {
+			"partijwebsite": "https://www.splinterpolitiek.nl/kandidaten/patrick"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 27
+			}
+		}
+	},
+	{
+		"naam": "Marvin Keizer",
+		"urls": {
+			"partijwebsite": "https://www.splinterpolitiek.nl/kandidaten/marvin"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 28
+			}
+		}
+	},
+	{
+		"naam": "Tijmen Gol",
+		"urls": {
+			"partijwebsite": "https://www.splinterpolitiek.nl/kandidaten/tijmen"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 29
+			}
+		}
+	},
+	{
+		"naam": "Tom de Koning",
+		"urls": {
+			"partijwebsite": "https://www.splinterpolitiek.nl/kandidaten/tom"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 30
+			}
+		}
+	},
+	{
+		"naam": "Ingrid Del Ferro - Keyser",
+		"urls": {
+			"partijwebsite": "https://www.splinterpolitiek.nl/kandidaten/ingrid"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 31
+			}
+		}
+	}
+]

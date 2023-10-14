@@ -1,0 +1,670 @@
+[
+	{
+		"naam": "Rob Jetten",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 1,
+				"leeftijd": 36
+			}
+		}
+	},
+	{
+		"naam": "Jan Paternotte",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 2,
+				"leeftijd": 39
+			}
+		}
+	},
+	{
+		"naam": "Hans Vijlbrief",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 3,
+				"leeftijd": 60
+			}
+		}
+	},
+	{
+		"naam": "Anne-Marijke Podt",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 4,
+				"leeftijd": 48
+			}
+		}
+	},
+	{
+		"naam": "Joost Sneller",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 5,
+				"leeftijd": 41
+			}
+		}
+	},
+	{
+		"naam": "Ilana Rooderkerk",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 6,
+				"leeftijd": 36
+			}
+		}
+	},
+	{
+		"naam": "Wieke Paulusma",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 7,
+				"leeftijd": 44
+			}
+		}
+	},
+	{
+		"naam": "Hanneke van der Werf",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 8,
+				"leeftijd": 38
+			}
+		}
+	},
+	{
+		"naam": "Tom van Mpanzu Bamenga",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 9,
+				"leeftijd": 38
+			}
+		}
+	},
+	{
+		"naam": "Tjeerd de Groot",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 10,
+				"leeftijd": 55
+			}
+		}
+	},
+	{
+		"naam": "Marijke Synhaeve",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 11,
+				"leeftijd": 33
+			}
+		}
+	},
+	{
+		"naam": "Habtamu Lisa van Ginneken",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 12,
+				"leeftijd": 51
+			}
+		}
+	},
+	{
+		"naam": "Salima Belhaj",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 13,
+				"leeftijd": 44
+			}
+		}
+	},
+	{
+		"naam": "Faissal Boulakjar",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 14,
+				"leeftijd": 44
+			}
+		}
+	},
+	{
+		"naam": "Fonda Sahla",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 15,
+				"leeftijd": 43
+			}
+		}
+	},
+	{
+		"naam": "Felix Klos",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 16,
+				"leeftijd": 31
+			}
+		}
+	},
+	{
+		"naam": "Hülya Kat",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 17,
+				"leeftijd": 40
+			}
+		}
+	},
+	{
+		"naam": "Sjoerd Warmerdam",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 18,
+				"leeftijd": 36
+			}
+		}
+	},
+	{
+		"naam": "Spencer Alberg",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 19,
+				"leeftijd": 22
+			}
+		}
+	},
+	{
+		"naam": "Alexander Hammelburg",
+		"geboortejaar": 1982,
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 20
+			}
+		}
+	},
+	{
+		"naam": "Alexander Hammelburg",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 20
+			}
+		}
+	},
+	{
+		"naam": "Jieskje Hollander",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 21
+			}
+		}
+	},
+	{
+		"naam": "Loes ten Dolle",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 22
+			}
+		}
+	},
+	{
+		"naam": "Dorien Blommers",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 23
+			}
+		}
+	},
+	{
+		"naam": "Carline van Breugel",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 24
+			}
+		}
+	},
+	{
+		"naam": "Hans Teunissen",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 25
+			}
+		}
+	},
+	{
+		"naam": "Meryem Çimen",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 26
+			}
+		}
+	},
+	{
+		"naam": "Ouafa Oualhadj",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 27
+			}
+		}
+	},
+	{
+		"naam": "Marvin Putuhena",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 28
+			}
+		}
+	},
+	{
+		"naam": "Eelco Keij",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 29
+			}
+		}
+	},
+	{
+		"naam": "Veerle Brink",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 30
+			}
+		}
+	},
+	{
+		"naam": "Paul van Dorst",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 31
+			}
+		}
+	},
+	{
+		"naam": "Gerben Wijnja",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 32
+			}
+		}
+	},
+	{
+		"naam": "Margreet de Vries",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 33
+			}
+		}
+	},
+	{
+		"naam": "Frank Schoonbeek",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 34
+			}
+		}
+	},
+	{
+		"naam": "Mahjoub Mathlouti",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 35
+			}
+		}
+	},
+	{
+		"naam": "Wiebe Ruttenberg",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 36
+			}
+		}
+	},
+	{
+		"naam": "Joey Koops",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 37
+			}
+		}
+	},
+	{
+		"naam": "Kiki Hagen",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 38
+			}
+		}
+	},
+	{
+		"naam": "Gerben Hiemstra",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 39
+			}
+		}
+	},
+	{
+		"naam": "Judith Keijmel-den Boer",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 40
+			}
+		}
+	},
+	{
+		"naam": "Hilde Tjeerdema",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 41
+			}
+		}
+	},
+	{
+		"naam": "Elze Woudstra",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 42
+			}
+		}
+	},
+	{
+		"naam": "Anne-Lise Olsthoorn",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 43
+			}
+		}
+	},
+	{
+		"naam": "Caecilia Johanna van Peski",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 44
+			}
+		}
+	},
+	{
+		"naam": "Bonne van Hattum",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 45
+			}
+		}
+	},
+	{
+		"naam": "Hind Dekker-Abdulaziz",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 46
+			}
+		}
+	},
+	{
+		"naam": "Marco van Driel",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 47
+			}
+		}
+	},
+	{
+		"naam": "Linda Ruijs",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 48
+			}
+		}
+	},
+	{
+		"naam": "Pieter van der Gaag",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 49
+			}
+		}
+	},
+	{
+		"naam": "Enrico Leonardo Bosters ",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 50
+			}
+		}
+	},
+	{
+		"naam": "Donja Hoevers",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 51
+			}
+		}
+	},
+	{
+		"naam": "Veerle Fleur van de Vijver",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 52
+			}
+		}
+	},
+	{
+		"naam": "Pepijn Vemer",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 53
+			}
+		}
+	},
+	{
+		"naam": "David Wallast",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 54
+			}
+		}
+	},
+	{
+		"naam": "Elly André",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 55
+			}
+		}
+	},
+	{
+		"naam": "Anne Wesseling",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 56
+			}
+		}
+	},
+	{
+		"naam": "Remy Maessen",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 57
+			}
+		}
+	},
+	{
+		"naam": "Monique Schoonen",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 58
+			}
+		}
+	},
+	{
+		"naam": "Pepijn Pi Van de Venne",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 59
+			}
+		}
+	},
+	{
+		"naam": "Marlou Jenneskens",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 60
+			}
+		}
+	},
+	{
+		"naam": "Sander Janssen",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 61
+			}
+		}
+	},
+	{
+		"naam": "Laura de Vries",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 62
+			}
+		}
+	},
+	{
+		"naam": "Sumer Chaban",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 63
+			}
+		}
+	},
+	{
+		"naam": "Ton Louhenapessy",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 64
+			}
+		}
+	},
+	{
+		"naam": "Linda Nooitmeer",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 65
+			}
+		}
+	},
+	{
+		"naam": "Jaimi van Essen",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 66
+			}
+		}
+	},
+	{
+		"naam": "Joan Nunnely",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 67
+			}
+		}
+	},
+	{
+		"naam": "Nazmi Türkkol",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 68
+			}
+		}
+	},
+	{
+		"naam": "Peter van der Voort",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 69
+			}
+		}
+	},
+	{
+		"naam": "Marcelle Hendrickx",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 70
+			}
+		}
+	},
+	{
+		"naam": "Fleur Gräper",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 71
+			}
+		}
+	},
+	{
+		"naam": "Franc Weerwind",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 72
+			}
+		}
+	},
+	{
+		"naam": "Alexandra van Huffelen",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 73
+			}
+		}
+	},
+	{
+		"naam": "Ernst Kuipers",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 74
+			}
+		}
+	},
+	{
+		"naam": "Kajsa Ollongren",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 75
+			}
+		}
+	},
+	{
+		"naam": "Robbert Dijkgraaf",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 76
+			}
+		}
+	},
+	{
+		"naam": "Gunay Uslu",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 77
+			}
+		}
+	},
+	{
+		"naam": "Alexander Pechtold",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 78
+			}
+		}
+	},
+	{
+		"naam": "Jan Terlouw",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 79
+			}
+		}
+	},
+	{
+		"naam": "Sigrid Kaag ",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 80
+			}
+		}
+	}
+]

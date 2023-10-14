@@ -1,0 +1,275 @@
+[
+	{
+		"naam": "Laurens Dassen",
+		"urls": {
+			"partijwebsite": "https://voltnederland.org/mensen/laurens-dassen"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 1,
+				"leeftijd": 37,
+				"woonplaats": "Den Haag"
+			}
+		}
+	},
+	{
+		"naam": "Marieke Koekkoek",
+		"urls": {
+			"partijwebsite": "https://voltnederland.org/mensen/marieke-koekkoek"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 2,
+				"leeftijd": 34,
+				"woonplaats": "Utrecht"
+			}
+		}
+	},
+	{
+		"naam": "Ernst Boutkan",
+		"urls": {
+			"partijwebsite": "https://voltnederland.org/mensen/ernst-boutkan-tk2023"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 3,
+				"leeftijd": 27,
+				"woonplaats": "Leiden"
+			}
+		}
+	},
+	{
+		"naam": "Imane Elfilali",
+		"urls": {
+			"partijwebsite": "https://voltnederland.org/mensen/imane-elfilali-tk2023"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 4,
+				"leeftijd": 42,
+				"woonplaats": "Rotterdam"
+			}
+		}
+	},
+	{
+		"naam": "Martijn Hagoort",
+		"urls": {
+			"partijwebsite": "https://voltnederland.org/mensen/martijn-hagoort-tk2023"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 5,
+				"leeftijd": 32,
+				"woonplaats": "Den Haag"
+			}
+		}
+	},
+	{
+		"naam": "Romy Frijters",
+		"urls": {
+			"partijwebsite": "https://voltnederland.org/mensen/romy-frijters-tk2023"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 6,
+				"leeftijd": 25,
+				"woonplaats": "Maastricht"
+			}
+		}
+	},
+	{
+		"naam": "Rens de Boer",
+		"urls": {
+			"partijwebsite": "https://voltnederland.org/mensen/rens-de-boer-tk2023"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 7,
+				"leeftijd": 35,
+				"woonplaats": "Amsterdam"
+			}
+		}
+	},
+	{
+		"naam": "Sanne van der Lugt",
+		"urls": {
+			"partijwebsite": "https://voltnederland.org/mensen/sanne-van-der-lugt-tk2023"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 8,
+				"leeftijd": 39,
+				"woonplaats": "Utrecht"
+			}
+		}
+	},
+	{
+		"naam": "Bjorn Beijnon",
+		"urls": {
+			"partijwebsite": "https://voltnederland.org/mensen/bjorn-beijnon-tk2023"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 9,
+				"leeftijd": 29,
+				"woonplaats": "Den Bosch"
+			}
+		}
+	},
+	{
+		"naam": "Robin Twickler",
+		"urls": {
+			"partijwebsite": "https://voltnederland.org/mensen/robin-twickler-tk2023"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 10,
+				"leeftijd": 27,
+				"woonplaats": "Groningen"
+			}
+		}
+	},
+	{
+		"naam": "Cankut Ercan",
+		"urls": {
+			"partijwebsite": "https://voltnederland.org/mensen/cankut-ercan-tk2023"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 11,
+				"leeftijd": 35,
+				"woonplaats": "Zwolle"
+			}
+		}
+	},
+	{
+		"naam": "Julia Hamel",
+		"urls": {
+			"partijwebsite": "https://voltnederland.org/mensen/julia-hamel-tk2023"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 12,
+				"leeftijd": 38,
+				"woonplaats": "Utrecht"
+			}
+		}
+	},
+	{
+		"naam": "Willem van Ewijk",
+		"urls": {
+			"partijwebsite": "https://voltnederland.org/mensen/willem-van-ewijk-tk2023"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 13,
+				"leeftijd": 36,
+				"woonplaats": "Den Bosch"
+			}
+		}
+	},
+	{
+		"naam": "Sylvia van Laar",
+		"urls": {
+			"partijwebsite": "https://voltnederland.org/mensen/sylvia-van-laar-tk2023"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 14,
+				"leeftijd": 29,
+				"woonplaats": "Den Haag"
+			}
+		}
+	},
+	{
+		"naam": "Michael Teng-Li Tai",
+		"urls": {
+			"partijwebsite": "https://voltnederland.org/mensen/michael-teng-li-tai-2023"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 15,
+				"leeftijd": 33,
+				"woonplaats": "Rotterdam"
+			}
+		}
+	},
+	{
+		"naam": "Valerie Pajak",
+		"urls": {
+			"partijwebsite": "https://voltnederland.org/mensen/valerie-pajak-tk2023"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 16,
+				"leeftijd": 30,
+				"woonplaats": "Eindhoven"
+			}
+		}
+	},
+	{
+		"naam": "Floris Eigenhuis",
+		"urls": {
+			"partijwebsite": "https://voltnederland.org/mensen/floris-eigenhuis-2023"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 17,
+				"leeftijd": 33,
+				"woonplaats": "Amersfoort"
+			}
+		}
+	},
+	{
+		"naam": "Eveline Verbeek",
+		"urls": {
+			"partijwebsite": "https://voltnederland.org/mensen/eveline-verbeek-tk2023"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 18,
+				"leeftijd": 32,
+				"woonplaats": "Amsterdam"
+			}
+		}
+	},
+	{
+		"naam": "Bart Hemmes",
+		"urls": {
+			"partijwebsite": "https://voltnederland.org/mensen/bart-hemmes-tk2023"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 19,
+				"leeftijd": 23,
+				"woonplaats": "Den Haag"
+			}
+		}
+	},
+	{
+		"naam": "Dianne Elsinga",
+		"urls": {
+			"partijwebsite": "https://voltnederland.org/mensen/dianne-elsinga-tk2023"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 20,
+				"leeftijd": 46,
+				"woonplaats": "Delft"
+			}
+		}
+	},
+	{
+		"naam": "Sjoerd Dreteler",
+		"urls": {
+			"partijwebsite": "https://voltnederland.org/mensen/sjoerd-dreteler-tk2023"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 21,
+				"leeftijd": 31,
+				"woonplaats": "Den Haag"
+			}
+		}
+	}
+]

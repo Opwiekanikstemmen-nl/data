@@ -1,0 +1,101 @@
+[
+	{
+		"naam": "Sepp Hannen",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 1,
+				"woonplaats": "Budel-Dorplein"
+			}
+		}
+	},
+	{
+		"naam": "Ludovic van Mierlo",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 2,
+				"woonplaats": "Vreeland"
+			}
+		}
+	},
+	{
+		"naam": "Susan Delsing",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 3,
+				"woonplaats": "Amsterdam"
+			}
+		}
+	},
+	{
+		"naam": "Reginald Diepenhorst",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 4,
+				"woonplaats": "Zevenaar"
+			}
+		}
+	},
+	{
+		"naam": "Eric Binsbergen",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 5,
+				"woonplaats": "Amsterdam"
+			}
+		}
+	},
+	{
+		"naam": "Ron Smit",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 6,
+				"woonplaats": "Amsterdam"
+			}
+		}
+	},
+	{
+		"naam": "Marc Veeger",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 7,
+				"woonplaats": "Budel-Dorplein"
+			}
+		}
+	},
+	{
+		"naam": "Edgar van der Staaij",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 8,
+				"woonplaats": "Leeuwarden"
+			}
+		}
+	},
+	{
+		"naam": "Raymond Karremann",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 9,
+				"woonplaats": "Raamsdonksveer"
+			}
+		}
+	},
+	{
+		"naam": "Dennis Rosenbaum",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 10,
+				"woonplaats": "Bilthoven"
+			}
+		}
+	},
+	{
+		"naam": "Sijbren Sijtsma",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 11,
+				"woonplaats": "Drachten"
+			}
+		}
+	}
+]

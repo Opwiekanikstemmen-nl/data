@@ -1,0 +1,398 @@
+[
+    {
+        "naam": "Chris Stoffer",
+        "verkiezingen": {
+            "tk2023": {
+                "lijstnummer": 1,
+                "woonplaats": "Elspeet"
+            }
+        }
+    },
+    {
+        "naam": "Diederik van Dijk",
+        "verkiezingen": {
+            "tk2023": {
+                "lijstnummer": 2,
+                "woonplaats": "Benthuizen"
+            }
+        }
+    },
+    {
+        "naam": "André Flach",
+        "verkiezingen": {
+            "tk2023": {
+                "lijstnummer": 3,
+                "woonplaats": "Hendrik Ido Ambacht"
+            }
+        }
+    },
+    {
+        "naam": "Nathanaël Middelkoop",
+        "verkiezingen": {
+            "tk2023": {
+                "lijstnummer": 4,
+                "woonplaats": "Urk"
+            }
+        }
+    },
+    {
+        "naam": "Wouter-Jan Vroegindeweij",
+        "verkiezingen": {
+            "tk2023": {
+                "lijstnummer": 5,
+                "woonplaats": "Katwijk"
+            }
+        }
+    },
+    {
+        "naam": "Harry van der Maas",
+        "verkiezingen": {
+            "tk2023": {
+                "lijstnummer": 6,
+                "woonplaats": "Aagtekerke"
+            }
+        }
+    },
+    {
+        "naam": "Henk van der Wind",
+        "verkiezingen": {
+            "tk2023": {
+                "lijstnummer": 7,
+                "woonplaats": "Maarsbergen"
+            }
+        }
+    },
+    {
+        "naam": "Dick Both",
+        "verkiezingen": {
+            "tk2023": {
+                "lijstnummer": 8,
+                "woonplaats": "Veenendaal"
+            }
+        }
+    },
+    {
+        "naam": "Jan Kloosterman",
+        "verkiezingen": {
+            "tk2023": {
+                "lijstnummer": 9,
+                "woonplaats": "Apeldoorn"
+            }
+        }
+    },
+    {
+        "naam": "Rody van Heijst",
+        "verkiezingen": {
+            "tk2023": {
+                "lijstnummer": 10,
+                "woonplaats": "Bergschenhoek"
+            }
+        }
+    },
+    {
+        "naam": "Adriaan van der Wulp",
+        "verkiezingen": {
+            "tk2023": {
+                "lijstnummer": 11,
+                "woonplaats": "‘s Gravendeel"
+            }
+        }
+    },
+    {
+        "naam": "Harm Jan Polinder",
+        "verkiezingen": {
+            "tk2023": {
+                "lijstnummer": 12,
+                "woonplaats": "Nunspeet"
+            }
+        }
+    },
+    {
+        "naam": "Maarten Slingerland",
+        "verkiezingen": {
+            "tk2023": {
+                "lijstnummer": 13,
+                "woonplaats": "Genemuiden"
+            }
+        }
+    },
+    {
+        "naam": "Wim van Duijn",
+        "verkiezingen": {
+            "tk2023": {
+                "lijstnummer": 14,
+                "woonplaats": "Katwijk"
+            }
+        }
+    },
+    {
+        "naam": "Leo Barth",
+        "verkiezingen": {
+            "tk2023": {
+                "lijstnummer": 15,
+                "woonplaats": "Ouderkerk a/d IJssel"
+            }
+        }
+    },
+    {
+        "naam": "Johnny Lukasse",
+        "verkiezingen": {
+            "tk2023": {
+                "lijstnummer": 16,
+                "woonplaats": "Goes"
+            }
+        }
+    },
+    {
+        "naam": "Hans Tanis",
+        "verkiezingen": {
+            "tk2023": {
+                "lijstnummer": 17,
+                "woonplaats": "Sliedrecht"
+            }
+        }
+    },
+    {
+        "naam": "Ewart Bosma",
+        "verkiezingen": {
+            "tk2023": {
+                "lijstnummer": 18,
+                "woonplaats": "Rijssen"
+            }
+        }
+    },
+    {
+        "naam": "Geert Schipaanboord",
+        "verkiezingen": {
+            "tk2023": {
+                "lijstnummer": 19,
+                "woonplaats": "Leiderdorp"
+            }
+        }
+    },
+    {
+        "naam": "Joost Veldman",
+        "verkiezingen": {
+            "tk2023": {
+                "lijstnummer": 20,
+                "woonplaats": "Dordrecht"
+            }
+        }
+    },
+    {
+        "naam": "Jan Hartog",
+        "verkiezingen": {
+            "tk2023": {
+                "lijstnummer": 21,
+                "woonplaats": "Niekerk"
+            }
+        }
+    },
+    {
+        "naam": "Tom Koekoek",
+        "verkiezingen": {
+            "tk2023": {
+                "lijstnummer": 22,
+                "woonplaats": "Stuifzand"
+            }
+        }
+    },
+    {
+        "naam": "Leendert de Knegt",
+        "verkiezingen": {
+            "tk2023": {
+                "lijstnummer": 23,
+                "woonplaats": "Barneveld"
+            }
+        }
+    },
+    {
+        "naam": "Gert van Leeuwen",
+        "verkiezingen": {
+            "tk2023": {
+                "lijstnummer": 24,
+                "woonplaats": "Opheusden"
+            }
+        }
+    },
+    {
+        "naam": "Tom Bakker",
+        "verkiezingen": {
+            "tk2023": {
+                "lijstnummer": 25,
+                "woonplaats": "Driezum"
+            }
+        }
+    },
+    {
+        "naam": "Wim Kok",
+        "verkiezingen": {
+            "tk2023": {
+                "lijstnummer": 26,
+                "woonplaats": "Middelburg"
+            }
+        }
+    },
+    {
+        "naam": "Steven van Westreenen",
+        "verkiezingen": {
+            "tk2023": {
+                "lijstnummer": 27,
+                "woonplaats": "Kesteren"
+            }
+        }
+    },
+    {
+        "naam": "Peter Noordergraaf",
+        "verkiezingen": {
+            "tk2023": {
+                "lijstnummer": 28,
+                "woonplaats": "Werkendam"
+            }
+        }
+    },
+    {
+        "naam": "Ardjan Boersma",
+        "verkiezingen": {
+            "tk2023": {
+                "lijstnummer": 29,
+                "woonplaats": "Papendrecht"
+            }
+        }
+    },
+    {
+        "naam": "Lubbert Talen",
+        "verkiezingen": {
+            "tk2023": {
+                "lijstnummer": 30,
+                "woonplaats": "Staphorst"
+            }
+        }
+    },
+    {
+        "naam": "Rick van de Waerdt",
+        "verkiezingen": {
+            "tk2023": {
+                "lijstnummer": 31,
+                "woonplaats": "Ridderkerk"
+            }
+        }
+    },
+    {
+        "naam": "Henk Bulten",
+        "verkiezingen": {
+            "tk2023": {
+                "lijstnummer": 32,
+                "woonplaats": "Doetinchem"
+            }
+        }
+    },
+    {
+        "naam": "Arnold Versteeg",
+        "verkiezingen": {
+            "tk2023": {
+                "lijstnummer": 33,
+                "woonplaats": "Wekerom"
+            }
+        }
+    },
+    {
+        "naam": "Lambert Kisteman",
+        "verkiezingen": {
+            "tk2023": {
+                "lijstnummer": 34,
+                "woonplaats": "De Klomp"
+            }
+        }
+    },
+    {
+        "naam": "Lourens van Bruchem",
+        "verkiezingen": {
+            "tk2023": {
+                "lijstnummer": 35,
+                "woonplaats": "Tricht"
+            }
+        }
+    },
+    {
+        "naam": "Bertrick van den Dikkenberg",
+        "verkiezingen": {
+            "tk2023": {
+                "lijstnummer": 36,
+                "woonplaats": "Elst"
+            }
+        }
+    },
+    {
+        "naam": "Hendrik Herweijer",
+        "verkiezingen": {
+            "tk2023": {
+                "lijstnummer": 37,
+                "woonplaats": "Dirksland"
+            }
+        }
+    },
+    {
+        "naam": "Gert van Laar",
+        "verkiezingen": {
+            "tk2023": {
+                "lijstnummer": 38,
+                "woonplaats": "Rhenen"
+            }
+        }
+    },
+    {
+        "naam": "André Scheppink",
+        "verkiezingen": {
+            "tk2023": {
+                "lijstnummer": 39,
+                "woonplaats": "Rijssen"
+            }
+        }
+    },
+    {
+        "naam": "Ruben van Heteren",
+        "verkiezingen": {
+            "tk2023": {
+                "lijstnummer": 40,
+                "woonplaats": "Barendrecht"
+            }
+        }
+    },
+    {
+        "naam": "Bernard van den Belt",
+        "verkiezingen": {
+            "tk2023": {
+                "lijstnummer": 41,
+                "woonplaats": "IJsselmuiden"
+            }
+        }
+    },
+    {
+        "naam": "Daniël van Iwaarden",
+        "verkiezingen": {
+            "tk2023": {
+                "lijstnummer": 42,
+                "woonplaats": "Yerseke"
+            }
+        }
+    },
+    {
+        "naam": "Leendert van Tuijl",
+        "verkiezingen": {
+            "tk2023": {
+                "lijstnummer": 43,
+                "woonplaats": "Nieuwaal"
+            }
+        }
+    },
+    {
+        "naam": "Arnoud Proos",
+        "verkiezingen": {
+            "tk2023": {
+                "lijstnummer": 44,
+                "woonplaats": "Barendrecht"
+            }
+        }
+    }
+]

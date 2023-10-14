@@ -1,0 +1,92 @@
+[
+{
+		"naam": "Anne Marie van Duivenboden",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 1,
+				"woonplaats": "Uden"
+			}
+		}
+	},
+	{
+		"naam": "Armand van der Smissen",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 2,
+				"woonplaats": "Tilburg"
+			}
+		}
+	},
+	{
+		"naam": "Danny van Brussel",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 3,
+				"woonplaats": "Zwolle"
+			}
+		}
+	},
+	{
+		"naam": "Gert-Jan Liefers",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 4,
+				"woonplaats": "Apeldoorn"
+			}
+		}
+	},
+	{
+		"naam": "Wiel Ladeur",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 5,
+				"woonplaats": "Heerlen"
+			}
+		}
+	},
+	{
+		"naam": "Maurits Bijl",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 6,
+				"woonplaats": "Leerdam"
+			}
+		}
+	},
+	{
+		"naam": "Daniela Stols-Gonçalves",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 7,
+				"woonplaats": "Amsterdam"
+			}
+		}
+	},
+	{
+		"naam": "Erik Alexander Kempenaar",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 8,
+				"woonplaats": "Bloemendaal"
+			}
+		}
+	},
+	{
+		"naam": "Esther Devilee",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 9,
+				"woonplaats": "Leiden"
+			}
+		}
+	},
+	{
+		"naam": "Robert Maaskant",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 10,
+				"woonplaats": "Breda"
+			}
+		}
+	}
+]

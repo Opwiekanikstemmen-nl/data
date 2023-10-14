@@ -1,0 +1,410 @@
+[
+	{
+		"naam": "Mark van Treuren",
+		"urls": {
+			"partijwebsite": "    https://piratenpartij.nl/kandidaten-tk2023/#Mark_van_Treuren"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 1,
+				"woonplaats": "Schagen"
+			}
+		}
+	},
+	{
+		"naam": "Saira Sadloe",
+		"urls": {
+			"partijwebsite": "https://piratenpartij.nl/kandidaten-tk2023/#Saira_Sadloe"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 2,
+				"woonplaats": "Purmerend"
+			}
+		}
+	},
+	{
+		"naam": "Reina van Zwoll",
+		"urls": {
+			"partijwebsite": "https://piratenpartij.nl/kandidaten-tk2023/#Reina_van_Zwoll"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 3,
+				"woonplaats": "Amsterdam"
+			}
+		}
+	},
+	{
+		"naam": "Matthijs Pontier",
+		"urls": {
+			"partijwebsite": "https://piratenpartij.nl/kandidaten-tk2023/#Matthijs_Pontier"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 4,
+				"woonplaats": "Amsterdam"
+			}
+		}
+	},
+	{
+		"naam": "Wietze Brandsma",
+		"urls": {
+			"partijwebsite": "https://piratenpartij.nl/kandidaten-tk2023/#Wietze_Brandsma"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 5,
+				"woonplaats": "Burgum"
+			}
+		}
+	},
+	{
+		"naam": "Otto ter Haar",
+		"urls": {
+			"partijwebsite": "https://piratenpartij.nl/kandidaten-tk2023/#Otto_ter_Haar"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 6,
+				"woonplaats": "Utrecht"
+			}
+		}
+	},
+	{
+		"naam": "Kirsten Zimmerman",
+		"urls": {
+			"partijwebsite": "https://piratenpartij.nl/kandidaten-tk2023/#Kirsten_Zimmerman"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 7,
+				"woonplaats": "Amsterdam"
+			}
+		}
+	},
+	{
+		"naam": "Mirjam van Rijn",
+		"urls": {
+			"partijwebsite": "https://piratenpartij.nl/kandidaten-tk2023/#Mirjam_van_Rijn"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 8,
+				"woonplaats": "Amsterdam"
+			}
+		}
+	},
+	{
+		"naam": "Paul Berendsen",
+		"urls": {
+			"partijwebsite": "https://piratenpartij.nl/kandidaten-tk2023/#Paul_Berendsen"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 9,
+				"woonplaats": "Amsterdam"
+			}
+		}
+	},
+	{
+		"naam": "Sepehr Yadegari",
+		"urls": {
+			"partijwebsite": "https://piratenpartij.nl/kandidaten-tk2023/#Sepehr_Yadegari"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 10,
+				"woonplaats": "Zaandam"
+			}
+		}
+	},
+	{
+		"naam": "Angeline Pot",
+		"urls": {
+			"partijwebsite": "https://piratenpartij.nl/kandidaten-tk2023/#Angeline_Pot"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 11,
+				"woonplaats": "Den Helder"
+			}
+		}
+	},
+	{
+		"naam": "Danny Werner",
+		"urls": {
+			"partijwebsite": "https://piratenpartij.nl/kandidaten-tk2023/#Danny_Werner"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 12,
+				"woonplaats": "Amsterdam"
+			}
+		}
+	},
+	{
+		"naam": "David van Deijk",
+		"urls": {
+			"partijwebsite": "https://piratenpartij.nl/kandidaten-tk2023/#David_van_Deijk"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 13,
+				"woonplaats": "Eindhoven"
+			}
+		}
+	},
+	{
+		"naam": "Steven Russchenberg",
+		"urls": {
+			"partijwebsite": "https://piratenpartij.nl/kandidaten-tk2023/#Steven_Russchenberg"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 14,
+				"woonplaats": "Rijnsburg"
+			}
+		}
+	},
+	{
+		"naam": "Dylan Hallegraeff",
+		"urls": {
+			"partijwebsite": "https://piratenpartij.nl/kandidaten-tk2023/#Dylan_Hallegraeff"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 15,
+				"woonplaats": "Den Haag"
+			}
+		}
+	},
+	{
+		"naam": "Arjan Bresser",
+		"urls": {
+			"partijwebsite": "https://piratenpartij.nl/kandidaten-tk2023/#Arjan_Bresser"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 16,
+				"woonplaats": "Nijmegen"
+			}
+		}
+	},
+	{
+		"naam": "Astrid Abendroth",
+		"urls": {
+			"partijwebsite": "https://piratenpartij.nl/kandidaten-tk2023/#Astrid_Abendroth"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 17,
+				"woonplaats": "Amsterdam"
+			}
+		}
+	},
+	{
+		"naam": "Pejman Darvish-Zadeh",
+		"urls": {
+			"partijwebsite": "https://piratenpartij.nl/kandidaten-tk2023/#Pejman_Darvish_Zadeh"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 18,
+				"woonplaats": "Waalre"
+			}
+		}
+	},
+	{
+		"naam": "Dmitri Schrama",
+		"urls": {
+			"partijwebsite": "https://piratenpartij.nl/kandidaten-tk2023/#Dmitri_Schrama"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 19,
+				"woonplaats": "Utrecht"
+			}
+		}
+	},
+	{
+		"naam": "Leontien Wafelman",
+		"urls": {
+			"partijwebsite": "https://piratenpartij.nl/kandidaten-tk2023/#Leontien_Wafelman"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 20,
+				"woonplaats": "Amsterdam"
+			}
+		}
+	},
+	{
+		"naam": "Branislav Plesa",
+		"urls": {
+			"partijwebsite": "https://piratenpartij.nl/kandidaten-tk2023/#Branislav_Plesa"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 21,
+				"woonplaats": "Amsterdam"
+			}
+		}
+	},
+	{
+		"naam": "Edy Bouma",
+		"urls": {
+			"partijwebsite": "https://piratenpartij.nl/kandidaten-tk2023/#Edy_Bouma"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 22,
+				"woonplaats": "Ede"
+			}
+		}
+	},
+	{
+		"naam": "Catharina Bethlehem",
+		"urls": {
+			"partijwebsite": "https://piratenpartij.nl/kandidaten-tk2023/#Catharina_Bethlehem"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 23,
+				"woonplaats": "Rotterdam"
+			}
+		}
+	},
+	{
+		"naam": "Stefan Dekkers",
+		"urls": {
+			"partijwebsite": "https://piratenpartij.nl/kandidaten-tk2023/#Stefan_Dekkers"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 24,
+				"woonplaats": "Roosendaal"
+			}
+		}
+	},
+	{
+		"naam": "Teunis van Nes",
+		"urls": {
+			"partijwebsite": "https://piratenpartij.nl/kandidaten-tk2023/#Teunis_van_Nes"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 25,
+				"woonplaats": "Goes"
+			}
+		}
+	},
+	{
+		"naam": "André Linnenbank",
+		"urls": {
+			"partijwebsite": "https://piratenpartij.nl/kandidaten-tk2023/#Andrel_Linnenbank"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 26,
+				"woonplaats": "Zaandam"
+			}
+		}
+	},
+	{
+		"naam": "Peter Braun",
+		"urls": {
+			"partijwebsite": "https://piratenpartij.nl/kandidaten-tk2023/#Peter_Braun"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 27,
+				"woonplaats": "Kerkrade"
+			}
+		}
+	},
+	{
+		"naam": "Rijndert Doting",
+		"urls": {
+			"partijwebsite": "https://piratenpartij.nl/kandidaten-tk2023/#Rijndert_Doting"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 28,
+				"woonplaats": "Amsterdam"
+			}
+		}
+	},
+	{
+		"naam": "Nico Teders",
+		"urls": {
+			"partijwebsite": "https://piratenpartij.nl/kandidaten-tk2023/#Nico_Teders"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 29,
+				"woonplaats": "Purmerend"
+			}
+		}
+	},
+	{
+		"naam": "Tom Bakkers",
+		"urls": {
+			"partijwebsite": "https://piratenpartij.nl/kandidaten-tk2023/#Tom_Bakkers"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 30,
+				"woonplaats": "Amsterdam"
+			}
+		}
+	},
+	{
+		"naam": "Jaap van Gelderen",
+		"urls": {
+			"partijwebsite": "https://piratenpartij.nl/kandidaten-tk2023/#Jaap_van_Gelderen"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 31,
+				"woonplaats": "Zeist"
+			}
+		}
+	},
+	{
+		"naam": "Jaap van Till",
+		"urls": {
+			"partijwebsite": "https://piratenpartij.nl/kandidaten-tk2023/#Jaap_van_Till"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 32,
+				"woonplaats": "Rhenen"
+			}
+		}
+	},
+	{
+		"naam": "Wies van Breemen",
+		"urls": {
+			"partijwebsite": "https://piratenpartij.nl/kandidaten-tk2023/#Wies_van_Breemen"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 33,
+				"woonplaats": "Nijmegen"
+			}
+		}
+	},
+	{
+		"naam": "Metje Blaak",
+		"urls": {
+			"partijwebsite": "https://piratenpartij.nl/kandidaten-tk2023/#Metje_Blaak"
+		},
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 34,
+				"woonplaats": "Amsterdam"
+			}
+		}
+	}
+]

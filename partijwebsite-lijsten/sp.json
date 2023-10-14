@@ -1,0 +1,502 @@
+[
+    {
+		"naam": "Lilian Marijnissen",
+        "geboortejaar": 1985,
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 1,
+				"woonplaats": "Oss"
+			}
+		}
+	},
+	{
+		"naam": "Sandra Beckerman",
+        "geboortejaar": 1983,
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 2,
+				"woonplaats": "Groningen"
+			}
+		}
+	},
+	{
+		"naam": "Bart van Kent",
+        "geboortejaar": 1983,
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 3,
+				"woonplaats": "Den Haag"
+			}
+		}
+	},
+	{
+		"naam": "Jimmy Dijk",
+        "geboortejaar": 1985,
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 4,
+				"woonplaats": "Groningen"
+			}
+		}
+	},
+	{
+		"naam": "Michiel van Nispen",
+        "geboortejaar": 1982,
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 5,
+				"woonplaats": "Breda"
+			}
+		}
+	},
+	{
+		"naam": "Sarah Dobbe",
+        "geboortejaar": 1979,
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 6,
+				"woonplaats": "Arnhem"
+			}
+		}
+	},
+	{
+		"naam": "Nicole Temmink",
+        "geboortejaar": 1987,
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 7,
+				"woonplaats": "Zwolle"
+			}
+		}
+	},
+	{
+		"naam": "Mathijs ten Broeke",
+        "geboortejaar": 1990,
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 8,
+				"woonplaats": "Zutphen"
+			}
+		}
+	},
+	{
+		"naam": "Jasper van Dijk",
+        "geboortejaar": 1971,
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 9,
+				"woonplaats": "Utrecht"
+			}
+		}
+	},
+	{
+		"naam": "Bastiaan Meijer",
+        "geboortejaar": 1997,
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 10,
+				"woonplaats": "Den Haag"
+			}
+		}
+	},
+	{
+		"naam": "Gerrie Elfrink",
+        "geboortejaar": 1974,
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 11,
+				"woonplaats": "Arnhem"
+			}
+		}
+	},
+	{
+		"naam": "Jorge Wolters Gregório",
+        "geboortejaar": 1982,
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 12,
+				"woonplaats": "Roermond"
+			}
+		}
+	},
+	{
+		"naam": "Hans Boerwinkel",
+        "geboortejaar": 1965,
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 13,
+				"woonplaats": "Doetinchem"
+			}
+		}
+	},
+	{
+		"naam": "Remine Alberts",
+        "geboortejaar": 1954,
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 14,
+				"woonplaats": "Amsterdam"
+			}
+		}
+	},
+	{
+		"naam": "Harre van der Nat",
+        "geboortejaar": 1976,
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 15,
+				"woonplaats": "Leiderdorp"
+			}
+		}
+	},
+	{
+		"naam": "Murat Memiş",
+        "geboortejaar": 1988,
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 16,
+				"woonplaats": "Eindhoven"
+			}
+		}
+	},
+	{
+		"naam": "Debbie van Dijk",
+        "geboortejaar": 1998,
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 17,
+				"woonplaats": "Zutphen"
+			}
+		}
+	},
+	{
+		"naam": "Nina de Ridder",
+        "geboortejaar": 1987,
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 18,
+				"woonplaats": "Beverwijk"
+			}
+		}
+	},
+	{
+		"naam": "Jamila Yahyaoui",
+        "geboortejaar": 1983,
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 19,
+				"woonplaats": "Utrecht"
+			}
+		}
+	},
+	{
+		"naam": "Bram van Boven",
+        "geboortejaar": 1984,
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 20,
+				"woonplaats": "Rosmalen"
+			}
+		}
+	},
+	{
+		"naam": "Thijs Coppus",
+        "geboortejaar": 1981,
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 21,
+				"woonplaats": "Leiden"
+			}
+		}
+	},
+	{
+		"naam": "Xander Topma",
+        "geboortejaar": 1990,
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 22,
+				"woonplaats": "Meppel"
+			}
+		}
+	},
+	{
+		"naam": "Tijmen van Wijngaarden",
+        "geboortejaar": 2000,
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 23,
+				"woonplaats": "Den Haag"
+			}
+		}
+	},
+	{
+		"naam": "Theo Coşkun",
+        "geboortejaar": 1950,
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 24,
+				"woonplaats": "Rotterdam"
+			}
+		}
+	},
+	{
+		"naam": "Sebastiaan van den Hout",
+        "geboortejaar": 1993,
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 25,
+				"woonplaats": "Den Haag"
+			}
+		}
+	},
+	{
+		"naam": "Niels van der Wijk",
+        "geboortejaar": 1986,
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 26,
+				"woonplaats": "Ten Boer"
+			}
+		}
+	},
+	{
+		"naam": "Inge Verdaasdonk",
+        "geboortejaar": 1975,
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 27,
+				"woonplaats": "Breda"
+			}
+		}
+	},
+	{
+		"naam": "Lieke van Rossum",
+        "geboortejaar": 1982,
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 28,
+				"woonplaats": "Delft"
+			}
+		}
+	},
+	{
+		"naam": "Kristie Rongen",
+        "geboortejaar": 1975,
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 29,
+				"woonplaats": "Lelystad"
+			}
+		}
+	},
+	{
+		"naam": "Hans van Hooft (jr.)",
+        "geboortejaar": 1966,
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 30,
+				"woonplaats": "Nijmegen"
+			}
+		}
+	},
+	{
+		"naam": "Anne Cramer",
+        "geboortejaar": 1998,
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 31,
+				"woonplaats": "Leiden"
+			}
+		}
+	},
+	{
+		"naam": "Eduard van Scheltinga",
+        "geboortejaar": 1991,
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 32,
+				"woonplaats": "Zwolle"
+			}
+		}
+	},
+	{
+		"naam": "Ger van Unen",
+        "geboortejaar": 1959,
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 33,
+				"woonplaats": "Kloosterzande"
+			}
+		}
+	},
+	{
+		"naam": "Ruud Kuin",
+        "geboortejaar": 1961,
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 34,
+				"woonplaats": "Haarlem"
+			}
+		}
+	},
+	{
+		"naam": "Dane Harris",
+        "geboortejaar": 1995,
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 35,
+				"woonplaats": "Utrecht"
+			}
+		}
+	},
+	{
+		"naam": "Jan van der Veen",
+        "geboortejaar": 1964,
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 36,
+				"woonplaats": "Jubbega"
+			}
+		}
+	},
+	{
+		"naam": "Simon Zandvliet",
+        "geboortejaar": 1993,
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 37,
+				"woonplaats": "Beilen"
+			}
+		}
+	},
+	{
+		"naam": "Alexandra Spanner",
+        "geboortejaar": 1989,
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 38,
+				"woonplaats": "Alkmaar"
+			}
+		}
+	},
+	{
+		"naam": "Madeleine Boer",
+        "geboortejaar": 1973,
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 39,
+				"woonplaats": "Lelystad"
+			}
+		}
+	},
+	{
+		"naam": "Janet Ramesar",
+        "geboortejaar": 1985,
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 40,
+				"woonplaats": "Den Haag"
+			}
+		}
+	},
+	{
+		"naam": "Mariska ten Heuw",
+        "geboortejaar": 1971,
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 41,
+				"woonplaats": "Hengelo"
+			}
+		}
+	},
+	{
+		"naam": "Joost van der Sluis",
+        "geboortejaar": 1977,
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 42,
+				"woonplaats": "Delft"
+			}
+		}
+	},
+	{
+		"naam": "Aldo Schelvis",
+        "geboortejaar": 1990,
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 43,
+				"woonplaats": "Leeuwarden"
+			}
+		}
+	},
+	{
+		"naam": "Willem de Man",
+        "geboortejaar": 1969,
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 44,
+				"woonplaats": "Vlaardingen"
+			}
+		}
+	},
+	{
+		"naam": "Anita Hendriks-Berg",
+        "geboortejaar": 1961,
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 45,
+				"woonplaats": "Heerlen"
+			}
+		}
+	},
+	{
+		"naam": "Erik de Vries",
+        "geboortejaar": 1979,
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 46,
+				"woonplaats": "Helmond"
+			}
+		}
+	},
+	{
+		"naam": "Eelco Eikenaar",
+        "geboortejaar": 1979,
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 47,
+				"woonplaats": "Haren"
+			}
+		}
+	},
+	{
+		"naam": "Jordy Clemens",
+        "geboortejaar": 1986,
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 48,
+				"woonplaats": "Heerlen"
+			}
+		}
+	},
+	{
+		"naam": "Pierre Courbois",
+        "geboortejaar": 1940,
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 49,
+				"woonplaats": "Arnhem"
+			}
+		}
+	},
+	{
+		"naam": "Renske Leijten",
+        "geboortejaar": 197,
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 50,
+				"woonplaats": "Haarlem "
+			}
+		}
+	}
+]
