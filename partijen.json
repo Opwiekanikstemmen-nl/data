@@ -22,7 +22,7 @@
 	},
 	{
 		"naam": "BVNL / Groep Van Haga",
-		"deelneme_jaren": [2023],
+		"deelname_jaren": [2023],
 		"lijstnummers": {
 			"2023": 18
 		},
@@ -106,7 +106,7 @@
 	},
 	{
 		"naam": "LEF - Voor de Nieuwe Generatie",
-		"deelneme_jaren": [2023],
+		"deelname_jaren": [2023],
 		"lijstnummers": {
 			"2023": 22
 		},
@@ -127,7 +127,7 @@
 	},
 	{
 		"naam": "Nederland met een PLAN",
-		"deelneme_jaren": [2023],
+		"deelname_jaren": [2023],
 		"lijstnummers": {
 			"2023": 24
 		},
@@ -137,7 +137,7 @@
 	},
 	{
 		"naam": "Nieuw Sociaal Contract",
-		"deelneme_jaren": [2023],
+		"deelname_jaren": [2023],
 		"lijstnummers": {
 			"2023": 19
 		},
@@ -147,7 +147,7 @@
 	},
 	{
 		"naam": "PartijvdSport",
-		"deelneme_jaren": [2023],
+		"deelname_jaren": [2023],
 		"lijstnummers": {
 			"2023": 25
 		},
@@ -173,6 +173,7 @@
 			"2023": 17
 		},
 		"urls": {
+			"partijwebsite": "https://degroenenbasispiraten.nl/",
 			"De Groenen": "https://degroenen.nl/",
 			"Piratenpartij": "https://piratenpartij.nl/"
 		}
