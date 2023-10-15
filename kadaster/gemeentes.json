@@ -1,0 +1,1422 @@
+[
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0034",
+    "name": "Almere"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0088",
+    "name": "Schiermonnikoog"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0119",
+    "name": "Meppel"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0202",
+    "name": "Arnhem"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0263",
+    "name": "Maasdriel"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0293",
+    "name": "Westervoort"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0301",
+    "name": "Zutphen"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0302",
+    "name": "Nunspeet"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0339",
+    "name": "Renswoude"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0355",
+    "name": "Zeist"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0383",
+    "name": "Castricum"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0416",
+    "name": "Langedijk"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0457",
+    "name": "Weesp"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0503",
+    "name": "Delft"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0546",
+    "name": "Leiden"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0622",
+    "name": "Vlaardingen"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0664",
+    "name": "Goes"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0762",
+    "name": "Deurne"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0784",
+    "name": "Gilze en Rijen"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0826",
+    "name": "Oosterhout"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0938",
+    "name": "Meerssen"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1655",
+    "name": "Halderberge"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1667",
+    "name": "Reusel-De Mierden"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1680",
+    "name": "Aa en Hunze"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1690",
+    "name": "De Wolden"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1701",
+    "name": "Westerveld"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1708",
+    "name": "Steenwijkerland"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1884",
+    "name": "Kaag en Braassem"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1945",
+    "name": "Berg en Dal"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0003",
+    "name": "Appingedam"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0014",
+    "name": "Groningen"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0093",
+    "name": "Terschelling"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0189",
+    "name": "Wierden"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0273",
+    "name": "Putten"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0279",
+    "name": "Scherpenzeel"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0296",
+    "name": "Wijchen"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0327",
+    "name": "Leusden"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0377",
+    "name": "Bloemendaal"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0394",
+    "name": "Haarlemmermeer"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0396",
+    "name": "Heemskerk"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0420",
+    "name": "Medemblik"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0484",
+    "name": "Alphen aan den Rijn"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0502",
+    "name": "Capelle aan den IJssel"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0530",
+    "name": "Hellevoetsluis"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0531",
+    "name": "Hendrik-Ido-Ambacht"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0553",
+    "name": "Lisse"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0629",
+    "name": "Wassenaar"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0703",
+    "name": "Reimerswaal"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0755",
+    "name": "Boekel"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0788",
+    "name": "Haaren"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0867",
+    "name": "Waalwijk"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0957",
+    "name": "Roermond"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1581",
+    "name": "Utrechtse Heuvelrug"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1721",
+    "name": "Bernheze"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1771",
+    "name": "Geldrop-Mierlo"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1916",
+    "name": "Leidschendam-Voorburg"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1926",
+    "name": "Pijnacker-Nootdorp"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0173",
+    "name": "Oldenzaal"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0216",
+    "name": "Culemborg"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0275",
+    "name": "Rheden"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0331",
+    "name": "Lopik"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0344",
+    "name": "Utrecht"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0363",
+    "name": "Amsterdam"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0384",
+    "name": "Diemen"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0400",
+    "name": "Den Helder"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0415",
+    "name": "Landsmeer"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0638",
+    "name": "Zoeterwoude"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0668",
+    "name": "West Maas en Waal"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0677",
+    "name": "Hulst"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0748",
+    "name": "Bergen op Zoom"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0765",
+    "name": "Pekela"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0882",
+    "name": "Landgraaf"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0994",
+    "name": "Valkenburg aan de Geul"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1659",
+    "name": "Laarbeek"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1706",
+    "name": "Cranendonck"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1734",
+    "name": "Overbetuwe"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1895",
+    "name": "Oldambt"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1901",
+    "name": "Bodegraven-Reeuwijk"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1942",
+    "name": "Gooise Meren"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0098",
+    "name": "Weststellingwerf"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0118",
+    "name": "Hoogeveen"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0147",
+    "name": "Borne"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0160",
+    "name": "Hardenberg"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0180",
+    "name": "Staphorst"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0203",
+    "name": "Barneveld"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0225",
+    "name": "Druten"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0269",
+    "name": "Oldebroek"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0299",
+    "name": "Zevenaar"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0345",
+    "name": "Veenendaal"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0405",
+    "name": "Hoorn"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0417",
+    "name": "Laren"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0432",
+    "name": "Opmeer"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0479",
+    "name": "Zaanstad"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0512",
+    "name": "Gorinchem"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0626",
+    "name": "Voorschoten"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0716",
+    "name": "Tholen"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0757",
+    "name": "Boxtel"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0815",
+    "name": "Mill en Sint Hubert"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0824",
+    "name": "Oisterwijk"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1676",
+    "name": "Schouwen-Duiveland"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1735",
+    "name": "Hof van Twente"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1773",
+    "name": "Olst-Wijhe"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1774",
+    "name": "Dinkelland"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1859",
+    "name": "Berkelland"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1924",
+    "name": "Goeree-Overflakkee"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1930",
+    "name": "Nissewaard"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1940",
+    "name": "De Fryske Marren"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1950",
+    "name": "Westerwolde"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0024",
+    "name": "Loppersum"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0059",
+    "name": "Achtkarspelen"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0072",
+    "name": "Harlingen"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0086",
+    "name": "Opsterland"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0150",
+    "name": "Deventer"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0158",
+    "name": "Haaksbergen"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0163",
+    "name": "Hellendoorn"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0222",
+    "name": "Doetinchem"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0268",
+    "name": "Nijmegen"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0289",
+    "name": "Wageningen"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0308",
+    "name": "Baarn"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0321",
+    "name": "Houten"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0398",
+    "name": "Heerhugowaard"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0437",
+    "name": "Ouder-Amstel"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0501",
+    "name": "Brielle"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0717",
+    "name": "Veere"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0736",
+    "name": "De Ronde Venen"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0744",
+    "name": "Baarle-Nassau"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0753",
+    "name": "Best"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0785",
+    "name": "Goirle"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0820",
+    "name": "Nuenen, Gerwen en Nederwetten"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0852",
+    "name": "Waterland"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0917",
+    "name": "Heerlen"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0983",
+    "name": "Venlo"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1509",
+    "name": "Oude IJsselstreek"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1641",
+    "name": "Maasgouw"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1709",
+    "name": "Moerdijk"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0213",
+    "name": "Brummen"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0233",
+    "name": "Ermelo"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0262",
+    "name": "Lochem"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0489",
+    "name": "Barendrecht"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0532",
+    "name": "Stede Broec"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0589",
+    "name": "Oudewater"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0599",
+    "name": "Rotterdam"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0614",
+    "name": "Westvoorne"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0796",
+    "name": "'s-Hertogenbosch"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0866",
+    "name": "Waalre"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0889",
+    "name": "Beesel"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0907",
+    "name": "Gennep"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0928",
+    "name": "Kerkrade"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0981",
+    "name": "Vaals"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1681",
+    "name": "Borger-Odoorn"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1729",
+    "name": "Gulpen-Wittem"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1730",
+    "name": "Tynaarlo"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1970",
+    "name": "Noardeast-Fryslân"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0050",
+    "name": "Zeewolde"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0164",
+    "name": "Hengelo"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0244",
+    "name": "Hattem"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0312",
+    "name": "Bunnik"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0342",
+    "name": "Soest"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0376",
+    "name": "Blaricum"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0406",
+    "name": "Huizen"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0453",
+    "name": "Velsen"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0575",
+    "name": "Noordwijk"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0613",
+    "name": "Albrandswaard"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0632",
+    "name": "Woerden"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0758",
+    "name": "Breda"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0779",
+    "name": "Geertruidenberg"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0786",
+    "name": "Grave"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0856",
+    "name": "Uden"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0946",
+    "name": "Nederweert"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1696",
+    "name": "Wijdemeren"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0106",
+    "name": "Assen"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0175",
+    "name": "Ommen"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0197",
+    "name": "Aalten"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0209",
+    "name": "Beuningen"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0214",
+    "name": "Buren"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0246",
+    "name": "Heerde"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0351",
+    "name": "Woudenberg"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0373",
+    "name": "Bergen (NH.)"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0397",
+    "name": "Heemstede"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0505",
+    "name": "Dordrecht"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0537",
+    "name": "Katwijk"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0556",
+    "name": "Maassluis"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0743",
+    "name": "Asten"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0777",
+    "name": "Etten-Leur"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0798",
+    "name": "Hilvarenbeek"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0880",
+    "name": "Wormerland"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0944",
+    "name": "Mook en Middelaar"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0965",
+    "name": "Simpelveld"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1702",
+    "name": "Sint Anthonis"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1724",
+    "name": "Bergeijk"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1842",
+    "name": "Midden-Delfland"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1883",
+    "name": "Sittard-Geleen"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1911",
+    "name": "Hollands Kroon"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0109",
+    "name": "Coevorden"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0114",
+    "name": "Emmen"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0166",
+    "name": "Kampen"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0230",
+    "name": "Elburg"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0399",
+    "name": "Heiloo"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0450",
+    "name": "Uitgeest"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0579",
+    "name": "Oegstgeest"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0637",
+    "name": "Zoetermeer"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0756",
+    "name": "Boxmeer"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0770",
+    "name": "Eersel"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0845",
+    "name": "Sint-Michielsgestel"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0858",
+    "name": "Valkenswaard"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0899",
+    "name": "Brunssum"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0988",
+    "name": "Weert"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1525",
+    "name": "Teylingen"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1684",
+    "name": "Cuijk"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1685",
+    "name": "Landerd"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1700",
+    "name": "Twenterand"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0074",
+    "name": "Heerenveen"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0267",
+    "name": "Nijkerk"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0274",
+    "name": "Renkum"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0281",
+    "name": "Tiel"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0361",
+    "name": "Alkmaar"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0451",
+    "name": "Uithoorn"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0518",
+    "name": "'s-Gravenhage"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0597",
+    "name": "Ridderkerk"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0627",
+    "name": "Waddinxveen"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0718",
+    "name": "Vlissingen"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0865",
+    "name": "Vught"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0879",
+    "name": "Zundert"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1740",
+    "name": "Neder-Betuwe"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1948",
+    "name": "Meierijstad"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0085",
+    "name": "Ooststellingwerf"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0141",
+    "name": "Almelo"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0226",
+    "name": "Duiven"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0370",
+    "name": "Beemster"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0439",
+    "name": "Purmerend"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0448",
+    "name": "Texel"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0642",
+    "name": "Zwijndrecht"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0678",
+    "name": "Kapelle"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0888",
+    "name": "Beek"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0984",
+    "name": "Venray"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0995",
+    "name": "Lelystad"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1954",
+    "name": "Beekdaelen"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1955",
+    "name": "Montferland"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0047",
+    "name": "Veendam"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0193",
+    "name": "Zwolle"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0200",
+    "name": "Apeldoorn"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0310",
+    "name": "De Bilt"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0340",
+    "name": "Rhenen"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0356",
+    "name": "Nieuwegein"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0473",
+    "name": "Zandvoort"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0534",
+    "name": "Hillegom"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0654",
+    "name": "Borsele"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0861",
+    "name": "Veldhoven"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0986",
+    "name": "Voerendaal"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1652",
+    "name": "Gemert-Bakel"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1658",
+    "name": "Heeze-Leende"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1723",
+    "name": "Alphen-Chaam"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1742",
+    "name": "Rijssen-Holten"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1894",
+    "name": "Peel en Maas"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0010",
+    "name": "Delfzijl"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0148",
+    "name": "Dalfsen"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0168",
+    "name": "Losser"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0402",
+    "name": "Hilversum"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0482",
+    "name": "Alblasserdam"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0523",
+    "name": "Hardinxveld-Giessendam"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0569",
+    "name": "Nieuwkoop"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0606",
+    "name": "Schiedam"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0766",
+    "name": "Dongen"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0809",
+    "name": "Loon op Zand"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0873",
+    "name": "Woensdrecht"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1640",
+    "name": "Leudal"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0060",
+    "name": "Ameland"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0184",
+    "name": "Urk"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0221",
+    "name": "Doesburg"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0358",
+    "name": "Aalsmeer"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0737",
+    "name": "Tytsjerksteradiel"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0828",
+    "name": "Oss"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0847",
+    "name": "Someren"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0935",
+    "name": "Maastricht"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1586",
+    "name": "Oost Gelre"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1876",
+    "name": "Bronckhorst"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1931",
+    "name": "Krimpenerwaard"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1949",
+    "name": "Waadhoeke"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0096",
+    "name": "Vlieland"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0153",
+    "name": "Enschede"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0171",
+    "name": "Noordoostpolder"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0277",
+    "name": "Rozendaal"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0353",
+    "name": "IJsselstein"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0392",
+    "name": "Haarlem"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0441",
+    "name": "Schagen"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0840",
+    "name": "Rucphen"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0848",
+    "name": "Son en Breugel"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1714",
+    "name": "Sluis"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1731",
+    "name": "Midden-Drenthe"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0183",
+    "name": "Tubbergen"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0228",
+    "name": "Ede"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0243",
+    "name": "Harderwijk"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0893",
+    "name": "Bergen (L.)"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1695",
+    "name": "Noord-Beveland"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1728",
+    "name": "Bladel"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1904",
+    "name": "Stichtse Vecht"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0285",
+    "name": "Voorst"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0513",
+    "name": "Gouda"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0797",
+    "name": "Heusden"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0823",
+    "name": "Oirschot"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1507",
+    "name": "Horst aan de Maas"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1783",
+    "name": "Westland"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1903",
+    "name": "Eijsden-Margraten"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0080",
+    "name": "Leeuwarden"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0498",
+    "name": "Drechterland"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0542",
+    "name": "Krimpen aan den IJssel"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0603",
+    "name": "Rijswijk"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0715",
+    "name": "Terneuzen"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1711",
+    "name": "Echt-Susteren"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1959",
+    "name": "Altena"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1961",
+    "name": "Vijfheerenlanden"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0090",
+    "name": "Smallingerland"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0177",
+    "name": "Raalte"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0388",
+    "name": "Enkhuizen"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0772",
+    "name": "Eindhoven"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1891",
+    "name": "Dantumadiel"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0037",
+    "name": "Stadskanaal"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0252",
+    "name": "Heumen"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0307",
+    "name": "Amersfoort"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0431",
+    "name": "Oostzaan"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0590",
+    "name": "Papendrecht"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0851",
+    "name": "Steenbergen"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1705",
+    "name": "Lingewaard"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1900",
+    "name": "Súdwest-Fryslân"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0313",
+    "name": "Bunschoten"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0317",
+    "name": "Eemnes"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0335",
+    "name": "Montfoort"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0794",
+    "name": "Helmond"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0855",
+    "name": "Tilburg"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1699",
+    "name": "Noordenveld"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1719",
+    "name": "Drimmelen"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1966",
+    "name": "Het Hogeland"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1969",
+    "name": "Westerkwartier"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0375",
+    "name": "Beverwijk"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0232",
+    "name": "Epe"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0385",
+    "name": "Edam-Volendam"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1963",
+    "name": "Hoeksche Waard"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1960",
+    "name": "West Betuwe"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0297",
+    "name": "Zaltbommel"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1952",
+    "name": "Midden-Groningen"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0303",
+    "name": "Dronten"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0352",
+    "name": "Wijk bij Duurstede"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1621",
+    "name": "Lansingerland"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1896",
+    "name": "Zwartewaterland"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0294",
+    "name": "Winterswijk"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0687",
+    "name": "Middelburg"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1669",
+    "name": "Roerdalen"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1892",
+    "name": "Zuidplas"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0362",
+    "name": "Amstelveen"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0547",
+    "name": "Leiderdorp"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0610",
+    "name": "Sliedrecht"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0971",
+    "name": "Stein"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1598",
+    "name": "Koggenland"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1674",
+    "name": "Roosendaal"
+  },
+  {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1978",
+    "name": "Molenlanden"
+  }
+]
