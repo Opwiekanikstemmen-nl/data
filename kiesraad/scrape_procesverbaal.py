@@ -211,7 +211,7 @@ for line in lines:
 		try:
 			geslacht = geslacht_match.group('geslacht')
 		except AttributeError:
-			geslacht = "o"
+			geslacht = None
 
 		# Make sure we have list of all sexes to print
 		if geslacht not in geslachten:
@@ -303,7 +303,7 @@ with open(output, 'w', encoding='utf8') as fp:
 	json.dump(kandidaten, fp, ensure_ascii=False)
 
 
-print("🏳️‍🌈  geslachten: {}".format(", ".join(geslachten)))
+print("🏳️‍🌈  geslachten: {}".format(", ".join(filter(None, geslachten))))
 print("🎉 partijen: {}".format(", ".join(partijen)))
 print("⭕️ kieskringen: {}".format(", ".join(kieskringen)))
 
