@@ -59,7 +59,7 @@ def safe_filename(filename):
 kieskringen = []
 partijen = []
 partijlijsten = {}
-kandidaten = {}
+kandidaten = []
 geslachten = []
 
 # Status variables
@@ -112,11 +112,11 @@ lines = procesverbaal_txt.read().splitlines()
 
 # Function to save a candidate
 
-def save_candidate(lijstnummer, kieskring, full_name, achternaam, voorletters, voornaam, geslacht, woonplaats, partij, store_name):
+def save_candidate(lijstnummer, kieskring, full_name, achternaam, voorletters, voornaam, geslacht, woonplaats, partij):
 	# check if person is already in party
-	if store_name in partijlijsten[partij]:
+	if full_name in partijlijsten[partij]:
 		# if so, add kieskring
-		partijlijsten[partij][store_name]['verkiezingen'][election]['kieskringen'].append(kieskring)
+		partijlijsten[partij][full_name]['verkiezingen'][election]['kieskringen'].append(kieskring)
 	else:
 		# - create person object
 		person = {
@@ -135,8 +135,8 @@ def save_candidate(lijstnummer, kieskring, full_name, achternaam, voorletters, v
 			}
 		}
 		# - append person to party object
-		partijlijsten[partij][store_name] = person
-		kandidaten[store_name] = person
+		partijlijsten[partij][full_name] = person
+		kandidaten.append(person)
 
 
 # Looping through all lines of procesverbaal
@@ -239,13 +239,12 @@ for line in lines:
 		# Memorize
 		woonplaats = line
 		# Store candidate in party
-		store_name = "{} {}".format(voorletters, achternaam)
 		if voornaam:
 			full_name = "{} {}".format(voornaam, achternaam)
 		else:
-			full_name = store_name
+			full_name = "{} {}".format(voorletters, achternaam)
 
-		save_candidate(lijstnummer, kieskring, full_name, achternaam, voorletters, voornaam, geslacht, woonplaats, partij, store_name)
+		save_candidate(lijstnummer, kieskring, full_name, achternaam, voorletters, voornaam, geslacht, woonplaats, partij)
 
 		# Make sure not to treat the next line as the party name
 		next_is_location = False
