@@ -7,6 +7,7 @@ import re
 import os
 import json
 import sys
+import urllib
 
 
 
@@ -61,6 +62,7 @@ partijen = []
 partijlijsten = {}
 kandidaten = []
 geslachten = []
+uniques = []
 
 # Status variables
 
@@ -112,14 +114,16 @@ lines = procesverbaal_txt.read().splitlines()
 
 # Function to save a candidate
 
-def save_candidate(lijstnummer, kieskring, full_name, achternaam, voorletters, voornaam, geslacht, woonplaats, partij):
+def save_candidate(unique, lijstnummer, kieskring, full_name, achternaam, voorletters, voornaam, geslacht, woonplaats, partij):
 	# check if person is already in party
 	if full_name in partijlijsten[partij]:
 		# if so, add kieskring
 		partijlijsten[partij][full_name]['verkiezingen'][election]['kieskringen'].append(kieskring)
 	else:
+		iri = "https://opwiekanikstemmen.nl/id/{0}".format(urllib.parse.quote_plus(unique))
 		# - create person object
 		person = {
+			'iri': iri,
 			'naam': full_name,
 			'voornaam': voornaam,
 			'achternaam': achternaam,
@@ -134,6 +138,12 @@ def save_candidate(lijstnummer, kieskring, full_name, achternaam, voorletters, v
 				}
 			}
 		}
+
+		if unique in uniques:
+			raise Exception("{0} already exists".format(unique))
+
+		uniques.append(unique)
+
 		# - append person to party object
 		partijlijsten[partij][full_name] = person
 		kandidaten.append(person)
@@ -244,7 +254,9 @@ for line in lines:
 		else:
 			full_name = "{} {}".format(voorletters, achternaam)
 
-		save_candidate(lijstnummer, kieskring, full_name, achternaam, voorletters, voornaam, geslacht, woonplaats, partij)
+		unique = "{0} {1} {2}".format(voornaam, voorletters, achternaam).strip()
+
+		save_candidate(unique, lijstnummer, kieskring, full_name, achternaam, voorletters, voornaam, geslacht, woonplaats, partij)
 
 		# Make sure not to treat the next line as the party name
 		next_is_location = False
