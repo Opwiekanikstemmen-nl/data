@@ -297,7 +297,9 @@ print("📄 storing parties and all candidates in json files")
 with open("{}/partijen.json".format(output_dir), 'w', encoding='utf8') as fp:
 	json.dump(partijen_json, fp, ensure_ascii=False)
 
-with open("{}/kandidaten.json".format(output_dir), 'w', encoding='utf8') as fp:
+output = file.replace("pdf", "json")
+
+with open(output, 'w', encoding='utf8') as fp:
 	json.dump(kandidaten, fp, ensure_ascii=False)
 
 
