@@ -128,6 +128,7 @@ def save_candidate(unique, lijstnummer, kieskring, full_name, achternaam, voorle
 		# - create person object
 		person = {
 			'iri': iri,
+			'id': unique,
 			'naam': full_name,
 			'voornaam': voornaam,
 			'achternaam': achternaam,
