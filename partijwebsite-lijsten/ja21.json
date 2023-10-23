@@ -181,7 +181,7 @@
 	},
 	{
 		"naam": "Ilona Lodders",
-		"urls": {
+		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 21,
 				"woonplaats": "Roermond"
@@ -190,13 +190,14 @@
 	},
 	{
 		"naam": "Bart Vos",
-		"urls": {
+		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 22
 			}
 		}
 	},
-	{		"naam": "Frank Kaufmann",
+	{	
+		"naam": "Frank Kaufmann",
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 23,
@@ -269,7 +270,7 @@
 	},
 	{
 		"naam": "Jan Martin Koetje",
-		"urls": {
+		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 31,
 				"woonplaats": "Heiligerlee"
@@ -278,7 +279,7 @@
 	},
 	{
 		"naam": "Marc Buijs",
-		"urls": {
+		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 32
 			}
@@ -286,7 +287,7 @@
 	},
 	{
 		"naam": "Martin Kersten",
-		"urls": {
+		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 33
 			}
