@@ -22,6 +22,7 @@
 	},
 	{
 		"naam": "BVNL / Groep Van Haga",
+		"simpele_naam": "BVNL",
 		"deelname_jaren": [2023],
 		"lijstnummers": {
 			"2023": 18
@@ -83,6 +84,7 @@
 	},
 	{
 		"naam": "GROENLINKS / Partij van de Arbeid (PvdA)",
+		"simpele_naam": "GroenLinks - PvdA",
 		"oude_namen": ["GROENLINKS", "Partij van de Arbeid (P.v.d.A.)", "Partij van de Arbeid PvdA"],
 		"deelname_jaren": [2017, 2021, 2023],
 		"lijstnummers": {
@@ -106,6 +108,7 @@
 	},
 	{
 		"naam": "LEF - Voor de Nieuwe Generatie",
+		"simpele_naam": "LEF",
 		"deelname_jaren": [2023],
 		"lijstnummers": {
 			"2023": 22
@@ -116,6 +119,7 @@
 	},
 	{
 		"naam": "LP (Libertaire Partij)",
+		"simpele_naam": "LP",
 		"oude_namen": "Libertarische Partij (LP)",
 		"deelname_jaren": [2017, 2021, 2023],
 		"lijstnummers": {
@@ -191,6 +195,7 @@
 	},
 	{
 		"naam": "PVV (Partij voor de Vrijheid)",
+		"simpele_naam": "PVV",
 		"deelname_jaren": [2017, 2021, 2023],
 		"lijstnummers": {
 			"2023": 4
@@ -211,6 +216,7 @@
 	},
 	{
 		"naam": "SP (Socialistische Partij)",
+		"simpele_naam": "SP",
 		"deelname_jaren": [2017, 2021, 2023],
 		"lijstnummers": {
 			"2023": 6
@@ -231,6 +237,7 @@
 	},
 	{
 		"naam": "Staatkundig Gereformeerde Partij (SGP)",
+		"simpele_naam": "SGP",
 		"deelname_jaren": [2017, 2021, 2023],
 		"lijstnummers": {
 			"2023": 12
