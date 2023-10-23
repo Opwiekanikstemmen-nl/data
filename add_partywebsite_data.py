@@ -56,6 +56,7 @@ for party in parties_data:
 					and candidate['verkiezingen']['tk2023']['partij_naam'] == party['naam']:
 					if candidate['voornaam'] == "" and '.' not in party_candidate['naam'].split(' ', 1)[0]:
 						candidate['voornaam'] = party_candidate['naam'].split(' ', 1)[0]
+						candidate['naam'] = "{0} {1}".format(party_candidate['naam'].split(' ', 1)[0], candidate['achternaam'])
 						print("{0} wordt {1}".format(candidate['naam'], party_candidate['naam'].split(' ', 1)[0]))
 					if 'urls' in party_candidate:
 						candidate['urls'] = party_candidate['urls']
