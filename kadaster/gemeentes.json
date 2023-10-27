@@ -1,5 +1,21 @@
 [
   {
+    "iri": "fake/landvancuijk",
+    "name": "Land van Cuijk"
+  },
+  {
+    "iri": "fake/voorneaanzee",
+    "name": "Voorne aan Zee"
+  },
+  {
+    "iri": "fake/maashorst",
+    "name": "Maashorst"
+  },
+  {
+    "iri": "fake/eemsdelta",
+    "name": "Eemsdelta"
+  },
+  {
     "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0034",
     "name": "Almere"
   },
