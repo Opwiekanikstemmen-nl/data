@@ -15,9 +15,6 @@ parser.add_argument("-f", "--partyfiles", action="store",
 
 args = parser.parse_args()
 
-duplicates = 0
-firsttimers = 0
-
 if args.target:
 	target = args.target
 else:
@@ -54,6 +51,10 @@ for party in parties_data:
 			for candidate in target_data:
 				if candidate['verkiezingen']['tk2023']['lijstnummer'] == party_candidate['verkiezingen']['tk2023']['lijstnummer'] \
 					and candidate['verkiezingen']['tk2023']['partij_naam'] == party['naam']:
+					if candidate['achternaam'] not in party_candidate['naam']:
+						print("{0} {1} van {2}".format(candidate['naam'], candidate['verkiezingen']['tk2023']['lijstnummer'], candidate['verkiezingen']['tk2023']['partij_naam']))
+					else:
+						break
 					if candidate['voornaam'] == "" and '.' not in party_candidate['naam'].split(' ', 1)[0]:
 						candidate['voornaam'] = party_candidate['naam'].split(' ', 1)[0]
 						candidate['naam'] = "{0} {1}".format(party_candidate['naam'].split(' ', 1)[0], candidate['achternaam'])
@@ -61,9 +62,5 @@ for party in parties_data:
 					if 'urls' in party_candidate:
 						candidate['urls'] = party_candidate['urls']
 				
-
-print("Duplicates: {}".format(duplicates))
-print("First timers: {}".format(firsttimers))
-
 with open('kandidaten.json', 'w', encoding='utf8') as fp:
 	json.dump(target_data, fp, ensure_ascii=False, indent=2)
