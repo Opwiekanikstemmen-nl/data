@@ -14154,7 +14154,7 @@
       }
     },
     "urls": {
-      "partijwebsite": "https://www.cda.nl/jalt-de-haan"
+      "partijwebsite": "https://www.cda.nl/henri"
     }
   },
   {
@@ -14202,7 +14202,7 @@
       }
     },
     "urls": {
-      "partijwebsite": "https://www.cda.nl/marieke-van-der-spek-den-besten"
+      "partijwebsite": "https://www.cda.nl/eline-vedder-tk23"
     }
   },
   {
@@ -14277,7 +14277,7 @@
       }
     },
     "urls": {
-      "partijwebsite": "https://www.cda.nl/stef-luijten"
+      "partijwebsite": "https://www.cda.nl/derk-boswijk-tk23"
     }
   },
   {
@@ -14325,7 +14325,7 @@
       }
     },
     "urls": {
-      "partijwebsite": "https://www.cda.nl/lody-van-de-kamp"
+      "partijwebsite": "https://www.cda.nl/inge-van-dijk-tk23"
     }
   },
   {
@@ -14692,6 +14692,9 @@
         "woonplaats": "Groningen",
         "partij_naam": "CDA"
       }
+    },
+    "urls": {
+      "partijwebsite": "https://www.cda.nl/anne-kuik-tk23"
     }
   },
   {
@@ -14745,13 +14748,16 @@
         "woonplaats": "Drogeham",
         "partij_naam": "CDA"
       }
+    },
+    "urls": {
+      "partijwebsite": "https://www.cda.nl/jouke-spoelstra"
     }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/E.J.%20Slootweg",
     "id": "E.J. Slootweg",
-    "naam": "E.J. Slootweg",
-    "voornaam": "",
+    "naam": "Evert Slootweg",
+    "voornaam": "Evert",
     "achternaam": "Slootweg",
     "voorletters": "E.J.",
     "geslacht": "m",
@@ -14790,6 +14796,9 @@
           "adressendichtheid": "1568"
         }
       }
+    },
+    "urls": {
+      "partijwebsite": "https://www.cda.nl/evert-jan-slootweg-tk23"
     }
   },
   {
@@ -14835,6 +14844,9 @@
           "adressendichtheid": "1443"
         }
       }
+    },
+    "urls": {
+      "partijwebsite": "https://www.cda.nl/saida-chaoui"
     }
   },
   {
@@ -14907,6 +14919,9 @@
         "woonplaats": "Utrecht",
         "partij_naam": "CDA"
       }
+    },
+    "urls": {
+      "partijwebsite": "https://www.cda.nl/jantine-zwinkels"
     }
   },
   {
@@ -14960,6 +14975,9 @@
         "woonplaats": "Beek",
         "partij_naam": "CDA"
       }
+    },
+    "urls": {
+      "partijwebsite": "https://www.cda.nl/ralph-diederen"
     }
   },
   {
@@ -15005,6 +15023,9 @@
           "adressendichtheid": "911"
         }
       }
+    },
+    "urls": {
+      "partijwebsite": "https://www.cda.nl/sarath-hamstra"
     }
   },
   {
@@ -15058,6 +15079,9 @@
         "woonplaats": "Goes",
         "partij_naam": "CDA"
       }
+    },
+    "urls": {
+      "partijwebsite": "https://www.cda.nl/easther-houmes"
     }
   },
   {
@@ -15103,6 +15127,9 @@
           "adressendichtheid": "1532"
         }
       }
+    },
+    "urls": {
+      "partijwebsite": "https://www.cda.nl/chantal-van-den-berg"
     }
   },
   {
@@ -15148,6 +15175,9 @@
           "adressendichtheid": "3312"
         }
       }
+    },
+    "urls": {
+      "partijwebsite": "https://www.cda.nl/jalt-de-haan"
     }
   },
   {
@@ -15193,6 +15223,9 @@
           "adressendichtheid": "1443"
         }
       }
+    },
+    "urls": {
+      "partijwebsite": "https://www.cda.nl/jenny-vermeer"
     }
   },
   {
@@ -15238,6 +15271,9 @@
           "adressendichtheid": "2916"
         }
       }
+    },
+    "urls": {
+      "partijwebsite": "https://www.cda.nl/liesbeth-van-der-heide"
     }
   },
   {
@@ -15291,6 +15327,9 @@
         "woonplaats": "Emmeloord",
         "partij_naam": "CDA"
       }
+    },
+    "urls": {
+      "partijwebsite": "https://www.cda.nl/johan-goos"
     }
   },
   {
@@ -15344,6 +15383,9 @@
         "woonplaats": "Nieuw-Beijerland",
         "partij_naam": "CDA"
       }
+    },
+    "urls": {
+      "partijwebsite": "https://www.cda.nl/paul-boogaard"
     }
   },
   {
@@ -15389,6 +15431,9 @@
           "adressendichtheid": "2148"
         }
       }
+    },
+    "urls": {
+      "partijwebsite": "https://www.cda.nl/wieke-goudzwaard-wiersma"
     }
   },
   {
@@ -15442,13 +15487,16 @@
         "woonplaats": "Rotterdam",
         "partij_naam": "CDA"
       }
+    },
+    "urls": {
+      "partijwebsite": "https://www.cda.nl/rene-segers-hoogendoorn"
     }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/A.K.%20van%20Gijssel",
     "id": "A.K. van Gijssel",
-    "naam": "A.K. van Gijssel",
-    "voornaam": "",
+    "naam": "Arjen van Gijssel",
+    "voornaam": "Arjen",
     "achternaam": "van Gijssel",
     "voorletters": "A.K.",
     "geslacht": "m",
@@ -15487,6 +15535,9 @@
           "adressendichtheid": "656"
         }
       }
+    },
+    "urls": {
+      "partijwebsite": "https://www.cda.nl/arjen-van-gijssel"
     }
   },
   {
@@ -15532,6 +15583,9 @@
           "adressendichtheid": "1038"
         }
       }
+    },
+    "urls": {
+      "partijwebsite": "https://www.cda.nl/lennard-goudriaan"
     }
   },
   {
@@ -15577,6 +15631,9 @@
           "adressendichtheid": "2187"
         }
       }
+    },
+    "urls": {
+      "partijwebsite": "https://www.cda.nl/mart-van-lagen"
     }
   },
   {
@@ -15622,6 +15679,9 @@
           "adressendichtheid": "900"
         }
       }
+    },
+    "urls": {
+      "partijwebsite": "https://www.cda.nl/marieke-van-der-spek-den-besten"
     }
   },
   {
@@ -15667,6 +15727,9 @@
           "adressendichtheid": "1873"
         }
       }
+    },
+    "urls": {
+      "partijwebsite": "https://www.cda.nl/floris-out"
     }
   },
   {
@@ -15712,6 +15775,9 @@
           "adressendichtheid": "2803"
         }
       }
+    },
+    "urls": {
+      "partijwebsite": "https://www.cda.nl/jacky-silos"
     }
   },
   {
@@ -15757,6 +15823,9 @@
           "adressendichtheid": "3307"
         }
       }
+    },
+    "urls": {
+      "partijwebsite": "https://www.cda.nl/yusuf-tuncer"
     }
   },
   {
@@ -15810,6 +15879,9 @@
         "woonplaats": "Driebergen-Rijsenburg",
         "partij_naam": "CDA"
       }
+    },
+    "urls": {
+      "partijwebsite": "https://www.cda.nl/chantal-broekhuis"
     }
   },
   {
@@ -15855,6 +15927,9 @@
           "adressendichtheid": "4012"
         }
       }
+    },
+    "urls": {
+      "partijwebsite": "https://www.cda.nl/antoine-van-den-oever"
     }
   },
   {
@@ -15900,6 +15975,9 @@
           "adressendichtheid": "3479"
         }
       }
+    },
+    "urls": {
+      "partijwebsite": "https://www.cda.nlhttps://www.cda.nl/joba-van-den-berg-jansen"
     }
   },
   {
@@ -15945,6 +16023,9 @@
           "adressendichtheid": "2202"
         }
       }
+    },
+    "urls": {
+      "partijwebsite": "https://www.cda.nl/antje-beers"
     }
   },
   {
@@ -15990,6 +16071,9 @@
           "adressendichtheid": "2409"
         }
       }
+    },
+    "urls": {
+      "partijwebsite": "https://www.cda.nl/delano-van-luik"
     }
   },
   {
@@ -16035,6 +16119,9 @@
           "adressendichtheid": "311"
         }
       }
+    },
+    "urls": {
+      "partijwebsite": "https://www.cda.nl/bart-van-dekken"
     }
   },
   {
@@ -16088,6 +16175,9 @@
         "woonplaats": "Bergeijk",
         "partij_naam": "CDA"
       }
+    },
+    "urls": {
+      "partijwebsite": "https://www.cda.nl/stef-luijten"
     }
   },
   {
@@ -16141,6 +16231,9 @@
         "woonplaats": "Uithuizen",
         "partij_naam": "CDA"
       }
+    },
+    "urls": {
+      "partijwebsite": "https://www.cda.nl/harma-dost"
     }
   },
   {
@@ -16194,6 +16287,9 @@
         "woonplaats": "Berkel en Rodenrijs",
         "partij_naam": "CDA"
       }
+    },
+    "urls": {
+      "partijwebsite": "https://www.cda.nl/frank-buijs"
     }
   },
   {
@@ -16239,6 +16335,9 @@
           "adressendichtheid": "2081"
         }
       }
+    },
+    "urls": {
+      "partijwebsite": "https://www.cda.nl/laura-van-de-giessen"
     }
   },
   {
@@ -16284,6 +16383,9 @@
           "adressendichtheid": "511"
         }
       }
+    },
+    "urls": {
+      "partijwebsite": "https://www.cda.nl/dani-bracke"
     }
   },
   {
@@ -16329,6 +16431,9 @@
           "adressendichtheid": "2711"
         }
       }
+    },
+    "urls": {
+      "partijwebsite": "https://www.cda.nl/jan-joosten"
     }
   },
   {
@@ -16382,6 +16487,9 @@
         "woonplaats": "Moordrecht",
         "partij_naam": "CDA"
       }
+    },
+    "urls": {
+      "partijwebsite": "https://www.cda.nl/pien-meppelink"
     }
   },
   {
@@ -16427,6 +16535,9 @@
           "adressendichtheid": "481"
         }
       }
+    },
+    "urls": {
+      "partijwebsite": "https://www.cda.nl/robert-van-dijk"
     }
   },
   {
@@ -16465,6 +16576,9 @@
         "woonplaats": "Odiliapeel",
         "partij_naam": "CDA"
       }
+    },
+    "urls": {
+      "partijwebsite": "https://www.cda.nl/franko-van-lankvelt"
     }
   },
   {
@@ -16510,6 +16624,9 @@
           "adressendichtheid": "2507"
         }
       }
+    },
+    "urls": {
+      "partijwebsite": "https://www.cda.nl/arjen-siegmann"
     }
   },
   {
@@ -16555,6 +16672,9 @@
           "adressendichtheid": "6096"
         }
       }
+    },
+    "urls": {
+      "partijwebsite": "https://www.cda.nl/lody-van-de-kamp"
     }
   },
   {
@@ -39218,7 +39338,7 @@
       }
     },
     "urls": {
-      "partijwebsite": "https://piratenpartij.nl/kandidaten-tk2023/#Mark_van_Treuren"
+      "partijwebsite": "    https://piratenpartij.nl/kandidaten-tk2023/#Mark_van_Treuren"
     }
   },
   {
@@ -49098,6 +49218,9 @@
           "adressendichtheid": "6096"
         }
       }
+    },
+    "urls": {
+      "partijwebsite": "https://samen-voor-nederland.nl/over-ons/partijleden/michel-reijinga/"
     }
   },
   {
@@ -49142,6 +49265,9 @@
           "adressendichtheid": "774"
         }
       }
+    },
+    "urls": {
+      "partijwebsite": "https://samen-voor-nederland.nl/over-ons/partijleden/samira-you-ala/"
     }
   },
   {
@@ -49186,6 +49312,9 @@
           "adressendichtheid": "737"
         }
       }
+    },
+    "urls": {
+      "partijwebsite": "https://samen-voor-nederland.nl/over-ons/partijleden/welmer-ten-seldam/"
     }
   },
   {
@@ -49230,6 +49359,9 @@
           "adressendichtheid": "471"
         }
       }
+    },
+    "urls": {
+      "partijwebsite": "https://samen-voor-nederland.nl/over-ons/partijleden/denzel-olde-kalter/"
     }
   },
   {
@@ -49274,6 +49406,9 @@
           "adressendichtheid": "3307"
         }
       }
+    },
+    "urls": {
+      "partijwebsite": "https://samen-voor-nederland.nl/over-ons/partijleden/mark-verspeek/"
     }
   },
   {
@@ -49318,6 +49453,9 @@
           "adressendichtheid": "854"
         }
       }
+    },
+    "urls": {
+      "partijwebsite": "https://samen-voor-nederland.nl/over-ons/partijleden/jan-huzen/"
     }
   },
   {
@@ -49362,6 +49500,9 @@
           "adressendichtheid": "6096"
         }
       }
+    },
+    "urls": {
+      "partijwebsite": "https://samen-voor-nederland.nl/over-ons/partijleden/laurens-buijs/"
     }
   },
   {
@@ -49406,6 +49547,9 @@
           "adressendichtheid": "774"
         }
       }
+    },
+    "urls": {
+      "partijwebsite": "https://samen-voor-nederland.nl/over-ons/partijleden/nathalie-vaneker/"
     }
   },
   {
@@ -49450,6 +49594,9 @@
           "adressendichtheid": "819"
         }
       }
+    },
+    "urls": {
+      "partijwebsite": "https://samen-voor-nederland.nl/over-ons/partijleden/micha-kuiper/"
     }
   },
   {
@@ -49531,6 +49678,9 @@
           "adressendichtheid": "2091"
         }
       }
+    },
+    "urls": {
+      "partijwebsite": "https://samen-voor-nederland.nl/over-ons/partijleden/vincent-berndsen/"
     }
   },
   {
@@ -49575,6 +49725,9 @@
           "adressendichtheid": "2187"
         }
       }
+    },
+    "urls": {
+      "partijwebsite": "https://samen-voor-nederland.nl/over-ons/partijleden/martijn-bosman/"
     }
   },
   {
@@ -49639,6 +49792,9 @@
         "woonplaats": "Amsterdam",
         "partij_naam": "Trots op Nederland (TROTS)"
       }
+    },
+    "urls": {
+      "partijwebsite": "https://samen-voor-nederland.nl/over-ons/partijleden/daan-van-den-berg/"
     }
   },
   {
@@ -49683,6 +49839,9 @@
           "adressendichtheid": "774"
         }
       }
+    },
+    "urls": {
+      "partijwebsite": "https://samen-voor-nederland.nl/over-ons/partijleden/joop-dekker/"
     }
   },
   {
@@ -49727,6 +49886,9 @@
           "adressendichtheid": "4994"
         }
       }
+    },
+    "urls": {
+      "partijwebsite": "https://samen-voor-nederland.nl/over-ons/partijleden/mandy-seijffert-wubbels/"
     }
   },
   {
@@ -49771,6 +49933,9 @@
           "adressendichtheid": "1117"
         }
       }
+    },
+    "urls": {
+      "partijwebsite": "https://samen-voor-nederland.nl/over-ons/partijleden/robert-korving/"
     }
   },
   {
@@ -49815,6 +49980,9 @@
           "adressendichtheid": "3797"
         }
       }
+    },
+    "urls": {
+      "partijwebsite": "https://samen-voor-nederland.nl/over-ons/partijleden/bianca-wagt/"
     }
   },
   {
@@ -49859,6 +50027,9 @@
           "adressendichtheid": "3307"
         }
       }
+    },
+    "urls": {
+      "partijwebsite": "https://samen-voor-nederland.nl/over-ons/partijleden/daniela-van-der-pluijm/"
     }
   },
   {
@@ -49903,6 +50074,9 @@
           "adressendichtheid": "1214"
         }
       }
+    },
+    "urls": {
+      "partijwebsite": "https://samen-voor-nederland.nl/over-ons/partijleden/melissa-verspeek/"
     }
   },
   {
@@ -49947,6 +50121,9 @@
           "adressendichtheid": "2513"
         }
       }
+    },
+    "urls": {
+      "partijwebsite": "https://samen-voor-nederland.nl/over-ons/partijleden/marwin-ebbers/"
     }
   },
   {
@@ -49991,6 +50168,9 @@
           "adressendichtheid": "434"
         }
       }
+    },
+    "urls": {
+      "partijwebsite": "https://samen-voor-nederland.nl/over-ons/partijleden/brigitte-timmer/"
     }
   },
   {
@@ -50035,6 +50215,9 @@
           "adressendichtheid": "3797"
         }
       }
+    },
+    "urls": {
+      "partijwebsite": "https://samen-voor-nederland.nl/over-ons/partijleden/marco-ijben/"
     }
   },
   {
@@ -50079,6 +50262,9 @@
           "adressendichtheid": "643"
         }
       }
+    },
+    "urls": {
+      "partijwebsite": "https://samen-voor-nederland.nl/over-ons/partijleden/sharon-bink/"
     }
   },
   {
@@ -50123,6 +50309,9 @@
           "adressendichtheid": "1754"
         }
       }
+    },
+    "urls": {
+      "partijwebsite": "https://samen-voor-nederland.nl/over-ons/partijleden/Frederik-Roebersen/"
     }
   },
   {
@@ -50167,6 +50356,9 @@
           "adressendichtheid": "846"
         }
       }
+    },
+    "urls": {
+      "partijwebsite": "https://samen-voor-nederland.nl/over-ons/partijleden/Ria-ottenhoff/"
     }
   },
   {
@@ -50211,6 +50403,9 @@
           "adressendichtheid": "1145"
         }
       }
+    },
+    "urls": {
+      "partijwebsite": "https://samen-voor-nederland.nl/over-ons/partijleden/arian-honders/"
     }
   },
   {
@@ -50255,6 +50450,9 @@
           "adressendichtheid": "856"
         }
       }
+    },
+    "urls": {
+      "partijwebsite": "https://samen-voor-nederland.nl/over-ons/partijleden/alicia-huijing/"
     }
   },
   {
@@ -50299,6 +50497,9 @@
           "adressendichtheid": "1616"
         }
       }
+    },
+    "urls": {
+      "partijwebsite": "https://samen-voor-nederland.nl/over-ons/partijleden/Elizabeth-Heesterman/"
     }
   },
   {
@@ -52041,8 +52242,8 @@
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/G.J.%20Liefers",
     "id": "G.J. Liefers",
-    "naam": "G.J. Liefers",
-    "voornaam": "",
+    "naam": "Gert-Jan Liefers",
+    "voornaam": "Gert-Jan",
     "achternaam": "Liefers",
     "voorletters": "G.J.",
     "geslacht": "m",
@@ -52185,8 +52386,8 @@
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/H.A.%20Kempenaar",
     "id": "H.A. Kempenaar",
-    "naam": "H.A. Kempenaar",
-    "voornaam": "",
+    "naam": "Erik Kempenaar",
+    "voornaam": "Erik",
     "achternaam": "Kempenaar",
     "voorletters": "H.A.",
     "geslacht": "m",
