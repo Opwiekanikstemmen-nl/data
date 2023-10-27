@@ -81,7 +81,14 @@
           "Bonaire"
         ],
         "woonplaats": "Vreeland",
-        "partij_naam": "VVD"
+        "partij_naam": "VVD",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1904",
+          "name": "Stichtse Vecht",
+          "stedelijkheid": "Matig stedelijk",
+          "inwoners": "65108",
+          "adressendichtheid": "1194"
+        }
       },
       "tk2021": {
         "lijstnummer": 3,
@@ -518,7 +525,14 @@
           "Bonaire"
         ],
         "woonplaats": "Zuidbroek",
-        "partij_naam": "VVD"
+        "partij_naam": "VVD",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1952",
+          "name": "Midden-Groningen",
+          "stedelijkheid": "Weinig stedelijk",
+          "inwoners": "60726",
+          "adressendichtheid": "856"
+        }
       },
       "tk2021": {
         "lijstnummer": 14,
@@ -784,7 +798,14 @@
           "Bonaire"
         ],
         "woonplaats": "Terheijden",
-        "partij_naam": "VVD"
+        "partij_naam": "VVD",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1719",
+          "name": "Drimmelen",
+          "stedelijkheid": "Weinig stedelijk",
+          "inwoners": "27325",
+          "adressendichtheid": "788"
+        }
       },
       "tk2021": {
         "lijstnummer": 11,
@@ -975,7 +996,14 @@
           "Bonaire"
         ],
         "woonplaats": "Otterlo",
-        "partij_naam": "VVD"
+        "partij_naam": "VVD",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0228",
+          "name": "Ede",
+          "stedelijkheid": "Sterk stedelijk",
+          "inwoners": "118530",
+          "adressendichtheid": "1568"
+        }
       }
     },
     "urls": {
@@ -1262,7 +1290,14 @@
           "Bonaire"
         ],
         "woonplaats": "Ambt Delden",
-        "partij_naam": "VVD"
+        "partij_naam": "VVD",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1735",
+          "name": "Hof van Twente",
+          "stedelijkheid": "Weinig stedelijk",
+          "inwoners": "35040",
+          "adressendichtheid": "608"
+        }
       }
     },
     "urls": {
@@ -1495,7 +1530,14 @@
           "Bonaire"
         ],
         "woonplaats": "'s-Gravenzande",
-        "partij_naam": "VVD"
+        "partij_naam": "VVD",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1783",
+          "name": "Westland",
+          "stedelijkheid": "Matig stedelijk",
+          "inwoners": "111382",
+          "adressendichtheid": "1443"
+        }
       },
       "tk2021": {
         "lijstnummer": 21,
@@ -1911,7 +1953,14 @@
           "Bonaire"
         ],
         "woonplaats": "Lijnden",
-        "partij_naam": "VVD"
+        "partij_naam": "VVD",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0394",
+          "name": "Haarlemmermeer",
+          "stedelijkheid": "Sterk stedelijk",
+          "inwoners": "157789",
+          "adressendichtheid": "1532"
+        }
       },
       "tk2021": {
         "lijstnummer": 47,
@@ -2075,7 +2124,14 @@
           "Bonaire"
         ],
         "woonplaats": "Klazienaveen",
-        "partij_naam": "VVD"
+        "partij_naam": "VVD",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0114",
+          "name": "Emmen",
+          "stedelijkheid": "Weinig stedelijk",
+          "inwoners": "107024",
+          "adressendichtheid": "854"
+        }
       }
     },
     "urls": {
@@ -2116,7 +2172,14 @@
           "Bonaire"
         ],
         "woonplaats": "Bilthoven",
-        "partij_naam": "VVD"
+        "partij_naam": "VVD",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0310",
+          "name": "De Bilt",
+          "stedelijkheid": "Matig stedelijk",
+          "inwoners": "43384",
+          "adressendichtheid": "1272"
+        }
       }
     },
     "urls": {
@@ -2157,7 +2220,14 @@
           "Bonaire"
         ],
         "woonplaats": "Eefde",
-        "partij_naam": "VVD"
+        "partij_naam": "VVD",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0262",
+          "name": "Lochem",
+          "stedelijkheid": "Weinig stedelijk",
+          "inwoners": "33948",
+          "adressendichtheid": "595"
+        }
       },
       "tk2021": {
         "lijstnummer": 40,
@@ -2738,7 +2808,14 @@
           "Bonaire"
         ],
         "woonplaats": "Dirksland",
-        "partij_naam": "VVD"
+        "partij_naam": "VVD",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1924",
+          "name": "Goeree-Overflakkee",
+          "stedelijkheid": "Weinig stedelijk",
+          "inwoners": "50589",
+          "adressendichtheid": "631"
+        }
       },
       "tk2021": {
         "lijstnummer": 69,
@@ -2806,7 +2883,14 @@
           "Bonaire"
         ],
         "woonplaats": "Andijk",
-        "partij_naam": "VVD"
+        "partij_naam": "VVD",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0420",
+          "name": "Medemblik",
+          "stedelijkheid": "Weinig stedelijk",
+          "inwoners": "45165",
+          "adressendichtheid": "524"
+        }
       }
     },
     "urls": {
@@ -2847,7 +2931,14 @@
           "Bonaire"
         ],
         "woonplaats": "Naarden",
-        "partij_naam": "VVD"
+        "partij_naam": "VVD",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1942",
+          "name": "Gooise Meren",
+          "stedelijkheid": "Sterk stedelijk",
+          "inwoners": "58524",
+          "adressendichtheid": "1911"
+        }
       }
     },
     "urls": {
@@ -3032,7 +3123,14 @@
           "Bonaire"
         ],
         "woonplaats": "Badhoevedorp",
-        "partij_naam": "VVD"
+        "partij_naam": "VVD",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0394",
+          "name": "Haarlemmermeer",
+          "stedelijkheid": "Sterk stedelijk",
+          "inwoners": "157789",
+          "adressendichtheid": "1532"
+        }
       }
     },
     "urls": {
@@ -3409,7 +3507,14 @@
           "Bonaire"
         ],
         "woonplaats": "Hellum",
-        "partij_naam": "VVD"
+        "partij_naam": "VVD",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1952",
+          "name": "Midden-Groningen",
+          "stedelijkheid": "Weinig stedelijk",
+          "inwoners": "60726",
+          "adressendichtheid": "856"
+        }
       }
     },
     "urls": {
@@ -3450,7 +3555,14 @@
           "Bonaire"
         ],
         "woonplaats": "Emmeloord",
-        "partij_naam": "VVD"
+        "partij_naam": "VVD",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0171",
+          "name": "Noordoostpolder",
+          "stedelijkheid": "Weinig stedelijk",
+          "inwoners": "47583",
+          "adressendichtheid": "735"
+        }
       }
     },
     "urls": {
@@ -3491,7 +3603,14 @@
           "Bonaire"
         ],
         "woonplaats": "Leerdam",
-        "partij_naam": "VVD"
+        "partij_naam": "VVD",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1961",
+          "name": "Vijfheerenlanden",
+          "stedelijkheid": "Weinig stedelijk",
+          "inwoners": "57829",
+          "adressendichtheid": "900"
+        }
       }
     },
     "urls": {
@@ -3580,7 +3699,14 @@
           "Bonaire"
         ],
         "woonplaats": "Moarre",
-        "partij_naam": "VVD"
+        "partij_naam": "VVD",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1970",
+          "name": "Noardeast-Fryslân",
+          "stedelijkheid": "Niet stedelijk",
+          "inwoners": "45481",
+          "adressendichtheid": "463"
+        }
       }
     },
     "urls": {
@@ -3621,7 +3747,14 @@
           "Bonaire"
         ],
         "woonplaats": "Gemert",
-        "partij_naam": "VVD"
+        "partij_naam": "VVD",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1652",
+          "name": "Gemert-Bakel",
+          "stedelijkheid": "Weinig stedelijk",
+          "inwoners": "30760",
+          "adressendichtheid": "774"
+        }
       }
     },
     "urls": {
@@ -3758,7 +3891,14 @@
           "Bonaire"
         ],
         "woonplaats": "Nieuw-Vennep",
-        "partij_naam": "VVD"
+        "partij_naam": "VVD",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0394",
+          "name": "Haarlemmermeer",
+          "stedelijkheid": "Sterk stedelijk",
+          "inwoners": "157789",
+          "adressendichtheid": "1532"
+        }
       }
     },
     "urls": {
@@ -3895,7 +4035,14 @@
           "Bonaire"
         ],
         "woonplaats": "Noorden",
-        "partij_naam": "VVD"
+        "partij_naam": "VVD",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0569",
+          "name": "Nieuwkoop",
+          "stedelijkheid": "Weinig stedelijk",
+          "inwoners": "29151",
+          "adressendichtheid": "505"
+        }
       }
     },
     "urls": {
@@ -3936,7 +4083,14 @@
           "Bonaire"
         ],
         "woonplaats": "De Meern",
-        "partij_naam": "VVD"
+        "partij_naam": "VVD",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0344",
+          "name": "Utrecht",
+          "stedelijkheid": "Zeer sterk stedelijk",
+          "inwoners": "359370",
+          "adressendichtheid": "3479"
+        }
       }
     },
     "urls": {
@@ -4025,7 +4179,14 @@
           "Bonaire"
         ],
         "woonplaats": "Santpoort-Noord",
-        "partij_naam": "VVD"
+        "partij_naam": "VVD",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0453",
+          "name": "Velsen",
+          "stedelijkheid": "Sterk stedelijk",
+          "inwoners": "68617",
+          "adressendichtheid": "1865"
+        }
       }
     },
     "urls": {
@@ -4066,7 +4227,14 @@
           "Bonaire"
         ],
         "woonplaats": "Lemmer",
-        "partij_naam": "VVD"
+        "partij_naam": "VVD",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1940",
+          "name": "De Fryske Marren",
+          "stedelijkheid": "Weinig stedelijk",
+          "inwoners": "51778",
+          "adressendichtheid": "556"
+        }
       }
     },
     "urls": {
@@ -4107,7 +4275,14 @@
           "Bonaire"
         ],
         "woonplaats": "Terwispel",
-        "partij_naam": "VVD"
+        "partij_naam": "VVD",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0086",
+          "name": "Opsterland",
+          "stedelijkheid": "Niet stedelijk",
+          "inwoners": "29812",
+          "adressendichtheid": "412"
+        }
       }
     },
     "urls": {
@@ -4196,7 +4371,14 @@
           "Bonaire"
         ],
         "woonplaats": "Koekange",
-        "partij_naam": "VVD"
+        "partij_naam": "VVD",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1690",
+          "name": "De Wolden",
+          "stedelijkheid": "Niet stedelijk",
+          "inwoners": "24374",
+          "adressendichtheid": "311"
+        }
       }
     },
     "urls": {
@@ -4285,7 +4467,14 @@
           "Bonaire"
         ],
         "woonplaats": "Ubbergen",
-        "partij_naam": "D66"
+        "partij_naam": "D66",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1945",
+          "name": "Berg en Dal",
+          "stedelijkheid": "Weinig stedelijk",
+          "inwoners": "35010",
+          "adressendichtheid": "653"
+        }
       },
       "tk2021": {
         "lijstnummer": 2,
@@ -4422,7 +4611,14 @@
           "Bonaire"
         ],
         "woonplaats": "Woubrugge",
-        "partij_naam": "D66"
+        "partij_naam": "D66",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1884",
+          "name": "Kaag en Braassem",
+          "stedelijkheid": "Weinig stedelijk",
+          "inwoners": "27541",
+          "adressendichtheid": "631"
+        }
       },
       "tk2021": {
         "lijstnummer": 12,
@@ -4721,7 +4917,14 @@
           "Bonaire"
         ],
         "woonplaats": "Voorburg",
-        "partij_naam": "D66"
+        "partij_naam": "D66",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1916",
+          "name": "Leidschendam-Voorburg",
+          "stedelijkheid": "Zeer sterk stedelijk",
+          "inwoners": "76433",
+          "adressendichtheid": "2916"
+        }
       }
     }
   },
@@ -4804,7 +5007,14 @@
           "Bonaire"
         ],
         "woonplaats": "Woudsend",
-        "partij_naam": "D66"
+        "partij_naam": "D66",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1900",
+          "name": "Súdwest-Fryslân",
+          "stedelijkheid": "Weinig stedelijk",
+          "inwoners": "89999",
+          "adressendichtheid": "846"
+        }
       }
     }
   },
@@ -4842,7 +5052,14 @@
           "Bonaire"
         ],
         "woonplaats": "Lent",
-        "partij_naam": "D66"
+        "partij_naam": "D66",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0268",
+          "name": "Nijmegen",
+          "stedelijkheid": "Sterk stedelijk",
+          "inwoners": "177359",
+          "adressendichtheid": "2409"
+        }
       }
     }
   },
@@ -6023,7 +6240,14 @@
           "Bonaire"
         ],
         "woonplaats": "Voorburg",
-        "partij_naam": "D66"
+        "partij_naam": "D66",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1916",
+          "name": "Leidschendam-Voorburg",
+          "stedelijkheid": "Zeer sterk stedelijk",
+          "inwoners": "76433",
+          "adressendichtheid": "2916"
+        }
       }
     }
   },
@@ -6106,7 +6330,14 @@
           "Bonaire"
         ],
         "woonplaats": "Voorburg",
-        "partij_naam": "D66"
+        "partij_naam": "D66",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1916",
+          "name": "Leidschendam-Voorburg",
+          "stedelijkheid": "Zeer sterk stedelijk",
+          "inwoners": "76433",
+          "adressendichtheid": "2916"
+        }
       },
       "tk2021": {
         "lijstnummer": 36,
@@ -6990,7 +7221,14 @@
           "Bonaire"
         ],
         "woonplaats": "Eelderwolde",
-        "partij_naam": "D66"
+        "partij_naam": "D66",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1730",
+          "name": "Tynaarlo",
+          "stedelijkheid": "Weinig stedelijk",
+          "inwoners": "33978",
+          "adressendichtheid": "510"
+        }
       },
       "tk2021": {
         "lijstnummer": 55,
@@ -7145,7 +7383,14 @@
           "Bonaire"
         ],
         "woonplaats": "Baarlo",
-        "partij_naam": "D66"
+        "partij_naam": "D66",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1708",
+          "name": "Steenwijkerland",
+          "stedelijkheid": "Weinig stedelijk",
+          "inwoners": "44341",
+          "adressendichtheid": "592"
+        }
       }
     }
   },
@@ -7273,7 +7518,14 @@
           "Bonaire"
         ],
         "woonplaats": "Sittard",
-        "partij_naam": "D66"
+        "partij_naam": "D66",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1883",
+          "name": "Sittard-Geleen",
+          "stedelijkheid": "Sterk stedelijk",
+          "inwoners": "91743",
+          "adressendichtheid": "1504"
+        }
       }
     }
   },
@@ -7805,7 +8057,14 @@
           "Bonaire"
         ],
         "woonplaats": "Boksum",
-        "partij_naam": "D66"
+        "partij_naam": "D66",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1949",
+          "name": "Waadhoeke",
+          "stedelijkheid": "Niet stedelijk",
+          "inwoners": "46149",
+          "adressendichtheid": "474"
+        }
       }
     }
   },
@@ -8283,7 +8542,14 @@
           "Bonaire"
         ],
         "woonplaats": "Twello",
-        "partij_naam": "D66"
+        "partij_naam": "D66",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0285",
+          "name": "Voorst",
+          "stedelijkheid": "Weinig stedelijk",
+          "inwoners": "24790",
+          "adressendichtheid": "582"
+        }
       }
     }
   },
@@ -8960,7 +9226,14 @@
           "Bonaire"
         ],
         "woonplaats": "Zaandam",
-        "partij_naam": "GROENLINKS / Partij van de Arbeid (PvdA)"
+        "partij_naam": "GROENLINKS / Partij van de Arbeid (PvdA)",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0479",
+          "name": "Zaanstad",
+          "stedelijkheid": "Sterk stedelijk",
+          "inwoners": "156901",
+          "adressendichtheid": "2053"
+        }
       },
       "tk2021": {
         "lijstnummer": 10,
@@ -9028,7 +9301,14 @@
           "Bonaire"
         ],
         "woonplaats": "Monnickendam",
-        "partij_naam": "GROENLINKS / Partij van de Arbeid (PvdA)"
+        "partij_naam": "GROENLINKS / Partij van de Arbeid (PvdA)",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0852",
+          "name": "Waterland",
+          "stedelijkheid": "Weinig stedelijk",
+          "inwoners": "17312",
+          "adressendichtheid": "643"
+        }
       },
       "tk2021": {
         "lijstnummer": 4,
@@ -9096,7 +9376,14 @@
           "Bonaire"
         ],
         "woonplaats": "Wommels",
-        "partij_naam": "GROENLINKS / Partij van de Arbeid (PvdA)"
+        "partij_naam": "GROENLINKS / Partij van de Arbeid (PvdA)",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1900",
+          "name": "Súdwest-Fryslân",
+          "stedelijkheid": "Weinig stedelijk",
+          "inwoners": "89999",
+          "adressendichtheid": "846"
+        }
       }
     },
     "urls": {
@@ -9335,7 +9622,14 @@
           "Bonaire"
         ],
         "woonplaats": "Muiderberg",
-        "partij_naam": "GROENLINKS / Partij van de Arbeid (PvdA)"
+        "partij_naam": "GROENLINKS / Partij van de Arbeid (PvdA)",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1942",
+          "name": "Gooise Meren",
+          "stedelijkheid": "Sterk stedelijk",
+          "inwoners": "58524",
+          "adressendichtheid": "1911"
+        }
       },
       "tk2021": {
         "lijstnummer": 6,
@@ -10162,7 +10456,14 @@
           "Bonaire"
         ],
         "woonplaats": "Elim",
-        "partij_naam": "GROENLINKS / Partij van de Arbeid (PvdA)"
+        "partij_naam": "GROENLINKS / Partij van de Arbeid (PvdA)",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0118",
+          "name": "Hoogeveen",
+          "stedelijkheid": "Matig stedelijk",
+          "inwoners": "55603",
+          "adressendichtheid": "1214"
+        }
       },
       "tk2021": {
         "lijstnummer": 21,
@@ -10401,7 +10702,14 @@
           "Bonaire"
         ],
         "woonplaats": "Zaandam",
-        "partij_naam": "GROENLINKS / Partij van de Arbeid (PvdA)"
+        "partij_naam": "GROENLINKS / Partij van de Arbeid (PvdA)",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0479",
+          "name": "Zaanstad",
+          "stedelijkheid": "Sterk stedelijk",
+          "inwoners": "156901",
+          "adressendichtheid": "2053"
+        }
       }
     },
     "urls": {
@@ -11176,7 +11484,14 @@
           "Zwolle"
         ],
         "woonplaats": "Goor",
-        "partij_naam": "GROENLINKS / Partij van de Arbeid (PvdA)"
+        "partij_naam": "GROENLINKS / Partij van de Arbeid (PvdA)",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1735",
+          "name": "Hof van Twente",
+          "stedelijkheid": "Weinig stedelijk",
+          "inwoners": "35040",
+          "adressendichtheid": "608"
+        }
       }
     }
   },
@@ -11675,7 +11990,14 @@
           "Bonaire"
         ],
         "woonplaats": "Hoevelaken",
-        "partij_naam": "PVV (Partij voor de Vrijheid)"
+        "partij_naam": "PVV (Partij voor de Vrijheid)",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0267",
+          "name": "Nijkerk",
+          "stedelijkheid": "Matig stedelijk",
+          "inwoners": "43600",
+          "adressendichtheid": "1117"
+        }
       },
       "tk2021": {
         "lijstnummer": 18,
@@ -11929,7 +12251,14 @@
           "Bonaire"
         ],
         "woonplaats": "Overasselt",
-        "partij_naam": "PVV (Partij voor de Vrijheid)"
+        "partij_naam": "PVV (Partij voor de Vrijheid)",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0252",
+          "name": "Heumen",
+          "stedelijkheid": "Weinig stedelijk",
+          "inwoners": "16569",
+          "adressendichtheid": "798"
+        }
       },
       "tk2021": {
         "lijstnummer": 6,
@@ -12176,7 +12505,14 @@
           "Bonaire"
         ],
         "woonplaats": "Winschoten",
-        "partij_naam": "PVV (Partij voor de Vrijheid)"
+        "partij_naam": "PVV (Partij voor de Vrijheid)",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1895",
+          "name": "Oldambt",
+          "stedelijkheid": "Weinig stedelijk",
+          "inwoners": "38277",
+          "adressendichtheid": "831"
+        }
       }
     }
   },
@@ -12214,7 +12550,14 @@
           "Bonaire"
         ],
         "woonplaats": "Aardenburg",
-        "partij_naam": "PVV (Partij voor de Vrijheid)"
+        "partij_naam": "PVV (Partij voor de Vrijheid)",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1714",
+          "name": "Sluis",
+          "stedelijkheid": "Niet stedelijk",
+          "inwoners": "23166",
+          "adressendichtheid": "434"
+        }
       }
     }
   },
@@ -12342,7 +12685,14 @@
           "Bonaire"
         ],
         "woonplaats": "Drachten",
-        "partij_naam": "PVV (Partij voor de Vrijheid)"
+        "partij_naam": "PVV (Partij voor de Vrijheid)",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0090",
+          "name": "Smallingerland",
+          "stedelijkheid": "Matig stedelijk",
+          "inwoners": "56040",
+          "adressendichtheid": "1341"
+        }
       },
       "tk2021": {
         "lijstnummer": 47,
@@ -12452,7 +12802,14 @@
           "Bonaire"
         ],
         "woonplaats": "Philippine",
-        "partij_naam": "PVV (Partij voor de Vrijheid)"
+        "partij_naam": "PVV (Partij voor de Vrijheid)",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0715",
+          "name": "Terneuzen",
+          "stedelijkheid": "Weinig stedelijk",
+          "inwoners": "54463",
+          "adressendichtheid": "876"
+        }
       }
     }
   },
@@ -12562,7 +12919,14 @@
           "Bonaire"
         ],
         "woonplaats": "Hengelo (O)",
-        "partij_naam": "PVV (Partij voor de Vrijheid)"
+        "partij_naam": "PVV (Partij voor de Vrijheid)",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0164",
+          "name": "Hengelo",
+          "stedelijkheid": "Sterk stedelijk",
+          "inwoners": "81049",
+          "adressendichtheid": "1845"
+        }
       }
     }
   },
@@ -13086,7 +13450,14 @@
           "Bonaire"
         ],
         "woonplaats": "Zaandam",
-        "partij_naam": "PVV (Partij voor de Vrijheid)"
+        "partij_naam": "PVV (Partij voor de Vrijheid)",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0479",
+          "name": "Zaanstad",
+          "stedelijkheid": "Sterk stedelijk",
+          "inwoners": "156901",
+          "adressendichtheid": "2053"
+        }
       }
     }
   },
@@ -13124,7 +13495,14 @@
           "Bonaire"
         ],
         "woonplaats": "Rhoon",
-        "partij_naam": "PVV (Partij voor de Vrijheid)"
+        "partij_naam": "PVV (Partij voor de Vrijheid)",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0613",
+          "name": "Albrandswaard",
+          "stedelijkheid": "Matig stedelijk",
+          "inwoners": "25814",
+          "adressendichtheid": "1038"
+        }
       }
     }
   },
@@ -13396,7 +13774,14 @@
           "Bonaire"
         ],
         "woonplaats": "Eelde",
-        "partij_naam": "PVV (Partij voor de Vrijheid)"
+        "partij_naam": "PVV (Partij voor de Vrijheid)",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1730",
+          "name": "Tynaarlo",
+          "stedelijkheid": "Weinig stedelijk",
+          "inwoners": "33978",
+          "adressendichtheid": "510"
+        }
       }
     }
   },
@@ -13434,7 +13819,14 @@
           "Bonaire"
         ],
         "woonplaats": "Ter Apel",
-        "partij_naam": "PVV (Partij voor de Vrijheid)"
+        "partij_naam": "PVV (Partij voor de Vrijheid)",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1950",
+          "name": "Westerwolde",
+          "stedelijkheid": "Niet stedelijk",
+          "inwoners": "26215",
+          "adressendichtheid": "286"
+        }
       }
     }
   },
@@ -13472,7 +13864,14 @@
           "Bonaire"
         ],
         "woonplaats": "Zevenhuizen",
-        "partij_naam": "PVV (Partij voor de Vrijheid)"
+        "partij_naam": "PVV (Partij voor de Vrijheid)",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1969",
+          "name": "Westerkwartier",
+          "stedelijkheid": "Niet stedelijk",
+          "inwoners": "63678",
+          "adressendichtheid": "476"
+        }
       },
       "tk2021": {
         "lijstnummer": 44,
@@ -13582,7 +13981,14 @@
           "Bonaire"
         ],
         "woonplaats": "Ulestraten",
-        "partij_naam": "PVV (Partij voor de Vrijheid)"
+        "partij_naam": "PVV (Partij voor de Vrijheid)",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0938",
+          "name": "Meerssen",
+          "stedelijkheid": "Weinig stedelijk",
+          "inwoners": "18661",
+          "adressendichtheid": "616"
+        }
       }
     }
   },
@@ -13620,7 +14026,14 @@
           "Bonaire"
         ],
         "woonplaats": "Vinkel",
-        "partij_naam": "PVV (Partij voor de Vrijheid)"
+        "partij_naam": "PVV (Partij voor de Vrijheid)",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1721",
+          "name": "Bernheze",
+          "stedelijkheid": "Weinig stedelijk",
+          "inwoners": "31455",
+          "adressendichtheid": "686"
+        }
       }
     }
   },
@@ -13658,7 +14071,14 @@
           "Bonaire"
         ],
         "woonplaats": "Arcen",
-        "partij_naam": "PVV (Partij voor de Vrijheid)"
+        "partij_naam": "PVV (Partij voor de Vrijheid)",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0983",
+          "name": "Venlo",
+          "stedelijkheid": "Sterk stedelijk",
+          "inwoners": "101988",
+          "adressendichtheid": "1660"
+        }
       }
     }
   },
@@ -13771,7 +14191,14 @@
           "Bonaire"
         ],
         "woonplaats": "Ruinerwold",
-        "partij_naam": "CDA"
+        "partij_naam": "CDA",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1690",
+          "name": "De Wolden",
+          "stedelijkheid": "Niet stedelijk",
+          "inwoners": "24374",
+          "adressendichtheid": "311"
+        }
       }
     },
     "urls": {
@@ -13812,7 +14239,14 @@
           "Bonaire"
         ],
         "woonplaats": "Kockengen",
-        "partij_naam": "CDA"
+        "partij_naam": "CDA",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1904",
+          "name": "Stichtse Vecht",
+          "stedelijkheid": "Matig stedelijk",
+          "inwoners": "65108",
+          "adressendichtheid": "1194"
+        }
       },
       "tk2021": {
         "lijstnummer": 14,
@@ -13880,7 +14314,14 @@
           "Bonaire"
         ],
         "woonplaats": "Gemert",
-        "partij_naam": "CDA"
+        "partij_naam": "CDA",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1652",
+          "name": "Gemert-Bakel",
+          "stedelijkheid": "Weinig stedelijk",
+          "inwoners": "30760",
+          "adressendichtheid": "774"
+        }
       }
     },
     "urls": {
@@ -14119,7 +14560,14 @@
           "Bonaire"
         ],
         "woonplaats": "Helden",
-        "partij_naam": "CDA"
+        "partij_naam": "CDA",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1894",
+          "name": "Peel en Maas",
+          "stedelijkheid": "Weinig stedelijk",
+          "inwoners": "43660",
+          "adressendichtheid": "586"
+        }
       }
     },
     "urls": {
@@ -14160,7 +14608,14 @@
           "Bonaire"
         ],
         "woonplaats": "Hengelo (O)",
-        "partij_naam": "CDA"
+        "partij_naam": "CDA",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0164",
+          "name": "Hengelo",
+          "stedelijkheid": "Sterk stedelijk",
+          "inwoners": "81049",
+          "adressendichtheid": "1845"
+        }
       }
     },
     "urls": {
@@ -14273,7 +14728,14 @@
           "Bonaire"
         ],
         "woonplaats": "Drogeham",
-        "partij_naam": "CDA"
+        "partij_naam": "CDA",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0059",
+          "name": "Achtkarspelen",
+          "stedelijkheid": "Niet stedelijk",
+          "inwoners": "27900",
+          "adressendichtheid": "429"
+        }
       },
       "tk2021": {
         "lijstnummer": 64,
@@ -14319,7 +14781,14 @@
           "Bonaire"
         ],
         "woonplaats": "Bennekom",
-        "partij_naam": "CDA"
+        "partij_naam": "CDA",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0228",
+          "name": "Ede",
+          "stedelijkheid": "Sterk stedelijk",
+          "inwoners": "118530",
+          "adressendichtheid": "1568"
+        }
       }
     }
   },
@@ -14357,7 +14826,14 @@
           "Bonaire"
         ],
         "woonplaats": "Wateringen",
-        "partij_naam": "CDA"
+        "partij_naam": "CDA",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1783",
+          "name": "Westland",
+          "stedelijkheid": "Matig stedelijk",
+          "inwoners": "111382",
+          "adressendichtheid": "1443"
+        }
       }
     }
   },
@@ -14565,7 +15041,14 @@
           "Bonaire"
         ],
         "woonplaats": "Kattendijke",
-        "partij_naam": "CDA"
+        "partij_naam": "CDA",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0664",
+          "name": "Goes",
+          "stedelijkheid": "Matig stedelijk",
+          "inwoners": "38594",
+          "adressendichtheid": "1348"
+        }
       },
       "tk2021": {
         "lijstnummer": 54,
@@ -14611,7 +15094,14 @@
           "Bonaire"
         ],
         "woonplaats": "Vijfhuizen",
-        "partij_naam": "CDA"
+        "partij_naam": "CDA",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0394",
+          "name": "Haarlemmermeer",
+          "stedelijkheid": "Sterk stedelijk",
+          "inwoners": "157789",
+          "adressendichtheid": "1532"
+        }
       }
     }
   },
@@ -14694,7 +15184,14 @@
           "Bonaire"
         ],
         "woonplaats": "'s-Gravenzande",
-        "partij_naam": "CDA"
+        "partij_naam": "CDA",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1783",
+          "name": "Westland",
+          "stedelijkheid": "Matig stedelijk",
+          "inwoners": "111382",
+          "adressendichtheid": "1443"
+        }
       }
     }
   },
@@ -14732,7 +15229,14 @@
           "Bonaire"
         ],
         "woonplaats": "Voorburg",
-        "partij_naam": "CDA"
+        "partij_naam": "CDA",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1916",
+          "name": "Leidschendam-Voorburg",
+          "stedelijkheid": "Zeer sterk stedelijk",
+          "inwoners": "76433",
+          "adressendichtheid": "2916"
+        }
       }
     }
   },
@@ -14770,7 +15274,14 @@
           "Bonaire"
         ],
         "woonplaats": "Emmeloord",
-        "partij_naam": "CDA"
+        "partij_naam": "CDA",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0171",
+          "name": "Noordoostpolder",
+          "stedelijkheid": "Weinig stedelijk",
+          "inwoners": "47583",
+          "adressendichtheid": "735"
+        }
       },
       "tk2021": {
         "lijstnummer": 60,
@@ -14816,7 +15327,14 @@
           "Bonaire"
         ],
         "woonplaats": "Nieuw-Beijerland",
-        "partij_naam": "CDA"
+        "partij_naam": "CDA",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1963",
+          "name": "Hoeksche Waard",
+          "stedelijkheid": "Weinig stedelijk",
+          "inwoners": "88047",
+          "adressendichtheid": "834"
+        }
       },
       "tk2021": {
         "lijstnummer": 73,
@@ -14960,7 +15478,14 @@
           "Bonaire"
         ],
         "woonplaats": "Ruurlo",
-        "partij_naam": "CDA"
+        "partij_naam": "CDA",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1859",
+          "name": "Berkelland",
+          "stedelijkheid": "Weinig stedelijk",
+          "inwoners": "43846",
+          "adressendichtheid": "656"
+        }
       }
     }
   },
@@ -14998,7 +15523,14 @@
           "Bonaire"
         ],
         "woonplaats": "Rhoon",
-        "partij_naam": "CDA"
+        "partij_naam": "CDA",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0613",
+          "name": "Albrandswaard",
+          "stedelijkheid": "Matig stedelijk",
+          "inwoners": "25814",
+          "adressendichtheid": "1038"
+        }
       }
     }
   },
@@ -15081,7 +15613,14 @@
           "Bonaire"
         ],
         "woonplaats": "Nieuwland",
-        "partij_naam": "CDA"
+        "partij_naam": "CDA",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1961",
+          "name": "Vijfheerenlanden",
+          "stedelijkheid": "Weinig stedelijk",
+          "inwoners": "57829",
+          "adressendichtheid": "900"
+        }
       }
     }
   },
@@ -15119,7 +15658,14 @@
           "Bonaire"
         ],
         "woonplaats": "Hazerswoude-Dorp",
-        "partij_naam": "CDA"
+        "partij_naam": "CDA",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0484",
+          "name": "Alphen aan den Rijn",
+          "stedelijkheid": "Sterk stedelijk",
+          "inwoners": "112587",
+          "adressendichtheid": "1873"
+        }
       }
     }
   },
@@ -15247,7 +15793,14 @@
           "Bonaire"
         ],
         "woonplaats": "Driebergen-Rijsenburg",
-        "partij_naam": "CDA"
+        "partij_naam": "CDA",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1581",
+          "name": "Utrechtse Heuvelrug",
+          "stedelijkheid": "Weinig stedelijk",
+          "inwoners": "49946",
+          "adressendichtheid": "785"
+        }
       },
       "tk2021": {
         "lijstnummer": 52,
@@ -15383,7 +15936,14 @@
           "Bonaire"
         ],
         "woonplaats": "Ulvenhout",
-        "partij_naam": "CDA"
+        "partij_naam": "CDA",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0758",
+          "name": "Breda",
+          "stedelijkheid": "Sterk stedelijk",
+          "inwoners": "184126",
+          "adressendichtheid": "2202"
+        }
       }
     }
   },
@@ -15466,7 +16026,14 @@
           "Bonaire"
         ],
         "woonplaats": "Zuidwolde",
-        "partij_naam": "CDA"
+        "partij_naam": "CDA",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1690",
+          "name": "De Wolden",
+          "stedelijkheid": "Niet stedelijk",
+          "inwoners": "24374",
+          "adressendichtheid": "311"
+        }
       }
     }
   },
@@ -15557,7 +16124,14 @@
           "Bonaire"
         ],
         "woonplaats": "Uithuizen",
-        "partij_naam": "CDA"
+        "partij_naam": "CDA",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1966",
+          "name": "Het Hogeland",
+          "stedelijkheid": "Niet stedelijk",
+          "inwoners": "47834",
+          "adressendichtheid": "414"
+        }
       },
       "tk2021": {
         "lijstnummer": 57,
@@ -15791,7 +16365,14 @@
           "Bonaire"
         ],
         "woonplaats": "Moordrecht",
-        "partij_naam": "CDA"
+        "partij_naam": "CDA",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1892",
+          "name": "Zuidplas",
+          "stedelijkheid": "Matig stedelijk",
+          "inwoners": "45064",
+          "adressendichtheid": "1191"
+        }
       },
       "tk2021": {
         "lijstnummer": 77,
@@ -15837,7 +16418,14 @@
           "Bonaire"
         ],
         "woonplaats": "Ammerzoden",
-        "partij_naam": "CDA"
+        "partij_naam": "CDA",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0263",
+          "name": "Maasdriel",
+          "stedelijkheid": "Niet stedelijk",
+          "inwoners": "25452",
+          "adressendichtheid": "481"
+        }
       }
     }
   },
@@ -17084,7 +17672,14 @@
           "Bonaire"
         ],
         "woonplaats": "Rosmalen",
-        "partij_naam": "SP (Socialistische Partij)"
+        "partij_naam": "SP (Socialistische Partij)",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0796",
+          "name": "'s-Hertogenbosch",
+          "stedelijkheid": "Sterk stedelijk",
+          "inwoners": "155490",
+          "adressendichtheid": "1992"
+        }
       }
     }
   },
@@ -17359,7 +17954,14 @@
           "Bonaire"
         ],
         "woonplaats": "Ten Boer",
-        "partij_naam": "SP (Socialistische Partij)"
+        "partij_naam": "SP (Socialistische Partij)",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0014",
+          "name": "Groningen",
+          "stedelijkheid": "Zeer sterk stedelijk",
+          "inwoners": "233273",
+          "adressendichtheid": "3312"
+        }
       }
     }
   },
@@ -17667,7 +18269,14 @@
           "Bonaire"
         ],
         "woonplaats": "Kloosterzande",
-        "partij_naam": "SP (Socialistische Partij)"
+        "partij_naam": "SP (Socialistische Partij)",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0677",
+          "name": "Hulst",
+          "stedelijkheid": "Weinig stedelijk",
+          "inwoners": "27575",
+          "adressendichtheid": "511"
+        }
       }
     }
   },
@@ -17805,7 +18414,14 @@
           "Bonaire"
         ],
         "woonplaats": "Jubbega",
-        "partij_naam": "SP (Socialistische Partij)"
+        "partij_naam": "SP (Socialistische Partij)",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0074",
+          "name": "Heerenveen",
+          "stedelijkheid": "Matig stedelijk",
+          "inwoners": "50650",
+          "adressendichtheid": "1092"
+        }
       }
     }
   },
@@ -17843,7 +18459,14 @@
           "Bonaire"
         ],
         "woonplaats": "Beilen",
-        "partij_naam": "SP (Socialistische Partij)"
+        "partij_naam": "SP (Socialistische Partij)",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1731",
+          "name": "Midden-Drenthe",
+          "stedelijkheid": "Niet stedelijk",
+          "inwoners": "33381",
+          "adressendichtheid": "401"
+        }
       }
     }
   },
@@ -18016,7 +18639,14 @@
           "Bonaire"
         ],
         "woonplaats": "Hengelo (O)",
-        "partij_naam": "SP (Socialistische Partij)"
+        "partij_naam": "SP (Socialistische Partij)",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0164",
+          "name": "Hengelo",
+          "stedelijkheid": "Sterk stedelijk",
+          "inwoners": "81049",
+          "adressendichtheid": "1845"
+        }
       }
     }
   },
@@ -18279,7 +18909,14 @@
           "Bonaire"
         ],
         "woonplaats": "Haren Gn",
-        "partij_naam": "SP (Socialistische Partij)"
+        "partij_naam": "SP (Socialistische Partij)",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0014",
+          "name": "Groningen",
+          "stedelijkheid": "Zeer sterk stedelijk",
+          "inwoners": "233273",
+          "adressendichtheid": "3312"
+        }
       }
     }
   },
@@ -19019,7 +19656,14 @@
           "Bonaire"
         ],
         "woonplaats": "Zaandam",
-        "partij_naam": "Forum voor Democratie"
+        "partij_naam": "Forum voor Democratie",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0479",
+          "name": "Zaanstad",
+          "stedelijkheid": "Sterk stedelijk",
+          "inwoners": "156901",
+          "adressendichtheid": "2053"
+        }
       },
       "tk2021": {
         "lijstnummer": 42,
@@ -19356,7 +20000,14 @@
           "Bonaire"
         ],
         "woonplaats": "Hoofddorp",
-        "partij_naam": "Forum voor Democratie"
+        "partij_naam": "Forum voor Democratie",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0394",
+          "name": "Haarlemmermeer",
+          "stedelijkheid": "Sterk stedelijk",
+          "inwoners": "157789",
+          "adressendichtheid": "1532"
+        }
       }
     }
   },
@@ -19662,7 +20313,14 @@
           "Leeuwarden"
         ],
         "woonplaats": "Lemmer",
-        "partij_naam": "Forum voor Democratie"
+        "partij_naam": "Forum voor Democratie",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1940",
+          "name": "De Fryske Marren",
+          "stedelijkheid": "Weinig stedelijk",
+          "inwoners": "51778",
+          "adressendichtheid": "556"
+        }
       }
     }
   },
@@ -19682,7 +20340,14 @@
           "Leeuwarden"
         ],
         "woonplaats": "Sneek",
-        "partij_naam": "Forum voor Democratie"
+        "partij_naam": "Forum voor Democratie",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1900",
+          "name": "Súdwest-Fryslân",
+          "stedelijkheid": "Weinig stedelijk",
+          "inwoners": "89999",
+          "adressendichtheid": "846"
+        }
       }
     }
   },
@@ -19702,7 +20367,14 @@
           "Leeuwarden"
         ],
         "woonplaats": "Harkema",
-        "partij_naam": "Forum voor Democratie"
+        "partij_naam": "Forum voor Democratie",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0059",
+          "name": "Achtkarspelen",
+          "stedelijkheid": "Niet stedelijk",
+          "inwoners": "27900",
+          "adressendichtheid": "429"
+        }
       }
     }
   },
@@ -19828,7 +20500,14 @@
           "Bonaire"
         ],
         "woonplaats": "Oudorp",
-        "partij_naam": "Forum voor Democratie"
+        "partij_naam": "Forum voor Democratie",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0361",
+          "name": "Alkmaar",
+          "stedelijkheid": "Sterk stedelijk",
+          "inwoners": "109896",
+          "adressendichtheid": "2283"
+        }
       }
     }
   },
@@ -19956,7 +20635,14 @@
           "Bonaire"
         ],
         "woonplaats": "Schijndel",
-        "partij_naam": "Forum voor Democratie"
+        "partij_naam": "Forum voor Democratie",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1948",
+          "name": "Meierijstad",
+          "stedelijkheid": "Weinig stedelijk",
+          "inwoners": "81647",
+          "adressendichtheid": "997"
+        }
       }
     }
   },
@@ -20174,7 +20860,14 @@
           "Bonaire"
         ],
         "woonplaats": "IJmuiden",
-        "partij_naam": "Forum voor Democratie"
+        "partij_naam": "Forum voor Democratie",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0453",
+          "name": "Velsen",
+          "stedelijkheid": "Sterk stedelijk",
+          "inwoners": "68617",
+          "adressendichtheid": "1865"
+        }
       }
     }
   },
@@ -20212,7 +20905,14 @@
           "Bonaire"
         ],
         "woonplaats": "Monster",
-        "partij_naam": "Forum voor Democratie"
+        "partij_naam": "Forum voor Democratie",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1783",
+          "name": "Westland",
+          "stedelijkheid": "Matig stedelijk",
+          "inwoners": "111382",
+          "adressendichtheid": "1443"
+        }
       }
     }
   },
@@ -20385,7 +21085,14 @@
           "Bonaire"
         ],
         "woonplaats": "Heukelum",
-        "partij_naam": "Forum voor Democratie"
+        "partij_naam": "Forum voor Democratie",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1960",
+          "name": "West Betuwe",
+          "stedelijkheid": "Niet stedelijk",
+          "inwoners": "51496",
+          "adressendichtheid": "458"
+        }
       }
     }
   },
@@ -20550,7 +21257,14 @@
           "Bonaire"
         ],
         "woonplaats": "Aduard",
-        "partij_naam": "Forum voor Democratie"
+        "partij_naam": "Forum voor Democratie",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1969",
+          "name": "Westerkwartier",
+          "stedelijkheid": "Niet stedelijk",
+          "inwoners": "63678",
+          "adressendichtheid": "476"
+        }
       }
     }
   },
@@ -20588,7 +21302,14 @@
           "Bonaire"
         ],
         "woonplaats": "Schijndel",
-        "partij_naam": "Forum voor Democratie"
+        "partij_naam": "Forum voor Democratie",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1948",
+          "name": "Meierijstad",
+          "stedelijkheid": "Weinig stedelijk",
+          "inwoners": "81647",
+          "adressendichtheid": "997"
+        }
       }
     }
   },
@@ -23173,7 +23894,14 @@
           "Bonaire"
         ],
         "woonplaats": "Burgum",
-        "partij_naam": "Partij voor de Dieren"
+        "partij_naam": "Partij voor de Dieren",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0737",
+          "name": "Tytsjerksteradiel",
+          "stedelijkheid": "Niet stedelijk",
+          "inwoners": "32060",
+          "adressendichtheid": "478"
+        }
       }
     }
   },
@@ -23355,7 +24083,14 @@
           "Bonaire"
         ],
         "woonplaats": "Hoogvliet Rotterdam",
-        "partij_naam": "Partij voor de Dieren"
+        "partij_naam": "Partij voor de Dieren",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0599",
+          "name": "Rotterdam",
+          "stedelijkheid": "Zeer sterk stedelijk",
+          "inwoners": "651631",
+          "adressendichtheid": "4012"
+        }
       }
     }
   },
@@ -23672,7 +24407,14 @@
           "Bonaire"
         ],
         "woonplaats": "Kloosterhaar",
-        "partij_naam": "ChristenUnie"
+        "partij_naam": "ChristenUnie",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0160",
+          "name": "Hardenberg",
+          "stedelijkheid": "Weinig stedelijk",
+          "inwoners": "61357",
+          "adressendichtheid": "565"
+        }
       }
     },
     "urls": {
@@ -23921,7 +24663,14 @@
           "Bonaire"
         ],
         "woonplaats": "Bennekom",
-        "partij_naam": "ChristenUnie"
+        "partij_naam": "ChristenUnie",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0228",
+          "name": "Ede",
+          "stedelijkheid": "Sterk stedelijk",
+          "inwoners": "118530",
+          "adressendichtheid": "1568"
+        }
       }
     },
     "urls": {
@@ -24016,7 +24765,14 @@
           "Bonaire"
         ],
         "woonplaats": "Bussum",
-        "partij_naam": "ChristenUnie"
+        "partij_naam": "ChristenUnie",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1942",
+          "name": "Gooise Meren",
+          "stedelijkheid": "Sterk stedelijk",
+          "inwoners": "58524",
+          "adressendichtheid": "1911"
+        }
       }
     },
     "urls": {
@@ -24060,7 +24816,14 @@
           "Bonaire"
         ],
         "woonplaats": "Wirdum",
-        "partij_naam": "ChristenUnie"
+        "partij_naam": "ChristenUnie",
+        "gemeente": {
+          "iri": "fake/eemsdelta",
+          "name": "Eemsdelta",
+          "stedelijkheid": "Weinig stedelijk",
+          "inwoners": "45587",
+          "adressendichtheid": "692"
+        }
       },
       "tk2021": {
         "lijstnummer": 19,
@@ -24383,7 +25146,14 @@
           "Bonaire"
         ],
         "woonplaats": "Rijssen",
-        "partij_naam": "ChristenUnie"
+        "partij_naam": "ChristenUnie",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1742",
+          "name": "Rijssen-Holten",
+          "stedelijkheid": "Matig stedelijk",
+          "inwoners": "38204",
+          "adressendichtheid": "1095"
+        }
       },
       "tk2021": {
         "lijstnummer": 13,
@@ -24733,7 +25503,14 @@
           "Bonaire"
         ],
         "woonplaats": "Hoornaar",
-        "partij_naam": "ChristenUnie"
+        "partij_naam": "ChristenUnie",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1978",
+          "name": "Molenlanden",
+          "stedelijkheid": "Niet stedelijk",
+          "inwoners": "44130",
+          "adressendichtheid": "393"
+        }
       }
     },
     "urls": {
@@ -24776,7 +25553,14 @@
           "Bonaire"
         ],
         "woonplaats": "Heteren",
-        "partij_naam": "ChristenUnie"
+        "partij_naam": "ChristenUnie",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1734",
+          "name": "Overbetuwe",
+          "stedelijkheid": "Weinig stedelijk",
+          "inwoners": "48214",
+          "adressendichtheid": "809"
+        }
       }
     },
     "urls": {
@@ -24919,7 +25703,14 @@
           "Bonaire"
         ],
         "woonplaats": "Bunschoten-Spakenburg",
-        "partij_naam": "ChristenUnie"
+        "partij_naam": "ChristenUnie",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0313",
+          "name": "Bunschoten",
+          "stedelijkheid": "Matig stedelijk",
+          "inwoners": "22019",
+          "adressendichtheid": "1184"
+        }
       }
     },
     "urls": {
@@ -25163,7 +25954,14 @@
           "Bonaire"
         ],
         "woonplaats": "Biddinghuizen",
-        "partij_naam": "ChristenUnie"
+        "partij_naam": "ChristenUnie",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0303",
+          "name": "Dronten",
+          "stedelijkheid": "Weinig stedelijk",
+          "inwoners": "42011",
+          "adressendichtheid": "776"
+        }
       }
     },
     "urls": {
@@ -25382,7 +26180,14 @@
           "Bonaire"
         ],
         "woonplaats": "Woudsend",
-        "partij_naam": "ChristenUnie"
+        "partij_naam": "ChristenUnie",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1900",
+          "name": "Súdwest-Fryslân",
+          "stedelijkheid": "Weinig stedelijk",
+          "inwoners": "89999",
+          "adressendichtheid": "846"
+        }
       }
     },
     "urls": {
@@ -25523,7 +26328,14 @@
           "Bonaire"
         ],
         "woonplaats": "Aalst",
-        "partij_naam": "ChristenUnie"
+        "partij_naam": "ChristenUnie",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0297",
+          "name": "Zaltbommel",
+          "stedelijkheid": "Weinig stedelijk",
+          "inwoners": "29447",
+          "adressendichtheid": "700"
+        }
       }
     },
     "urls": {
@@ -25838,7 +26650,14 @@
           "Bonaire"
         ],
         "woonplaats": "De Wilgen",
-        "partij_naam": "ChristenUnie"
+        "partij_naam": "ChristenUnie",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0090",
+          "name": "Smallingerland",
+          "stedelijkheid": "Matig stedelijk",
+          "inwoners": "56040",
+          "adressendichtheid": "1341"
+        }
       }
     },
     "urls": {
@@ -25880,7 +26699,14 @@
           "Bonaire"
         ],
         "woonplaats": "Vlijmen",
-        "partij_naam": "ChristenUnie"
+        "partij_naam": "ChristenUnie",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0797",
+          "name": "Heusden",
+          "stedelijkheid": "Matig stedelijk",
+          "inwoners": "45005",
+          "adressendichtheid": "1098"
+        }
       }
     },
     "urls": {
@@ -25923,7 +26749,14 @@
           "Bonaire"
         ],
         "woonplaats": "Voorthuizen",
-        "partij_naam": "ChristenUnie"
+        "partij_naam": "ChristenUnie",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0203",
+          "name": "Barneveld",
+          "stedelijkheid": "Weinig stedelijk",
+          "inwoners": "59992",
+          "adressendichtheid": "885"
+        }
       }
     },
     "urls": {
@@ -26559,7 +27392,14 @@
           "Bonaire"
         ],
         "woonplaats": "Amerongen",
-        "partij_naam": "Volt"
+        "partij_naam": "Volt",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1581",
+          "name": "Utrechtse Heuvelrug",
+          "stedelijkheid": "Weinig stedelijk",
+          "inwoners": "49946",
+          "adressendichtheid": "785"
+        }
       }
     },
     "urls": {
@@ -27467,7 +28307,14 @@
           "Bonaire"
         ],
         "woonplaats": "Groesbeek",
-        "partij_naam": "JA21"
+        "partij_naam": "JA21",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1945",
+          "name": "Berg en Dal",
+          "stedelijkheid": "Weinig stedelijk",
+          "inwoners": "35010",
+          "adressendichtheid": "653"
+        }
       }
     }
   },
@@ -27505,7 +28352,14 @@
           "Bonaire"
         ],
         "woonplaats": "Bleiswijk",
-        "partij_naam": "JA21"
+        "partij_naam": "JA21",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1621",
+          "name": "Lansingerland",
+          "stedelijkheid": "Matig stedelijk",
+          "inwoners": "63363",
+          "adressendichtheid": "1337"
+        }
       }
     }
   },
@@ -27705,7 +28559,14 @@
           "Bonaire"
         ],
         "woonplaats": "Dokkum",
-        "partij_naam": "JA21"
+        "partij_naam": "JA21",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1970",
+          "name": "Noardeast-Fryslân",
+          "stedelijkheid": "Niet stedelijk",
+          "inwoners": "45481",
+          "adressendichtheid": "463"
+        }
       }
     }
   },
@@ -27788,7 +28649,14 @@
           "Bonaire"
         ],
         "woonplaats": "Klazienaveen",
-        "partij_naam": "JA21"
+        "partij_naam": "JA21",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0114",
+          "name": "Emmen",
+          "stedelijkheid": "Weinig stedelijk",
+          "inwoners": "107024",
+          "adressendichtheid": "854"
+        }
       }
     }
   },
@@ -27826,7 +28694,14 @@
           "Bonaire"
         ],
         "woonplaats": "Albergen",
-        "partij_naam": "JA21"
+        "partij_naam": "JA21",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0183",
+          "name": "Tubbergen",
+          "stedelijkheid": "Niet stedelijk",
+          "inwoners": "21315",
+          "adressendichtheid": "296"
+        }
       }
     }
   },
@@ -27864,7 +28739,14 @@
           "Bonaire"
         ],
         "woonplaats": "Oosteind",
-        "partij_naam": "JA21"
+        "partij_naam": "JA21",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0826",
+          "name": "Oosterhout",
+          "stedelijkheid": "Sterk stedelijk",
+          "inwoners": "56206",
+          "adressendichtheid": "1538"
+        }
       }
     }
   },
@@ -27902,7 +28784,14 @@
           "Bonaire"
         ],
         "woonplaats": "Oud-Beijerland",
-        "partij_naam": "JA21"
+        "partij_naam": "JA21",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1963",
+          "name": "Hoeksche Waard",
+          "stedelijkheid": "Weinig stedelijk",
+          "inwoners": "88047",
+          "adressendichtheid": "834"
+        }
       }
     }
   },
@@ -27940,7 +28829,14 @@
           "Bonaire"
         ],
         "woonplaats": "Moordrecht",
-        "partij_naam": "JA21"
+        "partij_naam": "JA21",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1892",
+          "name": "Zuidplas",
+          "stedelijkheid": "Matig stedelijk",
+          "inwoners": "45064",
+          "adressendichtheid": "1191"
+        }
       },
       "tk2021": {
         "lijstnummer": 10,
@@ -28077,7 +28973,14 @@
           "Bonaire"
         ],
         "woonplaats": "Bilthoven",
-        "partij_naam": "JA21"
+        "partij_naam": "JA21",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0310",
+          "name": "De Bilt",
+          "stedelijkheid": "Matig stedelijk",
+          "inwoners": "43384",
+          "adressendichtheid": "1272"
+        }
       }
     }
   },
@@ -28250,7 +29153,14 @@
           "Bonaire"
         ],
         "woonplaats": "Horn",
-        "partij_naam": "JA21"
+        "partij_naam": "JA21",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1640",
+          "name": "Leudal",
+          "stedelijkheid": "Niet stedelijk",
+          "inwoners": "36045",
+          "adressendichtheid": "391"
+        }
       }
     }
   },
@@ -28333,7 +29243,14 @@
           "Bonaire"
         ],
         "woonplaats": "Maarheeze",
-        "partij_naam": "JA21"
+        "partij_naam": "JA21",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1706",
+          "name": "Cranendonck",
+          "stedelijkheid": "Weinig stedelijk",
+          "inwoners": "21001",
+          "adressendichtheid": "592"
+        }
       }
     }
   },
@@ -28461,7 +29378,14 @@
           "Bonaire"
         ],
         "woonplaats": "Krommenie",
-        "partij_naam": "JA21"
+        "partij_naam": "JA21",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0479",
+          "name": "Zaanstad",
+          "stedelijkheid": "Sterk stedelijk",
+          "inwoners": "156901",
+          "adressendichtheid": "2053"
+        }
       }
     }
   },
@@ -28544,7 +29468,14 @@
           "Bonaire"
         ],
         "woonplaats": "Leek",
-        "partij_naam": "JA21"
+        "partij_naam": "JA21",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1969",
+          "name": "Westerkwartier",
+          "stedelijkheid": "Niet stedelijk",
+          "inwoners": "63678",
+          "adressendichtheid": "476"
+        }
       }
     }
   },
@@ -28627,7 +29558,14 @@
           "Bonaire"
         ],
         "woonplaats": "Heiligerlee",
-        "partij_naam": "JA21"
+        "partij_naam": "JA21",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1895",
+          "name": "Oldambt",
+          "stedelijkheid": "Weinig stedelijk",
+          "inwoners": "38277",
+          "adressendichtheid": "831"
+        }
       }
     }
   },
@@ -28890,7 +29828,14 @@
           "Bonaire"
         ],
         "woonplaats": "Hulsberg",
-        "partij_naam": "JA21"
+        "partij_naam": "JA21",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1954",
+          "name": "Beekdaelen",
+          "stedelijkheid": "Weinig stedelijk",
+          "inwoners": "36065",
+          "adressendichtheid": "501"
+        }
       },
       "tk2021": {
         "lijstnummer": 26,
@@ -29045,7 +29990,14 @@
           "Bonaire"
         ],
         "woonplaats": "Elspeet",
-        "partij_naam": "Staatkundig Gereformeerde Partij (SGP)"
+        "partij_naam": "Staatkundig Gereformeerde Partij (SGP)",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0302",
+          "name": "Nunspeet",
+          "stedelijkheid": "Weinig stedelijk",
+          "inwoners": "28021",
+          "adressendichtheid": "807"
+        }
       },
       "tk2021": {
         "lijstnummer": 2,
@@ -29110,7 +30062,14 @@
           "Bonaire"
         ],
         "woonplaats": "Benthuizen",
-        "partij_naam": "Staatkundig Gereformeerde Partij (SGP)"
+        "partij_naam": "Staatkundig Gereformeerde Partij (SGP)",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0484",
+          "name": "Alphen aan den Rijn",
+          "stedelijkheid": "Sterk stedelijk",
+          "inwoners": "112587",
+          "adressendichtheid": "1873"
+        }
       }
     }
   },
@@ -29337,7 +30296,14 @@
           "Bonaire"
         ],
         "woonplaats": "Aagtekerke",
-        "partij_naam": "Staatkundig Gereformeerde Partij (SGP)"
+        "partij_naam": "Staatkundig Gereformeerde Partij (SGP)",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0717",
+          "name": "Veere",
+          "stedelijkheid": "Niet stedelijk",
+          "inwoners": "21953",
+          "adressendichtheid": "347"
+        }
       }
     }
   },
@@ -29375,7 +30341,14 @@
           "Bonaire"
         ],
         "woonplaats": "Maarn",
-        "partij_naam": "Staatkundig Gereformeerde Partij (SGP)"
+        "partij_naam": "Staatkundig Gereformeerde Partij (SGP)",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1581",
+          "name": "Utrechtse Heuvelrug",
+          "stedelijkheid": "Weinig stedelijk",
+          "inwoners": "49946",
+          "adressendichtheid": "785"
+        }
       }
     }
   },
@@ -29557,7 +30530,14 @@
           "Bonaire"
         ],
         "woonplaats": "Bergschenhoek",
-        "partij_naam": "Staatkundig Gereformeerde Partij (SGP)"
+        "partij_naam": "Staatkundig Gereformeerde Partij (SGP)",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1621",
+          "name": "Lansingerland",
+          "stedelijkheid": "Matig stedelijk",
+          "inwoners": "63363",
+          "adressendichtheid": "1337"
+        }
       }
     }
   },
@@ -29595,7 +30575,14 @@
           "Bonaire"
         ],
         "woonplaats": "'s-Gravendeel",
-        "partij_naam": "Staatkundig Gereformeerde Partij (SGP)"
+        "partij_naam": "Staatkundig Gereformeerde Partij (SGP)",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1963",
+          "name": "Hoeksche Waard",
+          "stedelijkheid": "Weinig stedelijk",
+          "inwoners": "88047",
+          "adressendichtheid": "834"
+        }
       }
     }
   },
@@ -29678,7 +30665,14 @@
           "Bonaire"
         ],
         "woonplaats": "Genemuiden",
-        "partij_naam": "Staatkundig Gereformeerde Partij (SGP)"
+        "partij_naam": "Staatkundig Gereformeerde Partij (SGP)",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1896",
+          "name": "Zwartewaterland",
+          "stedelijkheid": "Weinig stedelijk",
+          "inwoners": "22823",
+          "adressendichtheid": "725"
+        }
       },
       "tk2021": {
         "lijstnummer": 12,
@@ -29788,7 +30782,14 @@
           "Bonaire"
         ],
         "woonplaats": "Ouderkerk aan den IJssel",
-        "partij_naam": "Staatkundig Gereformeerde Partij (SGP)"
+        "partij_naam": "Staatkundig Gereformeerde Partij (SGP)",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1931",
+          "name": "Krimpenerwaard",
+          "stedelijkheid": "Weinig stedelijk",
+          "inwoners": "56622",
+          "adressendichtheid": "784"
+        }
       }
     }
   },
@@ -29970,7 +30971,14 @@
           "Bonaire"
         ],
         "woonplaats": "Rijssen",
-        "partij_naam": "Staatkundig Gereformeerde Partij (SGP)"
+        "partij_naam": "Staatkundig Gereformeerde Partij (SGP)",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1742",
+          "name": "Rijssen-Holten",
+          "stedelijkheid": "Matig stedelijk",
+          "inwoners": "38204",
+          "adressendichtheid": "1095"
+        }
       },
       "tk2021": {
         "lijstnummer": 17,
@@ -30179,7 +31187,14 @@
           "Bonaire"
         ],
         "woonplaats": "Niekerk",
-        "partij_naam": "Staatkundig Gereformeerde Partij (SGP)"
+        "partij_naam": "Staatkundig Gereformeerde Partij (SGP)",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1966",
+          "name": "Het Hogeland",
+          "stedelijkheid": "Niet stedelijk",
+          "inwoners": "47834",
+          "adressendichtheid": "414"
+        }
       }
     }
   },
@@ -30217,7 +31232,14 @@
           "Bonaire"
         ],
         "woonplaats": "Stuifzand",
-        "partij_naam": "Staatkundig Gereformeerde Partij (SGP)"
+        "partij_naam": "Staatkundig Gereformeerde Partij (SGP)",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1731",
+          "name": "Midden-Drenthe",
+          "stedelijkheid": "Niet stedelijk",
+          "inwoners": "33381",
+          "adressendichtheid": "401"
+        }
       }
     }
   },
@@ -30300,7 +31322,14 @@
           "Bonaire"
         ],
         "woonplaats": "Opheusden",
-        "partij_naam": "Staatkundig Gereformeerde Partij (SGP)"
+        "partij_naam": "Staatkundig Gereformeerde Partij (SGP)",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1740",
+          "name": "Neder-Betuwe",
+          "stedelijkheid": "Niet stedelijk",
+          "inwoners": "24648",
+          "adressendichtheid": "443"
+        }
       }
     }
   },
@@ -30338,7 +31367,14 @@
           "Bonaire"
         ],
         "woonplaats": "Driezum",
-        "partij_naam": "Staatkundig Gereformeerde Partij (SGP)"
+        "partij_naam": "Staatkundig Gereformeerde Partij (SGP)",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1891",
+          "name": "Dantumadiel",
+          "stedelijkheid": "Niet stedelijk",
+          "inwoners": "18943",
+          "adressendichtheid": "456"
+        }
       },
       "tk2021": {
         "lijstnummer": 22,
@@ -30475,7 +31511,14 @@
           "Bonaire"
         ],
         "woonplaats": "Kesteren",
-        "partij_naam": "Staatkundig Gereformeerde Partij (SGP)"
+        "partij_naam": "Staatkundig Gereformeerde Partij (SGP)",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1740",
+          "name": "Neder-Betuwe",
+          "stedelijkheid": "Niet stedelijk",
+          "inwoners": "24648",
+          "adressendichtheid": "443"
+        }
       }
     }
   },
@@ -30513,7 +31556,14 @@
           "Bonaire"
         ],
         "woonplaats": "Werkendam",
-        "partij_naam": "Staatkundig Gereformeerde Partij (SGP)"
+        "partij_naam": "Staatkundig Gereformeerde Partij (SGP)",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1959",
+          "name": "Altena",
+          "stedelijkheid": "Weinig stedelijk",
+          "inwoners": "56352",
+          "adressendichtheid": "506"
+        }
       },
       "tk2021": {
         "lijstnummer": 25,
@@ -30812,7 +31862,14 @@
           "Bonaire"
         ],
         "woonplaats": "Wekerom",
-        "partij_naam": "Staatkundig Gereformeerde Partij (SGP)"
+        "partij_naam": "Staatkundig Gereformeerde Partij (SGP)",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0228",
+          "name": "Ede",
+          "stedelijkheid": "Sterk stedelijk",
+          "inwoners": "118530",
+          "adressendichtheid": "1568"
+        }
       },
       "tk2021": {
         "lijstnummer": 32,
@@ -30877,7 +31934,14 @@
           "Bonaire"
         ],
         "woonplaats": "De Klomp",
-        "partij_naam": "Staatkundig Gereformeerde Partij (SGP)"
+        "partij_naam": "Staatkundig Gereformeerde Partij (SGP)",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0228",
+          "name": "Ede",
+          "stedelijkheid": "Sterk stedelijk",
+          "inwoners": "118530",
+          "adressendichtheid": "1568"
+        }
       },
       "tk2021": {
         "lijstnummer": 33,
@@ -30942,7 +32006,14 @@
           "Bonaire"
         ],
         "woonplaats": "Tricht",
-        "partij_naam": "Staatkundig Gereformeerde Partij (SGP)"
+        "partij_naam": "Staatkundig Gereformeerde Partij (SGP)",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1960",
+          "name": "West Betuwe",
+          "stedelijkheid": "Niet stedelijk",
+          "inwoners": "51496",
+          "adressendichtheid": "458"
+        }
       }
     }
   },
@@ -30980,7 +32051,14 @@
           "Bonaire"
         ],
         "woonplaats": "Elst Ut",
-        "partij_naam": "Staatkundig Gereformeerde Partij (SGP)"
+        "partij_naam": "Staatkundig Gereformeerde Partij (SGP)",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0340",
+          "name": "Rhenen",
+          "stedelijkheid": "Weinig stedelijk",
+          "inwoners": "20203",
+          "adressendichtheid": "932"
+        }
       }
     }
   },
@@ -31018,7 +32096,14 @@
           "Bonaire"
         ],
         "woonplaats": "Dirksland",
-        "partij_naam": "Staatkundig Gereformeerde Partij (SGP)"
+        "partij_naam": "Staatkundig Gereformeerde Partij (SGP)",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1924",
+          "name": "Goeree-Overflakkee",
+          "stedelijkheid": "Weinig stedelijk",
+          "inwoners": "50589",
+          "adressendichtheid": "631"
+        }
       }
     }
   },
@@ -31101,7 +32186,14 @@
           "Bonaire"
         ],
         "woonplaats": "Rijssen",
-        "partij_naam": "Staatkundig Gereformeerde Partij (SGP)"
+        "partij_naam": "Staatkundig Gereformeerde Partij (SGP)",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1742",
+          "name": "Rijssen-Holten",
+          "stedelijkheid": "Matig stedelijk",
+          "inwoners": "38204",
+          "adressendichtheid": "1095"
+        }
       }
     }
   },
@@ -31184,7 +32276,14 @@
           "Bonaire"
         ],
         "woonplaats": "IJsselmuiden",
-        "partij_naam": "Staatkundig Gereformeerde Partij (SGP)"
+        "partij_naam": "Staatkundig Gereformeerde Partij (SGP)",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0166",
+          "name": "Kampen",
+          "stedelijkheid": "Matig stedelijk",
+          "inwoners": "54474",
+          "adressendichtheid": "1476"
+        }
       }
     }
   },
@@ -31222,7 +32321,14 @@
           "Bonaire"
         ],
         "woonplaats": "Yerseke",
-        "partij_naam": "Staatkundig Gereformeerde Partij (SGP)"
+        "partij_naam": "Staatkundig Gereformeerde Partij (SGP)",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0703",
+          "name": "Reimerswaal",
+          "stedelijkheid": "Weinig stedelijk",
+          "inwoners": "22896",
+          "adressendichtheid": "518"
+        }
       }
     }
   },
@@ -31260,7 +32366,14 @@
           "Bonaire"
         ],
         "woonplaats": "Nieuwaal",
-        "partij_naam": "Staatkundig Gereformeerde Partij (SGP)"
+        "partij_naam": "Staatkundig Gereformeerde Partij (SGP)",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0297",
+          "name": "Zaltbommel",
+          "stedelijkheid": "Weinig stedelijk",
+          "inwoners": "29447",
+          "adressendichtheid": "700"
+        }
       }
     }
   },
@@ -32243,7 +33356,14 @@
           "Bonaire"
         ],
         "woonplaats": "Zaandam",
-        "partij_naam": "DENK"
+        "partij_naam": "DENK",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0479",
+          "name": "Zaanstad",
+          "stedelijkheid": "Sterk stedelijk",
+          "inwoners": "156901",
+          "adressendichtheid": "2053"
+        }
       }
     }
   },
@@ -33208,7 +34328,14 @@
           "Bonaire"
         ],
         "woonplaats": "Assendelft",
-        "partij_naam": "DENK"
+        "partij_naam": "DENK",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0479",
+          "name": "Zaanstad",
+          "stedelijkheid": "Sterk stedelijk",
+          "inwoners": "156901",
+          "adressendichtheid": "2053"
+        }
       }
     }
   },
@@ -33588,7 +34715,14 @@
           "Bonaire"
         ],
         "woonplaats": "Oudheusden",
-        "partij_naam": "50PLUS"
+        "partij_naam": "50PLUS",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0797",
+          "name": "Heusden",
+          "stedelijkheid": "Matig stedelijk",
+          "inwoners": "45005",
+          "adressendichtheid": "1098"
+        }
       }
     }
   },
@@ -33716,7 +34850,14 @@
           "Bonaire"
         ],
         "woonplaats": "Vreeland",
-        "partij_naam": "50PLUS"
+        "partij_naam": "50PLUS",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1904",
+          "name": "Stichtse Vecht",
+          "stedelijkheid": "Matig stedelijk",
+          "inwoners": "65108",
+          "adressendichtheid": "1194"
+        }
       }
     }
   },
@@ -33844,7 +34985,14 @@
           "Bonaire"
         ],
         "woonplaats": "Smilde",
-        "partij_naam": "50PLUS"
+        "partij_naam": "50PLUS",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1731",
+          "name": "Midden-Drenthe",
+          "stedelijkheid": "Niet stedelijk",
+          "inwoners": "33381",
+          "adressendichtheid": "401"
+        }
       }
     }
   },
@@ -34017,7 +35165,14 @@
           "Bonaire"
         ],
         "woonplaats": "Axel",
-        "partij_naam": "50PLUS"
+        "partij_naam": "50PLUS",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0715",
+          "name": "Terneuzen",
+          "stedelijkheid": "Weinig stedelijk",
+          "inwoners": "54463",
+          "adressendichtheid": "876"
+        }
       },
       "tk2021": {
         "lijstnummer": 21,
@@ -34127,7 +35282,14 @@
           "Bonaire"
         ],
         "woonplaats": "Heesch",
-        "partij_naam": "50PLUS"
+        "partij_naam": "50PLUS",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1721",
+          "name": "Bernheze",
+          "stedelijkheid": "Weinig stedelijk",
+          "inwoners": "31455",
+          "adressendichtheid": "686"
+        }
       },
       "tk2021": {
         "lijstnummer": 19,
@@ -34192,7 +35354,14 @@
           "Bonaire"
         ],
         "woonplaats": "Gendt",
-        "partij_naam": "50PLUS"
+        "partij_naam": "50PLUS",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1705",
+          "name": "Lingewaard",
+          "stedelijkheid": "Weinig stedelijk",
+          "inwoners": "46822",
+          "adressendichtheid": "965"
+        }
       },
       "tk2021": {
         "lijstnummer": 35,
@@ -34392,7 +35561,14 @@
           "Bonaire"
         ],
         "woonplaats": "De Meern",
-        "partij_naam": "50PLUS"
+        "partij_naam": "50PLUS",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0344",
+          "name": "Utrecht",
+          "stedelijkheid": "Zeer sterk stedelijk",
+          "inwoners": "359370",
+          "adressendichtheid": "3479"
+        }
       }
     }
   },
@@ -34430,7 +35606,14 @@
           "Bonaire"
         ],
         "woonplaats": "Hoogezand",
-        "partij_naam": "50PLUS"
+        "partij_naam": "50PLUS",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1952",
+          "name": "Midden-Groningen",
+          "stedelijkheid": "Weinig stedelijk",
+          "inwoners": "60726",
+          "adressendichtheid": "856"
+        }
       }
     }
   },
@@ -34558,7 +35741,14 @@
           "Bonaire"
         ],
         "woonplaats": "Udenhout",
-        "partij_naam": "50PLUS"
+        "partij_naam": "50PLUS",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0855",
+          "name": "Tilburg",
+          "stedelijkheid": "Zeer sterk stedelijk",
+          "inwoners": "221947",
+          "adressendichtheid": "2807"
+        }
       }
     }
   },
@@ -34809,7 +35999,14 @@
           "Bonaire"
         ],
         "woonplaats": "Oud-Beijerland",
-        "partij_naam": "BBB"
+        "partij_naam": "BBB",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1963",
+          "name": "Hoeksche Waard",
+          "stedelijkheid": "Weinig stedelijk",
+          "inwoners": "88047",
+          "adressendichtheid": "834"
+        }
       }
     },
     "urls": {
@@ -34999,7 +36196,14 @@
           "Bonaire"
         ],
         "woonplaats": "Genemuiden",
-        "partij_naam": "BBB"
+        "partij_naam": "BBB",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1896",
+          "name": "Zwartewaterland",
+          "stedelijkheid": "Weinig stedelijk",
+          "inwoners": "22823",
+          "adressendichtheid": "725"
+        }
       }
     },
     "urls": {
@@ -35136,7 +36340,14 @@
           "Bonaire"
         ],
         "woonplaats": "Maarssen",
-        "partij_naam": "BBB"
+        "partij_naam": "BBB",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1904",
+          "name": "Stichtse Vecht",
+          "stedelijkheid": "Matig stedelijk",
+          "inwoners": "65108",
+          "adressendichtheid": "1194"
+        }
       },
       "tk2021": {
         "lijstnummer": 2,
@@ -35204,7 +36415,14 @@
           "Bonaire"
         ],
         "woonplaats": "Wolvega",
-        "partij_naam": "BBB"
+        "partij_naam": "BBB",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0098",
+          "name": "Weststellingwerf",
+          "stedelijkheid": "Weinig stedelijk",
+          "inwoners": "26130",
+          "adressendichtheid": "679"
+        }
       }
     },
     "urls": {
@@ -35245,7 +36463,14 @@
           "Bonaire"
         ],
         "woonplaats": "Gulpen",
-        "partij_naam": "BBB"
+        "partij_naam": "BBB",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1729",
+          "name": "Gulpen-Wittem",
+          "stedelijkheid": "Niet stedelijk",
+          "inwoners": "14206",
+          "adressendichtheid": "289"
+        }
       }
     },
     "urls": {
@@ -35286,7 +36511,14 @@
           "Bonaire"
         ],
         "woonplaats": "Voorburg",
-        "partij_naam": "BBB"
+        "partij_naam": "BBB",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1916",
+          "name": "Leidschendam-Voorburg",
+          "stedelijkheid": "Zeer sterk stedelijk",
+          "inwoners": "76433",
+          "adressendichtheid": "2916"
+        }
       }
     },
     "urls": {
@@ -35423,7 +36655,14 @@
           "Bonaire"
         ],
         "woonplaats": "Westdorpe",
-        "partij_naam": "BBB"
+        "partij_naam": "BBB",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0715",
+          "name": "Terneuzen",
+          "stedelijkheid": "Weinig stedelijk",
+          "inwoners": "54463",
+          "adressendichtheid": "876"
+        }
       }
     },
     "urls": {
@@ -35512,7 +36751,14 @@
           "Bonaire"
         ],
         "woonplaats": "Ter Apel",
-        "partij_naam": "BBB"
+        "partij_naam": "BBB",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1950",
+          "name": "Westerwolde",
+          "stedelijkheid": "Niet stedelijk",
+          "inwoners": "26215",
+          "adressendichtheid": "286"
+        }
       },
       "tk2021": {
         "lijstnummer": 64,
@@ -35801,7 +37047,14 @@
           "Bonaire"
         ],
         "woonplaats": "Bathmen",
-        "partij_naam": "BBB"
+        "partij_naam": "BBB",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0150",
+          "name": "Deventer",
+          "stedelijkheid": "Sterk stedelijk",
+          "inwoners": "101236",
+          "adressendichtheid": "1830"
+        }
       },
       "tk2021": {
         "lijstnummer": 3,
@@ -35868,7 +37121,14 @@
           "Bonaire"
         ],
         "woonplaats": "Groenlo",
-        "partij_naam": "BBB"
+        "partij_naam": "BBB",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1586",
+          "name": "Oost Gelre",
+          "stedelijkheid": "Weinig stedelijk",
+          "inwoners": "29574",
+          "adressendichtheid": "737"
+        }
       }
     },
     "urls": {
@@ -36148,7 +37408,14 @@
           "Bonaire"
         ],
         "woonplaats": "Midwolda",
-        "partij_naam": "BBB"
+        "partij_naam": "BBB",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1895",
+          "name": "Oldambt",
+          "stedelijkheid": "Weinig stedelijk",
+          "inwoners": "38277",
+          "adressendichtheid": "831"
+        }
       }
     },
     "urls": {
@@ -36237,7 +37504,14 @@
           "Bonaire"
         ],
         "woonplaats": "Barsingerhorn",
-        "partij_naam": "BBB"
+        "partij_naam": "BBB",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1911",
+          "name": "Hollands Kroon",
+          "stedelijkheid": "Niet stedelijk",
+          "inwoners": "48583",
+          "adressendichtheid": "433"
+        }
       }
     },
     "urls": {
@@ -36496,7 +37770,14 @@
           "Bonaire"
         ],
         "woonplaats": "Giethoorn",
-        "partij_naam": "BBB"
+        "partij_naam": "BBB",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1708",
+          "name": "Steenwijkerland",
+          "stedelijkheid": "Weinig stedelijk",
+          "inwoners": "44341",
+          "adressendichtheid": "592"
+        }
       }
     },
     "urls": {
@@ -36633,7 +37914,14 @@
           "Bonaire"
         ],
         "woonplaats": "Kockengen",
-        "partij_naam": "BBB"
+        "partij_naam": "BBB",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1904",
+          "name": "Stichtse Vecht",
+          "stedelijkheid": "Matig stedelijk",
+          "inwoners": "65108",
+          "adressendichtheid": "1194"
+        }
       }
     },
     "urls": {
@@ -36674,7 +37962,14 @@
           "Bonaire"
         ],
         "woonplaats": "Odijk",
-        "partij_naam": "BBB"
+        "partij_naam": "BBB",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0312",
+          "name": "Bunnik",
+          "stedelijkheid": "Weinig stedelijk",
+          "inwoners": "15341",
+          "adressendichtheid": "667"
+        }
       }
     },
     "urls": {
@@ -36715,7 +38010,14 @@
           "Bonaire"
         ],
         "woonplaats": "Ureterp",
-        "partij_naam": "BBB"
+        "partij_naam": "BBB",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0086",
+          "name": "Opsterland",
+          "stedelijkheid": "Niet stedelijk",
+          "inwoners": "29812",
+          "adressendichtheid": "412"
+        }
       }
     },
     "urls": {
@@ -36756,7 +38058,14 @@
           "Bonaire"
         ],
         "woonplaats": "Rosmalen",
-        "partij_naam": "BBB"
+        "partij_naam": "BBB",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0796",
+          "name": "'s-Hertogenbosch",
+          "stedelijkheid": "Sterk stedelijk",
+          "inwoners": "155490",
+          "adressendichtheid": "1992"
+        }
       }
     },
     "urls": {
@@ -36797,7 +38106,14 @@
           "Bonaire"
         ],
         "woonplaats": "Zuidschermer",
-        "partij_naam": "BBB"
+        "partij_naam": "BBB",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0361",
+          "name": "Alkmaar",
+          "stedelijkheid": "Sterk stedelijk",
+          "inwoners": "109896",
+          "adressendichtheid": "2283"
+        }
       },
       "tk2021": {
         "lijstnummer": 8,
@@ -36864,7 +38180,14 @@
           "Bonaire"
         ],
         "woonplaats": "Roelofarendsveen",
-        "partij_naam": "BBB"
+        "partij_naam": "BBB",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1884",
+          "name": "Kaag en Braassem",
+          "stedelijkheid": "Weinig stedelijk",
+          "inwoners": "27541",
+          "adressendichtheid": "631"
+        }
       }
     },
     "urls": {
@@ -36953,7 +38276,14 @@
           "Bonaire"
         ],
         "woonplaats": "Sittard",
-        "partij_naam": "BBB"
+        "partij_naam": "BBB",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1883",
+          "name": "Sittard-Geleen",
+          "stedelijkheid": "Sterk stedelijk",
+          "inwoners": "91743",
+          "adressendichtheid": "1504"
+        }
       }
     },
     "urls": {
@@ -37023,7 +38353,14 @@
           "Groningen"
         ],
         "woonplaats": "Leek",
-        "partij_naam": "BBB"
+        "partij_naam": "BBB",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1969",
+          "name": "Westerkwartier",
+          "stedelijkheid": "Niet stedelijk",
+          "inwoners": "63678",
+          "adressendichtheid": "476"
+        }
       }
     }
   },
@@ -37042,7 +38379,14 @@
           "Groningen"
         ],
         "woonplaats": "Den Ham",
-        "partij_naam": "BBB"
+        "partij_naam": "BBB",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1700",
+          "name": "Twenterand",
+          "stedelijkheid": "Weinig stedelijk",
+          "inwoners": "33699",
+          "adressendichtheid": "596"
+        }
       }
     }
   },
@@ -37215,7 +38559,14 @@
           "Bonaire"
         ],
         "woonplaats": "Teteringen",
-        "partij_naam": "BIJ1"
+        "partij_naam": "BIJ1",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0758",
+          "name": "Breda",
+          "stedelijkheid": "Sterk stedelijk",
+          "inwoners": "184126",
+          "adressendichtheid": "2202"
+        }
       }
     }
   },
@@ -37487,7 +38838,14 @@
           "Bonaire"
         ],
         "woonplaats": "Hollandscheveld",
-        "partij_naam": "BIJ1"
+        "partij_naam": "BIJ1",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0118",
+          "name": "Hoogeveen",
+          "stedelijkheid": "Matig stedelijk",
+          "inwoners": "55603",
+          "adressendichtheid": "1214"
+        }
       }
     }
   },
@@ -38095,7 +39453,14 @@
           "Bonaire"
         ],
         "woonplaats": "Burgum",
-        "partij_naam": "Piratenpartij - De Groenen"
+        "partij_naam": "Piratenpartij - De Groenen",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0737",
+          "name": "Tytsjerksteradiel",
+          "stedelijkheid": "Niet stedelijk",
+          "inwoners": "32060",
+          "adressendichtheid": "478"
+        }
       },
       "tk2021": {
         "lijstnummer": 6,
@@ -38364,7 +39729,14 @@
           "Bonaire"
         ],
         "woonplaats": "Zaandam",
-        "partij_naam": "Piratenpartij - De Groenen"
+        "partij_naam": "Piratenpartij - De Groenen",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0479",
+          "name": "Zaanstad",
+          "stedelijkheid": "Sterk stedelijk",
+          "inwoners": "156901",
+          "adressendichtheid": "2053"
+        }
       }
     },
     "urls": {
@@ -38576,7 +39948,14 @@
           "Bonaire"
         ],
         "woonplaats": "Rijnsburg",
-        "partij_naam": "Piratenpartij - De Groenen"
+        "partij_naam": "Piratenpartij - De Groenen",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0537",
+          "name": "Katwijk",
+          "stedelijkheid": "Sterk stedelijk",
+          "inwoners": "65995",
+          "adressendichtheid": "2163"
+        }
       }
     },
     "urls": {
@@ -39253,7 +40632,14 @@
           "Bonaire"
         ],
         "woonplaats": "Zaandam",
-        "partij_naam": "Piratenpartij - De Groenen"
+        "partij_naam": "Piratenpartij - De Groenen",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0479",
+          "name": "Zaanstad",
+          "stedelijkheid": "Sterk stedelijk",
+          "inwoners": "156901",
+          "adressendichtheid": "2053"
+        }
       },
       "tk2021": {
         "lijstnummer": 11,
@@ -39872,7 +41258,14 @@
           "Bonaire"
         ],
         "woonplaats": "Nes",
-        "partij_naam": "BVNL / Groep Van Haga"
+        "partij_naam": "BVNL / Groep Van Haga",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0060",
+          "name": "Ameland",
+          "stedelijkheid": "Niet stedelijk",
+          "inwoners": "3746",
+          "adressendichtheid": "255"
+        }
       }
     },
     "urls": {
@@ -39913,7 +41306,14 @@
           "Bonaire"
         ],
         "woonplaats": "Bosch en Duin",
-        "partij_naam": "BVNL / Groep Van Haga"
+        "partij_naam": "BVNL / Groep Van Haga",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0355",
+          "name": "Zeist",
+          "stedelijkheid": "Sterk stedelijk",
+          "inwoners": "65043",
+          "adressendichtheid": "1601"
+        }
       }
     },
     "urls": {
@@ -39954,7 +41354,14 @@
           "Bonaire"
         ],
         "woonplaats": "Tytsjerk",
-        "partij_naam": "BVNL / Groep Van Haga"
+        "partij_naam": "BVNL / Groep Van Haga",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0737",
+          "name": "Tytsjerksteradiel",
+          "stedelijkheid": "Niet stedelijk",
+          "inwoners": "32060",
+          "adressendichtheid": "478"
+        }
       }
     },
     "urls": {
@@ -39995,7 +41402,14 @@
           "Bonaire"
         ],
         "woonplaats": "Hengelo (O)",
-        "partij_naam": "BVNL / Groep Van Haga"
+        "partij_naam": "BVNL / Groep Van Haga",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0164",
+          "name": "Hengelo",
+          "stedelijkheid": "Sterk stedelijk",
+          "inwoners": "81049",
+          "adressendichtheid": "1845"
+        }
       }
     },
     "urls": {
@@ -40036,7 +41450,14 @@
           "Bonaire"
         ],
         "woonplaats": "Sevenum",
-        "partij_naam": "BVNL / Groep Van Haga"
+        "partij_naam": "BVNL / Groep Van Haga",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1507",
+          "name": "Horst aan de Maas",
+          "stedelijkheid": "Weinig stedelijk",
+          "inwoners": "42487",
+          "adressendichtheid": "571"
+        }
       }
     },
     "urls": {
@@ -40125,7 +41546,14 @@
           "Bonaire"
         ],
         "woonplaats": "Noordeinde Gld",
-        "partij_naam": "BVNL / Groep Van Haga"
+        "partij_naam": "BVNL / Groep Van Haga",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0269",
+          "name": "Oldebroek",
+          "stedelijkheid": "Weinig stedelijk",
+          "inwoners": "23760",
+          "adressendichtheid": "655"
+        }
       }
     },
     "urls": {
@@ -40214,7 +41642,14 @@
           "Bonaire"
         ],
         "woonplaats": "Hoogvliet Rotterdam",
-        "partij_naam": "BVNL / Groep Van Haga"
+        "partij_naam": "BVNL / Groep Van Haga",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0599",
+          "name": "Rotterdam",
+          "stedelijkheid": "Zeer sterk stedelijk",
+          "inwoners": "651631",
+          "adressendichtheid": "4012"
+        }
       }
     },
     "urls": {
@@ -40488,7 +41923,14 @@
           "Bonaire"
         ],
         "woonplaats": "Kollumersweach",
-        "partij_naam": "BVNL / Groep Van Haga"
+        "partij_naam": "BVNL / Groep Van Haga",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1970",
+          "name": "Noardeast-Fryslân",
+          "stedelijkheid": "Niet stedelijk",
+          "inwoners": "45481",
+          "adressendichtheid": "463"
+        }
       }
     },
     "urls": {
@@ -40529,7 +41971,14 @@
           "Bonaire"
         ],
         "woonplaats": "Volendam",
-        "partij_naam": "BVNL / Groep Van Haga"
+        "partij_naam": "BVNL / Groep Van Haga",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0385",
+          "name": "Edam-Volendam",
+          "stedelijkheid": "Matig stedelijk",
+          "inwoners": "36268",
+          "adressendichtheid": "1318"
+        }
       }
     },
     "urls": {
@@ -40570,7 +42019,14 @@
           "Bonaire"
         ],
         "woonplaats": "Dokkum",
-        "partij_naam": "BVNL / Groep Van Haga"
+        "partij_naam": "BVNL / Groep Van Haga",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1970",
+          "name": "Noardeast-Fryslân",
+          "stedelijkheid": "Niet stedelijk",
+          "inwoners": "45481",
+          "adressendichtheid": "463"
+        }
       }
     },
     "urls": {
@@ -40732,7 +42188,14 @@
           "Bonaire"
         ],
         "woonplaats": "Kerkwijk",
-        "partij_naam": "BVNL / Groep Van Haga"
+        "partij_naam": "BVNL / Groep Van Haga",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0297",
+          "name": "Zaltbommel",
+          "stedelijkheid": "Weinig stedelijk",
+          "inwoners": "29447",
+          "adressendichtheid": "700"
+        }
       }
     },
     "urls": {
@@ -40943,7 +42406,14 @@
           "Bonaire"
         ],
         "woonplaats": "Oentsjerk",
-        "partij_naam": "BVNL / Groep Van Haga"
+        "partij_naam": "BVNL / Groep Van Haga",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0737",
+          "name": "Tytsjerksteradiel",
+          "stedelijkheid": "Niet stedelijk",
+          "inwoners": "32060",
+          "adressendichtheid": "478"
+        }
       }
     },
     "urls": {
@@ -41032,7 +42502,14 @@
           "Bonaire"
         ],
         "woonplaats": "Drachten",
-        "partij_naam": "BVNL / Groep Van Haga"
+        "partij_naam": "BVNL / Groep Van Haga",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0090",
+          "name": "Smallingerland",
+          "stedelijkheid": "Matig stedelijk",
+          "inwoners": "56040",
+          "adressendichtheid": "1341"
+        }
       }
     },
     "urls": {
@@ -41073,7 +42550,14 @@
           "Bonaire"
         ],
         "woonplaats": "Volendam",
-        "partij_naam": "BVNL / Groep Van Haga"
+        "partij_naam": "BVNL / Groep Van Haga",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0385",
+          "name": "Edam-Volendam",
+          "stedelijkheid": "Matig stedelijk",
+          "inwoners": "36268",
+          "adressendichtheid": "1318"
+        }
       }
     },
     "urls": {
@@ -41114,7 +42598,14 @@
           "Bonaire"
         ],
         "woonplaats": "Eastermar",
-        "partij_naam": "BVNL / Groep Van Haga"
+        "partij_naam": "BVNL / Groep Van Haga",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0737",
+          "name": "Tytsjerksteradiel",
+          "stedelijkheid": "Niet stedelijk",
+          "inwoners": "32060",
+          "adressendichtheid": "478"
+        }
       }
     },
     "urls": {
@@ -41491,7 +42982,14 @@
           "Bonaire"
         ],
         "woonplaats": "Nuth",
-        "partij_naam": "BVNL / Groep Van Haga"
+        "partij_naam": "BVNL / Groep Van Haga",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1954",
+          "name": "Beekdaelen",
+          "stedelijkheid": "Weinig stedelijk",
+          "inwoners": "36065",
+          "adressendichtheid": "501"
+        }
       }
     },
     "urls": {
@@ -41532,7 +43030,14 @@
           "Bonaire"
         ],
         "woonplaats": "Nederhemert",
-        "partij_naam": "BVNL / Groep Van Haga"
+        "partij_naam": "BVNL / Groep Van Haga",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0297",
+          "name": "Zaltbommel",
+          "stedelijkheid": "Weinig stedelijk",
+          "inwoners": "29447",
+          "adressendichtheid": "700"
+        }
       }
     },
     "urls": {
@@ -41751,7 +43256,14 @@
           "Bonaire"
         ],
         "woonplaats": "Maarheeze",
-        "partij_naam": "BVNL / Groep Van Haga"
+        "partij_naam": "BVNL / Groep Van Haga",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1706",
+          "name": "Cranendonck",
+          "stedelijkheid": "Weinig stedelijk",
+          "inwoners": "21001",
+          "adressendichtheid": "592"
+        }
       }
     },
     "urls": {
@@ -41792,7 +43304,14 @@
           "Bonaire"
         ],
         "woonplaats": "Ouderkerk aan de Amstel",
-        "partij_naam": "BVNL / Groep Van Haga"
+        "partij_naam": "BVNL / Groep Van Haga",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0437",
+          "name": "Ouder-Amstel",
+          "stedelijkheid": "Matig stedelijk",
+          "inwoners": "14125",
+          "adressendichtheid": "1320"
+        }
       },
       "tk2021": {
         "lijstnummer": 1,
@@ -41846,7 +43365,14 @@
           "Bonaire"
         ],
         "woonplaats": "Nigtevecht",
-        "partij_naam": "BVNL / Groep Van Haga"
+        "partij_naam": "BVNL / Groep Van Haga",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1904",
+          "name": "Stichtse Vecht",
+          "stedelijkheid": "Matig stedelijk",
+          "inwoners": "65108",
+          "adressendichtheid": "1194"
+        }
       }
     },
     "urls": {
@@ -41983,7 +43509,14 @@
           "Bonaire"
         ],
         "woonplaats": "Dokkum",
-        "partij_naam": "BVNL / Groep Van Haga"
+        "partij_naam": "BVNL / Groep Van Haga",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1970",
+          "name": "Noardeast-Fryslân",
+          "stedelijkheid": "Niet stedelijk",
+          "inwoners": "45481",
+          "adressendichtheid": "463"
+        }
       }
     },
     "urls": {
@@ -42189,7 +43722,14 @@
           "Bonaire"
         ],
         "woonplaats": "Vijfhuizen",
-        "partij_naam": "Nieuw Sociaal Contract"
+        "partij_naam": "Nieuw Sociaal Contract",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0394",
+          "name": "Haarlemmermeer",
+          "stedelijkheid": "Sterk stedelijk",
+          "inwoners": "157789",
+          "adressendichtheid": "1532"
+        }
       }
     }
   },
@@ -42265,7 +43805,14 @@
           "Bonaire"
         ],
         "woonplaats": "Leersum",
-        "partij_naam": "Nieuw Sociaal Contract"
+        "partij_naam": "Nieuw Sociaal Contract",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1581",
+          "name": "Utrechtse Heuvelrug",
+          "stedelijkheid": "Weinig stedelijk",
+          "inwoners": "49946",
+          "adressendichtheid": "785"
+        }
       }
     }
   },
@@ -42303,7 +43850,14 @@
           "Bonaire"
         ],
         "woonplaats": "Laag Zuthem",
-        "partij_naam": "Nieuw Sociaal Contract"
+        "partij_naam": "Nieuw Sociaal Contract",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0177",
+          "name": "Raalte",
+          "stedelijkheid": "Weinig stedelijk",
+          "inwoners": "37911",
+          "adressendichtheid": "665"
+        }
       }
     }
   },
@@ -42341,7 +43895,14 @@
           "Bonaire"
         ],
         "woonplaats": "Nijewier",
-        "partij_naam": "Nieuw Sociaal Contract"
+        "partij_naam": "Nieuw Sociaal Contract",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1970",
+          "name": "Noardeast-Fryslân",
+          "stedelijkheid": "Niet stedelijk",
+          "inwoners": "45481",
+          "adressendichtheid": "463"
+        }
       }
     }
   },
@@ -42748,7 +44309,14 @@
           "Bonaire"
         ],
         "woonplaats": "De Meern",
-        "partij_naam": "Nieuw Sociaal Contract"
+        "partij_naam": "Nieuw Sociaal Contract",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0344",
+          "name": "Utrecht",
+          "stedelijkheid": "Zeer sterk stedelijk",
+          "inwoners": "359370",
+          "adressendichtheid": "3479"
+        }
       }
     }
   },
@@ -42786,7 +44354,14 @@
           "Bonaire"
         ],
         "woonplaats": "Rijssen",
-        "partij_naam": "Nieuw Sociaal Contract"
+        "partij_naam": "Nieuw Sociaal Contract",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1742",
+          "name": "Rijssen-Holten",
+          "stedelijkheid": "Matig stedelijk",
+          "inwoners": "38204",
+          "adressendichtheid": "1095"
+        }
       }
     }
   },
@@ -42959,7 +44534,14 @@
           "Bonaire"
         ],
         "woonplaats": "Roden",
-        "partij_naam": "Nieuw Sociaal Contract"
+        "partij_naam": "Nieuw Sociaal Contract",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1699",
+          "name": "Noordenveld",
+          "stedelijkheid": "Weinig stedelijk",
+          "inwoners": "31214",
+          "adressendichtheid": "682"
+        }
       }
     }
   },
@@ -43042,7 +44624,14 @@
           "Bonaire"
         ],
         "woonplaats": "Bedum",
-        "partij_naam": "Nieuw Sociaal Contract"
+        "partij_naam": "Nieuw Sociaal Contract",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1966",
+          "name": "Het Hogeland",
+          "stedelijkheid": "Niet stedelijk",
+          "inwoners": "47834",
+          "adressendichtheid": "414"
+        }
       }
     }
   },
@@ -43313,7 +44902,14 @@
           "Bonaire"
         ],
         "woonplaats": "Baambrugge",
-        "partij_naam": "Nieuw Sociaal Contract"
+        "partij_naam": "Nieuw Sociaal Contract",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0736",
+          "name": "De Ronde Venen",
+          "stedelijkheid": "Weinig stedelijk",
+          "inwoners": "44720",
+          "adressendichtheid": "882"
+        }
       }
     }
   },
@@ -43389,7 +44985,14 @@
           "Bonaire"
         ],
         "woonplaats": "Leersum",
-        "partij_naam": "Nieuw Sociaal Contract"
+        "partij_naam": "Nieuw Sociaal Contract",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1581",
+          "name": "Utrechtse Heuvelrug",
+          "stedelijkheid": "Weinig stedelijk",
+          "inwoners": "49946",
+          "adressendichtheid": "785"
+        }
       }
     }
   },
@@ -43510,7 +45113,14 @@
           "Bonaire"
         ],
         "woonplaats": "Beilen",
-        "partij_naam": "Nieuw Sociaal Contract"
+        "partij_naam": "Nieuw Sociaal Contract",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1731",
+          "name": "Midden-Drenthe",
+          "stedelijkheid": "Niet stedelijk",
+          "inwoners": "33381",
+          "adressendichtheid": "401"
+        }
       }
     }
   },
@@ -44405,7 +46015,14 @@
           "Bonaire"
         ],
         "woonplaats": "Oosterbeek",
-        "partij_naam": "Splinter"
+        "partij_naam": "Splinter",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0274",
+          "name": "Renkum",
+          "stedelijkheid": "Weinig stedelijk",
+          "inwoners": "31417",
+          "adressendichtheid": "917"
+        }
       }
     },
     "urls": {
@@ -44446,7 +46063,14 @@
           "Bonaire"
         ],
         "woonplaats": "Bodegraven",
-        "partij_naam": "Splinter"
+        "partij_naam": "Splinter",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1901",
+          "name": "Bodegraven-Reeuwijk",
+          "stedelijkheid": "Matig stedelijk",
+          "inwoners": "35278",
+          "adressendichtheid": "1142"
+        }
       }
     },
     "urls": {
@@ -44727,7 +46351,14 @@
           "Bonaire"
         ],
         "woonplaats": "Oosterwolde",
-        "partij_naam": "Splinter"
+        "partij_naam": "Splinter",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0085",
+          "name": "Ooststellingwerf",
+          "stedelijkheid": "Niet stedelijk",
+          "inwoners": "25464",
+          "adressendichtheid": "482"
+        }
       }
     },
     "urls": {
@@ -44816,7 +46447,14 @@
           "Bonaire"
         ],
         "woonplaats": "Kudelstaart",
-        "partij_naam": "Splinter"
+        "partij_naam": "Splinter",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0358",
+          "name": "Aalsmeer",
+          "stedelijkheid": "Weinig stedelijk",
+          "inwoners": "31991",
+          "adressendichtheid": "936"
+        }
       }
     },
     "urls": {
@@ -44905,7 +46543,14 @@
           "Bonaire"
         ],
         "woonplaats": "Bodegraven",
-        "partij_naam": "Splinter"
+        "partij_naam": "Splinter",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1901",
+          "name": "Bodegraven-Reeuwijk",
+          "stedelijkheid": "Matig stedelijk",
+          "inwoners": "35278",
+          "adressendichtheid": "1142"
+        }
       }
     },
     "urls": {
@@ -44946,7 +46591,14 @@
           "Bonaire"
         ],
         "woonplaats": "Warnsveld",
-        "partij_naam": "Splinter"
+        "partij_naam": "Splinter",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0301",
+          "name": "Zutphen",
+          "stedelijkheid": "Sterk stedelijk",
+          "inwoners": "48111",
+          "adressendichtheid": "1658"
+        }
       }
     },
     "urls": {
@@ -45813,7 +47465,14 @@
           "Maastricht"
         ],
         "woonplaats": "Horst",
-        "partij_naam": "LP (Libertaire Partij)"
+        "partij_naam": "LP (Libertaire Partij)",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1507",
+          "name": "Horst aan de Maas",
+          "stedelijkheid": "Weinig stedelijk",
+          "inwoners": "42487",
+          "adressendichtheid": "571"
+        }
       },
       "tk2021": {
         "lijstnummer": 21,
@@ -45965,7 +47624,14 @@
           "Maastricht"
         ],
         "woonplaats": "Elst Ut",
-        "partij_naam": "LP (Libertaire Partij)"
+        "partij_naam": "LP (Libertaire Partij)",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0340",
+          "name": "Rhenen",
+          "stedelijkheid": "Weinig stedelijk",
+          "inwoners": "20203",
+          "adressendichtheid": "932"
+        }
       }
     }
   },
@@ -46188,7 +47854,14 @@
           "Maastricht"
         ],
         "woonplaats": "Soesterberg",
-        "partij_naam": "LP (Libertaire Partij)"
+        "partij_naam": "LP (Libertaire Partij)",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0342",
+          "name": "Soest",
+          "stedelijkheid": "Matig stedelijk",
+          "inwoners": "46906",
+          "adressendichtheid": "1469"
+        }
       }
     }
   },
@@ -46313,7 +47986,14 @@
           "Maastricht"
         ],
         "woonplaats": "Voorhout",
-        "partij_naam": "LP (Libertaire Partij)"
+        "partij_naam": "LP (Libertaire Partij)",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1525",
+          "name": "Teylingen",
+          "stedelijkheid": "Matig stedelijk",
+          "inwoners": "37791",
+          "adressendichtheid": "1408"
+        }
       }
     }
   },
@@ -46492,7 +48172,14 @@
           "Maastricht"
         ],
         "woonplaats": "Zwanenburg",
-        "partij_naam": "LP (Libertaire Partij)"
+        "partij_naam": "LP (Libertaire Partij)",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0394",
+          "name": "Haarlemmermeer",
+          "stedelijkheid": "Sterk stedelijk",
+          "inwoners": "157789",
+          "adressendichtheid": "1532"
+        }
       }
     }
   },
@@ -46705,7 +48392,14 @@
           "Maastricht"
         ],
         "woonplaats": "Leidschendam",
-        "partij_naam": "LEF - Voor de Nieuwe Generatie"
+        "partij_naam": "LEF - Voor de Nieuwe Generatie",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1916",
+          "name": "Leidschendam-Voorburg",
+          "stedelijkheid": "Zeer sterk stedelijk",
+          "inwoners": "76433",
+          "adressendichtheid": "2916"
+        }
       }
     }
   },
@@ -47307,7 +49001,14 @@
           "Maastricht"
         ],
         "woonplaats": "Babberich",
-        "partij_naam": "LEF - Voor de Nieuwe Generatie"
+        "partij_naam": "LEF - Voor de Nieuwe Generatie",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0299",
+          "name": "Zevenaar",
+          "stedelijkheid": "Matig stedelijk",
+          "inwoners": "44096",
+          "adressendichtheid": "1046"
+        }
       }
     }
   },
@@ -47476,7 +49177,14 @@
           "Maastricht"
         ],
         "woonplaats": "Lichtenvoorde",
-        "partij_naam": "Samen voor Nederland"
+        "partij_naam": "Samen voor Nederland",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1586",
+          "name": "Oost Gelre",
+          "stedelijkheid": "Weinig stedelijk",
+          "inwoners": "29574",
+          "adressendichtheid": "737"
+        }
       }
     }
   },
@@ -47513,7 +49221,14 @@
           "Maastricht"
         ],
         "woonplaats": "Deurningen",
-        "partij_naam": "Samen voor Nederland"
+        "partij_naam": "Samen voor Nederland",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1774",
+          "name": "Dinkelland",
+          "stedelijkheid": "Niet stedelijk",
+          "inwoners": "26606",
+          "adressendichtheid": "471"
+        }
       }
     }
   },
@@ -47594,7 +49309,14 @@
           "Maastricht"
         ],
         "woonplaats": "Nieuw-Weerdinge",
-        "partij_naam": "Samen voor Nederland"
+        "partij_naam": "Samen voor Nederland",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0114",
+          "name": "Emmen",
+          "stedelijkheid": "Weinig stedelijk",
+          "inwoners": "107024",
+          "adressendichtheid": "854"
+        }
       }
     }
   },
@@ -47719,7 +49441,14 @@
           "Maastricht"
         ],
         "woonplaats": "Egmond aan den Hoef",
-        "partij_naam": "Samen voor Nederland"
+        "partij_naam": "Samen voor Nederland",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0373",
+          "name": "Bergen (NH.)",
+          "stedelijkheid": "Weinig stedelijk",
+          "inwoners": "29715",
+          "adressendichtheid": "819"
+        }
       }
     }
   },
@@ -48253,7 +49982,14 @@
           "Maastricht"
         ],
         "woonplaats": "Aardenburg",
-        "partij_naam": "Samen voor Nederland"
+        "partij_naam": "Samen voor Nederland",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1714",
+          "name": "Sluis",
+          "stedelijkheid": "Niet stedelijk",
+          "inwoners": "23166",
+          "adressendichtheid": "434"
+        }
       }
     }
   },
@@ -48334,7 +50070,14 @@
           "Maastricht"
         ],
         "woonplaats": "Monnickendam",
-        "partij_naam": "Samen voor Nederland"
+        "partij_naam": "Samen voor Nederland",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0852",
+          "name": "Waterland",
+          "stedelijkheid": "Weinig stedelijk",
+          "inwoners": "17312",
+          "adressendichtheid": "643"
+        }
       }
     }
   },
@@ -48415,7 +50158,14 @@
           "Maastricht"
         ],
         "woonplaats": "Bolsward",
-        "partij_naam": "Samen voor Nederland"
+        "partij_naam": "Samen voor Nederland",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1900",
+          "name": "Súdwest-Fryslân",
+          "stedelijkheid": "Weinig stedelijk",
+          "inwoners": "89999",
+          "adressendichtheid": "846"
+        }
       }
     }
   },
@@ -48452,7 +50202,14 @@
           "Maastricht"
         ],
         "woonplaats": "Bovenkarspel",
-        "partij_naam": "Samen voor Nederland"
+        "partij_naam": "Samen voor Nederland",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0532",
+          "name": "Stede Broec",
+          "stedelijkheid": "Matig stedelijk",
+          "inwoners": "21743",
+          "adressendichtheid": "1145"
+        }
       }
     }
   },
@@ -48489,7 +50246,14 @@
           "Maastricht"
         ],
         "woonplaats": "Kiel-Windeweer",
-        "partij_naam": "Samen voor Nederland"
+        "partij_naam": "Samen voor Nederland",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1952",
+          "name": "Midden-Groningen",
+          "stedelijkheid": "Weinig stedelijk",
+          "inwoners": "60726",
+          "adressendichtheid": "856"
+        }
       }
     }
   },
@@ -48862,7 +50626,14 @@
           "Maastricht"
         ],
         "woonplaats": "Zaandam",
-        "partij_naam": "Nederland met een PLAN"
+        "partij_naam": "Nederland met een PLAN",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0479",
+          "name": "Zaanstad",
+          "stedelijkheid": "Sterk stedelijk",
+          "inwoners": "156901",
+          "adressendichtheid": "2053"
+        }
       }
     }
   },
@@ -49259,7 +51030,14 @@
           "Leeuwarden"
         ],
         "woonplaats": "Stroobos",
-        "partij_naam": "Forum voor Democratie"
+        "partij_naam": "Forum voor Democratie",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0059",
+          "name": "Achtkarspelen",
+          "stedelijkheid": "Niet stedelijk",
+          "inwoners": "27900",
+          "adressendichtheid": "429"
+        }
       }
     }
   },
@@ -49304,7 +51082,14 @@
           "Leeuwarden"
         ],
         "woonplaats": "Workum",
-        "partij_naam": "BBB"
+        "partij_naam": "BBB",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1900",
+          "name": "Súdwest-Fryslân",
+          "stedelijkheid": "Weinig stedelijk",
+          "inwoners": "89999",
+          "adressendichtheid": "846"
+        }
       }
     }
   },
@@ -49323,7 +51108,14 @@
           "Leeuwarden"
         ],
         "woonplaats": "Dronryp",
-        "partij_naam": "BBB"
+        "partij_naam": "BBB",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1949",
+          "name": "Waadhoeke",
+          "stedelijkheid": "Niet stedelijk",
+          "inwoners": "46149",
+          "adressendichtheid": "474"
+        }
       }
     }
   },
@@ -49349,7 +51141,14 @@
           "'s-Hertogenbosch"
         ],
         "woonplaats": "Budel-Dorplein",
-        "partij_naam": "Politieke Partij voor Basisinkomen"
+        "partij_naam": "Politieke Partij voor Basisinkomen",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1706",
+          "name": "Cranendonck",
+          "stedelijkheid": "Weinig stedelijk",
+          "inwoners": "21001",
+          "adressendichtheid": "592"
+        }
       }
     }
   },
@@ -49375,7 +51174,14 @@
           "'s-Hertogenbosch"
         ],
         "woonplaats": "Vreeland",
-        "partij_naam": "Politieke Partij voor Basisinkomen"
+        "partij_naam": "Politieke Partij voor Basisinkomen",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1904",
+          "name": "Stichtse Vecht",
+          "stedelijkheid": "Matig stedelijk",
+          "inwoners": "65108",
+          "adressendichtheid": "1194"
+        }
       }
     }
   },
@@ -49533,7 +51339,14 @@
           "'s-Hertogenbosch"
         ],
         "woonplaats": "Budel-Dorplein",
-        "partij_naam": "Politieke Partij voor Basisinkomen"
+        "partij_naam": "Politieke Partij voor Basisinkomen",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1706",
+          "name": "Cranendonck",
+          "stedelijkheid": "Weinig stedelijk",
+          "inwoners": "21001",
+          "adressendichtheid": "592"
+        }
       }
     }
   },
@@ -49592,7 +51405,14 @@
           "'s-Hertogenbosch"
         ],
         "woonplaats": "Raamsdonksveer",
-        "partij_naam": "Politieke Partij voor Basisinkomen"
+        "partij_naam": "Politieke Partij voor Basisinkomen",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0779",
+          "name": "Geertruidenberg",
+          "stedelijkheid": "Matig stedelijk",
+          "inwoners": "21770",
+          "adressendichtheid": "1090"
+        }
       }
     }
   },
@@ -49618,7 +51438,14 @@
           "'s-Hertogenbosch"
         ],
         "woonplaats": "Bilthoven",
-        "partij_naam": "Politieke Partij voor Basisinkomen"
+        "partij_naam": "Politieke Partij voor Basisinkomen",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0310",
+          "name": "De Bilt",
+          "stedelijkheid": "Matig stedelijk",
+          "inwoners": "43384",
+          "adressendichtheid": "1272"
+        }
       }
     }
   },
@@ -49644,7 +51471,14 @@
           "'s-Hertogenbosch"
         ],
         "woonplaats": "Drachten",
-        "partij_naam": "Politieke Partij voor Basisinkomen"
+        "partij_naam": "Politieke Partij voor Basisinkomen",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0090",
+          "name": "Smallingerland",
+          "stedelijkheid": "Matig stedelijk",
+          "inwoners": "56040",
+          "adressendichtheid": "1341"
+        }
       }
     }
   },
@@ -49663,7 +51497,14 @@
           "Assen"
         ],
         "woonplaats": "Klazienaveen",
-        "partij_naam": "Forum voor Democratie"
+        "partij_naam": "Forum voor Democratie",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0114",
+          "name": "Emmen",
+          "stedelijkheid": "Weinig stedelijk",
+          "inwoners": "107024",
+          "adressendichtheid": "854"
+        }
       },
       "tk2021": {
         "lijstnummer": 29,
@@ -49709,7 +51550,14 @@
           "Assen"
         ],
         "woonplaats": "Roden",
-        "partij_naam": "Forum voor Democratie"
+        "partij_naam": "Forum voor Democratie",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1699",
+          "name": "Noordenveld",
+          "stedelijkheid": "Weinig stedelijk",
+          "inwoners": "31214",
+          "adressendichtheid": "682"
+        }
       }
     }
   },
@@ -49729,7 +51577,14 @@
           "Zwolle"
         ],
         "woonplaats": "Vries",
-        "partij_naam": "Forum voor Democratie"
+        "partij_naam": "Forum voor Democratie",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1730",
+          "name": "Tynaarlo",
+          "stedelijkheid": "Weinig stedelijk",
+          "inwoners": "33978",
+          "adressendichtheid": "510"
+        }
       },
       "tk2021": {
         "lijstnummer": 18,
@@ -49801,7 +51656,14 @@
           "Assen"
         ],
         "woonplaats": "Zuidwolde",
-        "partij_naam": "Forum voor Democratie"
+        "partij_naam": "Forum voor Democratie",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1690",
+          "name": "De Wolden",
+          "stedelijkheid": "Niet stedelijk",
+          "inwoners": "24374",
+          "adressendichtheid": "311"
+        }
       }
     }
   },
@@ -49846,7 +51708,14 @@
           "Assen"
         ],
         "woonplaats": "Nijeveen",
-        "partij_naam": "BBB"
+        "partij_naam": "BBB",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0119",
+          "name": "Meppel",
+          "stedelijkheid": "Matig stedelijk",
+          "inwoners": "34386",
+          "adressendichtheid": "1287"
+        }
       }
     }
   },
@@ -49865,7 +51734,14 @@
           "Assen"
         ],
         "woonplaats": "Witteveen",
-        "partij_naam": "BBB"
+        "partij_naam": "BBB",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1731",
+          "name": "Midden-Drenthe",
+          "stedelijkheid": "Niet stedelijk",
+          "inwoners": "33381",
+          "adressendichtheid": "401"
+        }
       }
     }
   },
@@ -49884,7 +51760,14 @@
           "Zwolle"
         ],
         "woonplaats": "Delden",
-        "partij_naam": "Forum voor Democratie"
+        "partij_naam": "Forum voor Democratie",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1735",
+          "name": "Hof van Twente",
+          "stedelijkheid": "Weinig stedelijk",
+          "inwoners": "35040",
+          "adressendichtheid": "608"
+        }
       }
     }
   },
@@ -49929,7 +51812,14 @@
           "Zwolle"
         ],
         "woonplaats": "Hengelo (O)",
-        "partij_naam": "Forum voor Democratie"
+        "partij_naam": "Forum voor Democratie",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0164",
+          "name": "Hengelo",
+          "stedelijkheid": "Sterk stedelijk",
+          "inwoners": "81049",
+          "adressendichtheid": "1845"
+        }
       }
     }
   },
@@ -49976,7 +51866,14 @@
           "Lelystad"
         ],
         "woonplaats": "Bentelo",
-        "partij_naam": "Forum voor Democratie"
+        "partij_naam": "Forum voor Democratie",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1735",
+          "name": "Hof van Twente",
+          "stedelijkheid": "Weinig stedelijk",
+          "inwoners": "35040",
+          "adressendichtheid": "608"
+        }
       }
     }
   },
@@ -49996,7 +51893,14 @@
           "Tilburg"
         ],
         "woonplaats": "Lierderholthuis",
-        "partij_naam": "BBB"
+        "partij_naam": "BBB",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0177",
+          "name": "Raalte",
+          "stedelijkheid": "Weinig stedelijk",
+          "inwoners": "37911",
+          "adressendichtheid": "665"
+        }
       }
     }
   },
@@ -50015,7 +51919,14 @@
           "Zwolle"
         ],
         "woonplaats": "Bathmen",
-        "partij_naam": "BBB"
+        "partij_naam": "BBB",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0150",
+          "name": "Deventer",
+          "stedelijkheid": "Sterk stedelijk",
+          "inwoners": "101236",
+          "adressendichtheid": "1830"
+        }
       }
     }
   },
@@ -50224,7 +52135,14 @@
           "Maastricht"
         ],
         "woonplaats": "Leerdam",
-        "partij_naam": "PartijvdSport"
+        "partij_naam": "PartijvdSport",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1961",
+          "name": "Vijfheerenlanden",
+          "stedelijkheid": "Weinig stedelijk",
+          "inwoners": "57829",
+          "adressendichtheid": "900"
+        }
       }
     }
   },
@@ -50822,7 +52740,14 @@
           "Nijmegen"
         ],
         "woonplaats": "Waardenburg",
-        "partij_naam": "BBB"
+        "partij_naam": "BBB",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1960",
+          "name": "West Betuwe",
+          "stedelijkheid": "Niet stedelijk",
+          "inwoners": "51496",
+          "adressendichtheid": "458"
+        }
       }
     }
   },
@@ -50841,7 +52766,14 @@
           "Arnhem"
         ],
         "woonplaats": "Vaassen",
-        "partij_naam": "Forum voor Democratie"
+        "partij_naam": "Forum voor Democratie",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0232",
+          "name": "Epe",
+          "stedelijkheid": "Weinig stedelijk",
+          "inwoners": "33198",
+          "adressendichtheid": "745"
+        }
       }
     }
   },
@@ -50860,7 +52792,14 @@
           "Arnhem"
         ],
         "woonplaats": "Ruurlo",
-        "partij_naam": "BBB"
+        "partij_naam": "BBB",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1859",
+          "name": "Berkelland",
+          "stedelijkheid": "Weinig stedelijk",
+          "inwoners": "43846",
+          "adressendichtheid": "656"
+        }
       }
     }
   },
@@ -50879,7 +52818,14 @@
           "Utrecht"
         ],
         "woonplaats": "Vianen",
-        "partij_naam": "Forum voor Democratie"
+        "partij_naam": "Forum voor Democratie",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1961",
+          "name": "Vijfheerenlanden",
+          "stedelijkheid": "Weinig stedelijk",
+          "inwoners": "57829",
+          "adressendichtheid": "900"
+        }
       }
     }
   },
@@ -50924,7 +52870,14 @@
           "Utrecht"
         ],
         "woonplaats": "Doorn",
-        "partij_naam": "Forum voor Democratie"
+        "partij_naam": "Forum voor Democratie",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1581",
+          "name": "Utrechtse Heuvelrug",
+          "stedelijkheid": "Weinig stedelijk",
+          "inwoners": "49946",
+          "adressendichtheid": "785"
+        }
       }
     }
   },
@@ -51022,7 +52975,14 @@
           "Utrecht"
         ],
         "woonplaats": "Achterveld",
-        "partij_naam": "BBB"
+        "partij_naam": "BBB",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0327",
+          "name": "Leusden",
+          "stedelijkheid": "Matig stedelijk",
+          "inwoners": "30544",
+          "adressendichtheid": "1266"
+        }
       }
     }
   },
@@ -51526,7 +53486,14 @@
           "Haarlem"
         ],
         "woonplaats": "Marken",
-        "partij_naam": "Forum voor Democratie"
+        "partij_naam": "Forum voor Democratie",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0852",
+          "name": "Waterland",
+          "stedelijkheid": "Weinig stedelijk",
+          "inwoners": "17312",
+          "adressendichtheid": "643"
+        }
       }
     }
   },
@@ -51545,7 +53512,14 @@
           "Haarlem"
         ],
         "woonplaats": "Nederhorst den Berg",
-        "partij_naam": "BBB"
+        "partij_naam": "BBB",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1696",
+          "name": "Wijdemeren",
+          "stedelijkheid": "Weinig stedelijk",
+          "inwoners": "24463",
+          "adressendichtheid": "595"
+        }
       }
     }
   },
@@ -51564,7 +53538,14 @@
           "Den Helder"
         ],
         "woonplaats": "Hem",
-        "partij_naam": "Forum voor Democratie"
+        "partij_naam": "Forum voor Democratie",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0498",
+          "name": "Drechterland",
+          "stedelijkheid": "Weinig stedelijk",
+          "inwoners": "19838",
+          "adressendichtheid": "505"
+        }
       }
     }
   },
@@ -51583,7 +53564,14 @@
           "Den Helder"
         ],
         "woonplaats": "Volendam",
-        "partij_naam": "Forum voor Democratie"
+        "partij_naam": "Forum voor Democratie",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0385",
+          "name": "Edam-Volendam",
+          "stedelijkheid": "Matig stedelijk",
+          "inwoners": "36268",
+          "adressendichtheid": "1318"
+        }
       }
     }
   },
@@ -51602,7 +53590,14 @@
           "Den Helder"
         ],
         "woonplaats": "Wognum",
-        "partij_naam": "BBB"
+        "partij_naam": "BBB",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0420",
+          "name": "Medemblik",
+          "stedelijkheid": "Weinig stedelijk",
+          "inwoners": "45165",
+          "adressendichtheid": "524"
+        }
       }
     }
   },
@@ -51621,7 +53616,14 @@
           "Den Helder"
         ],
         "woonplaats": "Middenbeemster",
-        "partij_naam": "BBB"
+        "partij_naam": "BBB",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0439",
+          "name": "Purmerend",
+          "stedelijkheid": "Sterk stedelijk",
+          "inwoners": "81683",
+          "adressendichtheid": "2253"
+        }
       }
     }
   },
@@ -51947,7 +53949,14 @@
           "'s-Gravenhage"
         ],
         "woonplaats": "Bodegraven",
-        "partij_naam": "BBB"
+        "partij_naam": "BBB",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1901",
+          "name": "Bodegraven-Reeuwijk",
+          "stedelijkheid": "Matig stedelijk",
+          "inwoners": "35278",
+          "adressendichtheid": "1142"
+        }
       }
     }
   },
@@ -51968,7 +53977,14 @@
           "Dordrecht"
         ],
         "woonplaats": "Numansdorp",
-        "partij_naam": "BBB"
+        "partij_naam": "BBB",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1963",
+          "name": "Hoeksche Waard",
+          "stedelijkheid": "Weinig stedelijk",
+          "inwoners": "88047",
+          "adressendichtheid": "834"
+        }
       }
     }
   },
@@ -52092,7 +54108,14 @@
           "Dordrecht"
         ],
         "woonplaats": "Rhoon",
-        "partij_naam": "Forum voor Democratie"
+        "partij_naam": "Forum voor Democratie",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0613",
+          "name": "Albrandswaard",
+          "stedelijkheid": "Matig stedelijk",
+          "inwoners": "25814",
+          "adressendichtheid": "1038"
+        }
       }
     }
   },
@@ -52113,7 +54136,14 @@
           "Middelburg"
         ],
         "woonplaats": "Nootdorp",
-        "partij_naam": "Forum voor Democratie"
+        "partij_naam": "Forum voor Democratie",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1926",
+          "name": "Pijnacker-Nootdorp",
+          "stedelijkheid": "Sterk stedelijk",
+          "inwoners": "55674",
+          "adressendichtheid": "1527"
+        }
       }
     }
   },
@@ -52160,7 +54190,14 @@
           "Bonaire"
         ],
         "woonplaats": "Voorhout",
-        "partij_naam": "Forum voor Democratie"
+        "partij_naam": "Forum voor Democratie",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1525",
+          "name": "Teylingen",
+          "stedelijkheid": "Matig stedelijk",
+          "inwoners": "37791",
+          "adressendichtheid": "1408"
+        }
       }
     }
   },
@@ -52317,7 +54354,14 @@
           "Bonaire"
         ],
         "woonplaats": "Ulft",
-        "partij_naam": "GROENLINKS / Partij van de Arbeid (PvdA)"
+        "partij_naam": "GROENLINKS / Partij van de Arbeid (PvdA)",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1509",
+          "name": "Oude IJsselstreek",
+          "stedelijkheid": "Weinig stedelijk",
+          "inwoners": "39346",
+          "adressendichtheid": "649"
+        }
       }
     }
   },
@@ -52340,7 +54384,14 @@
           "Bonaire"
         ],
         "woonplaats": "Middelaar",
-        "partij_naam": "GROENLINKS / Partij van de Arbeid (PvdA)"
+        "partij_naam": "GROENLINKS / Partij van de Arbeid (PvdA)",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0944",
+          "name": "Mook en Middelaar",
+          "stedelijkheid": "Niet stedelijk",
+          "inwoners": "7909",
+          "adressendichtheid": "433"
+        }
       }
     }
   },
@@ -52442,7 +54493,14 @@
           "Bonaire"
         ],
         "woonplaats": "Westkapelle",
-        "partij_naam": "Forum voor Democratie"
+        "partij_naam": "Forum voor Democratie",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0717",
+          "name": "Veere",
+          "stedelijkheid": "Niet stedelijk",
+          "inwoners": "21953",
+          "adressendichtheid": "347"
+        }
       }
     }
   },
@@ -52487,7 +54545,14 @@
           "Middelburg"
         ],
         "woonplaats": "Colijnsplaat",
-        "partij_naam": "Forum voor Democratie"
+        "partij_naam": "Forum voor Democratie",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1695",
+          "name": "Noord-Beveland",
+          "stedelijkheid": "Niet stedelijk",
+          "inwoners": "7581",
+          "adressendichtheid": "236"
+        }
       }
     }
   },
@@ -52506,7 +54571,14 @@
           "Middelburg"
         ],
         "woonplaats": "Breskens",
-        "partij_naam": "BBB"
+        "partij_naam": "BBB",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1714",
+          "name": "Sluis",
+          "stedelijkheid": "Niet stedelijk",
+          "inwoners": "23166",
+          "adressendichtheid": "434"
+        }
       }
     }
   },
@@ -52525,7 +54597,14 @@
           "Middelburg"
         ],
         "woonplaats": "Zierikzee",
-        "partij_naam": "BBB"
+        "partij_naam": "BBB",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1676",
+          "name": "Schouwen-Duiveland",
+          "stedelijkheid": "Niet stedelijk",
+          "inwoners": "34065",
+          "adressendichtheid": "490"
+        }
       }
     }
   },
@@ -52699,7 +54778,14 @@
           "Tilburg"
         ],
         "woonplaats": "Lage Zwaluwe",
-        "partij_naam": "BBB"
+        "partij_naam": "BBB",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1719",
+          "name": "Drimmelen",
+          "stedelijkheid": "Weinig stedelijk",
+          "inwoners": "27325",
+          "adressendichtheid": "788"
+        }
       }
     }
   },
@@ -52718,7 +54804,14 @@
           "Tilburg"
         ],
         "woonplaats": "Den Hout",
-        "partij_naam": "BBB"
+        "partij_naam": "BBB",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0826",
+          "name": "Oosterhout",
+          "stedelijkheid": "Sterk stedelijk",
+          "inwoners": "56206",
+          "adressendichtheid": "1538"
+        }
       },
       "tk2021": {
         "lijstnummer": 10,
@@ -53004,7 +55097,14 @@
           "Maastricht"
         ],
         "woonplaats": "Jabeek",
-        "partij_naam": "BBB"
+        "partij_naam": "BBB",
+        "gemeente": {
+          "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1954",
+          "name": "Beekdaelen",
+          "stedelijkheid": "Weinig stedelijk",
+          "inwoners": "36065",
+          "adressendichtheid": "501"
+        }
       }
     }
   },

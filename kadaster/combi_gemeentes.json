@@ -1,4 +1,11 @@
 {
+  "fake/eemsdelta": {
+    "iri": "fake/eemsdelta",
+    "name": "Eemsdelta",
+    "stedelijkheid": "Weinig stedelijk",
+    "inwoners": "45587",
+    "adressendichtheid": "692"
+  },
   "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0034": {
     "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0034",
     "name": "Almere",
