@@ -8,7 +8,7 @@
 		}
 	},
 	{
-		"naam": "Lisa Mccray",
+		"naam": "Lisa Mc Cray",
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 2
@@ -32,7 +32,7 @@
 		}
 	},
 	{
-		"naam": "Evita De Miranda",
+		"naam": "Evita de Miranda",
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 5
@@ -40,7 +40,7 @@
 		}
 	},
 	{
-		"naam": "Liyah Park",
+		"naam": "Liyah Berend",
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 6
@@ -64,7 +64,7 @@
 		}
 	},
 	{
-		"naam": "Jesse Ten Caat",
+		"naam": "Jesse ten Caat",
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 9
@@ -88,7 +88,7 @@
 		}
 	},
 	{
-		"naam": "Venus Bijleveld",
+		"naam": "Renske Wienen",
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 12
@@ -96,7 +96,7 @@
 		}
 	},
 	{
-		"naam": "Romana Vrede",
+		"naam": "Venus Bijleveld",
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 13
@@ -104,10 +104,18 @@
 		}
 	},
 	{
-		"naam": "Rebekka Timmer",
+		"naam": "Romana Vrede",
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 14
+			}
+		}
+	},
+	{
+		"naam": "Rebekka Timmer",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 15
 			}
 		}
 	}

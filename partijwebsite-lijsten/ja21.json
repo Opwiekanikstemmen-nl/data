@@ -197,7 +197,7 @@
 		}
 	},
 	{	
-		"naam": "Frank Kaufmann",
+		"naam": "Frank Kauffmann",
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 23,
@@ -224,19 +224,10 @@
 		}
 	},
 	{
-		"naam": "Ronald Buijt",
-		"verkiezingen": {
-			"tk2023": {
-				"lijstnummer": 26,
-				"woonplaats": "Rotterdam"
-			}
-		}
-	},
-	{
 		"naam": "Cynthia Gordijn",
 		"verkiezingen": {
 			"tk2023": {
-				"lijstnummer": 27,
+				"lijstnummer": 26,
 				"woonplaats": "Krommenie"
 			}
 		}
@@ -245,7 +236,7 @@
 		"naam": "Jorik Bloemenkamp",
 		"verkiezingen": {
 			"tk2023": {
-				"lijstnummer": 28,
+				"lijstnummer": 27,
 				"woonplaats": "Deventer"
 			}
 		}
@@ -254,7 +245,7 @@
 		"naam": "Jan Willem Waitz",
 		"verkiezingen": {
 			"tk2023": {
-				"lijstnummer": 29,
+				"lijstnummer": 28,
 				"woonplaats": "Leek"
 			}
 		}
@@ -263,7 +254,7 @@
 		"naam": "Alberto Veenvliet",
 		"verkiezingen": {
 			"tk2023": {
-				"lijstnummer": 30,
+				"lijstnummer": 29,
 				"woonplaats": "Ede"
 			}
 		}
@@ -272,7 +263,7 @@
 		"naam": "Jan Martin Koetje",
 		"verkiezingen": {
 			"tk2023": {
-				"lijstnummer": 31,
+				"lijstnummer": 30,
 				"woonplaats": "Heiligerlee"
 			}
 		}
@@ -281,7 +272,16 @@
 		"naam": "Marc Buijs",
 		"verkiezingen": {
 			"tk2023": {
-				"lijstnummer": 32
+				"lijstnummer": 31
+			}
+		}
+	},
+	{
+		"naam": "Ronald Buijt",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 32,
+				"woonplaats": "Rotterdam"
 			}
 		}
 	},
@@ -329,7 +329,7 @@
 		}
 	},
 	{
-		"naam": "Simon Fortuyn",
+		"naam": "Simon Fortuijn",
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 38,
