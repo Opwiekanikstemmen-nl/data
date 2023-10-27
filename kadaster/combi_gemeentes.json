@@ -1,0 +1,2459 @@
+{
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0034": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0034",
+    "name": "Almere",
+    "stedelijkheid": "Sterk stedelijk",
+    "inwoners": "214715",
+    "adressendichtheid": "1616"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0088": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0088",
+    "name": "Schiermonnikoog",
+    "stedelijkheid": "Niet stedelijk",
+    "inwoners": "931",
+    "adressendichtheid": "317"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0119": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0119",
+    "name": "Meppel",
+    "stedelijkheid": "Matig stedelijk",
+    "inwoners": "34386",
+    "adressendichtheid": "1287"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0202": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0202",
+    "name": "Arnhem",
+    "stedelijkheid": "Sterk stedelijk",
+    "inwoners": "162424",
+    "adressendichtheid": "2239"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0263": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0263",
+    "name": "Maasdriel",
+    "stedelijkheid": "Niet stedelijk",
+    "inwoners": "25452",
+    "adressendichtheid": "481"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0293": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0293",
+    "name": "Westervoort",
+    "stedelijkheid": "Matig stedelijk",
+    "inwoners": "15014",
+    "adressendichtheid": "1158"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0301": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0301",
+    "name": "Zutphen",
+    "stedelijkheid": "Sterk stedelijk",
+    "inwoners": "48111",
+    "adressendichtheid": "1658"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0302": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0302",
+    "name": "Nunspeet",
+    "stedelijkheid": "Weinig stedelijk",
+    "inwoners": "28021",
+    "adressendichtheid": "807"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0339": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0339",
+    "name": "Renswoude",
+    "stedelijkheid": "Weinig stedelijk",
+    "inwoners": "5556",
+    "adressendichtheid": "519"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0355": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0355",
+    "name": "Zeist",
+    "stedelijkheid": "Sterk stedelijk",
+    "inwoners": "65043",
+    "adressendichtheid": "1601"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0383": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0383",
+    "name": "Castricum",
+    "stedelijkheid": "Matig stedelijk",
+    "inwoners": "36086",
+    "adressendichtheid": "1348"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0416": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0416",
+    "name": "Langedijk",
+    "stedelijkheid": "Weinig stedelijk",
+    "inwoners": "28335",
+    "adressendichtheid": "946"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0457": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0457",
+    "name": "Weesp",
+    "stedelijkheid": "Sterk stedelijk",
+    "inwoners": "20445",
+    "adressendichtheid": "1789"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0503": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0503",
+    "name": "Delft",
+    "stedelijkheid": "Zeer sterk stedelijk",
+    "inwoners": "103581",
+    "adressendichtheid": "3562"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0546": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0546",
+    "name": "Leiden",
+    "stedelijkheid": "Zeer sterk stedelijk",
+    "inwoners": "124093",
+    "adressendichtheid": "3797"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0622": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0622",
+    "name": "Vlaardingen",
+    "stedelijkheid": "Zeer sterk stedelijk",
+    "inwoners": "73924",
+    "adressendichtheid": "2803"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0664": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0664",
+    "name": "Goes",
+    "stedelijkheid": "Matig stedelijk",
+    "inwoners": "38594",
+    "adressendichtheid": "1348"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0762": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0762",
+    "name": "Deurne",
+    "stedelijkheid": "Weinig stedelijk",
+    "inwoners": "32437",
+    "adressendichtheid": "891"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0784": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0784",
+    "name": "Gilze en Rijen",
+    "stedelijkheid": "Matig stedelijk",
+    "inwoners": "26723",
+    "adressendichtheid": "1088"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0826": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0826",
+    "name": "Oosterhout",
+    "stedelijkheid": "Sterk stedelijk",
+    "inwoners": "56206",
+    "adressendichtheid": "1538"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0938": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0938",
+    "name": "Meerssen",
+    "stedelijkheid": "Weinig stedelijk",
+    "inwoners": "18661",
+    "adressendichtheid": "616"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1655": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1655",
+    "name": "Halderberge",
+    "stedelijkheid": "Weinig stedelijk",
+    "inwoners": "30430",
+    "adressendichtheid": "758"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1667": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1667",
+    "name": "Reusel-De Mierden",
+    "stedelijkheid": "Weinig stedelijk",
+    "inwoners": "13127",
+    "adressendichtheid": "571"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1680": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1680",
+    "name": "Aa en Hunze",
+    "stedelijkheid": "Niet stedelijk",
+    "inwoners": "25399",
+    "adressendichtheid": "281"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1690": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1690",
+    "name": "De Wolden",
+    "stedelijkheid": "Niet stedelijk",
+    "inwoners": "24374",
+    "adressendichtheid": "311"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1701": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1701",
+    "name": "Westerveld",
+    "stedelijkheid": "Niet stedelijk",
+    "inwoners": "19661",
+    "adressendichtheid": "213"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1708": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1708",
+    "name": "Steenwijkerland",
+    "stedelijkheid": "Weinig stedelijk",
+    "inwoners": "44341",
+    "adressendichtheid": "592"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1884": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1884",
+    "name": "Kaag en Braassem",
+    "stedelijkheid": "Weinig stedelijk",
+    "inwoners": "27541",
+    "adressendichtheid": "631"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1945": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1945",
+    "name": "Berg en Dal",
+    "stedelijkheid": "Weinig stedelijk",
+    "inwoners": "35010",
+    "adressendichtheid": "653"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0014": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0014",
+    "name": "Groningen",
+    "stedelijkheid": "Zeer sterk stedelijk",
+    "inwoners": "233273",
+    "adressendichtheid": "3312"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0093": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0093",
+    "name": "Terschelling",
+    "stedelijkheid": "Niet stedelijk",
+    "inwoners": "4870",
+    "adressendichtheid": "250"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0189": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0189",
+    "name": "Wierden",
+    "stedelijkheid": "Weinig stedelijk",
+    "inwoners": "24538",
+    "adressendichtheid": "711"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0273": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0273",
+    "name": "Putten",
+    "stedelijkheid": "Weinig stedelijk",
+    "inwoners": "24365",
+    "adressendichtheid": "914"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0279": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0279",
+    "name": "Scherpenzeel",
+    "stedelijkheid": "Weinig stedelijk",
+    "inwoners": "10128",
+    "adressendichtheid": "934"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0296": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0296",
+    "name": "Wijchen",
+    "stedelijkheid": "Matig stedelijk",
+    "inwoners": "41261",
+    "adressendichtheid": "1234"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0327": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0327",
+    "name": "Leusden",
+    "stedelijkheid": "Matig stedelijk",
+    "inwoners": "30544",
+    "adressendichtheid": "1266"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0377": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0377",
+    "name": "Bloemendaal",
+    "stedelijkheid": "Matig stedelijk",
+    "inwoners": "23478",
+    "adressendichtheid": "1092"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0394": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0394",
+    "name": "Haarlemmermeer",
+    "stedelijkheid": "Sterk stedelijk",
+    "inwoners": "157789",
+    "adressendichtheid": "1532"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0396": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0396",
+    "name": "Heemskerk",
+    "stedelijkheid": "Sterk stedelijk",
+    "inwoners": "39191",
+    "adressendichtheid": "2346"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0420": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0420",
+    "name": "Medemblik",
+    "stedelijkheid": "Weinig stedelijk",
+    "inwoners": "45165",
+    "adressendichtheid": "524"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0484": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0484",
+    "name": "Alphen aan den Rijn",
+    "stedelijkheid": "Sterk stedelijk",
+    "inwoners": "112587",
+    "adressendichtheid": "1873"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0502": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0502",
+    "name": "Capelle aan den IJssel",
+    "stedelijkheid": "Sterk stedelijk",
+    "inwoners": "67319",
+    "adressendichtheid": "2308"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0530": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0530",
+    "name": "Hellevoetsluis",
+    "stedelijkheid": "Sterk stedelijk",
+    "inwoners": "40312",
+    "adressendichtheid": "1523"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0531": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0531",
+    "name": "Hendrik-Ido-Ambacht",
+    "stedelijkheid": "Sterk stedelijk",
+    "inwoners": "31258",
+    "adressendichtheid": "1826"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0553": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0553",
+    "name": "Lisse",
+    "stedelijkheid": "Sterk stedelijk",
+    "inwoners": "22982",
+    "adressendichtheid": "1653"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0629": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0629",
+    "name": "Wassenaar",
+    "stedelijkheid": "Matig stedelijk",
+    "inwoners": "26949",
+    "adressendichtheid": "1447"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0703": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0703",
+    "name": "Reimerswaal",
+    "stedelijkheid": "Weinig stedelijk",
+    "inwoners": "22896",
+    "adressendichtheid": "518"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0755": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0755",
+    "name": "Boekel",
+    "stedelijkheid": "Weinig stedelijk",
+    "inwoners": "10959",
+    "adressendichtheid": "551"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0867": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0867",
+    "name": "Waalwijk",
+    "stedelijkheid": "Matig stedelijk",
+    "inwoners": "48815",
+    "adressendichtheid": "1311"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0957": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0957",
+    "name": "Roermond",
+    "stedelijkheid": "Sterk stedelijk",
+    "inwoners": "58763",
+    "adressendichtheid": "1509"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1581": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1581",
+    "name": "Utrechtse Heuvelrug",
+    "stedelijkheid": "Weinig stedelijk",
+    "inwoners": "49946",
+    "adressendichtheid": "785"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1721": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1721",
+    "name": "Bernheze",
+    "stedelijkheid": "Weinig stedelijk",
+    "inwoners": "31455",
+    "adressendichtheid": "686"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1771": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1771",
+    "name": "Geldrop-Mierlo",
+    "stedelijkheid": "Matig stedelijk",
+    "inwoners": "40066",
+    "adressendichtheid": "1369"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1916": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1916",
+    "name": "Leidschendam-Voorburg",
+    "stedelijkheid": "Zeer sterk stedelijk",
+    "inwoners": "76433",
+    "adressendichtheid": "2916"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1926": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1926",
+    "name": "Pijnacker-Nootdorp",
+    "stedelijkheid": "Sterk stedelijk",
+    "inwoners": "55674",
+    "adressendichtheid": "1527"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0173": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0173",
+    "name": "Oldenzaal",
+    "stedelijkheid": "Matig stedelijk",
+    "inwoners": "31701",
+    "adressendichtheid": "1474"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0216": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0216",
+    "name": "Culemborg",
+    "stedelijkheid": "Matig stedelijk",
+    "inwoners": "29121",
+    "adressendichtheid": "1479"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0275": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0275",
+    "name": "Rheden",
+    "stedelijkheid": "Matig stedelijk",
+    "inwoners": "43525",
+    "adressendichtheid": "1458"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0331": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0331",
+    "name": "Lopik",
+    "stedelijkheid": "Niet stedelijk",
+    "inwoners": "14456",
+    "adressendichtheid": "373"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0344": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0344",
+    "name": "Utrecht",
+    "stedelijkheid": "Zeer sterk stedelijk",
+    "inwoners": "359370",
+    "adressendichtheid": "3479"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0363": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0363",
+    "name": "Amsterdam",
+    "stedelijkheid": "Zeer sterk stedelijk",
+    "inwoners": "873338",
+    "adressendichtheid": "6096"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0384": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0384",
+    "name": "Diemen",
+    "stedelijkheid": "Zeer sterk stedelijk",
+    "inwoners": "31334",
+    "adressendichtheid": "2802"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0400": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0400",
+    "name": "Den Helder",
+    "stedelijkheid": "Sterk stedelijk",
+    "inwoners": "56582",
+    "adressendichtheid": "1696"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0415": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0415",
+    "name": "Landsmeer",
+    "stedelijkheid": "Matig stedelijk",
+    "inwoners": "11565",
+    "adressendichtheid": "1038"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0638": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0638",
+    "name": "Zoeterwoude",
+    "stedelijkheid": "Weinig stedelijk",
+    "inwoners": "8843",
+    "adressendichtheid": "804"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0668": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0668",
+    "name": "West Maas en Waal",
+    "stedelijkheid": "Niet stedelijk",
+    "inwoners": "19581",
+    "adressendichtheid": "428"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0677": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0677",
+    "name": "Hulst",
+    "stedelijkheid": "Weinig stedelijk",
+    "inwoners": "27575",
+    "adressendichtheid": "511"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0748": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0748",
+    "name": "Bergen op Zoom",
+    "stedelijkheid": "Sterk stedelijk",
+    "inwoners": "67514",
+    "adressendichtheid": "1855"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0765": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0765",
+    "name": "Pekela",
+    "stedelijkheid": "Weinig stedelijk",
+    "inwoners": "12176",
+    "adressendichtheid": "533"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0882": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0882",
+    "name": "Landgraaf",
+    "stedelijkheid": "Matig stedelijk",
+    "inwoners": "37262",
+    "adressendichtheid": "1457"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0994": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0994",
+    "name": "Valkenburg aan de Geul",
+    "stedelijkheid": "Weinig stedelijk",
+    "inwoners": "16365",
+    "adressendichtheid": "680"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1659": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1659",
+    "name": "Laarbeek",
+    "stedelijkheid": "Weinig stedelijk",
+    "inwoners": "22805",
+    "adressendichtheid": "649"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1706": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1706",
+    "name": "Cranendonck",
+    "stedelijkheid": "Weinig stedelijk",
+    "inwoners": "21001",
+    "adressendichtheid": "592"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1734": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1734",
+    "name": "Overbetuwe",
+    "stedelijkheid": "Weinig stedelijk",
+    "inwoners": "48214",
+    "adressendichtheid": "809"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1895": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1895",
+    "name": "Oldambt",
+    "stedelijkheid": "Weinig stedelijk",
+    "inwoners": "38277",
+    "adressendichtheid": "831"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1901": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1901",
+    "name": "Bodegraven-Reeuwijk",
+    "stedelijkheid": "Matig stedelijk",
+    "inwoners": "35278",
+    "adressendichtheid": "1142"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1942": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1942",
+    "name": "Gooise Meren",
+    "stedelijkheid": "Sterk stedelijk",
+    "inwoners": "58524",
+    "adressendichtheid": "1911"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0098": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0098",
+    "name": "Weststellingwerf",
+    "stedelijkheid": "Weinig stedelijk",
+    "inwoners": "26130",
+    "adressendichtheid": "679"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0118": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0118",
+    "name": "Hoogeveen",
+    "stedelijkheid": "Matig stedelijk",
+    "inwoners": "55603",
+    "adressendichtheid": "1214"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0147": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0147",
+    "name": "Borne",
+    "stedelijkheid": "Matig stedelijk",
+    "inwoners": "23668",
+    "adressendichtheid": "1237"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0160": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0160",
+    "name": "Hardenberg",
+    "stedelijkheid": "Weinig stedelijk",
+    "inwoners": "61357",
+    "adressendichtheid": "565"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0180": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0180",
+    "name": "Staphorst",
+    "stedelijkheid": "Niet stedelijk",
+    "inwoners": "17261",
+    "adressendichtheid": "356"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0203": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0203",
+    "name": "Barneveld",
+    "stedelijkheid": "Weinig stedelijk",
+    "inwoners": "59992",
+    "adressendichtheid": "885"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0225": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0225",
+    "name": "Druten",
+    "stedelijkheid": "Weinig stedelijk",
+    "inwoners": "18991",
+    "adressendichtheid": "802"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0269": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0269",
+    "name": "Oldebroek",
+    "stedelijkheid": "Weinig stedelijk",
+    "inwoners": "23760",
+    "adressendichtheid": "655"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0299": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0299",
+    "name": "Zevenaar",
+    "stedelijkheid": "Matig stedelijk",
+    "inwoners": "44096",
+    "adressendichtheid": "1046"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0345": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0345",
+    "name": "Veenendaal",
+    "stedelijkheid": "Sterk stedelijk",
+    "inwoners": "66912",
+    "adressendichtheid": "2200"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0405": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0405",
+    "name": "Hoorn",
+    "stedelijkheid": "Sterk stedelijk",
+    "inwoners": "73619",
+    "adressendichtheid": "1701"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0417": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0417",
+    "name": "Laren",
+    "stedelijkheid": "Matig stedelijk",
+    "inwoners": "11398",
+    "adressendichtheid": "1104"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0432": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0432",
+    "name": "Opmeer",
+    "stedelijkheid": "Weinig stedelijk",
+    "inwoners": "12009",
+    "adressendichtheid": "535"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0479": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0479",
+    "name": "Zaanstad",
+    "stedelijkheid": "Sterk stedelijk",
+    "inwoners": "156901",
+    "adressendichtheid": "2053"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0512": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0512",
+    "name": "Gorinchem",
+    "stedelijkheid": "Sterk stedelijk",
+    "inwoners": "37410",
+    "adressendichtheid": "1735"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0626": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0626",
+    "name": "Voorschoten",
+    "stedelijkheid": "Sterk stedelijk",
+    "inwoners": "25650",
+    "adressendichtheid": "1860"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0716": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0716",
+    "name": "Tholen",
+    "stedelijkheid": "Niet stedelijk",
+    "inwoners": "26085",
+    "adressendichtheid": "488"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0757": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0757",
+    "name": "Boxtel",
+    "stedelijkheid": "Matig stedelijk",
+    "inwoners": "32973",
+    "adressendichtheid": "1161"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0815": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0815",
+    "name": "Mill en Sint Hubert",
+    "stedelijkheid": "Niet stedelijk",
+    "inwoners": "11004",
+    "adressendichtheid": "323"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0824": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0824",
+    "name": "Oisterwijk",
+    "stedelijkheid": "Weinig stedelijk",
+    "inwoners": "32373",
+    "adressendichtheid": "925"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1676": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1676",
+    "name": "Schouwen-Duiveland",
+    "stedelijkheid": "Niet stedelijk",
+    "inwoners": "34065",
+    "adressendichtheid": "490"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1735": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1735",
+    "name": "Hof van Twente",
+    "stedelijkheid": "Weinig stedelijk",
+    "inwoners": "35040",
+    "adressendichtheid": "608"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1773": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1773",
+    "name": "Olst-Wijhe",
+    "stedelijkheid": "Niet stedelijk",
+    "inwoners": "18361",
+    "adressendichtheid": "473"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1774": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1774",
+    "name": "Dinkelland",
+    "stedelijkheid": "Niet stedelijk",
+    "inwoners": "26606",
+    "adressendichtheid": "471"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1859": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1859",
+    "name": "Berkelland",
+    "stedelijkheid": "Weinig stedelijk",
+    "inwoners": "43846",
+    "adressendichtheid": "656"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1924": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1924",
+    "name": "Goeree-Overflakkee",
+    "stedelijkheid": "Weinig stedelijk",
+    "inwoners": "50589",
+    "adressendichtheid": "631"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1930": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1930",
+    "name": "Nissewaard",
+    "stedelijkheid": "Sterk stedelijk",
+    "inwoners": "85440",
+    "adressendichtheid": "2039"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1940": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1940",
+    "name": "De Fryske Marren",
+    "stedelijkheid": "Weinig stedelijk",
+    "inwoners": "51778",
+    "adressendichtheid": "556"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1950": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1950",
+    "name": "Westerwolde",
+    "stedelijkheid": "Niet stedelijk",
+    "inwoners": "26215",
+    "adressendichtheid": "286"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0059": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0059",
+    "name": "Achtkarspelen",
+    "stedelijkheid": "Niet stedelijk",
+    "inwoners": "27900",
+    "adressendichtheid": "429"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0072": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0072",
+    "name": "Harlingen",
+    "stedelijkheid": "Matig stedelijk",
+    "inwoners": "15807",
+    "adressendichtheid": "1086"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0086": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0086",
+    "name": "Opsterland",
+    "stedelijkheid": "Niet stedelijk",
+    "inwoners": "29812",
+    "adressendichtheid": "412"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0150": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0150",
+    "name": "Deventer",
+    "stedelijkheid": "Sterk stedelijk",
+    "inwoners": "101236",
+    "adressendichtheid": "1830"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0158": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0158",
+    "name": "Haaksbergen",
+    "stedelijkheid": "Matig stedelijk",
+    "inwoners": "24229",
+    "adressendichtheid": "1044"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0163": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0163",
+    "name": "Hellendoorn",
+    "stedelijkheid": "Weinig stedelijk",
+    "inwoners": "35932",
+    "adressendichtheid": "818"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0222": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0222",
+    "name": "Doetinchem",
+    "stedelijkheid": "Matig stedelijk",
+    "inwoners": "58270",
+    "adressendichtheid": "1154"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0268": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0268",
+    "name": "Nijmegen",
+    "stedelijkheid": "Sterk stedelijk",
+    "inwoners": "177359",
+    "adressendichtheid": "2409"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0289": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0289",
+    "name": "Wageningen",
+    "stedelijkheid": "Sterk stedelijk",
+    "inwoners": "39635",
+    "adressendichtheid": "2078"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0308": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0308",
+    "name": "Baarn",
+    "stedelijkheid": "Sterk stedelijk",
+    "inwoners": "24792",
+    "adressendichtheid": "1618"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0321": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0321",
+    "name": "Houten",
+    "stedelijkheid": "Sterk stedelijk",
+    "inwoners": "50223",
+    "adressendichtheid": "1548"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0398": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0398",
+    "name": "Heerhugowaard",
+    "stedelijkheid": "Sterk stedelijk",
+    "inwoners": "58387",
+    "adressendichtheid": "1693"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0437": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0437",
+    "name": "Ouder-Amstel",
+    "stedelijkheid": "Matig stedelijk",
+    "inwoners": "14125",
+    "adressendichtheid": "1320"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0501": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0501",
+    "name": "Brielle",
+    "stedelijkheid": "Weinig stedelijk",
+    "inwoners": "17439",
+    "adressendichtheid": "892"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0717": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0717",
+    "name": "Veere",
+    "stedelijkheid": "Niet stedelijk",
+    "inwoners": "21953",
+    "adressendichtheid": "347"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0736": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0736",
+    "name": "De Ronde Venen",
+    "stedelijkheid": "Weinig stedelijk",
+    "inwoners": "44720",
+    "adressendichtheid": "882"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0744": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0744",
+    "name": "Baarle-Nassau",
+    "stedelijkheid": "Niet stedelijk",
+    "inwoners": "6899",
+    "adressendichtheid": "348"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0753": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0753",
+    "name": "Best",
+    "stedelijkheid": "Matig stedelijk",
+    "inwoners": "30216",
+    "adressendichtheid": "1437"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0785": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0785",
+    "name": "Goirle",
+    "stedelijkheid": "Matig stedelijk",
+    "inwoners": "23952",
+    "adressendichtheid": "1181"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0820": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0820",
+    "name": "Nuenen, Gerwen en Nederwetten",
+    "stedelijkheid": "Matig stedelijk",
+    "inwoners": "23702",
+    "adressendichtheid": "1111"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0852": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0852",
+    "name": "Waterland",
+    "stedelijkheid": "Weinig stedelijk",
+    "inwoners": "17312",
+    "adressendichtheid": "643"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0917": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0917",
+    "name": "Heerlen",
+    "stedelijkheid": "Sterk stedelijk",
+    "inwoners": "86936",
+    "adressendichtheid": "1817"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0983": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0983",
+    "name": "Venlo",
+    "stedelijkheid": "Sterk stedelijk",
+    "inwoners": "101988",
+    "adressendichtheid": "1660"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1509": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1509",
+    "name": "Oude IJsselstreek",
+    "stedelijkheid": "Weinig stedelijk",
+    "inwoners": "39346",
+    "adressendichtheid": "649"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1641": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1641",
+    "name": "Maasgouw",
+    "stedelijkheid": "Niet stedelijk",
+    "inwoners": "23947",
+    "adressendichtheid": "442"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1709": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1709",
+    "name": "Moerdijk",
+    "stedelijkheid": "Weinig stedelijk",
+    "inwoners": "37185",
+    "adressendichtheid": "748"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0213": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0213",
+    "name": "Brummen",
+    "stedelijkheid": "Weinig stedelijk",
+    "inwoners": "20884",
+    "adressendichtheid": "769"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0233": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0233",
+    "name": "Ermelo",
+    "stedelijkheid": "Weinig stedelijk",
+    "inwoners": "27016",
+    "adressendichtheid": "911"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0262": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0262",
+    "name": "Lochem",
+    "stedelijkheid": "Weinig stedelijk",
+    "inwoners": "33948",
+    "adressendichtheid": "595"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0489": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0489",
+    "name": "Barendrecht",
+    "stedelijkheid": "Sterk stedelijk",
+    "inwoners": "48643",
+    "adressendichtheid": "1670"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0532": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0532",
+    "name": "Stede Broec",
+    "stedelijkheid": "Matig stedelijk",
+    "inwoners": "21743",
+    "adressendichtheid": "1145"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0589": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0589",
+    "name": "Oudewater",
+    "stedelijkheid": "Weinig stedelijk",
+    "inwoners": "10138",
+    "adressendichtheid": "845"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0599": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0599",
+    "name": "Rotterdam",
+    "stedelijkheid": "Zeer sterk stedelijk",
+    "inwoners": "651631",
+    "adressendichtheid": "4012"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0614": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0614",
+    "name": "Westvoorne",
+    "stedelijkheid": "Weinig stedelijk",
+    "inwoners": "14900",
+    "adressendichtheid": "620"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0796": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0796",
+    "name": "'s-Hertogenbosch",
+    "stedelijkheid": "Sterk stedelijk",
+    "inwoners": "155490",
+    "adressendichtheid": "1992"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0866": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0866",
+    "name": "Waalre",
+    "stedelijkheid": "Weinig stedelijk",
+    "inwoners": "17544",
+    "adressendichtheid": "858"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0889": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0889",
+    "name": "Beesel",
+    "stedelijkheid": "Weinig stedelijk",
+    "inwoners": "13450",
+    "adressendichtheid": "756"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0907": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0907",
+    "name": "Gennep",
+    "stedelijkheid": "Weinig stedelijk",
+    "inwoners": "17035",
+    "adressendichtheid": "644"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0928": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0928",
+    "name": "Kerkrade",
+    "stedelijkheid": "Sterk stedelijk",
+    "inwoners": "45442",
+    "adressendichtheid": "1754"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0981": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0981",
+    "name": "Vaals",
+    "stedelijkheid": "Matig stedelijk",
+    "inwoners": "10084",
+    "adressendichtheid": "1058"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1681": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1681",
+    "name": "Borger-Odoorn",
+    "stedelijkheid": "Niet stedelijk",
+    "inwoners": "25598",
+    "adressendichtheid": "264"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1729": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1729",
+    "name": "Gulpen-Wittem",
+    "stedelijkheid": "Niet stedelijk",
+    "inwoners": "14206",
+    "adressendichtheid": "289"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1730": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1730",
+    "name": "Tynaarlo",
+    "stedelijkheid": "Weinig stedelijk",
+    "inwoners": "33978",
+    "adressendichtheid": "510"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1970": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1970",
+    "name": "Noardeast-Fryslân",
+    "stedelijkheid": "Niet stedelijk",
+    "inwoners": "45481",
+    "adressendichtheid": "463"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0050": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0050",
+    "name": "Zeewolde",
+    "stedelijkheid": "Weinig stedelijk",
+    "inwoners": "22879",
+    "adressendichtheid": "822"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0164": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0164",
+    "name": "Hengelo",
+    "stedelijkheid": "Sterk stedelijk",
+    "inwoners": "81049",
+    "adressendichtheid": "1845"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0244": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0244",
+    "name": "Hattem",
+    "stedelijkheid": "Weinig stedelijk",
+    "inwoners": "12228",
+    "adressendichtheid": "822"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0312": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0312",
+    "name": "Bunnik",
+    "stedelijkheid": "Weinig stedelijk",
+    "inwoners": "15341",
+    "adressendichtheid": "667"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0342": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0342",
+    "name": "Soest",
+    "stedelijkheid": "Matig stedelijk",
+    "inwoners": "46906",
+    "adressendichtheid": "1469"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0376": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0376",
+    "name": "Blaricum",
+    "stedelijkheid": "Matig stedelijk",
+    "inwoners": "11954",
+    "adressendichtheid": "1081"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0406": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0406",
+    "name": "Huizen",
+    "stedelijkheid": "Sterk stedelijk",
+    "inwoners": "41090",
+    "adressendichtheid": "2040"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0453": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0453",
+    "name": "Velsen",
+    "stedelijkheid": "Sterk stedelijk",
+    "inwoners": "68617",
+    "adressendichtheid": "1865"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0575": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0575",
+    "name": "Noordwijk",
+    "stedelijkheid": "Matig stedelijk",
+    "inwoners": "44062",
+    "adressendichtheid": "1399"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0613": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0613",
+    "name": "Albrandswaard",
+    "stedelijkheid": "Matig stedelijk",
+    "inwoners": "25814",
+    "adressendichtheid": "1038"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0632": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0632",
+    "name": "Woerden",
+    "stedelijkheid": "Matig stedelijk",
+    "inwoners": "52694",
+    "adressendichtheid": "1390"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0758": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0758",
+    "name": "Breda",
+    "stedelijkheid": "Sterk stedelijk",
+    "inwoners": "184126",
+    "adressendichtheid": "2202"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0779": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0779",
+    "name": "Geertruidenberg",
+    "stedelijkheid": "Matig stedelijk",
+    "inwoners": "21770",
+    "adressendichtheid": "1090"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0786": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0786",
+    "name": "Grave",
+    "stedelijkheid": "Weinig stedelijk",
+    "inwoners": "12486",
+    "adressendichtheid": "639"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0856": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0856",
+    "name": "Uden",
+    "stedelijkheid": "Matig stedelijk",
+    "inwoners": "42291",
+    "adressendichtheid": "1384"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0946": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0946",
+    "name": "Nederweert",
+    "stedelijkheid": "Weinig stedelijk",
+    "inwoners": "17171",
+    "adressendichtheid": "646"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1696": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1696",
+    "name": "Wijdemeren",
+    "stedelijkheid": "Weinig stedelijk",
+    "inwoners": "24463",
+    "adressendichtheid": "595"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0106": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0106",
+    "name": "Assen",
+    "stedelijkheid": "Sterk stedelijk",
+    "inwoners": "68836",
+    "adressendichtheid": "1582"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0175": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0175",
+    "name": "Ommen",
+    "stedelijkheid": "Weinig stedelijk",
+    "inwoners": "18295",
+    "adressendichtheid": "507"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0197": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0197",
+    "name": "Aalten",
+    "stedelijkheid": "Weinig stedelijk",
+    "inwoners": "27120",
+    "adressendichtheid": "774"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0209": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0209",
+    "name": "Beuningen",
+    "stedelijkheid": "Matig stedelijk",
+    "inwoners": "26157",
+    "adressendichtheid": "1000"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0214": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0214",
+    "name": "Buren",
+    "stedelijkheid": "Niet stedelijk",
+    "inwoners": "27009",
+    "adressendichtheid": "292"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0246": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0246",
+    "name": "Heerde",
+    "stedelijkheid": "Weinig stedelijk",
+    "inwoners": "18776",
+    "adressendichtheid": "615"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0351": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0351",
+    "name": "Woudenberg",
+    "stedelijkheid": "Weinig stedelijk",
+    "inwoners": "13639",
+    "adressendichtheid": "973"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0373": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0373",
+    "name": "Bergen (NH.)",
+    "stedelijkheid": "Weinig stedelijk",
+    "inwoners": "29715",
+    "adressendichtheid": "819"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0397": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0397",
+    "name": "Heemstede",
+    "stedelijkheid": "Sterk stedelijk",
+    "inwoners": "27545",
+    "adressendichtheid": "1781"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0505": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0505",
+    "name": "Dordrecht",
+    "stedelijkheid": "Zeer sterk stedelijk",
+    "inwoners": "119115",
+    "adressendichtheid": "2523"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0537": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0537",
+    "name": "Katwijk",
+    "stedelijkheid": "Sterk stedelijk",
+    "inwoners": "65995",
+    "adressendichtheid": "2163"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0556": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0556",
+    "name": "Maassluis",
+    "stedelijkheid": "Sterk stedelijk",
+    "inwoners": "33567",
+    "adressendichtheid": "2010"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0743": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0743",
+    "name": "Asten",
+    "stedelijkheid": "Weinig stedelijk",
+    "inwoners": "16817",
+    "adressendichtheid": "975"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0777": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0777",
+    "name": "Etten-Leur",
+    "stedelijkheid": "Sterk stedelijk",
+    "inwoners": "43869",
+    "adressendichtheid": "1670"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0798": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0798",
+    "name": "Hilvarenbeek",
+    "stedelijkheid": "Weinig stedelijk",
+    "inwoners": "15698",
+    "adressendichtheid": "591"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0880": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0880",
+    "name": "Wormerland",
+    "stedelijkheid": "Matig stedelijk",
+    "inwoners": "16333",
+    "adressendichtheid": "1440"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0944": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0944",
+    "name": "Mook en Middelaar",
+    "stedelijkheid": "Niet stedelijk",
+    "inwoners": "7909",
+    "adressendichtheid": "433"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0965": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0965",
+    "name": "Simpelveld",
+    "stedelijkheid": "Weinig stedelijk",
+    "inwoners": "10477",
+    "adressendichtheid": "681"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1702": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1702",
+    "name": "Sint Anthonis",
+    "stedelijkheid": "Niet stedelijk",
+    "inwoners": "11691",
+    "adressendichtheid": "274"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1724": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1724",
+    "name": "Bergeijk",
+    "stedelijkheid": "Weinig stedelijk",
+    "inwoners": "18754",
+    "adressendichtheid": "509"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1842": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1842",
+    "name": "Midden-Delfland",
+    "stedelijkheid": "Matig stedelijk",
+    "inwoners": "19414",
+    "adressendichtheid": "1335"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1883": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1883",
+    "name": "Sittard-Geleen",
+    "stedelijkheid": "Sterk stedelijk",
+    "inwoners": "91743",
+    "adressendichtheid": "1504"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1911": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1911",
+    "name": "Hollands Kroon",
+    "stedelijkheid": "Niet stedelijk",
+    "inwoners": "48583",
+    "adressendichtheid": "433"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0109": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0109",
+    "name": "Coevorden",
+    "stedelijkheid": "Niet stedelijk",
+    "inwoners": "35317",
+    "adressendichtheid": "498"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0114": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0114",
+    "name": "Emmen",
+    "stedelijkheid": "Weinig stedelijk",
+    "inwoners": "107024",
+    "adressendichtheid": "854"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0166": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0166",
+    "name": "Kampen",
+    "stedelijkheid": "Matig stedelijk",
+    "inwoners": "54474",
+    "adressendichtheid": "1476"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0230": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0230",
+    "name": "Elburg",
+    "stedelijkheid": "Weinig stedelijk",
+    "inwoners": "23429",
+    "adressendichtheid": "683"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0399": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0399",
+    "name": "Heiloo",
+    "stedelijkheid": "Matig stedelijk",
+    "inwoners": "24144",
+    "adressendichtheid": "1358"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0450": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0450",
+    "name": "Uitgeest",
+    "stedelijkheid": "Matig stedelijk",
+    "inwoners": "13632",
+    "adressendichtheid": "1105"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0579": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0579",
+    "name": "Oegstgeest",
+    "stedelijkheid": "Sterk stedelijk",
+    "inwoners": "25064",
+    "adressendichtheid": "1770"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0637": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0637",
+    "name": "Zoetermeer",
+    "stedelijkheid": "Zeer sterk stedelijk",
+    "inwoners": "125267",
+    "adressendichtheid": "2513"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0756": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0756",
+    "name": "Boxmeer",
+    "stedelijkheid": "Weinig stedelijk",
+    "inwoners": "29609",
+    "adressendichtheid": "673"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0770": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0770",
+    "name": "Eersel",
+    "stedelijkheid": "Weinig stedelijk",
+    "inwoners": "19528",
+    "adressendichtheid": "580"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0845": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0845",
+    "name": "Sint-Michielsgestel",
+    "stedelijkheid": "Weinig stedelijk",
+    "inwoners": "29498",
+    "adressendichtheid": "635"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0858": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0858",
+    "name": "Valkenswaard",
+    "stedelijkheid": "Matig stedelijk",
+    "inwoners": "31221",
+    "adressendichtheid": "1484"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0899": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0899",
+    "name": "Brunssum",
+    "stedelijkheid": "Sterk stedelijk",
+    "inwoners": "27670",
+    "adressendichtheid": "1669"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0988": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0988",
+    "name": "Weert",
+    "stedelijkheid": "Matig stedelijk",
+    "inwoners": "50011",
+    "adressendichtheid": "1346"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1525": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1525",
+    "name": "Teylingen",
+    "stedelijkheid": "Matig stedelijk",
+    "inwoners": "37791",
+    "adressendichtheid": "1408"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1684": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1684",
+    "name": "Cuijk",
+    "stedelijkheid": "Weinig stedelijk",
+    "inwoners": "25404",
+    "adressendichtheid": "876"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1685": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1685",
+    "name": "Landerd",
+    "stedelijkheid": "Niet stedelijk",
+    "inwoners": "15817",
+    "adressendichtheid": "490"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1700": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1700",
+    "name": "Twenterand",
+    "stedelijkheid": "Weinig stedelijk",
+    "inwoners": "33699",
+    "adressendichtheid": "596"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0074": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0074",
+    "name": "Heerenveen",
+    "stedelijkheid": "Matig stedelijk",
+    "inwoners": "50650",
+    "adressendichtheid": "1092"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0267": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0267",
+    "name": "Nijkerk",
+    "stedelijkheid": "Matig stedelijk",
+    "inwoners": "43600",
+    "adressendichtheid": "1117"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0274": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0274",
+    "name": "Renkum",
+    "stedelijkheid": "Weinig stedelijk",
+    "inwoners": "31417",
+    "adressendichtheid": "917"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0281": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0281",
+    "name": "Tiel",
+    "stedelijkheid": "Matig stedelijk",
+    "inwoners": "41920",
+    "adressendichtheid": "1435"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0361": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0361",
+    "name": "Alkmaar",
+    "stedelijkheid": "Sterk stedelijk",
+    "inwoners": "109896",
+    "adressendichtheid": "2283"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0451": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0451",
+    "name": "Uithoorn",
+    "stedelijkheid": "Matig stedelijk",
+    "inwoners": "30206",
+    "adressendichtheid": "1445"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0518": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0518",
+    "name": "'s-Gravenhage",
+    "stedelijkheid": "Zeer sterk stedelijk",
+    "inwoners": "548320",
+    "adressendichtheid": "4994"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0597": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0597",
+    "name": "Ridderkerk",
+    "stedelijkheid": "Sterk stedelijk",
+    "inwoners": "46671",
+    "adressendichtheid": "1727"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0627": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0627",
+    "name": "Waddinxveen",
+    "stedelijkheid": "Sterk stedelijk",
+    "inwoners": "30479",
+    "adressendichtheid": "1579"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0718": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0718",
+    "name": "Vlissingen",
+    "stedelijkheid": "Sterk stedelijk",
+    "inwoners": "44358",
+    "adressendichtheid": "1932"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0865": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0865",
+    "name": "Vught",
+    "stedelijkheid": "Matig stedelijk",
+    "inwoners": "31669",
+    "adressendichtheid": "1160"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0879": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0879",
+    "name": "Zundert",
+    "stedelijkheid": "Weinig stedelijk",
+    "inwoners": "21988",
+    "adressendichtheid": "565"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1740": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1740",
+    "name": "Neder-Betuwe",
+    "stedelijkheid": "Niet stedelijk",
+    "inwoners": "24648",
+    "adressendichtheid": "443"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1948": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1948",
+    "name": "Meierijstad",
+    "stedelijkheid": "Weinig stedelijk",
+    "inwoners": "81647",
+    "adressendichtheid": "997"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0085": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0085",
+    "name": "Ooststellingwerf",
+    "stedelijkheid": "Niet stedelijk",
+    "inwoners": "25464",
+    "adressendichtheid": "482"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0141": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0141",
+    "name": "Almelo",
+    "stedelijkheid": "Sterk stedelijk",
+    "inwoners": "73132",
+    "adressendichtheid": "1606"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0226": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0226",
+    "name": "Duiven",
+    "stedelijkheid": "Matig stedelijk",
+    "inwoners": "25066",
+    "adressendichtheid": "1160"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0370": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0370",
+    "name": "Beemster",
+    "stedelijkheid": "Weinig stedelijk",
+    "inwoners": "10110",
+    "adressendichtheid": "666"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0439": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0439",
+    "name": "Purmerend",
+    "stedelijkheid": "Sterk stedelijk",
+    "inwoners": "81683",
+    "adressendichtheid": "2253"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0448": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0448",
+    "name": "Texel",
+    "stedelijkheid": "Niet stedelijk",
+    "inwoners": "13656",
+    "adressendichtheid": "483"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0642": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0642",
+    "name": "Zwijndrecht",
+    "stedelijkheid": "Sterk stedelijk",
+    "inwoners": "44775",
+    "adressendichtheid": "2091"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0678": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0678",
+    "name": "Kapelle",
+    "stedelijkheid": "Weinig stedelijk",
+    "inwoners": "12882",
+    "adressendichtheid": "653"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0888": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0888",
+    "name": "Beek",
+    "stedelijkheid": "Weinig stedelijk",
+    "inwoners": "15875",
+    "adressendichtheid": "891"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0984": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0984",
+    "name": "Venray",
+    "stedelijkheid": "Matig stedelijk",
+    "inwoners": "43713",
+    "adressendichtheid": "1024"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0995": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0995",
+    "name": "Lelystad",
+    "stedelijkheid": "Matig stedelijk",
+    "inwoners": "79811",
+    "adressendichtheid": "1382"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1954": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1954",
+    "name": "Beekdaelen",
+    "stedelijkheid": "Weinig stedelijk",
+    "inwoners": "36065",
+    "adressendichtheid": "501"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1955": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1955",
+    "name": "Montferland",
+    "stedelijkheid": "Weinig stedelijk",
+    "inwoners": "36031",
+    "adressendichtheid": "770"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0047": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0047",
+    "name": "Veendam",
+    "stedelijkheid": "Matig stedelijk",
+    "inwoners": "27417",
+    "adressendichtheid": "1007"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0193": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0193",
+    "name": "Zwolle",
+    "stedelijkheid": "Sterk stedelijk",
+    "inwoners": "129840",
+    "adressendichtheid": "2081"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0200": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0200",
+    "name": "Apeldoorn",
+    "stedelijkheid": "Sterk stedelijk",
+    "inwoners": "164781",
+    "adressendichtheid": "1770"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0310": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0310",
+    "name": "De Bilt",
+    "stedelijkheid": "Matig stedelijk",
+    "inwoners": "43384",
+    "adressendichtheid": "1272"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0340": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0340",
+    "name": "Rhenen",
+    "stedelijkheid": "Weinig stedelijk",
+    "inwoners": "20203",
+    "adressendichtheid": "932"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0356": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0356",
+    "name": "Nieuwegein",
+    "stedelijkheid": "Sterk stedelijk",
+    "inwoners": "63866",
+    "adressendichtheid": "1926"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0473": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0473",
+    "name": "Zandvoort",
+    "stedelijkheid": "Sterk stedelijk",
+    "inwoners": "17168",
+    "adressendichtheid": "1814"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0534": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0534",
+    "name": "Hillegom",
+    "stedelijkheid": "Sterk stedelijk",
+    "inwoners": "22197",
+    "adressendichtheid": "1569"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0654": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0654",
+    "name": "Borsele",
+    "stedelijkheid": "Niet stedelijk",
+    "inwoners": "22818",
+    "adressendichtheid": "319"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0861": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0861",
+    "name": "Veldhoven",
+    "stedelijkheid": "Sterk stedelijk",
+    "inwoners": "45500",
+    "adressendichtheid": "1684"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0986": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0986",
+    "name": "Voerendaal",
+    "stedelijkheid": "Weinig stedelijk",
+    "inwoners": "12466",
+    "adressendichtheid": "547"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1652": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1652",
+    "name": "Gemert-Bakel",
+    "stedelijkheid": "Weinig stedelijk",
+    "inwoners": "30760",
+    "adressendichtheid": "774"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1658": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1658",
+    "name": "Heeze-Leende",
+    "stedelijkheid": "Weinig stedelijk",
+    "inwoners": "16243",
+    "adressendichtheid": "585"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1723": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1723",
+    "name": "Alphen-Chaam",
+    "stedelijkheid": "Niet stedelijk",
+    "inwoners": "10373",
+    "adressendichtheid": "317"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1742": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1742",
+    "name": "Rijssen-Holten",
+    "stedelijkheid": "Matig stedelijk",
+    "inwoners": "38204",
+    "adressendichtheid": "1095"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1894": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1894",
+    "name": "Peel en Maas",
+    "stedelijkheid": "Weinig stedelijk",
+    "inwoners": "43660",
+    "adressendichtheid": "586"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0148": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0148",
+    "name": "Dalfsen",
+    "stedelijkheid": "Weinig stedelijk",
+    "inwoners": "28901",
+    "adressendichtheid": "511"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0168": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0168",
+    "name": "Losser",
+    "stedelijkheid": "Weinig stedelijk",
+    "inwoners": "22888",
+    "adressendichtheid": "747"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0402": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0402",
+    "name": "Hilversum",
+    "stedelijkheid": "Zeer sterk stedelijk",
+    "inwoners": "91235",
+    "adressendichtheid": "2764"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0482": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0482",
+    "name": "Alblasserdam",
+    "stedelijkheid": "Sterk stedelijk",
+    "inwoners": "20136",
+    "adressendichtheid": "1527"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0523": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0523",
+    "name": "Hardinxveld-Giessendam",
+    "stedelijkheid": "Weinig stedelijk",
+    "inwoners": "18413",
+    "adressendichtheid": "988"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0569": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0569",
+    "name": "Nieuwkoop",
+    "stedelijkheid": "Weinig stedelijk",
+    "inwoners": "29151",
+    "adressendichtheid": "505"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0606": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0606",
+    "name": "Schiedam",
+    "stedelijkheid": "Zeer sterk stedelijk",
+    "inwoners": "79279",
+    "adressendichtheid": "3307"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0766": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0766",
+    "name": "Dongen",
+    "stedelijkheid": "Matig stedelijk",
+    "inwoners": "26368",
+    "adressendichtheid": "1218"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0809": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0809",
+    "name": "Loon op Zand",
+    "stedelijkheid": "Matig stedelijk",
+    "inwoners": "23504",
+    "adressendichtheid": "1073"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0873": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0873",
+    "name": "Woensdrecht",
+    "stedelijkheid": "Weinig stedelijk",
+    "inwoners": "22028",
+    "adressendichtheid": "665"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1640": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1640",
+    "name": "Leudal",
+    "stedelijkheid": "Niet stedelijk",
+    "inwoners": "36045",
+    "adressendichtheid": "391"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0060": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0060",
+    "name": "Ameland",
+    "stedelijkheid": "Niet stedelijk",
+    "inwoners": "3746",
+    "adressendichtheid": "255"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0184": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0184",
+    "name": "Urk",
+    "stedelijkheid": "Matig stedelijk",
+    "inwoners": "21227",
+    "adressendichtheid": "1076"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0221": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0221",
+    "name": "Doesburg",
+    "stedelijkheid": "Weinig stedelijk",
+    "inwoners": "11064",
+    "adressendichtheid": "863"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0358": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0358",
+    "name": "Aalsmeer",
+    "stedelijkheid": "Weinig stedelijk",
+    "inwoners": "31991",
+    "adressendichtheid": "936"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0737": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0737",
+    "name": "Tytsjerksteradiel",
+    "stedelijkheid": "Niet stedelijk",
+    "inwoners": "32060",
+    "adressendichtheid": "478"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0828": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0828",
+    "name": "Oss",
+    "stedelijkheid": "Matig stedelijk",
+    "inwoners": "92526",
+    "adressendichtheid": "1401"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0847": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0847",
+    "name": "Someren",
+    "stedelijkheid": "Weinig stedelijk",
+    "inwoners": "19428",
+    "adressendichtheid": "736"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0935": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0935",
+    "name": "Maastricht",
+    "stedelijkheid": "Zeer sterk stedelijk",
+    "inwoners": "120227",
+    "adressendichtheid": "2520"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1586": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1586",
+    "name": "Oost Gelre",
+    "stedelijkheid": "Weinig stedelijk",
+    "inwoners": "29574",
+    "adressendichtheid": "737"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1876": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1876",
+    "name": "Bronckhorst",
+    "stedelijkheid": "Niet stedelijk",
+    "inwoners": "36087",
+    "adressendichtheid": "378"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1931": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1931",
+    "name": "Krimpenerwaard",
+    "stedelijkheid": "Weinig stedelijk",
+    "inwoners": "56622",
+    "adressendichtheid": "784"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1949": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1949",
+    "name": "Waadhoeke",
+    "stedelijkheid": "Niet stedelijk",
+    "inwoners": "46149",
+    "adressendichtheid": "474"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0096": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0096",
+    "name": "Vlieland",
+    "stedelijkheid": "Niet stedelijk",
+    "inwoners": "1194",
+    "adressendichtheid": "213"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0153": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0153",
+    "name": "Enschede",
+    "stedelijkheid": "Sterk stedelijk",
+    "inwoners": "159732",
+    "adressendichtheid": "2187"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0171": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0171",
+    "name": "Noordoostpolder",
+    "stedelijkheid": "Weinig stedelijk",
+    "inwoners": "47583",
+    "adressendichtheid": "735"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0277": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0277",
+    "name": "Rozendaal",
+    "stedelijkheid": "Weinig stedelijk",
+    "inwoners": "1726",
+    "adressendichtheid": "948"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0353": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0353",
+    "name": "IJsselstein",
+    "stedelijkheid": "Sterk stedelijk",
+    "inwoners": "33819",
+    "adressendichtheid": "1862"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0392": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0392",
+    "name": "Haarlem",
+    "stedelijkheid": "Zeer sterk stedelijk",
+    "inwoners": "162543",
+    "adressendichtheid": "3591"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0441": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0441",
+    "name": "Schagen",
+    "stedelijkheid": "Weinig stedelijk",
+    "inwoners": "46532",
+    "adressendichtheid": "744"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0840": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0840",
+    "name": "Rucphen",
+    "stedelijkheid": "Weinig stedelijk",
+    "inwoners": "23080",
+    "adressendichtheid": "677"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0848": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0848",
+    "name": "Son en Breugel",
+    "stedelijkheid": "Weinig stedelijk",
+    "inwoners": "17552",
+    "adressendichtheid": "695"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1714": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1714",
+    "name": "Sluis",
+    "stedelijkheid": "Niet stedelijk",
+    "inwoners": "23166",
+    "adressendichtheid": "434"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1731": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1731",
+    "name": "Midden-Drenthe",
+    "stedelijkheid": "Niet stedelijk",
+    "inwoners": "33381",
+    "adressendichtheid": "401"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0183": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0183",
+    "name": "Tubbergen",
+    "stedelijkheid": "Niet stedelijk",
+    "inwoners": "21315",
+    "adressendichtheid": "296"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0228": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0228",
+    "name": "Ede",
+    "stedelijkheid": "Sterk stedelijk",
+    "inwoners": "118530",
+    "adressendichtheid": "1568"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0243": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0243",
+    "name": "Harderwijk",
+    "stedelijkheid": "Sterk stedelijk",
+    "inwoners": "48726",
+    "adressendichtheid": "1551"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0893": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0893",
+    "name": "Bergen (L.)",
+    "stedelijkheid": "Niet stedelijk",
+    "inwoners": "13108",
+    "adressendichtheid": "318"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1695": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1695",
+    "name": "Noord-Beveland",
+    "stedelijkheid": "Niet stedelijk",
+    "inwoners": "7581",
+    "adressendichtheid": "236"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1728": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1728",
+    "name": "Bladel",
+    "stedelijkheid": "Weinig stedelijk",
+    "inwoners": "20529",
+    "adressendichtheid": "690"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1904": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1904",
+    "name": "Stichtse Vecht",
+    "stedelijkheid": "Matig stedelijk",
+    "inwoners": "65108",
+    "adressendichtheid": "1194"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0285": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0285",
+    "name": "Voorst",
+    "stedelijkheid": "Weinig stedelijk",
+    "inwoners": "24790",
+    "adressendichtheid": "582"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0513": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0513",
+    "name": "Gouda",
+    "stedelijkheid": "Zeer sterk stedelijk",
+    "inwoners": "73681",
+    "adressendichtheid": "2540"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0797": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0797",
+    "name": "Heusden",
+    "stedelijkheid": "Matig stedelijk",
+    "inwoners": "45005",
+    "adressendichtheid": "1098"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0823": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0823",
+    "name": "Oirschot",
+    "stedelijkheid": "Weinig stedelijk",
+    "inwoners": "18842",
+    "adressendichtheid": "616"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1507": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1507",
+    "name": "Horst aan de Maas",
+    "stedelijkheid": "Weinig stedelijk",
+    "inwoners": "42487",
+    "adressendichtheid": "571"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1783": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1783",
+    "name": "Westland",
+    "stedelijkheid": "Matig stedelijk",
+    "inwoners": "111382",
+    "adressendichtheid": "1443"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1903": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1903",
+    "name": "Eijsden-Margraten",
+    "stedelijkheid": "Niet stedelijk",
+    "inwoners": "25900",
+    "adressendichtheid": "466"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0080": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0080",
+    "name": "Leeuwarden",
+    "stedelijkheid": "Sterk stedelijk",
+    "inwoners": "124481",
+    "adressendichtheid": "2148"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0498": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0498",
+    "name": "Drechterland",
+    "stedelijkheid": "Weinig stedelijk",
+    "inwoners": "19838",
+    "adressendichtheid": "505"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0542": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0542",
+    "name": "Krimpen aan den IJssel",
+    "stedelijkheid": "Sterk stedelijk",
+    "inwoners": "29410",
+    "adressendichtheid": "1976"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0603": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0603",
+    "name": "Rijswijk",
+    "stedelijkheid": "Zeer sterk stedelijk",
+    "inwoners": "55220",
+    "adressendichtheid": "3165"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0715": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0715",
+    "name": "Terneuzen",
+    "stedelijkheid": "Weinig stedelijk",
+    "inwoners": "54463",
+    "adressendichtheid": "876"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1711": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1711",
+    "name": "Echt-Susteren",
+    "stedelijkheid": "Weinig stedelijk",
+    "inwoners": "31751",
+    "adressendichtheid": "716"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1959": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1959",
+    "name": "Altena",
+    "stedelijkheid": "Weinig stedelijk",
+    "inwoners": "56352",
+    "adressendichtheid": "506"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1961": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1961",
+    "name": "Vijfheerenlanden",
+    "stedelijkheid": "Weinig stedelijk",
+    "inwoners": "57829",
+    "adressendichtheid": "900"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0090": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0090",
+    "name": "Smallingerland",
+    "stedelijkheid": "Matig stedelijk",
+    "inwoners": "56040",
+    "adressendichtheid": "1341"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0177": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0177",
+    "name": "Raalte",
+    "stedelijkheid": "Weinig stedelijk",
+    "inwoners": "37911",
+    "adressendichtheid": "665"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0388": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0388",
+    "name": "Enkhuizen",
+    "stedelijkheid": "Matig stedelijk",
+    "inwoners": "18637",
+    "adressendichtheid": "1388"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0772": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0772",
+    "name": "Eindhoven",
+    "stedelijkheid": "Zeer sterk stedelijk",
+    "inwoners": "235691",
+    "adressendichtheid": "2711"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1891": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1891",
+    "name": "Dantumadiel",
+    "stedelijkheid": "Niet stedelijk",
+    "inwoners": "18943",
+    "adressendichtheid": "456"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0037": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0037",
+    "name": "Stadskanaal",
+    "stedelijkheid": "Weinig stedelijk",
+    "inwoners": "31754",
+    "adressendichtheid": "836"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0252": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0252",
+    "name": "Heumen",
+    "stedelijkheid": "Weinig stedelijk",
+    "inwoners": "16569",
+    "adressendichtheid": "798"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0307": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0307",
+    "name": "Amersfoort",
+    "stedelijkheid": "Sterk stedelijk",
+    "inwoners": "157462",
+    "adressendichtheid": "2341"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0431": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0431",
+    "name": "Oostzaan",
+    "stedelijkheid": "Matig stedelijk",
+    "inwoners": "9689",
+    "adressendichtheid": "1060"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0590": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0590",
+    "name": "Papendrecht",
+    "stedelijkheid": "Sterk stedelijk",
+    "inwoners": "32171",
+    "adressendichtheid": "1914"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0851": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0851",
+    "name": "Steenbergen",
+    "stedelijkheid": "Weinig stedelijk",
+    "inwoners": "24310",
+    "adressendichtheid": "733"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1705": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1705",
+    "name": "Lingewaard",
+    "stedelijkheid": "Weinig stedelijk",
+    "inwoners": "46822",
+    "adressendichtheid": "965"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1900": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1900",
+    "name": "Súdwest-Fryslân",
+    "stedelijkheid": "Weinig stedelijk",
+    "inwoners": "89999",
+    "adressendichtheid": "846"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0313": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0313",
+    "name": "Bunschoten",
+    "stedelijkheid": "Matig stedelijk",
+    "inwoners": "22019",
+    "adressendichtheid": "1184"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0317": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0317",
+    "name": "Eemnes",
+    "stedelijkheid": "Weinig stedelijk",
+    "inwoners": "9362",
+    "adressendichtheid": "956"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0335": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0335",
+    "name": "Montfoort",
+    "stedelijkheid": "Weinig stedelijk",
+    "inwoners": "13896",
+    "adressendichtheid": "751"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0794": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0794",
+    "name": "Helmond",
+    "stedelijkheid": "Sterk stedelijk",
+    "inwoners": "92627",
+    "adressendichtheid": "1784"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0855": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0855",
+    "name": "Tilburg",
+    "stedelijkheid": "Zeer sterk stedelijk",
+    "inwoners": "221947",
+    "adressendichtheid": "2807"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1699": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1699",
+    "name": "Noordenveld",
+    "stedelijkheid": "Weinig stedelijk",
+    "inwoners": "31214",
+    "adressendichtheid": "682"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1719": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1719",
+    "name": "Drimmelen",
+    "stedelijkheid": "Weinig stedelijk",
+    "inwoners": "27325",
+    "adressendichtheid": "788"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1966": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1966",
+    "name": "Het Hogeland",
+    "stedelijkheid": "Niet stedelijk",
+    "inwoners": "47834",
+    "adressendichtheid": "414"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1969": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1969",
+    "name": "Westerkwartier",
+    "stedelijkheid": "Niet stedelijk",
+    "inwoners": "63678",
+    "adressendichtheid": "476"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0375": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0375",
+    "name": "Beverwijk",
+    "stedelijkheid": "Zeer sterk stedelijk",
+    "inwoners": "41863",
+    "adressendichtheid": "2736"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0232": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0232",
+    "name": "Epe",
+    "stedelijkheid": "Weinig stedelijk",
+    "inwoners": "33198",
+    "adressendichtheid": "745"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0385": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0385",
+    "name": "Edam-Volendam",
+    "stedelijkheid": "Matig stedelijk",
+    "inwoners": "36268",
+    "adressendichtheid": "1318"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1963": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1963",
+    "name": "Hoeksche Waard",
+    "stedelijkheid": "Weinig stedelijk",
+    "inwoners": "88047",
+    "adressendichtheid": "834"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1960": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1960",
+    "name": "West Betuwe",
+    "stedelijkheid": "Niet stedelijk",
+    "inwoners": "51496",
+    "adressendichtheid": "458"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0297": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0297",
+    "name": "Zaltbommel",
+    "stedelijkheid": "Weinig stedelijk",
+    "inwoners": "29447",
+    "adressendichtheid": "700"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1952": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1952",
+    "name": "Midden-Groningen",
+    "stedelijkheid": "Weinig stedelijk",
+    "inwoners": "60726",
+    "adressendichtheid": "856"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0303": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0303",
+    "name": "Dronten",
+    "stedelijkheid": "Weinig stedelijk",
+    "inwoners": "42011",
+    "adressendichtheid": "776"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0352": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0352",
+    "name": "Wijk bij Duurstede",
+    "stedelijkheid": "Matig stedelijk",
+    "inwoners": "23925",
+    "adressendichtheid": "1140"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1621": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1621",
+    "name": "Lansingerland",
+    "stedelijkheid": "Matig stedelijk",
+    "inwoners": "63363",
+    "adressendichtheid": "1337"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1896": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1896",
+    "name": "Zwartewaterland",
+    "stedelijkheid": "Weinig stedelijk",
+    "inwoners": "22823",
+    "adressendichtheid": "725"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0294": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0294",
+    "name": "Winterswijk",
+    "stedelijkheid": "Matig stedelijk",
+    "inwoners": "29022",
+    "adressendichtheid": "1214"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0687": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0687",
+    "name": "Middelburg",
+    "stedelijkheid": "Sterk stedelijk",
+    "inwoners": "48964",
+    "adressendichtheid": "1751"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1669": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1669",
+    "name": "Roerdalen",
+    "stedelijkheid": "Niet stedelijk",
+    "inwoners": "20580",
+    "adressendichtheid": "387"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1892": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1892",
+    "name": "Zuidplas",
+    "stedelijkheid": "Matig stedelijk",
+    "inwoners": "45064",
+    "adressendichtheid": "1191"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0362": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0362",
+    "name": "Amstelveen",
+    "stedelijkheid": "Zeer sterk stedelijk",
+    "inwoners": "90829",
+    "adressendichtheid": "2507"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0547": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0547",
+    "name": "Leiderdorp",
+    "stedelijkheid": "Sterk stedelijk",
+    "inwoners": "27377",
+    "adressendichtheid": "2488"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0610": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0610",
+    "name": "Sliedrecht",
+    "stedelijkheid": "Sterk stedelijk",
+    "inwoners": "25597",
+    "adressendichtheid": "1627"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0971": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/0971",
+    "name": "Stein",
+    "stedelijkheid": "Weinig stedelijk",
+    "inwoners": "24875",
+    "adressendichtheid": "905"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1598": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1598",
+    "name": "Koggenland",
+    "stedelijkheid": "Niet stedelijk",
+    "inwoners": "22940",
+    "adressendichtheid": "435"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1674": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1674",
+    "name": "Roosendaal",
+    "stedelijkheid": "Sterk stedelijk",
+    "inwoners": "77200",
+    "adressendichtheid": "1745"
+  },
+  "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1978": {
+    "iri": "https://data.labs.kadaster.nl/cbs/wbk/id/gemeente/1978",
+    "name": "Molenlanden",
+    "stedelijkheid": "Niet stedelijk",
+    "inwoners": "44130",
+    "adressendichtheid": "393"
+  }
+}
