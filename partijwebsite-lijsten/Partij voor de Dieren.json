@@ -1,6 +1,9 @@
 [
 	{
 		"naam": "Esther Ouwehand",
+		"urls": {
+			"partijwebsite": "https://www.partijvoordedieren.nl/kandidatenlijst-tk23#1.-esther-ouwehand"
+		},
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 1
@@ -8,7 +11,10 @@
 		}
 	},
 	{
-		"naam": "Christine Teunissen",
+		"naam": "Ines Kostić",
+		"urls": {
+			"partijwebsite": "https://www.partijvoordedieren.nl/kandidatenlijst-tk23#2.-ines-kostić"
+		},
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 2
@@ -16,7 +22,10 @@
 		}
 	},
 	{
-		"naam": "Frank Wassenberg",
+		"naam": "Christine Teunissen",
+		"urls": {
+			"partijwebsite": "https://www.partijvoordedieren.nl/kandidatenlijst-tk23#3.-christine-teunissen"
+		},
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 3
@@ -24,7 +33,10 @@
 		}
 	},
 	{
-		"naam": "Eva Akerboom",
+		"naam": "Frank Wassenberg",
+		"urls": {
+			"partijwebsite": "https://www.partijvoordedieren.nl/kandidatenlijst-tk23#4.-frank-wassenberg"
+		},
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 4
@@ -32,7 +44,10 @@
 		}
 	},
 	{
-		"naam": "Ines Kostić",
+		"naam": "Eva Akerboom",
+		"urls": {
+			"partijwebsite": "https://www.partijvoordedieren.nl/kandidatenlijst-tk23#5.-eva-akerboom"
+		},
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 5
@@ -40,7 +55,10 @@
 		}
 	},
 	{
-		"naam": "Martine van Schaik",
+		"naam": "Lammert van Raan",
+		"urls": {
+			"partijwebsite": "https://www.partijvoordedieren.nl/kandidatenlijst-tk23#6.-lammert-van-raan"
+		},
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 6
@@ -48,7 +66,10 @@
 		}
 	},
 	{
-		"naam": "Anna Krijger",
+		"naam": "Martine van Schaik",
+		"urls": {
+			"partijwebsite": "https://www.partijvoordedieren.nl/kandidatenlijst-tk23#7.-martine-van-schaik"
+		},
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 7
@@ -56,7 +77,10 @@
 		}
 	},
 	{
-		"naam": "Pascale Plusquin",
+		"naam": "Anna Krijger",
+		"urls": {
+			"partijwebsite": "https://www.partijvoordedieren.nl/kandidatenlijst-tk23#8.-anna-krijger"
+		},
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 8
@@ -64,7 +88,10 @@
 		}
 	},
 	{
-		"naam": "Pieter Groenewege",
+		"naam": "Pascale Plusquin",
+		"urls": {
+			"partijwebsite": "https://www.partijvoordedieren.nl/kandidatenlijst-tk23#9.-pascale-plusquin"
+		},
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 9
@@ -72,7 +99,10 @@
 		}
 	},
 	{
-		"naam": "Maarten van Heuven",
+		"naam": "Pieter Groenewege",
+		"urls": {
+			"partijwebsite": "https://www.partijvoordedieren.nl/kandidatenlijst-tk23#10.-pieter-groenewege"
+		},
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 10
@@ -80,7 +110,10 @@
 		}
 	},
 	{
-		"naam": "Falco van Hassel",
+		"naam": "Maarten van Heuven",
+		"urls": {
+			"partijwebsite": "https://www.partijvoordedieren.nl/kandidatenlijst-tk23#11.-maarten-van-heuven"
+		},
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 11
@@ -88,7 +121,10 @@
 		}
 	},
 	{
-		"naam": "Rosalie Bunnik",
+		"naam": "Falco van Hassel",
+		"urls": {
+			"partijwebsite": "https://www.partijvoordedieren.nl/kandidatenlijst-tk23#12.-falco-van-hassel"
+		},
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 12
@@ -96,7 +132,10 @@
 		}
 	},
 	{
-		"naam": "Hanneke Schmeets",
+		"naam": "Rosalie Bunnik",
+		"urls": {
+			"partijwebsite": "https://www.partijvoordedieren.nl/kandidatenlijst-tk23#13.-rosalie-bunnik"
+		},
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 13
@@ -104,7 +143,10 @@
 		}
 	},
 	{
-		"naam": "Kıvılcım Pınar",
+		"naam": "Hanneke Schmeets",
+		"urls": {
+			"partijwebsite": "https://www.partijvoordedieren.nl/kandidatenlijst-tk23#14.-hanneke-schmeets"
+		},
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 14
@@ -112,7 +154,10 @@
 		}
 	},
 	{
-		"naam": "Malcolm Jones",
+		"naam": "Kıvılcım Pınar",
+		"urls": {
+			"partijwebsite": "https://www.partijvoordedieren.nl/kandidatenlijst-tk23#15.-kıvılcım-pınar"
+		},
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 15
@@ -120,7 +165,10 @@
 		}
 	},
 	{
-		"naam": "Janette Bosma",
+		"naam": "Malcolm Jones",
+		"urls": {
+			"partijwebsite": "https://www.partijvoordedieren.nl/kandidatenlijst-tk23#16.-malcolm-jones"
+		},
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 16
@@ -128,7 +176,10 @@
 		}
 	},
 	{
-		"naam": "Robert Barker",
+		"naam": "Janette Bosma",
+		"urls": {
+			"partijwebsite": "https://www.partijvoordedieren.nl/kandidatenlijst-tk23#17.-janette-bosma"
+		},
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 17
@@ -136,7 +187,10 @@
 		}
 	},
 	{
-		"naam": "Kjell van Wijlandt",
+		"naam": "Robert Barker",
+		"urls": {
+			"partijwebsite": "https://www.partijvoordedieren.nl/kandidatenlijst-tk23#18.-robert-barker"
+		},
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 18
@@ -144,7 +198,10 @@
 		}
 	},
 	{
-		"naam": "Jesseka Batteau",
+		"naam": "Kjell van Wijlandt",
+		"urls": {
+			"partijwebsite": "https://www.partijvoordedieren.nl/kandidatenlijst-tk23#19.-kjell-van-wijlandt"
+		},
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 19
@@ -152,7 +209,10 @@
 		}
 	},
 	{
-		"naam": "Lammert van Raan",
+		"naam": "Jesseka Batteau",
+		"urls": {
+			"partijwebsite": "https://www.partijvoordedieren.nl/kandidatenlijst-tk23#20.-jesseka-batteau"
+		},
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 20
@@ -161,6 +221,9 @@
 	},
 	{
 		"naam": "Jaap Hollebeek",
+		"urls": {
+			"partijwebsite": "https://www.partijvoordedieren.nl/kandidatenlijst-tk23#21.-jaap-hollebeek"
+		},
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 21
@@ -169,6 +232,9 @@
 	},
 	{
 		"naam": "Iris Dicke",
+		"urls": {
+			"partijwebsite": "https://www.partijvoordedieren.nl/kandidatenlijst-tk23#22.-iris-dicke"
+		},
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 22
@@ -177,6 +243,9 @@
 	},
 	{
 		"naam": "Bart Salemans",
+		"urls": {
+			"partijwebsite": "https://www.partijvoordedieren.nl/kandidatenlijst-tk23#23.-bart-salemans"
+		},
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 23
@@ -185,6 +254,9 @@
 	},
 	{
 		"naam": "Freek Bersch",
+		"urls": {
+			"partijwebsite": "https://www.partijvoordedieren.nl/kandidatenlijst-tk23#24.-freek-bersch"
+		},
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 24
@@ -193,6 +265,9 @@
 	},
 	{
 		"naam": "Frank de Gram",
+		"urls": {
+			"partijwebsite": "https://www.partijvoordedieren.nl/kandidatenlijst-tk23#25.-frank-de-gram"
+		},
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 25
@@ -200,7 +275,10 @@
 		}
 	},
 	{
-		"naam": "Paul van Gent",
+		"naam": "Lotte Krediet",
+		"urls": {
+			"partijwebsite": "https://www.partijvoordedieren.nl/kandidatenlijst-tk23#26.-lotte-krediet"
+		},
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 26
@@ -209,6 +287,9 @@
 	},
 	{
 		"naam": "Dave de Vos",
+		"urls": {
+			"partijwebsite": "https://www.partijvoordedieren.nl/kandidatenlijst-tk23#27.-dave-de-vos"
+		},
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 27
@@ -216,7 +297,10 @@
 		}
 	},
 	{
-		"naam": "Myra van de Velde",
+		"naam": "Myra van der Velde",
+		"urls": {
+			"partijwebsite": "https://www.partijvoordedieren.nl/kandidatenlijst-tk23#28.-myra-van-der-velde"
+		},
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 28
@@ -225,6 +309,9 @@
 	},
 	{
 		"naam": "Carla van Viegen",
+		"urls": {
+			"partijwebsite": "https://www.partijvoordedieren.nl/kandidatenlijst-tk23#29.-carla-van-viegen"
+		},
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 29
@@ -233,6 +320,9 @@
 	},
 	{
 		"naam": "Leonie Gerritsen",
+		"urls": {
+			"partijwebsite": "https://www.partijvoordedieren.nl/kandidatenlijst-tk23#30.-leonie-gerritsen"
+		},
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 30
@@ -241,6 +331,9 @@
 	},
 	{
 		"naam": "Marjolijn Veenstra",
+		"urls": {
+			"partijwebsite": "https://www.partijvoordedieren.nl/kandidatenlijst-tk23#31.-marjolijn-veenstra"
+		},
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 31
@@ -249,6 +342,9 @@
 	},
 	{
 		"naam": "Anne-Miep Vlasveld",
+		"urls": {
+			"partijwebsite": "https://www.partijvoordedieren.nl/kandidatenlijst-tk23#32.-anne-miep-vlasveld"
+		},
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 32
@@ -257,6 +353,9 @@
 	},
 	{
 		"naam": "Trees Janssens",
+		"urls": {
+			"partijwebsite": "https://www.partijvoordedieren.nl/kandidatenlijst-tk23#33.-trees-janssens"
+		},
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 33
@@ -265,6 +364,9 @@
 	},
 	{
 		"naam": "Pinar Coşkun",
+		"urls": {
+			"partijwebsite": "https://www.partijvoordedieren.nl/kandidatenlijst-tk23#34.-pinar-coşkun"
+		},
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 34
@@ -273,6 +375,9 @@
 	},
 	{
 		"naam": "Lester van der Pluijm",
+		"urls": {
+			"partijwebsite": "https://www.partijvoordedieren.nl/kandidatenlijst-tk23#35.-lester-van-der-pluijm"
+		},
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 35
@@ -281,6 +386,9 @@
 	},
 	{
 		"naam": "Siska Peeks",
+		"urls": {
+			"partijwebsite": "https://www.partijvoordedieren.nl/kandidatenlijst-tk23#36.-siska-peeks"
+		},
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 36
@@ -289,6 +397,9 @@
 	},
 	{
 		"naam": "Cynthia Pallandt",
+		"urls": {
+			"partijwebsite": "https://www.partijvoordedieren.nl/kandidatenlijst-tk23#37.-cynthia-pallandt"
+		},
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 37
@@ -297,6 +408,9 @@
 	},
 	{
 		"naam": "Wesley Pechler",
+		"urls": {
+			"partijwebsite": "https://www.partijvoordedieren.nl/kandidatenlijst-tk23#38.-wesley-pechler"
+		},
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 38
@@ -305,6 +419,9 @@
 	},
 	{
 		"naam": "Janneke van Lierop",
+		"urls": {
+			"partijwebsite": "https://www.partijvoordedieren.nl/kandidatenlijst-tk23#39.-janneke-van-lierop"
+		},
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 39
@@ -313,6 +430,9 @@
 	},
 	{
 		"naam": "Vivianne Spruit",
+		"urls": {
+			"partijwebsite": "https://www.partijvoordedieren.nl/kandidatenlijst-tk23#40.-vivianne-spruit"
+		},
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 40
@@ -321,6 +441,9 @@
 	},
 	{
 		"naam": "Bart Kuijer",
+		"urls": {
+			"partijwebsite": "https://www.partijvoordedieren.nl/kandidatenlijst-tk23#41.-bart-kuijer"
+		},
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 41
@@ -329,6 +452,9 @@
 	},
 	{
 		"naam": "Gaby Markandu",
+		"urls": {
+			"partijwebsite": "https://www.partijvoordedieren.nl/kandidatenlijst-tk23#42.-gaby-markandu"
+		},
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 42
@@ -337,6 +463,9 @@
 	},
 	{
 		"naam": "Joeri Oudshoorn",
+		"urls": {
+			"partijwebsite": "https://www.partijvoordedieren.nl/kandidatenlijst-tk23#43.-joeri-oudshoorn"
+		},
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 43
@@ -345,6 +474,9 @@
 	},
 	{
 		"naam": "Radjan Hanoeman",
+		"urls": {
+			"partijwebsite": "https://www.partijvoordedieren.nl/kandidatenlijst-tk23#44.-radjan-hanoeman"
+		},
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 44
@@ -353,6 +485,9 @@
 	},
 	{
 		"naam": "Eileen Samshuijzen",
+		"urls": {
+			"partijwebsite": "https://www.partijvoordedieren.nl/kandidatenlijst-tk23#45.-eileen-samshuijzen"
+		},
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 45
@@ -361,6 +496,9 @@
 	},
 	{
 		"naam": "Menno Brouwer",
+		"urls": {
+			"partijwebsite": "https://www.partijvoordedieren.nl/kandidatenlijst-tk23#46.-menno-brouwer"
+		},
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 46
@@ -369,6 +507,9 @@
 	},
 	{
 		"naam": "Suzanne Onderdelinden",
+		"urls": {
+			"partijwebsite": "https://www.partijvoordedieren.nl/kandidatenlijst-tk23#47.-suzanne-onderdelinden"
+		},
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 47
@@ -377,6 +518,9 @@
 	},
 	{
 		"naam": "Jaap Rozema",
+		"urls": {
+			"partijwebsite": "https://www.partijvoordedieren.nl/kandidatenlijst-tk23#48.-jaap-rozema"
+		},
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 48
@@ -385,6 +529,9 @@
 	},
 	{
 		"naam": "Sabrina van de Peppel",
+		"urls": {
+			"partijwebsite": "https://www.partijvoordedieren.nl/kandidatenlijst-tk23#49.-sabrina-van-de-peppel"
+		},
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 49
@@ -393,6 +540,9 @@
 	},
 	{
 		"naam": "Xenia Minnaert",
+		"urls": {
+			"partijwebsite": "https://www.partijvoordedieren.nl/kandidatenlijst-tk23#50.-xenia-minnaert"
+		},
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 50
