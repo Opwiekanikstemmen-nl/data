@@ -30,6 +30,14 @@ def gemeentes_json():
             return p
     raise Exception("I'm too stupid to find gemeentes.json.")
 
+def woonplaats_json():
+    for p in [
+        "./cbs_woonplaats_gemeente.json",
+        "./kadaster/cbs_woonplaats_gemeente.json",
+    ]:
+        if path.exists(p):
+            return p
+    raise Exception("I'm too stupid to find cbs_woonplaats_gemeente.json.")
 
 def prepare_gemeentes(gemeentes):
     """Load a { name: IRI } structure from a { iri: string, name: string } structure"""
@@ -43,18 +51,29 @@ def prepare_gemeentes(gemeentes):
     return curated
 
 
-def kandidaat_gemeente(procesverbaal, gemeentes):
+def kandidaat_gemeente(procesverbaal, gemeentes, woonplaatsen):
     for kandidaat in procesverbaal:
         wp = kandidaat["verkiezingen"]["tk2023"]["woonplaats"]  # this name is a lie
         if wp not in gemeentes:
-            print(
-                f"{kandidaat['iri']} has unknown gemeente {wp}",
-                file=stderr,
-            )
-            continue
+            if wp not in woonplaatsen:
+                print(
+                    f"{kandidaat['iri']} has unknown gemeente {wp}",
+                    file=stderr,
+                )
+                continue
+            if woonplaatsen[wp]['gemeente'] not in gemeentes:
+                print(
+                    f"{kandidaat['iri']} has unknown woonplaats {wp}",
+                    file=stderr,
+                )
+                continue
+            else:
+                gemeente = gemeentes[woonplaatsen[wp]['gemeente']]
+        else:
+            gemeente = gemeentes[wp]
         yield {
             "kandidaat": kandidaat["iri"],
-            "gemeente": gemeentes[wp],
+            "gemeente": gemeente,
         }
 
 
@@ -67,7 +86,10 @@ if __name__ == "__main__":
     with open(gemeentes_json()) as fd:
         gemeentes = prepare_gemeentes(json.load(fd))
 
+    with open(woonplaats_json()) as fd:
+        woonplaatsen = json.load(fd)
+
     with open(procesverbaal2023_json()) as fd:
         procesverbaal = json.load(fd)
 
-    print(json.dumps(list(kandidaat_gemeente(procesverbaal, gemeentes))))
+    print(json.dumps(list(kandidaat_gemeente(procesverbaal, gemeentes, woonplaatsen))))
