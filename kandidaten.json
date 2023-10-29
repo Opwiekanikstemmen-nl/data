@@ -46,7 +46,8 @@
     "urls": {
       "partijwebsite": "https://www.vvd.nl/profielen/dilan-yesilgoz-zegerius/",
       "wikidata": "http://www.wikidata.org/entity/Q28861002"
-    }
+    },
+    "geboortedatum": "+1977-06-18T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Sophie%20S.T.M.%20Hermans",
@@ -122,7 +123,8 @@
     "urls": {
       "partijwebsite": "https://www.vvd.nl/profielen/sophie-hermans-2/",
       "wikidata": "http://www.wikidata.org/entity/Q28860996"
-    }
+    },
+    "geboortedatum": "+1981-05-01T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Bente%20B.%20Becker",
@@ -197,8 +199,10 @@
     },
     "urls": {
       "partijwebsite": "https://www.vvd.nl/profielen/bente-becker/",
-      "wikidata": "http://www.wikidata.org/entity/Q28860992"
-    }
+      "wikidata": "http://www.wikidata.org/entity/Q28860992",
+      "eigen website": "https://bentebecker.vvd.nl/"
+    },
+    "geboortedatum": "+1985-08-12T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Eric%20E.%20van%20der%20Burg",
@@ -247,7 +251,8 @@
     "urls": {
       "partijwebsite": "https://www.vvd.nl/profielen/eric-van-der-burg-2/",
       "wikidata": "http://www.wikidata.org/entity/Q2084799"
-    }
+    },
+    "geboortedatum": "+1965-10-09T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Christianne%20C.%20van%20der%20Wal-Zeggelink",
@@ -296,7 +301,8 @@
     "urls": {
       "partijwebsite": "https://www.vvd.nl/profielen/christianne-van-der-wal-zeggelink-2/",
       "wikidata": "http://www.wikidata.org/entity/Q44082843"
-    }
+    },
+    "geboortedatum": "+1973-11-13T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Ruben%20R.P.%20Brekelmans",
@@ -372,7 +378,8 @@
     "urls": {
       "partijwebsite": "https://www.vvd.nl/profielen/ruben-brekelmans-2/",
       "wikidata": "http://www.wikidata.org/entity/Q106119770"
-    }
+    },
+    "geboortedatum": "+1986-07-18T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Eelco%20E.%20Heinen",
@@ -448,7 +455,8 @@
     "urls": {
       "partijwebsite": "https://www.vvd.nl/profielen/eelco-heinen-2/",
       "wikidata": "http://www.wikidata.org/entity/Q106119762"
-    }
+    },
+    "geboortedatum": "+1981-04-27T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Aukje%20A.%20de%20Vries",
@@ -497,7 +505,8 @@
     "urls": {
       "partijwebsite": "https://www.vvd.nl/profielen/aukje-de-vries/",
       "wikidata": "http://www.wikidata.org/entity/Q1532558"
-    }
+    },
+    "geboortedatum": "+1964-10-21T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Roelien%20R.J.%20Kamminga",
@@ -572,8 +581,10 @@
     },
     "urls": {
       "partijwebsite": "https://www.vvd.nl/profielen/roelien-kamminga-2/",
-      "wikidata": "http://www.wikidata.org/entity/Q106119763"
-    }
+      "wikidata": "http://www.wikidata.org/entity/Q106119763",
+      "eigen website": "https://roelienkamminga.nl/"
+    },
+    "geboortedatum": "+1978-04-13T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Mariëlle%20M.L.J.%20Paul",
@@ -649,7 +660,8 @@
     "urls": {
       "partijwebsite": "https://www.vvd.nl/profielen/marielle-paul-2/",
       "wikidata": "http://www.wikidata.org/entity/Q106119765"
-    }
+    },
+    "geboortedatum": "+1966-11-05T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Silvio%20S.P.A.%20Erkens",
@@ -725,7 +737,8 @@
     "urls": {
       "partijwebsite": "https://www.vvd.nl/profielen/silvio-erkens-2/",
       "wikidata": "http://www.wikidata.org/entity/Q106119766"
-    }
+    },
+    "geboortedatum": "+1990-08-07T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Queeny%20Q.M.%20Rajkowski",
@@ -773,8 +786,10 @@
     },
     "urls": {
       "partijwebsite": "https://www.vvd.nl/profielen/queeny-rajkowski-2/",
-      "wikidata": "http://www.wikidata.org/entity/Q106119755"
-    }
+      "wikidata": "http://www.wikidata.org/entity/Q106119755",
+      "eigen website": "http://www.queenyrajkowski.nl/"
+    },
+    "geboortedatum": "+1988-11-17T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Thierry%20A.A.%20Aartsen",
@@ -850,7 +865,8 @@
     "urls": {
       "partijwebsite": "https://www.vvd.nl/profielen/thierry-aartsen/",
       "wikidata": "http://www.wikidata.org/entity/Q28861067"
-    }
+    },
+    "geboortedatum": "+1989-12-19T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Thom%20A.A.H.%20van%20Campen",
@@ -899,7 +915,8 @@
     "urls": {
       "partijwebsite": "https://www.vvd.nl/profielen/thom-van-campen-2/",
       "wikidata": "http://www.wikidata.org/entity/Q106119764"
-    }
+    },
+    "geboortedatum": "+1990-01-18T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Judith%20J.Z.C.M.%20Tielen",
@@ -975,7 +992,8 @@
     "urls": {
       "partijwebsite": "https://www.vvd.nl/profielen/judith-tielen/",
       "wikidata": "http://www.wikidata.org/entity/Q28861047"
-    }
+    },
+    "geboortedatum": "+1972-04-02T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Hester%20H.N.%20Veltman-Kamp",
@@ -1149,7 +1167,8 @@
     "urls": {
       "partijwebsite": "https://www.vvd.nl/profielen/ulysse-ellian-2/",
       "wikidata": "http://www.wikidata.org/entity/Q96479417"
-    }
+    },
+    "geboortedatum": "+1988-09-17T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Ingrid%20I.J.M.%20Michon-Derkzen",
@@ -1225,7 +1244,8 @@
     "urls": {
       "partijwebsite": "https://www.vvd.nl/profielen/ingrid-michon-derkzen/",
       "wikidata": "http://www.wikidata.org/entity/Q106119756"
-    }
+    },
+    "geboortedatum": "+1976-09-14T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Claire%20C.%20Martens-America",
@@ -1372,7 +1392,8 @@
     "urls": {
       "partijwebsite": "https://www.vvd.nl/profielen/peter-de-groot-2/",
       "wikidata": "http://www.wikidata.org/entity/Q106119760"
-    }
+    },
+    "geboortedatum": "+1980-05-09T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Arend%20A.%20Kisteman",
@@ -1469,8 +1490,10 @@
     },
     "urls": {
       "partijwebsite": "https://www.vvd.nl/profielen/daan-de-kort-2/",
-      "wikidata": "http://www.wikidata.org/entity/Q106119769"
-    }
+      "wikidata": "http://www.wikidata.org/entity/Q106119769",
+      "eigen website": "https://daandekort.nl/"
+    },
+    "geboortedatum": "+1992-07-15T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Jacqueline%20J.%20van%20den%20Hil",
@@ -1519,7 +1542,8 @@
     "urls": {
       "partijwebsite": "https://www.vvd.nl/profielen/jacqueline-van-den-hil-2/",
       "wikidata": "http://www.wikidata.org/entity/Q106119767"
-    }
+    },
+    "geboortedatum": "+1968-03-20T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Peter%20P.J.%20Valstar",
@@ -1594,8 +1618,10 @@
     },
     "urls": {
       "partijwebsite": "https://www.vvd.nl/profielen/peter-valstar-2/",
-      "wikidata": "http://www.wikidata.org/entity/Q106119761"
-    }
+      "wikidata": "http://www.wikidata.org/entity/Q106119761",
+      "eigen website": "https://www.petervalstar.nl/"
+    },
+    "geboortedatum": "+1985-03-27T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Harry%20H.%20Bevers",
@@ -1671,7 +1697,8 @@
     "urls": {
       "partijwebsite": "https://www.vvd.nl/profielen/harry-bevers/",
       "wikidata": "http://www.wikidata.org/entity/Q28861134"
-    }
+    },
+    "geboortedatum": "+1965-03-05T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Martijn%20M.R.G.%20Buijsse",
@@ -1747,7 +1774,8 @@
     "urls": {
       "partijwebsite": "https://www.vvd.nl/profielen/martijn-buijsse-2/",
       "wikidata": "http://www.wikidata.org/entity/Q106119789"
-    }
+    },
+    "geboortedatum": "+1981-09-21T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Rosemarijn%20R.M.%20Dral",
@@ -1796,7 +1824,8 @@
     "urls": {
       "partijwebsite": "https://www.vvd.nl/profielen/rosemarijn-dral/",
       "wikidata": "http://www.wikidata.org/entity/Q28861099"
-    }
+    },
+    "geboortedatum": "+1985-00-00T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Bart%20B.T.%20Bikkers",
@@ -1872,7 +1901,8 @@
     "urls": {
       "partijwebsite": "https://www.vvd.nl/profielen/bart-bikkers-2/",
       "wikidata": "http://www.wikidata.org/entity/Q106119869"
-    }
+    },
+    "geboortedatum": "+1984-11-23T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Ruud%20R.%20Verkuijlen",
@@ -1948,7 +1978,8 @@
     "urls": {
       "partijwebsite": "https://www.vvd.nl/profielen/ruud-verkuijlen-2/",
       "wikidata": "http://www.wikidata.org/entity/Q106119778"
-    }
+    },
+    "geboortedatum": "+1960-10-13T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Simone%20S.M.%20Richardson",
@@ -2024,7 +2055,8 @@
     "urls": {
       "partijwebsite": "https://www.vvd.nl/profielen/simone-richardson-2/",
       "wikidata": "http://www.wikidata.org/entity/Q106120677"
-    }
+    },
+    "geboortedatum": "+1972-05-06T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Martin%20M.E.E.%20de%20Beer",
@@ -2122,7 +2154,8 @@
     "urls": {
       "partijwebsite": "https://www.vvd.nl/profielen/pim-van-strien-2/",
       "wikidata": "http://www.wikidata.org/entity/Q106119771"
-    }
+    },
+    "geboortedatum": "+1977-04-29T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Jeroen%20R.J.J.%20Hartsuiker",
@@ -2296,7 +2329,8 @@
     "urls": {
       "partijwebsite": "https://www.vvd.nl/profielen/erik-haverkort-2/",
       "wikidata": "http://www.wikidata.org/entity/Q106119779"
-    }
+    },
+    "geboortedatum": "+1972-05-05T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Chris%20C.%20Simons",
@@ -2372,7 +2406,8 @@
     "urls": {
       "partijwebsite": "https://www.vvd.nl/profielen/chris-simons-2/",
       "wikidata": "http://www.wikidata.org/entity/Q106119784"
-    }
+    },
+    "geboortedatum": "+1965-03-01T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Yvonne%20Y.%20Bijenhof",
@@ -2448,7 +2483,8 @@
     "urls": {
       "partijwebsite": "https://www.vvd.nl/profielen/yvonne-bijenhof-2/",
       "wikidata": "http://www.wikidata.org/entity/Q106119785"
-    }
+    },
+    "geboortedatum": "+1966-08-02T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Dieke%20D.A.%20van%20Groningen",
@@ -2719,8 +2755,10 @@
     },
     "urls": {
       "partijwebsite": "https://www.vvd.nl/profielen/hawre-rahimi-2/",
-      "wikidata": "http://www.wikidata.org/entity/Q106119782"
-    }
+      "wikidata": "http://www.wikidata.org/entity/Q106119782",
+      "eigen website": "http://www.hawrerahimi.nl/"
+    },
+    "geboortedatum": "+1978-09-23T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Bart%20B.F.%20Omlo",
@@ -2894,7 +2932,8 @@
     "urls": {
       "partijwebsite": "https://www.vvd.nl/profielen/mirjam-nelisse-2/",
       "wikidata": "http://www.wikidata.org/entity/Q106119802"
-    }
+    },
+    "geboortedatum": "+1977-10-28T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Bas%20B.G.P.%20de%20Wit",
@@ -3089,8 +3128,10 @@
     },
     "urls": {
       "partijwebsite": "https://www.vvd.nl/profielen/mark-achterbergh-copier-2/",
-      "wikidata": "http://www.wikidata.org/entity/Q106119795"
-    }
+      "wikidata": "http://www.wikidata.org/entity/Q106119795",
+      "eigen website": "http://mark-achterbergh.nl/"
+    },
+    "geboortedatum": "+1987-02-12T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Hilde%20H.%20Wendel",
@@ -4315,7 +4356,8 @@
     "urls": {
       "partijwebsite": "https://www.vvd.nl/profielen/ivo-de-wolff-2/",
       "wikidata": "http://www.wikidata.org/entity/Q106119798"
-    }
+    },
+    "geboortedatum": "+1991-12-06T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Yldau%20Y.%20de%20Boer",
@@ -4510,8 +4552,10 @@
     },
     "urls": {
       "partijwebsite": "https://www.vvd.nl/profielen/maarten-van-der-weijden-2/",
-      "wikidata": "http://www.wikidata.org/entity/Q560662"
-    }
+      "wikidata": "http://www.wikidata.org/entity/Q560662",
+      "eigen website": "http://www.maartenvanderweijden.com/"
+    },
+    "geboortedatum": "+1981-03-31T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Rob%20R.A.A.%20Jetten",
@@ -4520,7 +4564,7 @@
     "voornaam": "Rob",
     "achternaam": "Jetten",
     "voorletters": "R.A.A.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 1,
@@ -4585,8 +4629,10 @@
       }
     },
     "urls": {
-      "wikidata": "http://www.wikidata.org/entity/Q28860866"
-    }
+      "wikidata": "http://www.wikidata.org/entity/Q28860866",
+      "eigen website": "https://d66.nl/mensen/rob-jetten/"
+    },
+    "geboortedatum": "+1987-03-25T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Jan%20J.M.%20Paternotte",
@@ -4595,7 +4641,7 @@
     "voornaam": "Jan",
     "achternaam": "Paternotte",
     "voorletters": "J.M.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 2,
@@ -4661,7 +4707,8 @@
     },
     "urls": {
       "wikidata": "http://www.wikidata.org/entity/Q16912128"
-    }
+    },
+    "geboortedatum": "+1984-02-26T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Hans%20J.A.%20Vijlbrief",
@@ -4670,7 +4717,7 @@
     "voornaam": "Hans",
     "achternaam": "Vijlbrief",
     "voorletters": "J.A.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 3,
@@ -4736,7 +4783,8 @@
     },
     "urls": {
       "wikidata": "http://www.wikidata.org/entity/Q83779218"
-    }
+    },
+    "geboortedatum": "+1963-08-17T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/A.%20Podt",
@@ -4790,7 +4838,7 @@
     "voornaam": "Joost",
     "achternaam": "Sneller",
     "voorletters": "J.C.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 5,
@@ -4856,7 +4904,8 @@
     },
     "urls": {
       "wikidata": "http://www.wikidata.org/entity/Q28860876"
-    }
+    },
+    "geboortedatum": "+1982-07-24T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Ilana%20I.%20Rooderkerk",
@@ -4865,7 +4914,7 @@
     "voornaam": "Ilana",
     "achternaam": "Rooderkerk",
     "voorletters": "I.",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 6,
@@ -4903,8 +4952,10 @@
       }
     },
     "urls": {
-      "wikidata": "http://www.wikidata.org/entity/Q2686191"
-    }
+      "wikidata": "http://www.wikidata.org/entity/Q2686191",
+      "eigen website": "http://ilanarooderkerk.wordpress.com/"
+    },
+    "geboortedatum": "+1987-05-04T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Wieke%20W.%20Paulusma",
@@ -4913,7 +4964,7 @@
     "voornaam": "Wieke",
     "achternaam": "Paulusma",
     "voorletters": "W.",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 7,
@@ -4978,8 +5029,10 @@
       }
     },
     "urls": {
-      "wikidata": "http://www.wikidata.org/entity/Q46445036"
-    }
+      "wikidata": "http://www.wikidata.org/entity/Q46445036",
+      "eigen website": "https://www.wiekepaulusma.nl/"
+    },
+    "geboortedatum": "+1978-12-05T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Hanneke%20J.J.%20van%20der%20Werf",
@@ -4988,7 +5041,7 @@
     "voornaam": "Hanneke",
     "achternaam": "van der Werf",
     "voorletters": "J.J.",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 8,
@@ -5027,7 +5080,8 @@
     },
     "urls": {
       "wikidata": "http://www.wikidata.org/entity/Q105709948"
-    }
+    },
+    "geboortedatum": "+1984-11-29T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Mpanzu%20P.%20Bamenga",
@@ -5036,7 +5090,7 @@
     "voornaam": "Mpanzu",
     "achternaam": "Bamenga",
     "voorletters": "P.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 9,
@@ -5084,7 +5138,7 @@
     "voornaam": "Tjeerd",
     "achternaam": "de Groot",
     "voorletters": "T.C.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 10,
@@ -5123,7 +5177,8 @@
     },
     "urls": {
       "wikidata": "http://www.wikidata.org/entity/Q28860874"
-    }
+    },
+    "geboortedatum": "+1968-04-10T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Marijke%20M.%20Synhaeve",
@@ -5219,7 +5274,8 @@
     },
     "urls": {
       "wikidata": "http://www.wikidata.org/entity/Q102069083"
-    }
+    },
+    "geboortedatum": "+1972-00-00T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Salima%20S.%20Belhaj",
@@ -5228,7 +5284,7 @@
     "voornaam": "Salima",
     "achternaam": "Belhaj",
     "voorletters": "S.",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 13,
@@ -5294,7 +5350,8 @@
     },
     "urls": {
       "wikidata": "http://www.wikidata.org/entity/Q22340717"
-    }
+    },
+    "geboortedatum": "+1978-10-18T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Faissal%20F.%20Boulakjar",
@@ -5303,7 +5360,7 @@
     "voornaam": "Faissal",
     "achternaam": "Boulakjar",
     "voorletters": "F.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 14,
@@ -5369,7 +5426,8 @@
     },
     "urls": {
       "wikidata": "http://www.wikidata.org/entity/Q105750196"
-    }
+    },
+    "geboortedatum": "+1979-04-28T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Fonda%20F.%20Sahla",
@@ -5378,7 +5436,7 @@
     "voornaam": "Fonda",
     "achternaam": "Sahla",
     "voorletters": "F.",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 15,
@@ -5444,7 +5502,8 @@
     },
     "urls": {
       "wikidata": "http://www.wikidata.org/entity/Q105750190"
-    }
+    },
+    "geboortedatum": "+1979-05-29T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Felix%20F.C.O.%20Klos",
@@ -5453,7 +5512,7 @@
     "voornaam": "Felix",
     "achternaam": "Klos",
     "voorletters": "F.C.O.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 16,
@@ -5492,7 +5551,8 @@
     },
     "urls": {
       "wikidata": "http://www.wikidata.org/entity/Q24534840"
-    }
+    },
+    "geboortedatum": "+1992-00-00T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Hülya%20H.%20Kat",
@@ -5501,7 +5561,7 @@
     "voornaam": "Hülya",
     "achternaam": "Kat",
     "voorletters": "H.",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 17,
@@ -5567,7 +5627,8 @@
     },
     "urls": {
       "wikidata": "http://www.wikidata.org/entity/Q28860908"
-    }
+    },
+    "geboortedatum": "+1983-00-00T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Sjoerd%20S.%20Warmerdam",
@@ -5576,7 +5637,7 @@
     "voornaam": "Sjoerd",
     "achternaam": "Warmerdam",
     "voorletters": "S.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 18,
@@ -5642,7 +5703,8 @@
     },
     "urls": {
       "wikidata": "http://www.wikidata.org/entity/Q105750200"
-    }
+    },
+    "geboortedatum": "+1987-08-13T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Spencer%20S.T.%20Alberg",
@@ -5699,7 +5761,7 @@
     "voornaam": "Alexander",
     "achternaam": "Hammelburg",
     "voorletters": "A.R.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 20,
@@ -5765,7 +5827,8 @@
     },
     "urls": {
       "wikidata": "http://www.wikidata.org/entity/Q105750194"
-    }
+    },
+    "geboortedatum": "+1982-02-22T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Jieskje%20J.%20Hollander",
@@ -5774,7 +5837,7 @@
     "voornaam": "Jieskje",
     "achternaam": "Hollander",
     "voorletters": "J.",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 21,
@@ -5821,7 +5884,8 @@
     },
     "urls": {
       "wikidata": "http://www.wikidata.org/entity/Q19802017"
-    }
+    },
+    "geboortedatum": "+1983-00-00T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Loes%20L.%20ten%20Dolle",
@@ -5830,7 +5894,7 @@
     "voornaam": "Loes",
     "achternaam": "ten Dolle",
     "voorletters": "L.",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 22,
@@ -5926,7 +5990,7 @@
     "voornaam": "Carline",
     "achternaam": "van Breugel",
     "voorletters": "C.",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 24,
@@ -5965,7 +6029,8 @@
     },
     "urls": {
       "wikidata": "http://www.wikidata.org/entity/Q105750191"
-    }
+    },
+    "geboortedatum": "+1994-01-01T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Hans%20J.C.M.%20Teunissen",
@@ -5974,7 +6039,7 @@
     "voornaam": "Hans",
     "achternaam": "Teunissen",
     "voorletters": "J.C.M.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 25,
@@ -6040,7 +6105,8 @@
     },
     "urls": {
       "wikidata": "http://www.wikidata.org/entity/Q105759663"
-    }
+    },
+    "geboortedatum": "+1984-01-01T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Meryem%20M.%20Çimen",
@@ -6193,7 +6259,7 @@
     "voornaam": "Eelco",
     "achternaam": "Keij",
     "voorletters": "E.J.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 29,
@@ -6482,7 +6548,7 @@
     "voornaam": "Mahjoub",
     "achternaam": "Mathlouti",
     "voorletters": "M.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 35,
@@ -6653,7 +6719,7 @@
     "voornaam": "Kiki",
     "achternaam": "Hagen",
     "voorletters": "K.B.",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 38,
@@ -6718,8 +6784,10 @@
       }
     },
     "urls": {
-      "wikidata": "http://www.wikidata.org/entity/Q105750199"
-    }
+      "wikidata": "http://www.wikidata.org/entity/Q105750199",
+      "eigen website": "https://kikihagen.nl/"
+    },
+    "geboortedatum": "+1987-01-06T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Gerben%20G.J.%20Hiemstra",
@@ -7061,7 +7129,7 @@
     "voornaam": "Hind",
     "achternaam": "Dekker-Abdulaziz",
     "voorletters": "H.",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 46,
@@ -7127,7 +7195,8 @@
     },
     "urls": {
       "wikidata": "http://www.wikidata.org/entity/Q83364836"
-    }
+    },
+    "geboortedatum": "+1981-09-28T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Marco%20M.%20van%20Driel",
@@ -7840,7 +7909,7 @@
     "voornaam": "Sander",
     "achternaam": "Janssen",
     "voorletters": "S.L.J.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 61,
@@ -7879,7 +7948,8 @@
     },
     "urls": {
       "wikidata": "http://www.wikidata.org/entity/Q106119816"
-    }
+    },
+    "geboortedatum": "+1976-06-26T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Laura%20L.%20de%20Vries",
@@ -8107,7 +8177,7 @@
     "voornaam": "Jaimi",
     "achternaam": "van Essen",
     "voorletters": "J.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 66,
@@ -8155,7 +8225,7 @@
     "voornaam": "Joan",
     "achternaam": "Nunnely",
     "voorletters": "J.M.",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 67,
@@ -8220,7 +8290,8 @@
       }
     },
     "urls": {
-      "wikidata": "http://www.wikidata.org/entity/Q105750201"
+      "wikidata": "http://www.wikidata.org/entity/Q105750201",
+      "eigen website": "https://www.joannunnely.nl/"
     }
   },
   {
@@ -8230,7 +8301,7 @@
     "voornaam": "Nazmi",
     "achternaam": "Türkkol",
     "voorletters": "N.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 68,
@@ -8305,7 +8376,7 @@
     "voornaam": "Peter",
     "achternaam": "van der Voort",
     "voorletters": "P.H.J.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 69,
@@ -8344,7 +8415,8 @@
     },
     "urls": {
       "wikidata": "http://www.wikidata.org/entity/Q61741012"
-    }
+    },
+    "geboortedatum": "+1964-09-29T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Marcelle%20M.T.M.%20Hendrickx",
@@ -8401,7 +8473,7 @@
     "voornaam": "Fleur",
     "achternaam": "Gräper-van Koolwijk",
     "voorletters": "F.Q.",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 71,
@@ -8448,7 +8520,8 @@
     },
     "urls": {
       "wikidata": "http://www.wikidata.org/entity/Q15875293"
-    }
+    },
+    "geboortedatum": "+1974-12-23T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Franc%20F.M.%20Weerwind",
@@ -8457,7 +8530,7 @@
     "voornaam": "Franc",
     "achternaam": "Weerwind",
     "voorletters": "F.M.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 72,
@@ -8496,7 +8569,8 @@
     },
     "urls": {
       "wikidata": "http://www.wikidata.org/entity/Q3037436"
-    }
+    },
+    "geboortedatum": "+1964-09-22T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Alexandra%20A.C.%20van%20Huffelen",
@@ -8505,7 +8579,7 @@
     "voornaam": "Alexandra",
     "achternaam": "van Huffelen",
     "voorletters": "A.C.",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 73,
@@ -8544,7 +8618,8 @@
     },
     "urls": {
       "wikidata": "http://www.wikidata.org/entity/Q2916448"
-    }
+    },
+    "geboortedatum": "+1968-07-21T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Ernst%20E.J.%20Kuipers",
@@ -8553,7 +8628,7 @@
     "voornaam": "Ernst",
     "achternaam": "Kuipers",
     "voorletters": "E.J.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 74,
@@ -8592,7 +8667,8 @@
     },
     "urls": {
       "wikidata": "http://www.wikidata.org/entity/Q39447567"
-    }
+    },
+    "geboortedatum": "+1959-01-01T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Kajsa%20K.H.%20Ollongren",
@@ -8601,7 +8677,7 @@
     "voornaam": "Kajsa",
     "achternaam": "Ollongren",
     "voorletters": "K.H.",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 75,
@@ -8667,7 +8743,8 @@
     },
     "urls": {
       "wikidata": "http://www.wikidata.org/entity/Q2776715"
-    }
+    },
+    "geboortedatum": "+1967-05-28T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Robbert%20R.H.%20Dijkgraaf",
@@ -8676,7 +8753,7 @@
     "voornaam": "Robbert",
     "achternaam": "Dijkgraaf",
     "voorletters": "R.H.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 76,
@@ -8715,7 +8792,8 @@
     },
     "urls": {
       "wikidata": "http://www.wikidata.org/entity/Q710978"
-    }
+    },
+    "geboortedatum": "+1960-01-24T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Gunay%20G.%20Uslu",
@@ -8724,7 +8802,7 @@
     "voornaam": "Gunay",
     "achternaam": "Uslu",
     "voorletters": "G.",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 77,
@@ -8763,7 +8841,8 @@
     },
     "urls": {
       "wikidata": "http://www.wikidata.org/entity/Q110401312"
-    }
+    },
+    "geboortedatum": "+1972-10-25T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Alexander%20A.%20Pechtold",
@@ -8772,7 +8851,7 @@
     "voornaam": "Alexander",
     "achternaam": "Pechtold",
     "voorletters": "A.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 78,
@@ -8811,7 +8890,8 @@
     },
     "urls": {
       "wikidata": "http://www.wikidata.org/entity/Q1915394"
-    }
+    },
+    "geboortedatum": "+1965-12-16T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Jan%20J.C.%20Terlouw",
@@ -8820,7 +8900,7 @@
     "voornaam": "Jan",
     "achternaam": "Terlouw",
     "voorletters": "J.C.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 79,
@@ -8859,7 +8939,8 @@
     },
     "urls": {
       "wikidata": "http://www.wikidata.org/entity/Q1397450"
-    }
+    },
+    "geboortedatum": "+1931-11-15T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Sigrid%20S.A.M.%20Kaag",
@@ -8868,7 +8949,7 @@
     "voornaam": "Sigrid",
     "achternaam": "Kaag",
     "voorletters": "S.A.M.",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 80,
@@ -8934,7 +9015,8 @@
     },
     "urls": {
       "wikidata": "http://www.wikidata.org/entity/Q15077856"
-    }
+    },
+    "geboortedatum": "+1961-11-02T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Frans%20F.C.G.M.%20Timmermans",
@@ -8943,7 +9025,7 @@
     "voornaam": "Frans",
     "achternaam": "Timmermans",
     "voorletters": "F.C.G.M.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 1,
@@ -8983,7 +9065,8 @@
     "urls": {
       "partijwebsite": "https://groenlinkspvda.nl/frans-timmermans",
       "wikidata": "http://www.wikidata.org/entity/Q32681"
-    }
+    },
+    "geboortedatum": "+1961-05-06T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Esmah%20A.%20Lahlah",
@@ -8992,7 +9075,7 @@
     "voornaam": "Esmah",
     "achternaam": "Lahlah",
     "voorletters": "A.",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 2,
@@ -9041,7 +9124,7 @@
     "voornaam": "Jesse",
     "achternaam": "Klaver",
     "voorletters": "J.F.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 3,
@@ -9107,8 +9190,10 @@
     },
     "urls": {
       "partijwebsite": "https://groenlinkspvda.nl/kandidaat/jesse-klaver/",
-      "wikidata": "http://www.wikidata.org/entity/Q2354753"
-    }
+      "wikidata": "http://www.wikidata.org/entity/Q2354753",
+      "eigen website": "https://groenlinks.nl/mensen/jesse-klaver"
+    },
+    "geboortedatum": "+1986-05-01T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Kati%20K.P.%20Piri",
@@ -9117,7 +9202,7 @@
     "voornaam": "Kati",
     "achternaam": "Piri",
     "voorletters": "K.P.",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 4,
@@ -9183,8 +9268,10 @@
     },
     "urls": {
       "partijwebsite": "https://groenlinkspvda.nl/kandidaat/kati-piri/",
-      "wikidata": "http://www.wikidata.org/entity/Q17143453"
-    }
+      "wikidata": "http://www.wikidata.org/entity/Q17143453",
+      "eigen website": "http://www.katipiri.nl/"
+    },
+    "geboortedatum": "+1979-04-08T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Lisa%20E.M.%20Westerveld",
@@ -9193,7 +9280,7 @@
     "voornaam": "Lisa",
     "achternaam": "Westerveld",
     "voorletters": "E.M.",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 5,
@@ -9259,8 +9346,10 @@
     },
     "urls": {
       "partijwebsite": "https://groenlinkspvda.nl/kandidaat/lisa-westerveld/",
-      "wikidata": "http://www.wikidata.org/entity/Q28860434"
-    }
+      "wikidata": "http://www.wikidata.org/entity/Q28860434",
+      "eigen website": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/westerveld-em-gl"
+    },
+    "geboortedatum": "+1981-11-16T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Mariëtte%20M.H.%20Patijn",
@@ -9269,7 +9358,7 @@
     "voornaam": "Mariëtte",
     "achternaam": "Patijn",
     "voorletters": "M.H.",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 6,
@@ -9309,7 +9398,8 @@
     "urls": {
       "partijwebsite": "https://groenlinkspvda.nl/kandidaat/mariette-patijn/",
       "wikidata": "http://www.wikidata.org/entity/Q122395357"
-    }
+    },
+    "geboortedatum": "+1966-00-00T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Suzanne%20S.C.%20Kröger",
@@ -9318,7 +9408,7 @@
     "voornaam": "Suzanne",
     "achternaam": "Kröger",
     "voorletters": "S.C.",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 7,
@@ -9384,8 +9474,10 @@
     },
     "urls": {
       "partijwebsite": "https://groenlinkspvda.nl/kandidaat/suzanne-kroger/",
-      "wikidata": "http://www.wikidata.org/entity/Q28860432"
-    }
+      "wikidata": "http://www.wikidata.org/entity/Q28860432",
+      "eigen website": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/kr%C3%B6ger-sc-gl"
+    },
+    "geboortedatum": "+1976-06-06T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Julian%20T.J.%20Bushoff",
@@ -9394,7 +9486,7 @@
     "voornaam": "Julian",
     "achternaam": "Bushoff",
     "voorletters": "T.J.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 8,
@@ -9461,7 +9553,8 @@
     "urls": {
       "partijwebsite": "https://groenlinkspvda.nl/kandidaat/julian-bushoff/",
       "wikidata": "http://www.wikidata.org/entity/Q105835852"
-    }
+    },
+    "geboortedatum": "+1997-03-21T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Tom%20T.M.T.%20van%20der%20Lee",
@@ -9470,7 +9563,7 @@
     "voornaam": "Tom",
     "achternaam": "van der Lee",
     "voorletters": "T.M.T.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 9,
@@ -9509,8 +9602,10 @@
     },
     "urls": {
       "partijwebsite": "https://groenlinkspvda.nl/kandidaat/tom-van-der-lee/",
-      "wikidata": "http://www.wikidata.org/entity/Q2425518"
-    }
+      "wikidata": "http://www.wikidata.org/entity/Q2425518",
+      "eigen website": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/lee-tmt-van-der-gl"
+    },
+    "geboortedatum": "+1964-07-09T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Songül%20S.%20Mutluer",
@@ -9519,7 +9614,7 @@
     "voornaam": "Songül",
     "achternaam": "Mutluer",
     "voorletters": "S.",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 10,
@@ -9586,7 +9681,8 @@
     "urls": {
       "partijwebsite": "https://groenlinkspvda.nl/kandidaat/songul-mutluer/",
       "wikidata": "http://www.wikidata.org/entity/Q104715862"
-    }
+    },
+    "geboortedatum": "+1979-00-00T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Laura%20L.%20Bromet",
@@ -9595,7 +9691,7 @@
     "voornaam": "Laura",
     "achternaam": "Bromet",
     "voorletters": "L.",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 11,
@@ -9662,7 +9758,8 @@
     "urls": {
       "partijwebsite": "https://groenlinkspvda.nl/kandidaat/laura-bromet/",
       "wikidata": "http://www.wikidata.org/entity/Q27646718"
-    }
+    },
+    "geboortedatum": "+1970-01-17T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Habtamu%20H.E.%20de%20Hoop",
@@ -9671,7 +9768,7 @@
     "voornaam": "Habtamu",
     "achternaam": "de Hoop",
     "voorletters": "H.E.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 12,
@@ -9711,7 +9808,8 @@
     "urls": {
       "partijwebsite": "https://groenlinkspvda.nl/kandidaat/habtamu-de-hoop/",
       "wikidata": "http://www.wikidata.org/entity/Q55221617"
-    }
+    },
+    "geboortedatum": "+1998-04-16T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Senna%20S.%20Maatoug",
@@ -9720,7 +9818,7 @@
     "voornaam": "Senna",
     "achternaam": "Maatoug",
     "voorletters": "S.",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 13,
@@ -9786,8 +9884,10 @@
     },
     "urls": {
       "partijwebsite": "https://groenlinkspvda.nl/kandidaat/senna-maatoug/",
-      "wikidata": "http://www.wikidata.org/entity/Q105798678"
-    }
+      "wikidata": "http://www.wikidata.org/entity/Q105798678",
+      "eigen website": "https://www.sennamaatoug.nl/"
+    },
+    "geboortedatum": "+1989-00-00T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Mohamed%20M.%20Mohandis",
@@ -9796,7 +9896,7 @@
     "voornaam": "Mohamed",
     "achternaam": "Mohandis",
     "voorletters": "M.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 14,
@@ -9836,7 +9936,8 @@
     "urls": {
       "partijwebsite": "https://groenlinkspvda.nl/kandidaat/mohammed-mohandis/",
       "wikidata": "http://www.wikidata.org/entity/Q861657"
-    }
+    },
+    "geboortedatum": "+1985-06-28T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Geert%20G.J.W.%20Gabriëls",
@@ -9845,7 +9946,7 @@
     "voornaam": "Geert",
     "achternaam": "Gabriëls",
     "voorletters": "G.J.W.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 15,
@@ -9912,7 +10013,8 @@
     "urls": {
       "partijwebsite": "https://groenlinkspvda.nl/kandidaat/geert-gabriels/",
       "wikidata": "http://www.wikidata.org/entity/Q106162828"
-    }
+    },
+    "geboortedatum": "+1979-10-30T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Joris%20J.%20Thijssen",
@@ -9921,7 +10023,7 @@
     "voornaam": "Joris",
     "achternaam": "Thijssen",
     "voorletters": "J.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 16,
@@ -9988,7 +10090,8 @@
     "urls": {
       "partijwebsite": "https://groenlinkspvda.nl/kandidaat/joris-thijssen/",
       "wikidata": "http://www.wikidata.org/entity/Q104439773"
-    }
+    },
+    "geboortedatum": "+1974-01-01T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Kauthar%20K.%20Bouchallikh",
@@ -9997,7 +10100,7 @@
     "voornaam": "Kauthar",
     "achternaam": "Bouchallikh",
     "voorletters": "K.",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 17,
@@ -10063,8 +10166,10 @@
     },
     "urls": {
       "partijwebsite": "https://groenlinkspvda.nl/kandidaat/kauthar-bouchallikht/",
-      "wikidata": "http://www.wikidata.org/entity/Q55080955"
-    }
+      "wikidata": "http://www.wikidata.org/entity/Q55080955",
+      "eigen website": "https://kauthar.info/"
+    },
+    "geboortedatum": "+1994-00-00T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Barbara%20B.C.%20Kathmann",
@@ -10073,7 +10178,7 @@
     "voornaam": "Barbara",
     "achternaam": "Kathmann",
     "voorletters": "B.C.",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 18,
@@ -10140,7 +10245,8 @@
     "urls": {
       "partijwebsite": "https://groenlinkspvda.nl/kandidaat/barbara-kathmann/",
       "wikidata": "http://www.wikidata.org/entity/Q74997605"
-    }
+    },
+    "geboortedatum": "+1978-05-12T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Elke%20E.%20Slagt-Tichelman",
@@ -10198,7 +10304,7 @@
     "voornaam": "Mikal",
     "achternaam": "Tseggai",
     "voorletters": "M.",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 20,
@@ -10264,8 +10370,10 @@
     },
     "urls": {
       "partijwebsite": "https://groenlinkspvda.nl/kandidaat/mikal-tseggai/",
-      "wikidata": "http://www.wikidata.org/entity/Q105773583"
-    }
+      "wikidata": "http://www.wikidata.org/entity/Q105773583",
+      "eigen website": "https://mikaltseggai.nl/"
+    },
+    "geboortedatum": "+1995-00-00T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Raoul%20R.J.%20White",
@@ -10323,7 +10431,7 @@
     "voornaam": "Anita",
     "achternaam": "Pijpelink",
     "voorletters": "A.",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 22,
@@ -10372,7 +10480,7 @@
     "voornaam": "Glimina",
     "achternaam": "Chakor",
     "voorletters": "G.",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 23,
@@ -10448,7 +10556,7 @@
     "voornaam": "Jimme",
     "achternaam": "Nordkamp",
     "voorletters": "J.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 24,
@@ -10488,7 +10596,8 @@
     "urls": {
       "partijwebsite": "https://groenlinkspvda.nl/kandidaat/jimme-nordkamp/",
       "wikidata": "http://www.wikidata.org/entity/Q123173849"
-    }
+    },
+    "geboortedatum": "+1996-00-00T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Luc%20L.C.J.%20Stultiens",
@@ -10546,7 +10655,7 @@
     "voornaam": "Marleen",
     "achternaam": "Haage",
     "voorletters": "M.W.",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 26,
@@ -10586,7 +10695,8 @@
     "urls": {
       "partijwebsite": "https://groenlinkspvda.nl/kandidaat/marleen-haage/",
       "wikidata": "http://www.wikidata.org/entity/Q105954220"
-    }
+    },
+    "geboortedatum": "+1980-01-01T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Danielle%20D.H.%20Hirsch",
@@ -10595,7 +10705,7 @@
     "voornaam": "Danielle",
     "achternaam": "Hirsch",
     "voorletters": "D.H.",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 27,
@@ -10635,7 +10745,8 @@
     "urls": {
       "partijwebsite": "https://groenlinkspvda.nl/kandidaat/danielle-hirsch/",
       "wikidata": "http://www.wikidata.org/entity/Q28860463"
-    }
+    },
+    "geboortedatum": "+1968-04-05T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Hayte%20H.A.%20de%20Jong",
@@ -10693,7 +10804,7 @@
     "voornaam": "Jeroen",
     "achternaam": "Postma",
     "voorletters": "J.P.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 29,
@@ -10760,7 +10871,8 @@
     "urls": {
       "partijwebsite": "https://groenlinkspvda.nl/kandidaat/jeroen-postma/",
       "wikidata": "http://www.wikidata.org/entity/Q91492486"
-    }
+    },
+    "geboortedatum": "+1982-12-11T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Inge%20I.%20Oosting",
@@ -10769,7 +10881,7 @@
     "voornaam": "Inge",
     "achternaam": "Oosting",
     "voorletters": "I.",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 30,
@@ -10836,7 +10948,8 @@
     "urls": {
       "partijwebsite": "https://groenlinkspvda.nl/kandidaat/inge-oosting/",
       "wikidata": "http://www.wikidata.org/entity/Q105835855"
-    }
+    },
+    "geboortedatum": "+1973-01-01T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Margreet%20M.M.%20de%20Boer",
@@ -10845,7 +10958,7 @@
     "voornaam": "Margreet",
     "achternaam": "de Boer",
     "voorletters": "M.M.",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 31,
@@ -10885,7 +10998,8 @@
     "urls": {
       "partijwebsite": "https://groenlinkspvda.nl/kandidaat/margreet-de-boer/",
       "wikidata": "http://www.wikidata.org/entity/Q1906932"
-    }
+    },
+    "geboortedatum": "+1964-11-21T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Jan%20J.W.B.%20Daenen",
@@ -10943,7 +11057,7 @@
     "voornaam": "April",
     "achternaam": "Ranshuijsen",
     "voorletters": "A.B.",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 33,
@@ -11010,7 +11124,8 @@
     "urls": {
       "partijwebsite": "https://groenlinkspvda.nl/kandidaat/april-ranshuijsen/",
       "wikidata": "http://www.wikidata.org/entity/Q106162818"
-    }
+    },
+    "geboortedatum": "+1977-04-00T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Eylem%20E.%20Köseoglu",
@@ -11117,7 +11232,7 @@
     "voornaam": "Abassin",
     "achternaam": "Nessar",
     "voorletters": "A.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 36,
@@ -11184,7 +11299,8 @@
     "urls": {
       "partijwebsite": "https://groenlinkspvda.nl/kandidaat/abassin-nessar/",
       "wikidata": "http://www.wikidata.org/entity/Q105835858"
-    }
+    },
+    "geboortedatum": "+1985-01-01T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Lyle%20L.%20Muns",
@@ -11193,7 +11309,7 @@
     "voornaam": "Lyle",
     "achternaam": "Muns",
     "voorletters": "L.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 37,
@@ -11233,7 +11349,8 @@
     "urls": {
       "partijwebsite": "https://groenlinkspvda.nl/kandidaat/lyle-muns/",
       "wikidata": "http://www.wikidata.org/entity/Q46382238"
-    }
+    },
+    "geboortedatum": "+1994-01-13T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Iris%20I.L.%20Vrolijks",
@@ -11242,7 +11359,7 @@
     "voornaam": "Iris",
     "achternaam": "Vrolijks",
     "voorletters": "I.L.",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 38,
@@ -11465,7 +11582,7 @@
     "voornaam": "Yasin",
     "achternaam": "Torunoglu",
     "voorletters": "Y.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 42,
@@ -11532,7 +11649,8 @@
     "urls": {
       "partijwebsite": "https://groenlinkspvda.nl/kandidaat/yasin-torunoglu/",
       "wikidata": "http://www.wikidata.org/entity/Q15884144"
-    }
+    },
+    "geboortedatum": "+1982-05-16T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Eva%20E.%20de%20Bruijn",
@@ -11737,7 +11855,7 @@
     "voornaam": "Romano",
     "achternaam": "Boshove",
     "voorletters": "R.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 47,
@@ -11787,7 +11905,8 @@
     },
     "urls": {
       "wikidata": "http://www.wikidata.org/entity/Q105754142"
-    }
+    },
+    "geboortedatum": "+1996-07-12T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Eefke%20E.G.%20Meijerink",
@@ -11796,7 +11915,7 @@
     "voornaam": "Eefke",
     "achternaam": "Meijerink",
     "voorletters": "E.G.",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 48,
@@ -11827,7 +11946,8 @@
     },
     "urls": {
       "wikidata": "http://www.wikidata.org/entity/Q105944668"
-    }
+    },
+    "geboortedatum": "+1972-01-01T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Verone%20J.H.%20de%20Vries",
@@ -11868,7 +11988,7 @@
     "voornaam": "Yara",
     "achternaam": "Hümmels",
     "voorletters": "Y.A.",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 50,
@@ -11992,8 +12112,10 @@
       }
     },
     "urls": {
-      "wikidata": "http://www.wikidata.org/entity/Q105338"
-    }
+      "wikidata": "http://www.wikidata.org/entity/Q105338",
+      "eigen website": "https://www.geertwilders.nl/"
+    },
+    "geboortedatum": "+1963-09-06T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Fleur%20M.%20Agema",
@@ -12068,7 +12190,8 @@
     },
     "urls": {
       "wikidata": "http://www.wikidata.org/entity/Q467982"
-    }
+    },
+    "geboortedatum": "+1976-09-16T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Ráchel%20R.F.%20van%20Meetelen",
@@ -12191,7 +12314,8 @@
     },
     "urls": {
       "wikidata": "http://www.wikidata.org/entity/Q19986193"
-    }
+    },
+    "geboortedatum": "+1977-10-27T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Martin%20M.%20Bosma",
@@ -12266,7 +12390,8 @@
     },
     "urls": {
       "wikidata": "http://www.wikidata.org/entity/Q3180577"
-    }
+    },
+    "geboortedatum": "+1964-07-16T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/René%20R.A.B.%20Claassen",
@@ -12416,7 +12541,8 @@
     },
     "urls": {
       "wikidata": "http://www.wikidata.org/entity/Q13815905"
-    }
+    },
+    "geboortedatum": "+1960-06-16T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Edgar%20E.%20Mulder",
@@ -12491,7 +12617,8 @@
     },
     "urls": {
       "wikidata": "http://www.wikidata.org/entity/Q28861872"
-    }
+    },
+    "geboortedatum": "+1961-11-22T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Vicky%20V.%20Maeijer",
@@ -12566,7 +12693,8 @@
     },
     "urls": {
       "wikidata": "http://www.wikidata.org/entity/Q17166729"
-    }
+    },
+    "geboortedatum": "+1986-09-07T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Tony%20A.P.C.%20van%20Dijck",
@@ -12614,7 +12742,8 @@
     },
     "urls": {
       "wikidata": "http://www.wikidata.org/entity/Q2797379"
-    }
+    },
+    "geboortedatum": "+1963-09-13T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Alexander%20A.%20Kops",
@@ -12689,7 +12818,8 @@
     },
     "urls": {
       "wikidata": "http://www.wikidata.org/entity/Q17427994"
-    }
+    },
+    "geboortedatum": "+1984-11-23T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Barry%20B.%20Madlener",
@@ -12757,7 +12887,8 @@
     },
     "urls": {
       "wikidata": "http://www.wikidata.org/entity/Q545023"
-    }
+    },
+    "geboortedatum": "+1969-01-06T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Léon%20L.W.E.%20de%20Jong",
@@ -12805,7 +12936,8 @@
     },
     "urls": {
       "wikidata": "http://www.wikidata.org/entity/Q518659"
-    }
+    },
+    "geboortedatum": "+1982-08-31T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Dion%20D.J.G.%20Graus",
@@ -12880,7 +13012,8 @@
     },
     "urls": {
       "wikidata": "http://www.wikidata.org/entity/Q2285105"
-    }
+    },
+    "geboortedatum": "+1967-03-19T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Reinder%20R.B.%20Blaauw",
@@ -12976,7 +13109,8 @@
     },
     "urls": {
       "wikidata": "http://www.wikidata.org/entity/Q1841359"
-    }
+    },
+    "geboortedatum": "+1952-09-01T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Emiel%20E.%20van%20Dijk",
@@ -13024,7 +13158,8 @@
     },
     "urls": {
       "wikidata": "http://www.wikidata.org/entity/Q28861874"
-    }
+    },
+    "geboortedatum": "+1985-03-22T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Henk%20J.H.%20de%20Vree",
@@ -13072,7 +13207,8 @@
     },
     "urls": {
       "wikidata": "http://www.wikidata.org/entity/Q28861877"
-    }
+    },
+    "geboortedatum": "+1954-01-29T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Max%20M.%20Aardema",
@@ -13147,7 +13283,8 @@
     },
     "urls": {
       "wikidata": "http://www.wikidata.org/entity/Q6794520"
-    }
+    },
+    "geboortedatum": "+1963-02-11T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Martine%20M.K.%20van%20der%20Velde",
@@ -14098,7 +14235,8 @@
     },
     "urls": {
       "wikidata": "http://www.wikidata.org/entity/Q110567942"
-    }
+    },
+    "geboortedatum": "+1994-00-00T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Joeri%20J.%20Pool",
@@ -14536,7 +14674,8 @@
     },
     "urls": {
       "wikidata": "http://www.wikidata.org/entity/Q20088078"
-    }
+    },
+    "geboortedatum": "+1983-06-06T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Gom%20G.A.%20van%20Strien",
@@ -14584,7 +14723,8 @@
     },
     "urls": {
       "wikidata": "http://www.wikidata.org/entity/Q2529406"
-    }
+    },
+    "geboortedatum": "+1951-06-10T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Henri%20H.%20Bontenbal",
@@ -14660,7 +14800,8 @@
     "urls": {
       "partijwebsite": "https://www.cda.nl/henri",
       "wikidata": "http://www.wikidata.org/entity/Q106975619"
-    }
+    },
+    "geboortedatum": "+1982-11-10T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Eline%20E.C.%20Vedder",
@@ -14709,7 +14850,8 @@
     "urls": {
       "partijwebsite": "https://www.cda.nl/eline-vedder-tk23",
       "wikidata": "http://www.wikidata.org/entity/Q118255422"
-    }
+    },
+    "geboortedatum": "+1979-04-15T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Derk%20D.G.%20Boswijk",
@@ -14785,7 +14927,8 @@
     "urls": {
       "partijwebsite": "https://www.cda.nl/derk-boswijk-tk23",
       "wikidata": "http://www.wikidata.org/entity/Q106214765"
-    }
+    },
+    "geboortedatum": "+1989-04-08T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Inge%20I.%20van%20Dijk",
@@ -14834,7 +14977,8 @@
     "urls": {
       "partijwebsite": "https://www.cda.nl/inge-van-dijk-tk23",
       "wikidata": "http://www.wikidata.org/entity/Q106090816"
-    }
+    },
+    "geboortedatum": "+1975-05-06T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Harmen%20H.M.%20Krul",
@@ -14910,7 +15054,8 @@
     "urls": {
       "partijwebsite": "https://www.cda.nl/harmen-krul-tk23",
       "wikidata": "http://www.wikidata.org/entity/Q116542370"
-    }
+    },
+    "geboortedatum": "+1994-05-19T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Hilde%20H.M.%20Palland-Mulder",
@@ -14986,7 +15131,8 @@
     "urls": {
       "partijwebsite": "https://www.cda.nl/hilde-palland",
       "wikidata": "http://www.wikidata.org/entity/Q28861157"
-    }
+    },
+    "geboortedatum": "+1979-09-13T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Bart%20G.%20van%20den%20Brink",
@@ -15035,7 +15181,8 @@
     "urls": {
       "partijwebsite": "https://www.cda.nl/bart-van-den-brink-tk23",
       "wikidata": "http://www.wikidata.org/entity/Q118256135"
-    }
+    },
+    "geboortedatum": "+1978-10-23T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Marlou%20M.G.J.A.C.%20Absil",
@@ -15209,7 +15356,8 @@
     "urls": {
       "partijwebsite": "https://www.cda.nl/anne-kuik-tk23",
       "wikidata": "http://www.wikidata.org/entity/Q28549638"
-    }
+    },
+    "geboortedatum": "+1987-01-22T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Jouke%20J.%20Spoelstra",
@@ -15652,7 +15800,8 @@
     "urls": {
       "partijwebsite": "https://www.cda.nl/chantal-van-den-berg",
       "wikidata": "http://www.wikidata.org/entity/Q19801951"
-    }
+    },
+    "geboortedatum": "+1976-11-23T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Jalt%20J.D.P.%20de%20Haan",
@@ -16517,7 +16666,8 @@
     "urls": {
       "partijwebsite": "https://www.cda.nlhttps://www.cda.nl/joba-van-den-berg-jansen",
       "wikidata": "http://www.wikidata.org/entity/Q28861153"
-    }
+    },
+    "geboortedatum": "+1958-08-21T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Antje%20A.M.A.G.%20Beers",
@@ -17228,7 +17378,8 @@
     "urls": {
       "partijwebsite": "https://www.cda.nl/lody-van-de-kamp",
       "wikidata": "http://www.wikidata.org/entity/Q2048471"
-    }
+    },
+    "geboortedatum": "+1948-09-29T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Lilian%20L.M.C.%20Marijnissen",
@@ -17303,7 +17454,8 @@
     },
     "urls": {
       "wikidata": "http://www.wikidata.org/entity/Q1882072"
-    }
+    },
+    "geboortedatum": "+1985-07-11T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Sandra%20S.M.%20Beckerman",
@@ -17378,7 +17530,8 @@
     },
     "urls": {
       "wikidata": "http://www.wikidata.org/entity/Q28373519"
-    }
+    },
+    "geboortedatum": "+1983-03-31T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Bart%20B.%20van%20Kent",
@@ -17426,7 +17579,8 @@
     },
     "urls": {
       "wikidata": "http://www.wikidata.org/entity/Q28861218"
-    }
+    },
+    "geboortedatum": "+1983-12-18T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Jimmy%20J.P.%20Dijk",
@@ -17501,7 +17655,8 @@
     },
     "urls": {
       "wikidata": "http://www.wikidata.org/entity/Q28861260"
-    }
+    },
+    "geboortedatum": "+1985-01-01T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Michiel%20M.%20van%20Nispen",
@@ -17549,7 +17704,8 @@
     },
     "urls": {
       "wikidata": "http://www.wikidata.org/entity/Q16069986"
-    }
+    },
+    "geboortedatum": "+1982-10-14T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Sarah%20S.E.M.%20Dobbe",
@@ -17624,7 +17780,8 @@
     },
     "urls": {
       "wikidata": "http://www.wikidata.org/entity/Q39169000"
-    }
+    },
+    "geboortedatum": "+1979-00-00T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Nicole%20N.G.J.%20Temmink",
@@ -17699,7 +17856,8 @@
     },
     "urls": {
       "wikidata": "http://www.wikidata.org/entity/Q28861255"
-    }
+    },
+    "geboortedatum": "+1987-01-01T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Mathijs%20M.J.%20ten%20Broeke",
@@ -17747,7 +17905,8 @@
     },
     "urls": {
       "wikidata": "http://www.wikidata.org/entity/Q106044281"
-    }
+    },
+    "geboortedatum": "+1990-01-01T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Jasper%20J.J.%20van%20Dijk",
@@ -17795,7 +17954,8 @@
     },
     "urls": {
       "wikidata": "http://www.wikidata.org/entity/Q2478764"
-    }
+    },
+    "geboortedatum": "+1971-04-20T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Bastiaan%20B.W.V.%20Meijer",
@@ -17918,7 +18078,8 @@
     },
     "urls": {
       "wikidata": "http://www.wikidata.org/entity/Q106044246"
-    }
+    },
+    "geboortedatum": "+1974-01-01T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Jorge%20J.%20Wolters%20Gregório",
@@ -18041,7 +18202,8 @@
     },
     "urls": {
       "wikidata": "http://www.wikidata.org/entity/Q28861252"
-    }
+    },
+    "geboortedatum": "+1965-01-01T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Remine%20R.%20Alberts",
@@ -18099,7 +18261,8 @@
     },
     "urls": {
       "wikidata": "http://www.wikidata.org/entity/Q105728352"
-    }
+    },
+    "geboortedatum": "+1954-01-01T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Harre%20H.F.A.%20van%20der%20Nat",
@@ -18222,7 +18385,8 @@
     },
     "urls": {
       "wikidata": "http://www.wikidata.org/entity/Q106044242"
-    }
+    },
+    "geboortedatum": "+1988-04-01T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Debbie%20D.%20van%20Dijk",
@@ -18318,7 +18482,8 @@
     },
     "urls": {
       "wikidata": "http://www.wikidata.org/entity/Q28861256"
-    }
+    },
+    "geboortedatum": "+1987-01-01T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Jamila%20J.%20Yahyaoui",
@@ -18366,7 +18531,8 @@
     },
     "urls": {
       "wikidata": "http://www.wikidata.org/entity/Q84565369"
-    }
+    },
+    "geboortedatum": "+1983-00-00T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Bram%20A.W.%20van%20Boven",
@@ -18462,7 +18628,8 @@
     },
     "urls": {
       "wikidata": "http://www.wikidata.org/entity/Q84565363"
-    }
+    },
+    "geboortedatum": "+1981-01-01T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Xander%20X.M.%20Topma",
@@ -18618,7 +18785,8 @@
     },
     "urls": {
       "wikidata": "http://www.wikidata.org/entity/Q27863815"
-    }
+    },
+    "geboortedatum": "+1950-01-01T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Sebastiaan%20S.G.%20van%20den%20Hout",
@@ -18666,7 +18834,8 @@
     },
     "urls": {
       "wikidata": "http://www.wikidata.org/entity/Q106044254"
-    }
+    },
+    "geboortedatum": "+1993-01-01T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Niels%20N.H.F.%20van%20der%20Wijk",
@@ -18810,7 +18979,8 @@
     },
     "urls": {
       "wikidata": "http://www.wikidata.org/entity/Q28382130"
-    }
+    },
+    "geboortedatum": "+1982-01-01T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Kristie%20K.S.%20Rongen",
@@ -18906,7 +19076,8 @@
     },
     "urls": {
       "wikidata": "http://www.wikidata.org/entity/Q105772753"
-    }
+    },
+    "geboortedatum": "+1966-01-01T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Anne%20A.%20Cramer",
@@ -19108,7 +19279,8 @@
     },
     "urls": {
       "wikidata": "http://www.wikidata.org/entity/Q106044280"
-    }
+    },
+    "geboortedatum": "+1961-01-01T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Dane%20D.C.%20Harris",
@@ -19444,7 +19616,8 @@
     },
     "urls": {
       "wikidata": "http://www.wikidata.org/entity/Q28861270"
-    }
+    },
+    "geboortedatum": "+1971-01-01T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Joost%20J.H.A.%20van%20der%20Sluis",
@@ -19684,7 +19857,8 @@
     },
     "urls": {
       "wikidata": "http://www.wikidata.org/entity/Q84565362"
-    }
+    },
+    "geboortedatum": "+1979-05-11T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Eelco%20E.%20Eikenaar",
@@ -19732,7 +19906,8 @@
     },
     "urls": {
       "wikidata": "http://www.wikidata.org/entity/Q72099890"
-    }
+    },
+    "geboortedatum": "+1979-00-00T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Jordy%20J.M.M.%20Clemens",
@@ -19807,7 +19982,8 @@
     },
     "urls": {
       "wikidata": "http://www.wikidata.org/entity/Q106044244"
-    }
+    },
+    "geboortedatum": "+1986-01-01T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Pierre%20P.A.O.%20Courbois",
@@ -19854,8 +20030,10 @@
       }
     },
     "urls": {
-      "wikidata": "http://www.wikidata.org/entity/Q2093347"
-    }
+      "wikidata": "http://www.wikidata.org/entity/Q2093347",
+      "eigen website": "http://www.pierrecourbois.nl"
+    },
+    "geboortedatum": "+1940-04-23T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Renske%20R.M.%20Leijten",
@@ -19930,7 +20108,8 @@
     },
     "urls": {
       "wikidata": "http://www.wikidata.org/entity/Q2501822"
-    }
+    },
+    "geboortedatum": "+1979-03-17T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/T.H.P.%20Baudet",
@@ -22260,7 +22439,7 @@
     "voornaam": "Esther",
     "achternaam": "Ouwehand",
     "voorletters": "E.",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 1,
@@ -22326,8 +22505,10 @@
     },
     "urls": {
       "partijwebsite": "https://www.partijvoordedieren.nl/kandidatenlijst-tk23#1.-esther-ouwehand",
-      "wikidata": "http://www.wikidata.org/entity/Q434842"
-    }
+      "wikidata": "http://www.wikidata.org/entity/Q434842",
+      "eigen website": "https://www.partijvoordedieren.nl/personen/esther-ouwehand"
+    },
+    "geboortedatum": "+1976-06-10T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Ines%20I.%20Kostić",
@@ -22336,7 +22517,7 @@
     "voornaam": "Ines",
     "achternaam": "Kostić",
     "voorletters": "I.",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 2,
@@ -22403,7 +22584,8 @@
     "urls": {
       "partijwebsite": "https://www.partijvoordedieren.nl/kandidatenlijst-tk23#2.-ines-kostić",
       "wikidata": "http://www.wikidata.org/entity/Q28857876"
-    }
+    },
+    "geboortedatum": "+1984-00-00T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Christine%20C.%20Teunissen",
@@ -22412,7 +22594,7 @@
     "voornaam": "Christine",
     "achternaam": "Teunissen",
     "voorletters": "C.",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 3,
@@ -22479,7 +22661,8 @@
     "urls": {
       "partijwebsite": "https://www.partijvoordedieren.nl/kandidatenlijst-tk23#3.-christine-teunissen",
       "wikidata": "http://www.wikidata.org/entity/Q19988346"
-    }
+    },
+    "geboortedatum": "+1985-09-06T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Frank%20F.P.%20Wassenberg",
@@ -22488,7 +22671,7 @@
     "voornaam": "Frank",
     "achternaam": "Wassenberg",
     "voorletters": "F.P.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 4,
@@ -22555,7 +22738,8 @@
     "urls": {
       "partijwebsite": "https://www.partijvoordedieren.nl/kandidatenlijst-tk23#4.-frank-wassenberg",
       "wikidata": "http://www.wikidata.org/entity/Q21479756"
-    }
+    },
+    "geboortedatum": "+1966-05-02T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Eva%20E.S.%20Akerboom",
@@ -22564,7 +22748,7 @@
     "voornaam": "Eva",
     "achternaam": "Akerboom",
     "voorletters": "E.S.",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 5,
@@ -22631,7 +22815,8 @@
     "urls": {
       "partijwebsite": "https://www.partijvoordedieren.nl/kandidatenlijst-tk23#5.-eva-akerboom",
       "wikidata": "http://www.wikidata.org/entity/Q28860640"
-    }
+    },
+    "geboortedatum": "+1992-03-12T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Lammert%20L.%20van%20Raan",
@@ -22640,7 +22825,7 @@
     "voornaam": "Lammert",
     "achternaam": "van Raan",
     "voorletters": "L.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 6,
@@ -22680,7 +22865,8 @@
     "urls": {
       "partijwebsite": "https://www.partijvoordedieren.nl/kandidatenlijst-tk23#6.-lammert-van-raan",
       "wikidata": "http://www.wikidata.org/entity/Q28860633"
-    }
+    },
+    "geboortedatum": "+1962-02-03T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Martine%20M.%20van%20Schaik",
@@ -22689,7 +22875,7 @@
     "voornaam": "Martine",
     "achternaam": "van Schaik",
     "voorletters": "M.",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 7,
@@ -22787,7 +22973,7 @@
     "voornaam": "Pascale",
     "achternaam": "Plusquin",
     "voorletters": "P.S.M.L.",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 9,
@@ -22854,7 +23040,8 @@
     "urls": {
       "partijwebsite": "https://www.partijvoordedieren.nl/kandidatenlijst-tk23#9.-pascale-plusquin",
       "wikidata": "http://www.wikidata.org/entity/Q28859789"
-    }
+    },
+    "geboortedatum": "+1974-00-00T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Pieter%20P.J.L.%20Groenewege",
@@ -23099,7 +23286,8 @@
     "urls": {
       "partijwebsite": "https://www.partijvoordedieren.nl/kandidatenlijst-tk23#14.-hanneke-schmeets",
       "wikidata": "http://www.wikidata.org/entity/Q117233448"
-    }
+    },
+    "geboortedatum": "+1977-11-20T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Kıvılcım%20K.%20Pınar",
@@ -23157,7 +23345,7 @@
     "voornaam": "Malcolm",
     "achternaam": "Jones",
     "voorletters": "M.G.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 16,
@@ -23848,7 +24036,7 @@
     "voornaam": "Carla",
     "achternaam": "van Viegen",
     "voorletters": "A.H.K.",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 29,
@@ -24098,7 +24286,7 @@
     "voornaam": "Trees",
     "achternaam": "Janssens",
     "voorletters": "T.A.O.",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 33,
@@ -24165,7 +24353,8 @@
     "urls": {
       "partijwebsite": "https://www.partijvoordedieren.nl/kandidatenlijst-tk23#33.-trees-janssens",
       "wikidata": "http://www.wikidata.org/entity/Q28860659"
-    }
+    },
+    "geboortedatum": "+1960-00-00T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Pinar%20Z.P.%20Coşkun",
@@ -24348,7 +24537,7 @@
     "voornaam": "Cynthia",
     "achternaam": "Pallandt",
     "voorletters": "C.M.J.",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 37,
@@ -25239,7 +25428,8 @@
       "Instagram": "https://www.instagram.com/mirjambikkercu/",
       "LinkedIn": "https://www.linkedin.com/in/mirjam-bikker-45936616/",
       "wikidata": "http://www.wikidata.org/entity/Q20100030"
-    }
+    },
+    "geboortedatum": "+1982-09-08T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Pieter%20P.A.%20Grinwis",
@@ -25318,7 +25508,8 @@
       "Instagram": "https://www.instagram.com/pieter_grinwis/",
       "LinkedIn": "https://www.linkedin.com/in/pieter-grinwis-336555156/",
       "wikidata": "http://www.wikidata.org/entity/Q28861483"
-    }
+    },
+    "geboortedatum": "+1979-00-00T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Don%20D.G.M.%20Ceder",
@@ -25396,8 +25587,10 @@
       "Facebook": "https://www.facebook.com/donceder",
       "Instagram": "https://www.instagram.com/donceder/",
       "LinkedIn": "https://www.linkedin.com/in/dceder/",
-      "wikidata": "http://www.wikidata.org/entity/Q28861455"
-    }
+      "wikidata": "http://www.wikidata.org/entity/Q28861455",
+      "eigen website": "https://www.donceder.nl"
+    },
+    "geboortedatum": "+1989-10-20T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Alwin%20A.H.%20te%20Rietstap",
@@ -25449,7 +25642,8 @@
       "Instagram": "https://www.instagram.com/alwinterietstap/",
       "LinkedIn": "https://www.linkedin.com/in/alwin-te-rietstap-15bb2b28/",
       "wikidata": "http://www.wikidata.org/entity/Q106191718"
-    }
+    },
+    "geboortedatum": "+1979-01-01T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Joëlle%20J.K.%20Gooijer-Medema",
@@ -25580,7 +25774,8 @@
       "Instagram": "https://www.instagram.com/nicodrost_cu/",
       "LinkedIn": "https://www.linkedin.com/in/ndrost/",
       "wikidata": "http://www.wikidata.org/entity/Q28861462"
-    }
+    },
+    "geboortedatum": "+1980-07-19T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Tobias%20T.S.%20Holtman",
@@ -25657,7 +25852,8 @@
       "Twitter": "https://www.twitter.com/TobiasHoltman",
       "LinkedIn": "https://www.linkedin.com/in/tobiasholtman/",
       "wikidata": "http://www.wikidata.org/entity/Q106191724"
-    }
+    },
+    "geboortedatum": "+1988-01-01T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Cora%20C.%20Otter-van%20den%20Bosch",
@@ -25761,7 +25957,8 @@
       "Instagram": "https://www.instagram.com/stienekevdgraaf/",
       "LinkedIn": "https://www.linkedin.com/in/stieneke-j-f-van-der-graaf-ll-m-22396415/",
       "wikidata": "http://www.wikidata.org/entity/Q28861451"
-    }
+    },
+    "geboortedatum": "+1984-10-07T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Michel%20M.C.A.%20Klein",
@@ -25892,7 +26089,8 @@
       "Instagram": "https://www.instagram.com/carlijniesink/",
       "LinkedIn": "https://www.linkedin.com/in/carlijn-niesink-18036083/",
       "wikidata": "http://www.wikidata.org/entity/Q106191720"
-    }
+    },
+    "geboortedatum": "+1986-01-01T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Jerke%20J.N.%20Setz",
@@ -26149,7 +26347,8 @@
       "Twitter": "https://www.twitter.com/ellyvwageningen",
       "LinkedIn": "https://www.linkedin.com/in/ellyvanwageningen/",
       "wikidata": "http://www.wikidata.org/entity/Q106191722"
-    }
+    },
+    "geboortedatum": "+1962-01-01T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Bert%20B.D.%20Tijhof",
@@ -26228,7 +26427,8 @@
       "Instagram": "https://www.instagram.com/berttijhof/",
       "LinkedIn": "https://www.linkedin.com/in/bert-tijhof-b3879a24/",
       "wikidata": "http://www.wikidata.org/entity/Q28861479"
-    }
+    },
+    "geboortedatum": "+1973-01-01T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Wouter%20W.T.%20de%20Reus",
@@ -26460,7 +26660,8 @@
       "Instagram": "https://www.instagram.com/pallandarend/",
       "LinkedIn": "https://www.linkedin.com/in/arendpalland/",
       "wikidata": "http://www.wikidata.org/entity/Q106191728"
-    }
+    },
+    "geboortedatum": "+1985-01-01T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Bettelies%20A.E.%20Westerbeek",
@@ -26563,7 +26764,8 @@
       "Facebook": "https://www.facebook.com/ijmert.muilwijk",
       "LinkedIn": "https://www.linkedin.com/in/ijmertmuilwijk/",
       "wikidata": "http://www.wikidata.org/entity/Q27777549"
-    }
+    },
+    "geboortedatum": "+1984-00-00T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Judith%20J.%20Westerink-Petersen",
@@ -26820,7 +27022,8 @@
       "Instagram": "https://www.instagram.com/thera_de_haan_jong/",
       "LinkedIn": "https://www.linkedin.com/in/theradehaan/",
       "wikidata": "http://www.wikidata.org/entity/Q106191736"
-    }
+    },
+    "geboortedatum": "+1978-01-01T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Arjan%20A.J.%20Koerts",
@@ -27100,7 +27303,8 @@
       "Instagram": "https://www.instagram.com/anil.c.kumar/",
       "LinkedIn": "https://www.linkedin.com/in/anilckumar/",
       "wikidata": "http://www.wikidata.org/entity/Q28861525"
-    }
+    },
+    "geboortedatum": "+1991-01-01T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Eva%20E.M.%20Kerklaan-van%20der%20Beek",
@@ -27454,7 +27658,8 @@
       "Facebook": "https://www.facebook.com/sara.vanoordtjonckheere",
       "LinkedIn": "https://www.linkedin.com/in/sara-van-oordt-jonckheere-567b4857/",
       "wikidata": "http://www.wikidata.org/entity/Q90796570"
-    }
+    },
+    "geboortedatum": "+1981-08-25T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Bertus%20B.%20Cornelissen",
@@ -27581,7 +27786,8 @@
       "Instagram": "https://www.instagram.com/nathalie.nede/",
       "LinkedIn": "https://www.linkedin.com/in/nathalie-nede/",
       "wikidata": "http://www.wikidata.org/entity/Q106191741"
-    }
+    },
+    "geboortedatum": "+1987-01-01T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/J.W.%20Schutte",
@@ -27733,7 +27939,8 @@
       "Twitter": "https://twitter.com/ministerlnv",
       "LinkedIn": "https://www.linkedin.com/in/piet-adema-b221591a/",
       "wikidata": "http://www.wikidata.org/entity/Q2688310"
-    }
+    },
+    "geboortedatum": "+1964-11-06T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Frank%20F.G.%20Bosman",
@@ -27784,7 +27991,8 @@
       "Facebook": "https://www.facebook.com/frankgbosman",
       "Instagram": "https://www.instagram.com/frankgbosman/",
       "wikidata": "http://www.wikidata.org/entity/Q2786565"
-    }
+    },
+    "geboortedatum": "+1978-11-03T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Eline%20E.%20Hoogenboom",
@@ -27913,8 +28121,10 @@
       "Facebook": "https://www.facebook.com/henk.stoorvogel",
       "Instagram": "https://www.instagram.com/henkstoorvogel/",
       "LinkedIn": "https://www.linkedin.com/in/dr-henk-stoorvogel-033394166/",
-      "wikidata": "http://www.wikidata.org/entity/Q2413824"
-    }
+      "wikidata": "http://www.wikidata.org/entity/Q2413824",
+      "eigen website": "http://www.henkstoorvogel.nl/"
+    },
+    "geboortedatum": "+1977-08-14T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Reinier%20R.C.%20van%20den%20Berg",
@@ -27964,7 +28174,8 @@
       "Twitter": "https://twitter.com/weermanreinier",
       "LinkedIn": "https://www.linkedin.com/in/reinier-van-den-berg-a8868111/",
       "wikidata": "http://www.wikidata.org/entity/Q14255109"
-    }
+    },
+    "geboortedatum": "+1962-04-05T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Beatrice%20B.A.%20de%20Graaf",
@@ -28014,7 +28225,8 @@
       "Twitter": "https://twitter.com/beatricedegraaf",
       "LinkedIn": "https://www.linkedin.com/in/beatrice-de-graaf-93630a6/",
       "wikidata": "http://www.wikidata.org/entity/Q1847801"
-    }
+    },
+    "geboortedatum": "+1976-04-19T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Laurens%20L.A.J.M.%20Dassen",
@@ -28023,7 +28235,7 @@
     "voornaam": "Laurens",
     "achternaam": "Dassen",
     "voorletters": "L.A.J.M.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 1,
@@ -28090,7 +28302,8 @@
     "urls": {
       "partijwebsite": "https://voltnederland.org/mensen/laurens-dassen",
       "wikidata": "http://www.wikidata.org/entity/Q105703729"
-    }
+    },
+    "geboortedatum": "+1985-10-19T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Marieke%20M.%20Koekkoek",
@@ -28099,7 +28312,7 @@
     "voornaam": "Marieke",
     "achternaam": "Koekkoek",
     "voorletters": "M.",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 2,
@@ -28166,7 +28379,8 @@
     "urls": {
       "partijwebsite": "https://voltnederland.org/mensen/marieke-koekkoek",
       "wikidata": "http://www.wikidata.org/entity/Q105703739"
-    }
+    },
+    "geboortedatum": "+1989-02-26T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Ernst%20E.%20Boutkan",
@@ -28175,7 +28389,7 @@
     "voornaam": "Ernst",
     "achternaam": "Boutkan",
     "voorletters": "E.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 3,
@@ -28242,7 +28456,8 @@
     "urls": {
       "partijwebsite": "https://voltnederland.org/mensen/ernst-boutkan-tk2023",
       "wikidata": "http://www.wikidata.org/entity/Q105703738"
-    }
+    },
+    "geboortedatum": "+1996-00-00T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Imane%20I.%20Elfilali",
@@ -28741,7 +28956,7 @@
     "voornaam": "Sylvia",
     "achternaam": "van Laar",
     "voorletters": "S.A.",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 14,
@@ -28888,7 +29103,7 @@
     "voornaam": "Floris",
     "achternaam": "Eigenhuis",
     "voorletters": "F.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 17,
@@ -29013,7 +29228,7 @@
     "voornaam": "Bart",
     "achternaam": "Hemmes",
     "voorletters": "B.J.A.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 19,
@@ -29226,7 +29441,8 @@
     },
     "urls": {
       "wikidata": "http://www.wikidata.org/entity/Q2350960"
-    }
+    },
+    "geboortedatum": "+1971-01-09T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Annabel%20A.%20Nanninga",
@@ -29301,7 +29517,8 @@
     },
     "urls": {
       "wikidata": "http://www.wikidata.org/entity/Q42532175"
-    }
+    },
+    "geboortedatum": "+1977-11-06T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Simon%20S.%20Ceulemans",
@@ -29547,7 +29764,8 @@
     },
     "urls": {
       "wikidata": "http://www.wikidata.org/entity/Q110581955"
-    }
+    },
+    "geboortedatum": "+1979-08-28T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Philippe%20P.F.M.%20Schyns",
@@ -31107,7 +31325,8 @@
     },
     "urls": {
       "wikidata": "http://www.wikidata.org/entity/Q2625227"
-    }
+    },
+    "geboortedatum": "+1965-09-10T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Simon%20S.A.F.%20Fortuijn",
@@ -31164,7 +31383,7 @@
     "voornaam": "Chris",
     "achternaam": "Stoffer",
     "voorletters": "C.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 1,
@@ -31230,7 +31449,8 @@
     },
     "urls": {
       "wikidata": "http://www.wikidata.org/entity/Q51796208"
-    }
+    },
+    "geboortedatum": "+1974-09-19T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Diederik%20D.J.H.%20van%20Dijk",
@@ -31239,7 +31459,7 @@
     "voornaam": "Diederik",
     "achternaam": "van Dijk",
     "voorletters": "D.J.H.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 2,
@@ -31278,7 +31498,8 @@
     },
     "urls": {
       "wikidata": "http://www.wikidata.org/entity/Q20026742"
-    }
+    },
+    "geboortedatum": "+1971-11-22T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/André%20A.J.%20Flach",
@@ -31287,7 +31508,7 @@
     "voornaam": "André",
     "achternaam": "Flach",
     "voorletters": "A.J.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 3,
@@ -31353,7 +31574,8 @@
     },
     "urls": {
       "wikidata": "http://www.wikidata.org/entity/Q110552900"
-    }
+    },
+    "geboortedatum": "+1976-04-23T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Nathanaël%20P.N.%20Middelkoop",
@@ -31482,7 +31704,7 @@
     "voornaam": "Harry",
     "achternaam": "van der Maas",
     "voorletters": "A.J.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 6,
@@ -31521,7 +31743,8 @@
     },
     "urls": {
       "wikidata": "http://www.wikidata.org/entity/Q22001866"
-    }
+    },
+    "geboortedatum": "+1972-00-00T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Henk%20H.J.%20van%20der%20Wind",
@@ -32115,7 +32338,7 @@
     "voornaam": "Hans",
     "achternaam": "Tanis",
     "voorletters": "J.P.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 17,
@@ -32181,7 +32404,8 @@
     },
     "urls": {
       "wikidata": "http://www.wikidata.org/entity/Q105758222"
-    }
+    },
+    "geboortedatum": "+1961-07-04T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Ewart%20E.G.%20Bosma",
@@ -33822,7 +34046,8 @@
     },
     "urls": {
       "wikidata": "http://www.wikidata.org/entity/Q28861995"
-    }
+    },
+    "geboortedatum": "+1991-08-25T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Doğukan%20D.A.%20Ergin",
@@ -37125,7 +37350,8 @@
     },
     "urls": {
       "wikidata": "http://www.wikidata.org/entity/Q28861683"
-    }
+    },
+    "geboortedatum": "+1958-00-00T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Martin%20M.P.%20Hornis",
@@ -37371,7 +37597,7 @@
     "voornaam": "Caroline",
     "achternaam": "van der Plas",
     "voorletters": "C.A.M.",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 1,
@@ -37411,7 +37637,8 @@
     "urls": {
       "partijwebsite": "https://boerburgerbeweging.nl/kandidaten/caroline-van-der-plas/",
       "wikidata": "http://www.wikidata.org/entity/Q106044088"
-    }
+    },
+    "geboortedatum": "+1967-06-06T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Mona%20M.C.G.%20Keijzer",
@@ -37420,7 +37647,7 @@
     "voornaam": "Mona",
     "achternaam": "Keijzer",
     "voorletters": "M.C.G.",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 2,
@@ -37487,7 +37714,8 @@
     "urls": {
       "partijwebsite": "https://boerburgerbeweging.nl/kandidaten/mona-keijzer/",
       "wikidata": "http://www.wikidata.org/entity/Q94229"
-    }
+    },
+    "geboortedatum": "+1968-10-09T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Gijs%20G.P.%20Tuinman",
@@ -37496,7 +37724,7 @@
     "voornaam": "Gijs",
     "achternaam": "Tuinman",
     "voorletters": "G.P.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 3,
@@ -37536,7 +37764,8 @@
     "urls": {
       "partijwebsite": "https://boerburgerbeweging.nl/kandidaten/gijs-tuinman/",
       "wikidata": "http://www.wikidata.org/entity/Q18433472"
-    }
+    },
+    "geboortedatum": "+1979-11-15T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Henk%20H.%20Vermeer",
@@ -37545,7 +37774,7 @@
     "voornaam": "Henk",
     "achternaam": "Vermeer",
     "voorletters": "H.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 4,
@@ -37620,7 +37849,7 @@
     "voornaam": "Lilian",
     "achternaam": "Helder",
     "voorletters": "L.M.J.S.",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 5,
@@ -37687,7 +37916,8 @@
     "urls": {
       "partijwebsite": "https://boerburgerbeweging.nl/kandidaten/lilian-helder/",
       "wikidata": "http://www.wikidata.org/entity/Q2854502"
-    }
+    },
+    "geboortedatum": "+1973-05-30T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Cor%20C.R.%20Pierik",
@@ -37834,7 +38064,8 @@
     "urls": {
       "partijwebsite": "https://boerburgerbeweging.nl/kandidaten/jean-rummenie/",
       "wikidata": "http://www.wikidata.org/entity/Q123173854"
-    }
+    },
+    "geboortedatum": "+1953-00-00T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Nicki%20N.J.F.%20Pouw-Verweij",
@@ -37843,7 +38074,7 @@
     "voornaam": "Nicki",
     "achternaam": "Pouw-Verweij",
     "voorletters": "N.J.F.",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 9,
@@ -37910,7 +38141,8 @@
     "urls": {
       "partijwebsite": "https://boerburgerbeweging.nl/kandidaten/nicki-pouw-verweij/",
       "wikidata": "http://www.wikidata.org/entity/Q64590194"
-    }
+    },
+    "geboortedatum": "+1991-05-21T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Mariska%20M.G.F.%20Rikkers-Oosterkamp",
@@ -38106,7 +38338,8 @@
     "urls": {
       "partijwebsite": "https://boerburgerbeweging.nl/kandidaten/jasper-rekers/",
       "wikidata": "http://www.wikidata.org/entity/Q123173936"
-    }
+    },
+    "geboortedatum": "+1988-00-00T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Alexander%20A.J.%20Hendriks",
@@ -38115,7 +38348,7 @@
     "voornaam": "Alexander",
     "achternaam": "Hendriks",
     "voorletters": "A.J.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 14,
@@ -38155,7 +38388,8 @@
     "urls": {
       "partijwebsite": "https://boerburgerbeweging.nl/kandidaten/alexander-hendriks/",
       "wikidata": "http://www.wikidata.org/entity/Q123173899"
-    }
+    },
+    "geboortedatum": "+1996-00-00T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Christine%20C.A.H.M.%20Govaert",
@@ -38164,7 +38398,7 @@
     "voornaam": "Christine",
     "achternaam": "Govaert",
     "voorletters": "C.A.H.M.",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 15,
@@ -38319,7 +38553,7 @@
     "voornaam": "Kees",
     "achternaam": "van Vuuren",
     "voorletters": "C.H.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 18,
@@ -38564,7 +38798,7 @@
     "voornaam": "Erik",
     "achternaam": "Stegink",
     "voorletters": "T.W.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 23,
@@ -39243,7 +39477,8 @@
     "urls": {
       "partijwebsite": "https://boerburgerbeweging.nl/kandidaten/wim-jaspers/",
       "wikidata": "http://www.wikidata.org/entity/Q117210291"
-    }
+    },
+    "geboortedatum": "+1961-04-27T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Eric%20G.W.C.%20Floors",
@@ -39973,7 +40208,7 @@
     "voornaam": "Edson",
     "achternaam": "Olf",
     "voorletters": "E.M.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 1,
@@ -40069,7 +40304,7 @@
     "voornaam": "Latifa",
     "achternaam": "Salmi",
     "voorletters": "L.",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 3,
@@ -40258,7 +40493,7 @@
     "voornaam": "Yvette",
     "achternaam": "Luhrs",
     "voorletters": "Y.",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 7,
@@ -40324,7 +40559,8 @@
     },
     "urls": {
       "wikidata": "http://www.wikidata.org/entity/Q59236750"
-    }
+    },
+    "geboortedatum": "+1985-00-00T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Yuval%20Y.%20Gal",
@@ -40642,7 +40878,7 @@
     "voornaam": "Romana",
     "achternaam": "Vrede",
     "voorletters": "R.I.",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 14,
@@ -40708,7 +40944,8 @@
     },
     "urls": {
       "wikidata": "http://www.wikidata.org/entity/Q40337243"
-    }
+    },
+    "geboortedatum": "+1972-10-24T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Rebekka%20R.S.Y.%20Timmer",
@@ -40717,7 +40954,7 @@
     "voornaam": "Rebekka",
     "achternaam": "Timmer",
     "voorletters": "R.S.Y.",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 15,
@@ -40783,7 +41020,8 @@
     },
     "urls": {
       "wikidata": "http://www.wikidata.org/entity/Q104630438"
-    }
+    },
+    "geboortedatum": "+1999-00-00T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Mark%20M.A.%20van%20Treuren",
@@ -41033,7 +41271,8 @@
     "urls": {
       "partijwebsite": "https://piratenpartij.nl/kandidaten-tk2023/#Matthijs_Pontier",
       "wikidata": "http://www.wikidata.org/entity/Q28860023"
-    }
+    },
+    "geboortedatum": "+1985-00-00T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Wietze%20W.A.%20Brandsma",
@@ -41158,7 +41397,8 @@
     "urls": {
       "partijwebsite": "https://piratenpartij.nl/kandidaten-tk2023/#Otto_ter_Haar",
       "wikidata": "http://www.wikidata.org/entity/Q105758233"
-    }
+    },
+    "geboortedatum": "+1958-00-00T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Kirsten%20H.K.%20Zimmerman",
@@ -42745,8 +42985,10 @@
     },
     "urls": {
       "partijwebsite": "https://piratenpartij.nl/kandidaten-tk2023/#Metje_Blaak",
-      "wikidata": "http://www.wikidata.org/entity/Q94992751"
-    }
+      "wikidata": "http://www.wikidata.org/entity/Q94992751",
+      "eigen website": "http://www.metjeblaak.nl/"
+    },
+    "geboortedatum": "+1949-01-01T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Wybren%20W.R.%20van%20Haga",
@@ -42794,8 +43036,10 @@
     },
     "urls": {
       "partijwebsite": "https://bvnl.nl/k/1",
-      "wikidata": "http://www.wikidata.org/entity/Q28861054"
-    }
+      "wikidata": "http://www.wikidata.org/entity/Q28861054",
+      "eigen website": "http://www.vanhaga.nl/"
+    },
+    "geboortedatum": "+1967-01-31T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Henk%20H.C.M.%20Krol",
@@ -42870,7 +43114,8 @@
     "urls": {
       "partijwebsite": "https://bvnl.nl/k/2",
       "wikidata": "http://www.wikidata.org/entity/Q455186"
-    }
+    },
+    "geboortedatum": "+1950-04-01T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Sieta%20J.S.%20van%20Keimpema",
@@ -42968,7 +43213,8 @@
     "urls": {
       "partijwebsite": "https://bvnl.nl/k/4",
       "wikidata": "http://www.wikidata.org/entity/Q20113636"
-    }
+    },
+    "geboortedatum": "+1962-12-11T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Nynke%20W.J.%20Koopmans%20-%20van%20der%20Veen",
@@ -43017,7 +43263,8 @@
     "urls": {
       "partijwebsite": "https://bvnl.nl/k/5",
       "wikidata": "http://www.wikidata.org/entity/Q105710131"
-    }
+    },
+    "geboortedatum": "+1972-00-00T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Roy%20R.R.%20van%20Aalst",
@@ -43066,7 +43313,8 @@
     "urls": {
       "partijwebsite": "https://bvnl.nl/k/6",
       "wikidata": "http://www.wikidata.org/entity/Q28861873"
-    }
+    },
+    "geboortedatum": "+1983-03-28T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Imke%20I.M.A.%20Emons",
@@ -43213,7 +43461,8 @@
     "urls": {
       "partijwebsite": "https://bvnl.nl/k/9",
       "wikidata": "http://www.wikidata.org/entity/Q28862452"
-    }
+    },
+    "geboortedatum": "+1962-00-00T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Hans%20H.P.%20van%20Tellingen",
@@ -43360,7 +43609,8 @@
     "urls": {
       "partijwebsite": "https://bvnl.nl/k/12",
       "wikidata": "http://www.wikidata.org/entity/Q28862434"
-    }
+    },
+    "geboortedatum": "+1987-00-00T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Carmen%20C.J.%20Bosscher",
@@ -43458,7 +43708,8 @@
     "urls": {
       "partijwebsite": "https://bvnl.nl/k/14",
       "wikidata": "http://www.wikidata.org/entity/Q2320015"
-    }
+    },
+    "geboortedatum": "+1964-01-24T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/S.P.X.%20Hulleman",
@@ -43770,7 +44021,8 @@
     "urls": {
       "partijwebsite": "https://bvnl.nl/k/20",
       "wikidata": "http://www.wikidata.org/entity/Q120906345"
-    }
+    },
+    "geboortedatum": "+1965-01-01T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Stefanie%20S.%20Vulders",
@@ -44810,8 +45062,10 @@
     },
     "urls": {
       "partijwebsite": "https://bvnl.nl/k/41",
-      "wikidata": "http://www.wikidata.org/entity/Q458121"
-    }
+      "wikidata": "http://www.wikidata.org/entity/Q458121",
+      "eigen website": "http://www.alistairovereem.com"
+    },
+    "geboortedatum": "+1980-05-17T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Frederike%20F.B.M.%20Thiessens",
@@ -44958,7 +45212,8 @@
     "urls": {
       "partijwebsite": "https://bvnl.nl/k/44",
       "wikidata": "http://www.wikidata.org/entity/Q2381483"
-    }
+    },
+    "geboortedatum": "+1969-08-17T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Bas%20L.T.C.%20Filippini",
@@ -45265,7 +45520,8 @@
     "urls": {
       "partijwebsite": "https://bvnl.nl/k/50",
       "wikidata": "http://www.wikidata.org/entity/Q2021605"
-    }
+    },
+    "geboortedatum": "+1960-09-15T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Pieter%20P.H.%20Omtzigt",
@@ -45340,7 +45596,8 @@
     },
     "urls": {
       "wikidata": "http://www.wikidata.org/entity/Q7192814"
-    }
+    },
+    "geboortedatum": "+1974-01-08T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Nicolien%20J.N.%20van%20Vroonhoven-Kok",
@@ -45388,7 +45645,8 @@
     },
     "urls": {
       "wikidata": "http://www.wikidata.org/entity/Q2353344"
-    }
+    },
+    "geboortedatum": "+1971-04-09T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Judith%20J.J.M.%20Uitermark",
@@ -45573,7 +45831,8 @@
     },
     "urls": {
       "wikidata": "http://www.wikidata.org/entity/Q3029970"
-    }
+    },
+    "geboortedatum": "+1972-04-17T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/A.J.%20Soepboer",
@@ -45714,7 +45973,8 @@
     },
     "urls": {
       "wikidata": "http://www.wikidata.org/entity/Q123173839"
-    }
+    },
+    "geboortedatum": "+1994-00-00T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Merlien%20R.M.%20Welzijn",
@@ -45762,7 +46022,8 @@
     },
     "urls": {
       "wikidata": "http://www.wikidata.org/entity/Q123173920"
-    }
+    },
+    "geboortedatum": "+1973-00-00T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Wytske%20W.L.%20Postma",
@@ -45837,7 +46098,8 @@
     },
     "urls": {
       "wikidata": "http://www.wikidata.org/entity/Q28861158"
-    }
+    },
+    "geboortedatum": "+1977-04-16T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Femke%20F.A.%20Zeedijk-Raeven",
@@ -45960,7 +46222,8 @@
     },
     "urls": {
       "wikidata": "http://www.wikidata.org/entity/Q106119773"
-    }
+    },
+    "geboortedatum": "+1971-12-22T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Danielle%20D.E.M.C.%20Jansen",
@@ -46056,7 +46319,8 @@
     },
     "urls": {
       "wikidata": "http://www.wikidata.org/entity/Q123173892"
-    }
+    },
+    "geboortedatum": "+1979-00-00T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Isa%20I.%20Kahraman",
@@ -46152,7 +46416,8 @@
     },
     "urls": {
       "wikidata": "http://www.wikidata.org/entity/Q29317688"
-    }
+    },
+    "geboortedatum": "+1984-00-00T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Faith%20F.H.%20Bruyning",
@@ -46200,7 +46465,8 @@
     },
     "urls": {
       "wikidata": "http://www.wikidata.org/entity/Q123173875"
-    }
+    },
+    "geboortedatum": "+1988-00-00T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Olger%20O.C.%20van%20Dijk",
@@ -46248,7 +46514,8 @@
     },
     "urls": {
       "wikidata": "http://www.wikidata.org/entity/Q14853562"
-    }
+    },
+    "geboortedatum": "+1979-00-00T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Harm%20H.%20Holman",
@@ -46392,7 +46659,8 @@
     },
     "urls": {
       "wikidata": "http://www.wikidata.org/entity/Q123173859"
-    }
+    },
+    "geboortedatum": "+1970-00-00T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Ilse%20I.G.%20Saris",
@@ -47465,7 +47733,8 @@
     },
     "urls": {
       "wikidata": "http://www.wikidata.org/entity/Q28861665"
-    }
+    },
+    "geboortedatum": "+1973-12-19T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/F.M.%20van%20Kooten-Arissen",
@@ -48569,7 +48838,8 @@
     "urls": {
       "partijwebsite": "https://www.splinterpolitiek.nl/kandidaten/marise",
       "wikidata": "http://www.wikidata.org/entity/Q106085672"
-    }
+    },
+    "geboortedatum": "+1980-01-01T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Nora%20N.%20Ezendam",
@@ -48765,7 +49035,8 @@
     "urls": {
       "partijwebsite": "https://www.splinterpolitiek.nl/kandidaten/magda",
       "wikidata": "http://www.wikidata.org/entity/Q106085674"
-    }
+    },
+    "geboortedatum": "+1955-01-01T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Patrick%20P.%20Bruijstens",
@@ -49036,7 +49307,8 @@
     "urls": {
       "partijwebsite": "https://www.splinterpolitiek.nl/kandidaten/ingrid",
       "wikidata": "http://www.wikidata.org/entity/Q106085670"
-    }
+    },
+    "geboortedatum": "+1967-01-01T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Tom%20T.J.%20van%20Lamoen",
@@ -49381,7 +49653,7 @@
     "voornaam": "Simone",
     "achternaam": "Pailer",
     "voorletters": "S.",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 7,
@@ -49522,7 +49794,7 @@
     "voornaam": "Quintus",
     "achternaam": "Backhuijs",
     "voorletters": "W.Q.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 10,
@@ -49596,7 +49868,7 @@
     "voornaam": "Pallieter",
     "achternaam": "Koopmans",
     "voorletters": "S.F.P.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 11,
@@ -49858,7 +50130,7 @@
     "voornaam": "Mik",
     "achternaam": "Brokke",
     "voorletters": "M.A.",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 16,
@@ -51359,8 +51631,10 @@
     },
     "urls": {
       "partijwebsite": "https://samen-voor-nederland.nl/over-ons/partijleden/laurens-buijs/",
-      "wikidata": "http://www.wikidata.org/entity/Q116784564"
-    }
+      "wikidata": "http://www.wikidata.org/entity/Q116784564",
+      "eigen website": "https://laurensbuijs.org"
+    },
+    "geboortedatum": "+1982-00-00T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Nathalie%20N.C.%20Vaneker",
@@ -54184,7 +54458,8 @@
     },
     "urls": {
       "wikidata": "http://www.wikidata.org/entity/Q3908201"
-    }
+    },
+    "geboortedatum": "+1968-06-30T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Danny%20D.%20van%20Brussel",
@@ -54490,7 +54765,8 @@
     },
     "urls": {
       "wikidata": "http://www.wikidata.org/entity/Q948455"
-    }
+    },
+    "geboortedatum": "+1969-01-10T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Jelmer%20J.R.C.%20Becker",
@@ -55282,7 +55558,7 @@
     "voornaam": "Rebekka",
     "achternaam": "Tselms",
     "voorletters": "R.V.",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 48,
@@ -55331,7 +55607,8 @@
     },
     "urls": {
       "wikidata": "http://www.wikidata.org/entity/Q105835863"
-    }
+    },
+    "geboortedatum": "+1987-01-01T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Paulien%20P.%20Gankema",
@@ -55371,7 +55648,7 @@
     "voornaam": "Marjolein",
     "achternaam": "Moorman",
     "voorletters": "M.",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 50,
@@ -55393,7 +55670,8 @@
     },
     "urls": {
       "wikidata": "http://www.wikidata.org/entity/Q71101713"
-    }
+    },
+    "geboortedatum": "+1974-03-01T00:00:00Z"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/M.C.%20Middelkoop",
@@ -55893,7 +56171,7 @@
     "voornaam": "Bas",
     "achternaam": "Bijlsma",
     "voorletters": "J.S.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 47,
@@ -55952,7 +56230,7 @@
     "voornaam": "Rembrandt",
     "achternaam": "Rowaan",
     "voorletters": "R.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 48,
@@ -55984,7 +56262,7 @@
     "voornaam": "Paulien",
     "achternaam": "van der Hoeven",
     "voorletters": "A.A.M.",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 49,
