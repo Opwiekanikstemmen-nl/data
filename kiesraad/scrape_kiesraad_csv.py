@@ -124,7 +124,7 @@ def save_candidate(unique, lijstnummer, kieskring, full_name, achternaam, voorle
 		# if so, add kieskring
 		partijlijsten[partij][full_name]['verkiezingen'][election]['kieskringen'].append(kieskring)
 	else:
-		iri = "https://opwiekanikstemmen.nl/id/person/{0}".format(unique.replace(" ", "%20"))
+		iri = "https://opwiekanikstemmen.nl/id/person/{0}".format(unique.replace(" ", "_"))
 		# - create person object
 		person = {
 			'iri': iri,
