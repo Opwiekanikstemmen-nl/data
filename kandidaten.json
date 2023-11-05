@@ -1541,9 +1541,11 @@
     },
     "urls": {
       "partijwebsite": "https://www.vvd.nl/profielen/jacqueline-van-den-hil-2/",
-      "wikidata": "http://www.wikidata.org/entity/Q106119767"
+      "wikidata": "http://www.wikidata.org/entity/Q106119767",
+      "rainbowvote": "https://rainbowvote.nu/tweede-kamer-2023/partijen/vvd/jacqueline-van-den-hil/"
     },
-    "geboortedatum": "+1968-03-20T00:00:00Z"
+    "geboortedatum": "+1968-03-20T00:00:00Z",
+    "rainbowvote": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Peter%20P.J.%20Valstar",
@@ -2630,8 +2632,10 @@
     },
     "urls": {
       "partijwebsite": "https://www.vvd.nl/profielen/youri-volkman/",
-      "wikidata": "http://www.wikidata.org/entity/Q123175916"
-    }
+      "wikidata": "http://www.wikidata.org/entity/Q123175916",
+      "rainbowvote": "https://rainbowvote.nu/tweede-kamer-2023/partijen/vvd/youri-volkman-2023/"
+    },
+    "rainbowvote": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Peter%20P.W.%20van%20Kessel",
@@ -2855,8 +2859,10 @@
     },
     "urls": {
       "partijwebsite": "https://www.vvd.nl/profielen/remco-cooremans/",
-      "wikidata": "http://www.wikidata.org/entity/Q123175920"
-    }
+      "wikidata": "http://www.wikidata.org/entity/Q123175920",
+      "rainbowvote": "https://rainbowvote.nu/tweede-kamer-2023/partijen/vvd/remco-yizhak-cooremans/"
+    },
+    "rainbowvote": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Mirjam%20R.M.L.%20Nelisse",
@@ -3129,9 +3135,11 @@
     "urls": {
       "partijwebsite": "https://www.vvd.nl/profielen/mark-achterbergh-copier-2/",
       "wikidata": "http://www.wikidata.org/entity/Q106119795",
-      "eigen website": "http://mark-achterbergh.nl/"
+      "eigen website": "http://mark-achterbergh.nl/",
+      "rainbowvote": "https://rainbowvote.nu/tweede-kamer-2023/partijen/vvd/mark-achterbergh-copier/"
     },
-    "geboortedatum": "+1987-02-12T00:00:00Z"
+    "geboortedatum": "+1987-02-12T00:00:00Z",
+    "rainbowvote": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Hilde%20H.%20Wendel",
@@ -4630,9 +4638,11 @@
     },
     "urls": {
       "wikidata": "http://www.wikidata.org/entity/Q28860866",
-      "eigen website": "https://d66.nl/mensen/rob-jetten/"
+      "eigen website": "https://d66.nl/mensen/rob-jetten/",
+      "rainbowvote": "https://rainbowvote.nu/tweede-kamer-2023/partijen/d66/rob-jetten-2023/"
     },
-    "geboortedatum": "+1987-03-25T00:00:00Z"
+    "geboortedatum": "+1987-03-25T00:00:00Z",
+    "rainbowvote": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Jan%20J.M.%20Paternotte",
@@ -5225,8 +5235,10 @@
       }
     },
     "urls": {
-      "wikidata": "http://www.wikidata.org/entity/Q123175965"
-    }
+      "wikidata": "http://www.wikidata.org/entity/Q123175965",
+      "rainbowvote": "https://rainbowvote.nu/tweede-kamer-2023/partijen/d66/marijke-synhaeve-2023/"
+    },
+    "rainbowvote": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Lisa%20L.M.%20van%20Ginneken",
@@ -5273,9 +5285,11 @@
       }
     },
     "urls": {
-      "wikidata": "http://www.wikidata.org/entity/Q102069083"
+      "wikidata": "http://www.wikidata.org/entity/Q102069083",
+      "rainbowvote": "https://rainbowvote.nu/tweede-kamer-2023/partijen/d66/lisa-van-ginneken-2023/"
     },
-    "geboortedatum": "+1972-00-00T00:00:00Z"
+    "geboortedatum": "+1972-00-00T00:00:00Z",
+    "rainbowvote": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Salima%20S.%20Belhaj",
@@ -5501,9 +5515,11 @@
       }
     },
     "urls": {
-      "wikidata": "http://www.wikidata.org/entity/Q105750190"
+      "wikidata": "http://www.wikidata.org/entity/Q105750190",
+      "kleurdekamer": "https://kleurdekamer.nl/fondasahla-2/"
     },
-    "geboortedatum": "+1979-05-29T00:00:00Z"
+    "geboortedatum": "+1979-05-29T00:00:00Z",
+    "kleurdekamer": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Felix%20F.C.O.%20Klos",
@@ -5751,8 +5767,10 @@
       }
     },
     "urls": {
-      "wikidata": "http://www.wikidata.org/entity/Q123175966"
-    }
+      "wikidata": "http://www.wikidata.org/entity/Q123175966",
+      "kleurdekamer": "https://kleurdekamer.nl/spenceralberg-2/"
+    },
+    "kleurdekamer": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Alexander%20A.R.%20Hammelburg",
@@ -5826,9 +5844,11 @@
       }
     },
     "urls": {
-      "wikidata": "http://www.wikidata.org/entity/Q105750194"
+      "wikidata": "http://www.wikidata.org/entity/Q105750194",
+      "rainbowvote": "https://rainbowvote.nu/tweede-kamer-2023/partijen/d66/alexander-hammelburg/"
     },
-    "geboortedatum": "+1982-02-22T00:00:00Z"
+    "geboortedatum": "+1982-02-22T00:00:00Z",
+    "rainbowvote": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Jieskje%20J.%20Hollander",
@@ -6028,9 +6048,11 @@
       }
     },
     "urls": {
-      "wikidata": "http://www.wikidata.org/entity/Q105750191"
+      "wikidata": "http://www.wikidata.org/entity/Q105750191",
+      "rainbowvote": "https://rainbowvote.nu/tweede-kamer-2023/partijen/d66/carline-van-breugel-2023/"
     },
-    "geboortedatum": "+1994-01-01T00:00:00Z"
+    "geboortedatum": "+1994-01-01T00:00:00Z",
+    "rainbowvote": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Hans%20J.C.M.%20Teunissen",
@@ -6394,8 +6416,10 @@
       }
     },
     "urls": {
-      "wikidata": "http://www.wikidata.org/entity/Q123175972"
-    }
+      "wikidata": "http://www.wikidata.org/entity/Q123175972",
+      "rainbowvote": "https://rainbowvote.nu/tweede-kamer-2023/partijen/d66/paul-van-dorst-2023/"
+    },
+    "rainbowvote": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Gerben%20G.H.%20Wijnja",
@@ -7194,9 +7218,11 @@
       }
     },
     "urls": {
-      "wikidata": "http://www.wikidata.org/entity/Q83364836"
+      "wikidata": "http://www.wikidata.org/entity/Q83364836",
+      "kleurdekamer": "https://kleurdekamer.nl/hinddekkerabdulaziz/"
     },
-    "geboortedatum": "+1981-09-28T00:00:00Z"
+    "geboortedatum": "+1981-09-28T00:00:00Z",
+    "kleurdekamer": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Marco%20M.%20van%20Driel",
@@ -9347,9 +9373,11 @@
     "urls": {
       "partijwebsite": "https://groenlinkspvda.nl/kandidaat/lisa-westerveld/",
       "wikidata": "http://www.wikidata.org/entity/Q28860434",
-      "eigen website": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/westerveld-em-gl"
+      "eigen website": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/westerveld-em-gl",
+      "rainbowvote": "https://rainbowvote.nu/tweede-kamer-2023/partijen/groenlinkspvda/lisa-westerveld/"
     },
-    "geboortedatum": "+1981-11-16T00:00:00Z"
+    "geboortedatum": "+1981-11-16T00:00:00Z",
+    "rainbowvote": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Mariëtte%20M.H.%20Patijn",
@@ -10012,9 +10040,11 @@
     },
     "urls": {
       "partijwebsite": "https://groenlinkspvda.nl/kandidaat/geert-gabriels/",
-      "wikidata": "http://www.wikidata.org/entity/Q106162828"
+      "wikidata": "http://www.wikidata.org/entity/Q106162828",
+      "rainbowvote": "https://rainbowvote.nu/tweede-kamer-2023/partijen/groenlinkspvda/geert-gabriels/"
     },
-    "geboortedatum": "+1979-10-30T00:00:00Z"
+    "geboortedatum": "+1979-10-30T00:00:00Z",
+    "rainbowvote": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Joris%20J.%20Thijssen",
@@ -10421,8 +10451,10 @@
     },
     "urls": {
       "partijwebsite": "https://groenlinkspvda.nl/kandidaat/raoul-white/",
-      "wikidata": "http://www.wikidata.org/entity/Q123176008"
-    }
+      "wikidata": "http://www.wikidata.org/entity/Q123176008",
+      "kleurdekamer": "https://kleurdekamer.nl/raoulwhite-2/"
+    },
+    "kleurdekamer": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Anita%20A.%20Pijpelink",
@@ -10546,8 +10578,10 @@
     },
     "urls": {
       "partijwebsite": "https://groenlinkspvda.nl/kandidaat/glimina-chakor/",
-      "wikidata": "http://www.wikidata.org/entity/Q106162879"
-    }
+      "wikidata": "http://www.wikidata.org/entity/Q106162879",
+      "kleurdekamer": "https://kleurdekamer.nl/gliminachakor-2/"
+    },
+    "kleurdekamer": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Jimme%20J.%20Nordkamp",
@@ -11123,9 +11157,11 @@
     },
     "urls": {
       "partijwebsite": "https://groenlinkspvda.nl/kandidaat/april-ranshuijsen/",
-      "wikidata": "http://www.wikidata.org/entity/Q106162818"
+      "wikidata": "http://www.wikidata.org/entity/Q106162818",
+      "rainbowvote": "https://rainbowvote.nu/tweede-kamer-2023/partijen/groenlinkspvda/april-ranshuijsen-2023/"
     },
-    "geboortedatum": "+1977-04-00T00:00:00Z"
+    "geboortedatum": "+1977-04-00T00:00:00Z",
+    "rainbowvote": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Eylem%20E.%20Köseoglu",
@@ -11298,9 +11334,11 @@
     },
     "urls": {
       "partijwebsite": "https://groenlinkspvda.nl/kandidaat/abassin-nessar/",
-      "wikidata": "http://www.wikidata.org/entity/Q105835858"
+      "wikidata": "http://www.wikidata.org/entity/Q105835858",
+      "rainbowvote": "https://rainbowvote.nu/tweede-kamer-2023/partijen/groenlinkspvda/abassin-nessar/"
     },
-    "geboortedatum": "+1985-01-01T00:00:00Z"
+    "geboortedatum": "+1985-01-01T00:00:00Z",
+    "rainbowvote": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Lyle%20L.%20Muns",
@@ -11348,9 +11386,11 @@
     },
     "urls": {
       "partijwebsite": "https://groenlinkspvda.nl/kandidaat/lyle-muns/",
-      "wikidata": "http://www.wikidata.org/entity/Q46382238"
+      "wikidata": "http://www.wikidata.org/entity/Q46382238",
+      "rainbowvote": "https://rainbowvote.nu/tweede-kamer-2023/partijen/groenlinkspvda/lyle-muns/"
     },
-    "geboortedatum": "+1994-01-13T00:00:00Z"
+    "geboortedatum": "+1994-01-13T00:00:00Z",
+    "rainbowvote": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Iris%20I.L.%20Vrolijks",
@@ -11698,8 +11738,10 @@
     },
     "urls": {
       "partijwebsite": "https://groenlinkspvda.nl/kandidaat/eva-de-bruijn/",
-      "wikidata": "http://www.wikidata.org/entity/Q123176017"
-    }
+      "wikidata": "http://www.wikidata.org/entity/Q123176017",
+      "rainbowvote": "https://rainbowvote.nu/tweede-kamer-2023/partijen/groenlinkspvda/eva-de-bruijn-2023/"
+    },
+    "rainbowvote": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Eline%20E.M.%20Bosman",
@@ -15644,8 +15686,10 @@
     },
     "urls": {
       "partijwebsite": "https://www.cda.nl/ralph-diederen",
-      "wikidata": "http://www.wikidata.org/entity/Q122190595"
-    }
+      "wikidata": "http://www.wikidata.org/entity/Q122190595",
+      "rainbowvote": "https://rainbowvote.nu/tweede-kamer-2023/partijen/cda/ralph-diederen/"
+    },
+    "rainbowvote": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Sarath%20S.%20Hamstra",
@@ -16984,8 +17028,10 @@
     },
     "urls": {
       "partijwebsite": "https://www.cda.nl/frank-buijs",
-      "wikidata": "http://www.wikidata.org/entity/Q123176073"
-    }
+      "wikidata": "http://www.wikidata.org/entity/Q123176073",
+      "rainbowvote": "https://rainbowvote.nu/tweede-kamer-2023/partijen/cda/frank-buijs/"
+    },
+    "rainbowvote": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Laura%20L.H.%20van%20de%20Giessen",
@@ -18002,8 +18048,10 @@
       }
     },
     "urls": {
-      "wikidata": "http://www.wikidata.org/entity/Q123176082"
-    }
+      "wikidata": "http://www.wikidata.org/entity/Q123176082",
+      "rainbowvote": "https://rainbowvote.nu/tweede-kamer-2023/partijen/sp/bastiaan-meijer-2023/"
+    },
+    "rainbowvote": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Gerrie%20G.E.%20Elfrink",
@@ -22506,9 +22554,11 @@
     "urls": {
       "partijwebsite": "https://www.partijvoordedieren.nl/kandidatenlijst-tk23#1.-esther-ouwehand",
       "wikidata": "http://www.wikidata.org/entity/Q434842",
-      "eigen website": "https://www.partijvoordedieren.nl/personen/esther-ouwehand"
+      "eigen website": "https://www.partijvoordedieren.nl/personen/esther-ouwehand",
+      "rainbowvote": "https://rainbowvote.nu/tweede-kamer-2023/partijen/pvdd/esther-ouwehand-2023/"
     },
-    "geboortedatum": "+1976-06-10T00:00:00Z"
+    "geboortedatum": "+1976-06-10T00:00:00Z",
+    "rainbowvote": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Ines%20I.%20Kostić",
@@ -22583,9 +22633,11 @@
     },
     "urls": {
       "partijwebsite": "https://www.partijvoordedieren.nl/kandidatenlijst-tk23#2.-ines-kostić",
-      "wikidata": "http://www.wikidata.org/entity/Q28857876"
+      "wikidata": "http://www.wikidata.org/entity/Q28857876",
+      "rainbowvote": "https://rainbowvote.nu/tweede-kamer-2023/partijen/pvdd/ines-kostic/"
     },
-    "geboortedatum": "+1984-00-00T00:00:00Z"
+    "geboortedatum": "+1984-00-00T00:00:00Z",
+    "rainbowvote": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Christine%20C.%20Teunissen",
@@ -22737,9 +22789,11 @@
     },
     "urls": {
       "partijwebsite": "https://www.partijvoordedieren.nl/kandidatenlijst-tk23#4.-frank-wassenberg",
-      "wikidata": "http://www.wikidata.org/entity/Q21479756"
+      "wikidata": "http://www.wikidata.org/entity/Q21479756",
+      "rainbowvote": "https://rainbowvote.nu/tweede-kamer-2023/partijen/pvdd/frank-wassenberg-2023/"
     },
-    "geboortedatum": "+1966-05-02T00:00:00Z"
+    "geboortedatum": "+1966-05-02T00:00:00Z",
+    "rainbowvote": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Eva%20E.S.%20Akerboom",
@@ -22814,9 +22868,11 @@
     },
     "urls": {
       "partijwebsite": "https://www.partijvoordedieren.nl/kandidatenlijst-tk23#5.-eva-akerboom",
-      "wikidata": "http://www.wikidata.org/entity/Q28860640"
+      "wikidata": "http://www.wikidata.org/entity/Q28860640",
+      "rainbowvote": "https://rainbowvote.nu/tweede-kamer-2023/partijen/pvdd/eva-akerboom-2023/"
     },
-    "geboortedatum": "+1992-03-12T00:00:00Z"
+    "geboortedatum": "+1992-03-12T00:00:00Z",
+    "rainbowvote": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Lammert%20L.%20van%20Raan",
@@ -22864,9 +22920,11 @@
     },
     "urls": {
       "partijwebsite": "https://www.partijvoordedieren.nl/kandidatenlijst-tk23#6.-lammert-van-raan",
-      "wikidata": "http://www.wikidata.org/entity/Q28860633"
+      "wikidata": "http://www.wikidata.org/entity/Q28860633",
+      "rainbowvote": "https://rainbowvote.nu/tweede-kamer-2023/partijen/pvdd/lammert-van-raan/"
     },
-    "geboortedatum": "+1962-02-03T00:00:00Z"
+    "geboortedatum": "+1962-02-03T00:00:00Z",
+    "rainbowvote": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Martine%20M.%20van%20Schaik",
@@ -22914,8 +22972,10 @@
     },
     "urls": {
       "partijwebsite": "https://www.partijvoordedieren.nl/kandidatenlijst-tk23#7.-martine-van-schaik",
-      "wikidata": "http://www.wikidata.org/entity/Q111285722"
-    }
+      "wikidata": "http://www.wikidata.org/entity/Q111285722",
+      "rainbowvote": "https://rainbowvote.nu/tweede-kamer-2023/partijen/pvdd/martine-van-schaik-2023/"
+    },
+    "rainbowvote": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Anna%20A.L.%20Krijger",
@@ -22963,8 +23023,10 @@
     },
     "urls": {
       "partijwebsite": "https://www.partijvoordedieren.nl/kandidatenlijst-tk23#8.-anna-krijger",
-      "wikidata": "http://www.wikidata.org/entity/Q123173939"
-    }
+      "wikidata": "http://www.wikidata.org/entity/Q123173939",
+      "rainbowvote": "https://rainbowvote.nu/tweede-kamer-2023/partijen/pvdd/anna-krijger/"
+    },
+    "rainbowvote": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Pascale%20P.S.M.L.%20Plusquin",
@@ -23138,8 +23200,10 @@
     },
     "urls": {
       "partijwebsite": "https://www.partijvoordedieren.nl/kandidatenlijst-tk23#11.-maarten-van-heuven",
-      "wikidata": "http://www.wikidata.org/entity/Q123176106"
-    }
+      "wikidata": "http://www.wikidata.org/entity/Q123176106",
+      "rainbowvote": "https://rainbowvote.nu/tweede-kamer-2023/partijen/pvdd/maarten-van-heuven/"
+    },
+    "rainbowvote": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Falco%20F.%20van%20Hassel",
@@ -23187,8 +23251,10 @@
     },
     "urls": {
       "partijwebsite": "https://www.partijvoordedieren.nl/kandidatenlijst-tk23#12.-falco-van-hassel",
-      "wikidata": "http://www.wikidata.org/entity/Q123176107"
-    }
+      "wikidata": "http://www.wikidata.org/entity/Q123176107",
+      "rainbowvote": "https://rainbowvote.nu/tweede-kamer-2023/partijen/pvdd/falco-van-hassel-2023/"
+    },
+    "rainbowvote": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Rosalie%20R.J.%20Bunnik",
@@ -23335,8 +23401,12 @@
     },
     "urls": {
       "partijwebsite": "https://www.partijvoordedieren.nl/kandidatenlijst-tk23#15.-kıvılcım-pınar",
-      "wikidata": "http://www.wikidata.org/entity/Q123176109"
-    }
+      "wikidata": "http://www.wikidata.org/entity/Q123176109",
+      "rainbowvote": "https://rainbowvote.nu/tweede-kamer-2023/partijen/pvdd/kivilcim-pinar-2023/",
+      "kleurdekamer": "https://kleurdekamer.nl/kivilcimpinar-3/"
+    },
+    "rainbowvote": true,
+    "kleurdekamer": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Malcolm%20M.G.%20Jones",
@@ -23384,8 +23454,10 @@
     },
     "urls": {
       "partijwebsite": "https://www.partijvoordedieren.nl/kandidatenlijst-tk23#16.-malcolm-jones",
-      "wikidata": "http://www.wikidata.org/entity/Q111285755"
-    }
+      "wikidata": "http://www.wikidata.org/entity/Q111285755",
+      "kleurdekamer": "https://kleurdekamer.nl/malcolmjones-2/"
+    },
+    "kleurdekamer": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Janette%20J.%20Bosma",
@@ -23433,8 +23505,10 @@
     },
     "urls": {
       "partijwebsite": "https://www.partijvoordedieren.nl/kandidatenlijst-tk23#17.-janette-bosma",
-      "wikidata": "http://www.wikidata.org/entity/Q123176110"
-    }
+      "wikidata": "http://www.wikidata.org/entity/Q123176110",
+      "rainbowvote": "https://rainbowvote.nu/tweede-kamer-2023/partijen/pvdd/janette-bosma/"
+    },
+    "rainbowvote": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Robert%20R.N.%20Barker",
@@ -23732,8 +23806,10 @@
     },
     "urls": {
       "partijwebsite": "https://www.partijvoordedieren.nl/kandidatenlijst-tk23#22.-iris-dicke",
-      "wikidata": "http://www.wikidata.org/entity/Q123176115"
-    }
+      "wikidata": "http://www.wikidata.org/entity/Q123176115",
+      "rainbowvote": "https://rainbowvote.nu/tweede-kamer-2023/partijen/pvdd/iris-dicke-2023/"
+    },
+    "rainbowvote": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Bart%20B.R.%20Salemans",
@@ -23781,8 +23857,10 @@
     },
     "urls": {
       "partijwebsite": "https://www.partijvoordedieren.nl/kandidatenlijst-tk23#23.-bart-salemans",
-      "wikidata": "http://www.wikidata.org/entity/Q123176116"
-    }
+      "wikidata": "http://www.wikidata.org/entity/Q123176116",
+      "rainbowvote": "https://rainbowvote.nu/tweede-kamer-2023/partijen/pvdd/bart-salemans-2023/"
+    },
+    "rainbowvote": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Freek%20F.%20Bersch",
@@ -23830,8 +23908,10 @@
     },
     "urls": {
       "partijwebsite": "https://www.partijvoordedieren.nl/kandidatenlijst-tk23#24.-freek-bersch",
-      "wikidata": "http://www.wikidata.org/entity/Q123176117"
-    }
+      "wikidata": "http://www.wikidata.org/entity/Q123176117",
+      "rainbowvote": "https://rainbowvote.nu/tweede-kamer-2023/partijen/pvdd/freek-bersch/"
+    },
+    "rainbowvote": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Frank%20F.%20de%20Gram",
@@ -23879,8 +23959,10 @@
     },
     "urls": {
       "partijwebsite": "https://www.partijvoordedieren.nl/kandidatenlijst-tk23#25.-frank-de-gram",
-      "wikidata": "http://www.wikidata.org/entity/Q123176118"
-    }
+      "wikidata": "http://www.wikidata.org/entity/Q123176118",
+      "rainbowvote": "https://rainbowvote.nu/tweede-kamer-2023/partijen/pvdd/frank-de-gram-2023/"
+    },
+    "rainbowvote": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Lotte%20L.%20Krediet",
@@ -24026,8 +24108,10 @@
     },
     "urls": {
       "partijwebsite": "https://www.partijvoordedieren.nl/kandidatenlijst-tk23#28.-myra-van-der-velde",
-      "wikidata": "http://www.wikidata.org/entity/Q123176121"
-    }
+      "wikidata": "http://www.wikidata.org/entity/Q123176121",
+      "rainbowvote": "https://rainbowvote.nu/tweede-kamer-2023/partijen/pvdd/myra-van-der-velde/"
+    },
+    "rainbowvote": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Carla%20A.H.K.%20van%20Viegen",
@@ -24075,8 +24159,10 @@
     },
     "urls": {
       "partijwebsite": "https://www.partijvoordedieren.nl/kandidatenlijst-tk23#29.-carla-van-viegen",
-      "wikidata": "http://www.wikidata.org/entity/Q28860645"
-    }
+      "wikidata": "http://www.wikidata.org/entity/Q28860645",
+      "rainbowvote": "https://rainbowvote.nu/tweede-kamer-2023/partijen/pvdd/carla-van-viegen/"
+    },
+    "rainbowvote": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Leonie%20L.%20Gerritsen",
@@ -24151,8 +24237,10 @@
     },
     "urls": {
       "partijwebsite": "https://www.partijvoordedieren.nl/kandidatenlijst-tk23#30.-leonie-gerritsen",
-      "wikidata": "http://www.wikidata.org/entity/Q123176122"
-    }
+      "wikidata": "http://www.wikidata.org/entity/Q123176122",
+      "rainbowvote": "https://rainbowvote.nu/tweede-kamer-2023/partijen/pvdd/leonie-gerritsen/"
+    },
+    "rainbowvote": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Marjolijn%20M.%20Veenstra",
@@ -24603,8 +24691,10 @@
     },
     "urls": {
       "partijwebsite": "https://www.partijvoordedieren.nl/kandidatenlijst-tk23#37.-cynthia-pallandt",
-      "wikidata": "http://www.wikidata.org/entity/Q123176128"
-    }
+      "wikidata": "http://www.wikidata.org/entity/Q123176128",
+      "rainbowvote": "https://rainbowvote.nu/tweede-kamer-2023/partijen/pvdd/cynthia-pallandt-2023/"
+    },
+    "rainbowvote": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Wesley%20W.I.%20Pechler",
@@ -24679,8 +24769,12 @@
     },
     "urls": {
       "partijwebsite": "https://www.partijvoordedieren.nl/kandidatenlijst-tk23#38.-wesley-pechler",
-      "wikidata": "http://www.wikidata.org/entity/Q123176129"
-    }
+      "wikidata": "http://www.wikidata.org/entity/Q123176129",
+      "rainbowvote": "https://rainbowvote.nu/tweede-kamer-2023/partijen/pvdd/wesley-pechler/",
+      "kleurdekamer": "https://kleurdekamer.nl/wesleypechler-2/"
+    },
+    "rainbowvote": true,
+    "kleurdekamer": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Janneke%20J.%20van%20Lierop",
@@ -24853,8 +24947,10 @@
     },
     "urls": {
       "partijwebsite": "https://www.partijvoordedieren.nl/kandidatenlijst-tk23#41.-bart-kuijer",
-      "wikidata": "http://www.wikidata.org/entity/Q123176132"
-    }
+      "wikidata": "http://www.wikidata.org/entity/Q123176132",
+      "rainbowvote": "https://rainbowvote.nu/tweede-kamer-2023/partijen/pvdd/bart-kuijer-2023/"
+    },
+    "rainbowvote": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Gaby%20G.%20Markandu",
@@ -25348,8 +25444,10 @@
     },
     "urls": {
       "partijwebsite": "https://www.partijvoordedieren.nl/kandidatenlijst-tk23#50.-xenia-minnaert",
-      "wikidata": "http://www.wikidata.org/entity/Q112155792"
-    }
+      "wikidata": "http://www.wikidata.org/entity/Q112155792",
+      "rainbowvote": "https://rainbowvote.nu/tweede-kamer-2023/partijen/pvdd/xenia-minnaert-2023/"
+    },
+    "rainbowvote": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Mirjam%20M.H.%20Bikker",
@@ -28378,9 +28476,11 @@
     },
     "urls": {
       "partijwebsite": "https://voltnederland.org/mensen/marieke-koekkoek",
-      "wikidata": "http://www.wikidata.org/entity/Q105703739"
+      "wikidata": "http://www.wikidata.org/entity/Q105703739",
+      "rainbowvote": "https://rainbowvote.nu/tweede-kamer-2023/partijen/volt/marieke-koekkoek/"
     },
-    "geboortedatum": "+1989-02-26T00:00:00Z"
+    "geboortedatum": "+1989-02-26T00:00:00Z",
+    "rainbowvote": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Ernst%20E.%20Boutkan",
@@ -28750,8 +28850,10 @@
     },
     "urls": {
       "partijwebsite": "https://voltnederland.org/mensen/bjorn-beijnon-tk2023",
-      "wikidata": "http://www.wikidata.org/entity/Q123176173"
-    }
+      "wikidata": "http://www.wikidata.org/entity/Q123176173",
+      "rainbowvote": "https://rainbowvote.nu/tweede-kamer-2023/partijen/volt/bjorn-beijnon-2023/"
+    },
+    "rainbowvote": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Robin%20R.%20Twickler",
@@ -29093,8 +29195,10 @@
     },
     "urls": {
       "partijwebsite": "https://voltnederland.org/mensen/valerie-pajak-tk2023",
-      "wikidata": "http://www.wikidata.org/entity/Q123176179"
-    }
+      "wikidata": "http://www.wikidata.org/entity/Q123176179",
+      "rainbowvote": "https://rainbowvote.nu/tweede-kamer-2023/partijen/volt/valerie-pajak/"
+    },
+    "rainbowvote": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Floris%20F.%20Eigenhuis",
@@ -29267,8 +29371,10 @@
     },
     "urls": {
       "partijwebsite": "https://voltnederland.org/mensen/bart-hemmes-tk2023",
-      "wikidata": "http://www.wikidata.org/entity/Q122942890"
-    }
+      "wikidata": "http://www.wikidata.org/entity/Q122942890",
+      "rainbowvote": "https://rainbowvote.nu/tweede-kamer-2023/partijen/volt/bart-hemmes/"
+    },
+    "rainbowvote": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Dianne%20D.%20Elsinga",
@@ -29365,8 +29471,10 @@
     },
     "urls": {
       "partijwebsite": "https://voltnederland.org/mensen/sjoerd-dreteler-tk2023",
-      "wikidata": "http://www.wikidata.org/entity/Q123176182"
-    }
+      "wikidata": "http://www.wikidata.org/entity/Q123176182",
+      "rainbowvote": "https://rainbowvote.nu/tweede-kamer-2023/partijen/volt/sjoerd-dreteler-2/"
+    },
+    "rainbowvote": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Joost%20B.J.%20Eerdmans",
@@ -34265,8 +34373,10 @@
       }
     },
     "urls": {
-      "wikidata": "http://www.wikidata.org/entity/Q123176258"
-    }
+      "wikidata": "http://www.wikidata.org/entity/Q123176258",
+      "kleurdekamer": "https://kleurdekamer.nl/emel-gun/"
+    },
+    "kleurdekamer": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Yıldırım%20Y.%20Usta",
@@ -35111,8 +35221,10 @@
       }
     },
     "urls": {
-      "wikidata": "http://www.wikidata.org/entity/Q123176275"
-    }
+      "wikidata": "http://www.wikidata.org/entity/Q123176275",
+      "kleurdekamer": "https://kleurdekamer.nl/emmamanhoef-2/"
+    },
+    "kleurdekamer": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Celil%20C.%20Tan",
@@ -35303,8 +35415,10 @@
       }
     },
     "urls": {
-      "wikidata": "http://www.wikidata.org/entity/Q123176279"
-    }
+      "wikidata": "http://www.wikidata.org/entity/Q123176279",
+      "kleurdekamer": "https://kleurdekamer.nl/fundaileri-3/"
+    },
+    "kleurdekamer": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Hassan%20H.%20Buyatui",
@@ -38592,8 +38706,10 @@
     },
     "urls": {
       "partijwebsite": "https://boerburgerbeweging.nl/kandidaten/kees-van-vuuren-2/",
-      "wikidata": "http://www.wikidata.org/entity/Q122169440"
-    }
+      "wikidata": "http://www.wikidata.org/entity/Q122169440",
+      "rainbowvote": "https://rainbowvote.nu/tweede-kamer-2023/partijen/bbb/kees-van-vuren-2023/"
+    },
+    "rainbowvote": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Saskia%20S.%20van%20der%20Meer",
@@ -40294,8 +40410,10 @@
       }
     },
     "urls": {
-      "wikidata": "http://www.wikidata.org/entity/Q123176395"
-    }
+      "wikidata": "http://www.wikidata.org/entity/Q123176395",
+      "rainbowvote": "https://rainbowvote.nu/tweede-kamer-2023/partijen/bij1/lisa-mccray/"
+    },
+    "rainbowvote": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Latifa%20L.%20Salmi",
@@ -40484,6 +40602,10 @@
           "adressendichtheid": "4012"
         }
       }
+    },
+    "rainbowvote": true,
+    "urls": {
+      "rainbowvote": "https://rainbowvote.nu/tweede-kamer-2023/partijen/bij1/liyah-park-2023/"
     }
   },
   {
@@ -40558,9 +40680,11 @@
       }
     },
     "urls": {
-      "wikidata": "http://www.wikidata.org/entity/Q59236750"
+      "wikidata": "http://www.wikidata.org/entity/Q59236750",
+      "rainbowvote": "https://rainbowvote.nu/tweede-kamer-2023/partijen/bij1/yvette-luhrs/"
     },
-    "geboortedatum": "+1985-00-00T00:00:00Z"
+    "geboortedatum": "+1985-00-00T00:00:00Z",
+    "rainbowvote": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Yuval%20Y.%20Gal",
@@ -40682,8 +40806,10 @@
       }
     },
     "urls": {
-      "wikidata": "http://www.wikidata.org/entity/Q123176400"
-    }
+      "wikidata": "http://www.wikidata.org/entity/Q123176400",
+      "rainbowvote": "https://rainbowvote.nu/tweede-kamer-2023/partijen/bij1/jesse-ten-caat/"
+    },
+    "rainbowvote": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Joana%20J.I.N.%20Zandee",
@@ -40730,8 +40856,10 @@
       }
     },
     "urls": {
-      "wikidata": "http://www.wikidata.org/entity/Q123176401"
-    }
+      "wikidata": "http://www.wikidata.org/entity/Q123176401",
+      "rainbowvote": "https://rainbowvote.nu/tweede-kamer-2023/partijen/bij1/joanna-zandee/"
+    },
+    "rainbowvote": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/D.L.%20Bakker",
@@ -40823,8 +40951,10 @@
       }
     },
     "urls": {
-      "wikidata": "http://www.wikidata.org/entity/Q123176403"
-    }
+      "wikidata": "http://www.wikidata.org/entity/Q123176403",
+      "rainbowvote": "https://rainbowvote.nu/tweede-kamer-2023/partijen/bij1/renske-wienen-2023/"
+    },
+    "rainbowvote": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/D.%20Bijleveld",
@@ -40869,6 +40999,10 @@
           "adressendichtheid": "4012"
         }
       }
+    },
+    "rainbowvote": true,
+    "urls": {
+      "rainbowvote": "https://rainbowvote.nu/tweede-kamer-2023/partijen/bij1/venus-bijleveld/"
     }
   },
   {
@@ -41019,9 +41153,11 @@
       }
     },
     "urls": {
-      "wikidata": "http://www.wikidata.org/entity/Q104630438"
+      "wikidata": "http://www.wikidata.org/entity/Q104630438",
+      "rainbowvote": "https://rainbowvote.nu/tweede-kamer-2023/partijen/bij1/rebekka-timmer/"
     },
-    "geboortedatum": "+1999-00-00T00:00:00Z"
+    "geboortedatum": "+1999-00-00T00:00:00Z",
+    "rainbowvote": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Mark%20M.A.%20van%20Treuren",
@@ -46464,9 +46600,11 @@
       }
     },
     "urls": {
-      "wikidata": "http://www.wikidata.org/entity/Q123173875"
+      "wikidata": "http://www.wikidata.org/entity/Q123173875",
+      "kleurdekamer": "https://kleurdekamer.nl/faithbruyning-2/"
     },
-    "geboortedatum": "+1988-00-00T00:00:00Z"
+    "geboortedatum": "+1988-00-00T00:00:00Z",
+    "kleurdekamer": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Olger%20O.C.%20van%20Dijk",
@@ -55831,8 +55969,10 @@
       }
     },
     "urls": {
-      "wikidata": "http://www.wikidata.org/entity/Q123176376"
-    }
+      "wikidata": "http://www.wikidata.org/entity/Q123176376",
+      "rainbowvote": "https://rainbowvote.nu/tweede-kamer-2023/partijen/bbb/walter-hellebrand/"
+    },
+    "rainbowvote": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Gina%20G.D.%20Kattenberg",
