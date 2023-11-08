@@ -1393,7 +1393,8 @@
       "partijwebsite": "https://www.vvd.nl/profielen/peter-de-groot-2/",
       "wikidata": "http://www.wikidata.org/entity/Q106119760"
     },
-    "geboortedatum": "+1980-05-09T00:00:00Z"
+    "geboortedatum": "+1980-05-09T00:00:00Z",
+    "vinddebeta": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Arend%20A.%20Kisteman",
@@ -1777,7 +1778,8 @@
       "partijwebsite": "https://www.vvd.nl/profielen/martijn-buijsse-2/",
       "wikidata": "http://www.wikidata.org/entity/Q106119789"
     },
-    "geboortedatum": "+1981-09-21T00:00:00Z"
+    "geboortedatum": "+1981-09-21T00:00:00Z",
+    "vinddebeta": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Rosemarijn%20R.M.%20Dral",
@@ -2332,7 +2334,8 @@
       "partijwebsite": "https://www.vvd.nl/profielen/erik-haverkort-2/",
       "wikidata": "http://www.wikidata.org/entity/Q106119779"
     },
-    "geboortedatum": "+1972-05-05T00:00:00Z"
+    "geboortedatum": "+1972-05-05T00:00:00Z",
+    "vinddebeta": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Chris%20C.%20Simons",
@@ -2762,7 +2765,8 @@
       "wikidata": "http://www.wikidata.org/entity/Q106119782",
       "eigen website": "http://www.hawrerahimi.nl/"
     },
-    "geboortedatum": "+1978-09-23T00:00:00Z"
+    "geboortedatum": "+1978-09-23T00:00:00Z",
+    "vinddebeta": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Bart%20B.F.%20Omlo",
@@ -2939,7 +2943,8 @@
       "partijwebsite": "https://www.vvd.nl/profielen/mirjam-nelisse-2/",
       "wikidata": "http://www.wikidata.org/entity/Q106119802"
     },
-    "geboortedatum": "+1977-10-28T00:00:00Z"
+    "geboortedatum": "+1977-10-28T00:00:00Z",
+    "vinddebeta": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Bas%20B.G.P.%20de%20Wit",
@@ -4414,7 +4419,8 @@
     "urls": {
       "partijwebsite": "https://www.vvd.nl/profielen/yldau-de-boer/",
       "wikidata": "http://www.wikidata.org/entity/Q123175962"
-    }
+    },
+    "vinddebeta": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Murat%20M.%20Yildirim",
@@ -4563,7 +4569,8 @@
       "wikidata": "http://www.wikidata.org/entity/Q560662",
       "eigen website": "http://www.maartenvanderweijden.com/"
     },
-    "geboortedatum": "+1981-03-31T00:00:00Z"
+    "geboortedatum": "+1981-03-31T00:00:00Z",
+    "vinddebeta": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Rob%20R.A.A.%20Jetten",
@@ -4839,7 +4846,8 @@
           "adressendichtheid": "3479"
         }
       }
-    }
+    },
+    "vinddebeta": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Joost%20J.C.%20Sneller",
@@ -5289,7 +5297,8 @@
       "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamer-2023/partijen/d66/lisa-van-ginneken-2023/"
     },
     "geboortedatum": "+1972-00-00T00:00:00Z",
-    "rainbowvote": true
+    "rainbowvote": true,
+    "vinddebeta": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Salima%20S.%20Belhaj",
@@ -6419,7 +6428,8 @@
       "wikidata": "http://www.wikidata.org/entity/Q123175972",
       "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamer-2023/partijen/d66/paul-van-dorst-2023/"
     },
-    "rainbowvote": true
+    "rainbowvote": true,
+    "vinddebeta": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Gerben%20G.H.%20Wijnja",
@@ -6467,7 +6477,8 @@
     },
     "urls": {
       "wikidata": "http://www.wikidata.org/entity/Q123175973"
-    }
+    },
+    "vinddebeta": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Margreet%20M.M.%20de%20Vries",
@@ -7222,7 +7233,8 @@
       "Kleur de Kamer": "https://kleurdekamer.nl/hinddekkerabdulaziz/"
     },
     "geboortedatum": "+1981-09-28T00:00:00Z",
-    "kleurdekamer": true
+    "kleurdekamer": true,
+    "vinddebeta": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Marco%20M.%20van%20Driel",
@@ -7318,7 +7330,8 @@
     },
     "urls": {
       "wikidata": "http://www.wikidata.org/entity/Q123175989"
-    }
+    },
+    "vinddebeta": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Pieter%20P.J.%20van%20der%20Gaag",
@@ -7582,7 +7595,8 @@
     },
     "urls": {
       "wikidata": "http://www.wikidata.org/entity/Q56166954"
-    }
+    },
+    "vinddebeta": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/David%20R.D.%20Wallast",
@@ -8819,7 +8833,8 @@
     "urls": {
       "wikidata": "http://www.wikidata.org/entity/Q710978"
     },
-    "geboortedatum": "+1960-01-24T00:00:00Z"
+    "geboortedatum": "+1960-01-24T00:00:00Z",
+    "vinddebeta": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Gunay%20G.%20Uslu",
@@ -8966,7 +8981,8 @@
     "urls": {
       "wikidata": "http://www.wikidata.org/entity/Q1397450"
     },
-    "geboortedatum": "+1931-11-15T00:00:00Z"
+    "geboortedatum": "+1931-11-15T00:00:00Z",
+    "vinddebeta": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Sigrid%20S.A.M.%20Kaag",
@@ -10044,7 +10060,8 @@
       "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamer-2023/partijen/groenlinkspvda/geert-gabriels/"
     },
     "geboortedatum": "+1979-10-30T00:00:00Z",
-    "rainbowvote": true
+    "rainbowvote": true,
+    "vinddebeta": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Joris%20J.%20Thijssen",
@@ -10325,7 +10342,8 @@
     "urls": {
       "partijwebsite": "https://groenlinkspvda.nl/kandidaat/elke-slagt-tichelman/",
       "wikidata": "http://www.wikidata.org/entity/Q123176007"
-    }
+    },
+    "vinddebeta": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Mikal%20M.%20Tseggai",
@@ -10680,7 +10698,8 @@
     "urls": {
       "partijwebsite": "https://groenlinkspvda.nl/kandidaat/luc-stultiens/",
       "wikidata": "http://www.wikidata.org/entity/Q123176009"
-    }
+    },
+    "vinddebeta": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Marleen%20M.W.%20Haage",
@@ -11082,7 +11101,8 @@
     "urls": {
       "partijwebsite": "https://groenlinkspvda.nl/kandidaat/jan-daenen/",
       "wikidata": "http://www.wikidata.org/entity/Q123176011"
-    }
+    },
+    "vinddebeta": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/April%20A.B.%20Ranshuijsen",
@@ -11515,7 +11535,8 @@
     "urls": {
       "partijwebsite": "https://groenlinkspvda.nl/kandidaat/paul-smits/",
       "wikidata": "http://www.wikidata.org/entity/Q123176014"
-    }
+    },
+    "vinddebeta": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Mohamed%20M.%20Nabih",
@@ -11741,7 +11762,8 @@
       "wikidata": "http://www.wikidata.org/entity/Q123176017",
       "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamer-2023/partijen/groenlinkspvda/eva-de-bruijn-2023/"
     },
-    "rainbowvote": true
+    "rainbowvote": true,
+    "vinddebeta": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Eline%20E.M.%20Bosman",
@@ -12785,7 +12807,8 @@
     "urls": {
       "wikidata": "http://www.wikidata.org/entity/Q2797379"
     },
-    "geboortedatum": "+1963-09-13T00:00:00Z"
+    "geboortedatum": "+1963-09-13T00:00:00Z",
+    "vinddebeta": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Alexander%20A.%20Kops",
@@ -14202,7 +14225,8 @@
     },
     "urls": {
       "wikidata": "http://www.wikidata.org/entity/Q123176048"
-    }
+    },
+    "vinddebeta": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Hidde%20H.D.%20Heutink",
@@ -14766,7 +14790,8 @@
     "urls": {
       "wikidata": "http://www.wikidata.org/entity/Q2529406"
     },
-    "geboortedatum": "+1951-06-10T00:00:00Z"
+    "geboortedatum": "+1951-06-10T00:00:00Z",
+    "vinddebeta": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Henri%20H.%20Bontenbal",
@@ -14843,7 +14868,8 @@
       "partijwebsite": "https://www.cda.nl/henri",
       "wikidata": "http://www.wikidata.org/entity/Q106975619"
     },
-    "geboortedatum": "+1982-11-10T00:00:00Z"
+    "geboortedatum": "+1982-11-10T00:00:00Z",
+    "vinddebeta": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Eline%20E.C.%20Vedder",
@@ -14893,7 +14919,8 @@
       "partijwebsite": "https://www.cda.nl/eline-vedder-tk23",
       "wikidata": "http://www.wikidata.org/entity/Q118255422"
     },
-    "geboortedatum": "+1979-04-15T00:00:00Z"
+    "geboortedatum": "+1979-04-15T00:00:00Z",
+    "vinddebeta": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Derk%20D.G.%20Boswijk",
@@ -14970,7 +14997,8 @@
       "partijwebsite": "https://www.cda.nl/derk-boswijk-tk23",
       "wikidata": "http://www.wikidata.org/entity/Q106214765"
     },
-    "geboortedatum": "+1989-04-08T00:00:00Z"
+    "geboortedatum": "+1989-04-08T00:00:00Z",
+    "vinddebeta": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Inge%20I.%20van%20Dijk",
@@ -16049,7 +16077,8 @@
     "urls": {
       "partijwebsite": "https://www.cda.nl/johan-goos",
       "wikidata": "http://www.wikidata.org/entity/Q123176056"
-    }
+    },
+    "vinddebeta": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Paul%20P.%20Boogaard",
@@ -16555,7 +16584,8 @@
     "urls": {
       "partijwebsite": "https://www.cda.nl/yusuf-tuncer",
       "wikidata": "http://www.wikidata.org/entity/Q123176066"
-    }
+    },
+    "vinddebeta": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Chantal%20J.C.%20Broekhuis",
@@ -16612,7 +16642,8 @@
     "urls": {
       "partijwebsite": "https://www.cda.nl/chantal-broekhuis",
       "wikidata": "http://www.wikidata.org/entity/Q123176067"
-    }
+    },
+    "vinddebeta": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Antoine%20J.A.%20van%20den%20Oever",
@@ -17375,7 +17406,8 @@
     "urls": {
       "partijwebsite": "https://www.cda.nl/arjen-siegmann",
       "wikidata": "http://www.wikidata.org/entity/Q123176081"
-    }
+    },
+    "vinddebeta": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Lody%20L.B.%20van%20de%20Kamp",
@@ -18434,7 +18466,8 @@
     "urls": {
       "wikidata": "http://www.wikidata.org/entity/Q106044242"
     },
-    "geboortedatum": "+1988-04-01T00:00:00Z"
+    "geboortedatum": "+1988-04-01T00:00:00Z",
+    "vinddebeta": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Debbie%20D.%20van%20Dijk",
@@ -19028,7 +19061,8 @@
     "urls": {
       "wikidata": "http://www.wikidata.org/entity/Q28382130"
     },
-    "geboortedatum": "+1982-01-01T00:00:00Z"
+    "geboortedatum": "+1982-01-01T00:00:00Z",
+    "vinddebeta": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Kristie%20K.S.%20Rongen",
@@ -19125,7 +19159,8 @@
     "urls": {
       "wikidata": "http://www.wikidata.org/entity/Q105772753"
     },
-    "geboortedatum": "+1966-01-01T00:00:00Z"
+    "geboortedatum": "+1966-01-01T00:00:00Z",
+    "vinddebeta": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Anne%20A.%20Cramer",
@@ -20463,7 +20498,8 @@
         "woonplaats": "Amsterdam",
         "partij_naam": "Forum voor Democratie"
       }
-    }
+    },
+    "vinddebeta": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/L.G.%20de%20Vos",
@@ -20508,7 +20544,8 @@
           "adressendichtheid": "4994"
         }
       }
-    }
+    },
+    "vinddebeta": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/T.K.%20Russcher",
@@ -20598,7 +20635,8 @@
           "adressendichtheid": "4994"
         }
       }
-    }
+    },
+    "vinddebeta": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/A.%20Bakir",
@@ -22793,7 +22831,8 @@
       "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamer-2023/partijen/pvdd/frank-wassenberg-2023/"
     },
     "geboortedatum": "+1966-05-02T00:00:00Z",
-    "rainbowvote": true
+    "rainbowvote": true,
+    "vinddebeta": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Eva%20E.S.%20Akerboom",
@@ -23406,7 +23445,8 @@
       "Kleur de Kamer": "https://kleurdekamer.nl/kivilcimpinar-3/"
     },
     "rainbowvote": true,
-    "kleurdekamer": true
+    "kleurdekamer": true,
+    "vinddebeta": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Malcolm%20M.G.%20Jones",
@@ -24060,7 +24100,8 @@
     "urls": {
       "partijwebsite": "https://www.partijvoordedieren.nl/kandidatenlijst-tk23#27.-dave-de-vos",
       "wikidata": "http://www.wikidata.org/entity/Q123176120"
-    }
+    },
+    "vinddebeta": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Myra%20M.C.%20van%20der%20Velde",
@@ -24442,7 +24483,8 @@
       "partijwebsite": "https://www.partijvoordedieren.nl/kandidatenlijst-tk23#33.-trees-janssens",
       "wikidata": "http://www.wikidata.org/entity/Q28860659"
     },
-    "geboortedatum": "+1960-00-00T00:00:00Z"
+    "geboortedatum": "+1960-00-00T00:00:00Z",
+    "vinddebeta": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Pinar%20Z.P.%20Coşkun",
@@ -25271,7 +25313,8 @@
     "urls": {
       "partijwebsite": "https://www.partijvoordedieren.nl/kandidatenlijst-tk23#47.-suzanne-onderdelinden",
       "wikidata": "http://www.wikidata.org/entity/Q123176138"
-    }
+    },
+    "vinddebeta": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Jaap%20J.G.%20Rozema",
@@ -25741,7 +25784,8 @@
       "LinkedIn": "https://www.linkedin.com/in/alwin-te-rietstap-15bb2b28/",
       "wikidata": "http://www.wikidata.org/entity/Q106191718"
     },
-    "geboortedatum": "+1979-01-01T00:00:00Z"
+    "geboortedatum": "+1979-01-01T00:00:00Z",
+    "vinddebeta": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Joëlle%20J.K.%20Gooijer-Medema",
@@ -26108,7 +26152,8 @@
       "Instagram": "https://www.instagram.com/michelkleincu/",
       "LinkedIn": "https://www.linkedin.com/in/michelklein/",
       "wikidata": "http://www.wikidata.org/entity/Q123176142"
-    }
+    },
+    "vinddebeta": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Carlijn%20C.C.M.%20Niesink",
@@ -26291,7 +26336,8 @@
       "Instagram": "https://www.instagram.com/christian_vd_krift/",
       "LinkedIn": "https://www.linkedin.com/in/christian-van-der-krift-phd/",
       "wikidata": "http://www.wikidata.org/entity/Q123176144"
-    }
+    },
+    "vinddebeta": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Arjan%20A.L.%20Langen",
@@ -26343,7 +26389,8 @@
       "Instagram": "https://www.instagram.com/arjanll/",
       "LinkedIn": "https://www.linkedin.com/in/arjan-langen-1127592/",
       "wikidata": "http://www.wikidata.org/entity/Q123176145"
-    }
+    },
+    "vinddebeta": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Lizo%20E.J.A.%20Koppejan",
@@ -26679,7 +26726,8 @@
     "urls": {
       "LinkedIn": "https://www.linkedin.com/in/mark-treurniet-aab03371/",
       "wikidata": "http://www.wikidata.org/entity/Q123176149"
-    }
+    },
+    "vinddebeta": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Arend%20A.S.%20Palland",
@@ -26913,7 +26961,8 @@
       "Twitter": "https://twitter.com/JudithWesterink",
       "LinkedIn": "https://www.linkedin.com/in/judith-westerink-61869525/",
       "wikidata": "http://www.wikidata.org/entity/Q123176151"
-    }
+    },
+    "vinddebeta": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Ingeborg%20I.A.W.%20Dijkstra-Verbeek",
@@ -27553,7 +27602,8 @@
     "urls": {
       "LinkedIn": "https://www.linkedin.com/in/lieuwevanderpol/",
       "wikidata": "http://www.wikidata.org/entity/Q123176161"
-    }
+    },
+    "vinddebeta": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Antrude%20A.G.%20Oudman",
@@ -27805,7 +27855,8 @@
     },
     "urls": {
       "wikidata": "http://www.wikidata.org/entity/Q123176165"
-    }
+    },
+    "vinddebeta": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Nathalie%20N.N.%20Nede",
@@ -27987,7 +28038,8 @@
       "Instagram": "https://www.instagram.com/gerbenkijkt/",
       "LinkedIn": "https://www.linkedin.com/in/vandijkgerben/",
       "wikidata": "http://www.wikidata.org/entity/Q123176167"
-    }
+    },
+    "vinddebeta": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Piet%20P.%20Adema",
@@ -28273,7 +28325,8 @@
       "LinkedIn": "https://www.linkedin.com/in/reinier-van-den-berg-a8868111/",
       "wikidata": "http://www.wikidata.org/entity/Q14255109"
     },
-    "geboortedatum": "+1962-04-05T00:00:00Z"
+    "geboortedatum": "+1962-04-05T00:00:00Z",
+    "vinddebeta": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Beatrice%20B.A.%20de%20Graaf",
@@ -28902,7 +28955,8 @@
     "urls": {
       "partijwebsite": "https://voltnederland.org/mensen/robin-twickler-tk2023",
       "wikidata": "http://www.wikidata.org/entity/Q123176174"
-    }
+    },
+    "vinddebeta": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Cankut%20C.%20Ercan",
@@ -29098,7 +29152,8 @@
     "urls": {
       "partijwebsite": "https://voltnederland.org/mensen/sylvia-van-laar-tk2023",
       "wikidata": "http://www.wikidata.org/entity/Q105703718"
-    }
+    },
+    "vinddebeta": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Michael%20M.T.%20Tai",
@@ -29198,7 +29253,8 @@
       "wikidata": "http://www.wikidata.org/entity/Q123176179",
       "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamer-2023/partijen/volt/valerie-pajak/"
     },
-    "rainbowvote": true
+    "rainbowvote": true,
+    "vinddebeta": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Floris%20F.%20Eigenhuis",
@@ -30452,7 +30508,8 @@
     },
     "urls": {
       "wikidata": "http://www.wikidata.org/entity/Q123176196"
-    }
+    },
+    "vinddebeta": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Luuk%20L.%20Wilson",
@@ -30932,7 +30989,8 @@
     },
     "urls": {
       "wikidata": "http://www.wikidata.org/entity/Q123176208"
-    }
+    },
+    "vinddebeta": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/J.W.A.%20Waitz",
@@ -31558,7 +31616,8 @@
     "urls": {
       "wikidata": "http://www.wikidata.org/entity/Q51796208"
     },
-    "geboortedatum": "+1974-09-19T00:00:00Z"
+    "geboortedatum": "+1974-09-19T00:00:00Z",
+    "vinddebeta": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Diederik%20D.J.H.%20van%20Dijk",
@@ -32266,7 +32325,8 @@
     },
     "urls": {
       "wikidata": "http://www.wikidata.org/entity/Q123176223"
-    }
+    },
+    "vinddebeta": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Wim%20W.J.%20van%20Duijn",
@@ -32882,7 +32942,8 @@
     },
     "urls": {
       "wikidata": "http://www.wikidata.org/entity/Q123176233"
-    }
+    },
+    "vinddebeta": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Gert%20G.R.%20van%20Leeuwen",
@@ -33449,7 +33510,8 @@
     },
     "urls": {
       "wikidata": "http://www.wikidata.org/entity/Q123176242"
-    }
+    },
+    "vinddebeta": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Arnold%20A.%20Versteeg",
@@ -33524,7 +33586,8 @@
     },
     "urls": {
       "wikidata": "http://www.wikidata.org/entity/Q123176243"
-    }
+    },
+    "vinddebeta": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Lambert%20L.%20Kisteman",
@@ -33887,7 +33950,8 @@
     },
     "urls": {
       "wikidata": "http://www.wikidata.org/entity/Q123176250"
-    }
+    },
+    "vinddebeta": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Bernard%20B.%20van%20den%20Belt",
@@ -34985,7 +35049,8 @@
     },
     "urls": {
       "wikidata": "http://www.wikidata.org/entity/Q123176270"
-    }
+    },
+    "vinddebeta": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Tahsin%20T.%20Çetinkaya",
@@ -35129,7 +35194,8 @@
     },
     "urls": {
       "wikidata": "http://www.wikidata.org/entity/Q123176273"
-    }
+    },
+    "vinddebeta": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Çaner%20.%20Kaplan",
@@ -35272,7 +35338,8 @@
     },
     "urls": {
       "wikidata": "http://www.wikidata.org/entity/Q123176276"
-    }
+    },
+    "vinddebeta": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Furkan%20F.%20Kondu",
@@ -35589,7 +35656,8 @@
     },
     "urls": {
       "wikidata": "http://www.wikidata.org/entity/Q123176282"
-    }
+    },
+    "vinddebeta": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Ilker%20I.%20Delener",
@@ -36159,7 +36227,8 @@
     },
     "urls": {
       "wikidata": "http://www.wikidata.org/entity/Q123176298"
-    }
+    },
+    "vinddebeta": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Şeyda%20.%20Dokgöz",
@@ -37368,7 +37437,8 @@
     },
     "urls": {
       "wikidata": "http://www.wikidata.org/entity/Q123176321"
-    }
+    },
+    "vinddebeta": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Robert%20R.M.%20Biever",
@@ -37954,7 +38024,8 @@
     "urls": {
       "partijwebsite": "https://boerburgerbeweging.nl/kandidaten/henk-vermeer/",
       "wikidata": "http://www.wikidata.org/entity/Q122169435"
-    }
+    },
+    "vinddebeta": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Lilian%20L.M.J.S.%20Helder",
@@ -38179,7 +38250,8 @@
       "partijwebsite": "https://boerburgerbeweging.nl/kandidaten/jean-rummenie/",
       "wikidata": "http://www.wikidata.org/entity/Q123173854"
     },
-    "geboortedatum": "+1953-00-00T00:00:00Z"
+    "geboortedatum": "+1953-00-00T00:00:00Z",
+    "vinddebeta": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Nicki%20N.J.F.%20Pouw-Verweij",
@@ -38709,7 +38781,8 @@
       "wikidata": "http://www.wikidata.org/entity/Q122169440",
       "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamer-2023/partijen/bbb/kees-van-vuuren-2023/"
     },
-    "rainbowvote": true
+    "rainbowvote": true,
+    "vinddebeta": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Saskia%20S.%20van%20der%20Meer",
@@ -38980,7 +39053,8 @@
     "urls": {
       "partijwebsite": "https://boerburgerbeweging.nl/kandidaten/erik-stegink/",
       "wikidata": "http://www.wikidata.org/entity/Q108828178"
-    }
+    },
+    "vinddebeta": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Florian%20F.M.%20Huiskamp",
@@ -39126,7 +39200,8 @@
     "urls": {
       "partijwebsite": "https://boerburgerbeweging.nl/kandidaten/haidy-hankers/",
       "wikidata": "http://www.wikidata.org/entity/Q123176336"
-    }
+    },
+    "vinddebeta": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Nils%20N.C.G.%20Berghout",
@@ -39224,7 +39299,8 @@
     "urls": {
       "partijwebsite": "https://boerburgerbeweging.nl/kandidaten/gerlof-roubos/",
       "wikidata": "http://www.wikidata.org/entity/Q123176338"
-    }
+    },
+    "vinddebeta": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Jordy%20G.J.A.%20Evers",
@@ -39322,7 +39398,8 @@
     "urls": {
       "partijwebsite": "https://boerburgerbeweging.nl/kandidaten/marcel-sijbolts/",
       "wikidata": "http://www.wikidata.org/entity/Q123176342"
-    }
+    },
+    "vinddebeta": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Willem%20W.P.%20Poppe",
@@ -39469,7 +39546,8 @@
     "urls": {
       "partijwebsite": "https://boerburgerbeweging.nl/kandidaten/derk-evert-waalkens/",
       "wikidata": "http://www.wikidata.org/entity/nan"
-    }
+    },
+    "vinddebeta": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Ines%20R.J.G.%20de%20Ridder",
@@ -45733,7 +45811,8 @@
     "urls": {
       "wikidata": "http://www.wikidata.org/entity/Q7192814"
     },
-    "geboortedatum": "+1974-01-08T00:00:00Z"
+    "geboortedatum": "+1974-01-08T00:00:00Z",
+    "vinddebeta": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Nicolien%20J.N.%20van%20Vroonhoven-Kok",
@@ -46110,7 +46189,8 @@
     "urls": {
       "wikidata": "http://www.wikidata.org/entity/Q123173839"
     },
-    "geboortedatum": "+1994-00-00T00:00:00Z"
+    "geboortedatum": "+1994-00-00T00:00:00Z",
+    "vinddebeta": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Merlien%20R.M.%20Welzijn",
@@ -46283,7 +46363,8 @@
     },
     "urls": {
       "wikidata": "http://www.wikidata.org/entity/Q122841334"
-    }
+    },
+    "vinddebeta": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Folkert%20F.L.%20Idsinga",
@@ -46553,7 +46634,8 @@
     "urls": {
       "wikidata": "http://www.wikidata.org/entity/Q29317688"
     },
-    "geboortedatum": "+1984-00-00T00:00:00Z"
+    "geboortedatum": "+1984-00-00T00:00:00Z",
+    "vinddebeta": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Faith%20F.H.%20Bruyning",
@@ -46749,7 +46831,8 @@
     },
     "urls": {
       "wikidata": "http://www.wikidata.org/entity/Q122830784"
-    }
+    },
+    "vinddebeta": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Annemarie%20A.%20Heite",
@@ -47365,7 +47448,8 @@
     },
     "urls": {
       "wikidata": "http://www.wikidata.org/entity/Q122854410"
-    }
+    },
+    "vinddebeta": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Margreet%20M.M.%20de%20Leeuw-Jongejans",
@@ -47535,7 +47619,8 @@
     },
     "urls": {
       "wikidata": "http://www.wikidata.org/entity/Q123176480"
-    }
+    },
+    "vinddebeta": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Marcel%20M.A.A.%20van%20de%20Ven",
@@ -47775,7 +47860,8 @@
     },
     "urls": {
       "wikidata": "http://www.wikidata.org/entity/Q123176485"
-    }
+    },
+    "vinddebeta": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Rob%20R.%20Wessels",
