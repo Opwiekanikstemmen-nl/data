@@ -21,6 +21,8 @@ else:
 with open('../kandidaten.json', 'r') as f:
 	kandidaten = json.load(f)
 
+vinddebeta_url = "https://vinddebetaopdelijst.nl/{0}?person={1}"
+
 with open(source, 'r') as f:
 	source = csv.reader(f, delimiter=',')
 	it = iter(source)
@@ -30,6 +32,12 @@ with open(source, 'r') as f:
 		for kandidaat in kandidaten:
 			if kandidaat['verkiezingen']['tk2023']['lijstnummer'] == int(person[2]) and kandidaat['naam'] == person[1]:
 				kandidaat['vinddebeta'] = True
+				slug_name = person[1].replace(' ', '').lower()
+				person_url = vinddebeta_url.format(person[0], slug_name)
+				try:
+					kandidaat['urls']['Vind de bèta op de lijst'] = person_url
+				except KeyError:
+					kandidaat['urls'] = {'Vind de bèta op de lijst': person_url}
 				person_found = True
 
 		if not person_found:
