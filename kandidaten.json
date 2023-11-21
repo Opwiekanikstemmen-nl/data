@@ -4819,7 +4819,7 @@
     "voornaam": "Anne-Marijke",
     "achternaam": "Podt",
     "voorletters": "A.",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 4,
@@ -4858,7 +4858,12 @@
     },
     "vinddebeta": true,
     "urls": {
-      "Vind de bèta op de lijst": "https://vinddebetaopdelijst.nl/D66?person=anne-marijkepodt"
+      "Vind de bèta op de lijst": "https://vinddebetaopdelijst.nl/D66?person=anne-marijkepodt",
+      "partijwebsite": "https://d66.nl/nieuws/nieuwe-generatie-d66ers-op-kandidatenlijst/",
+      "LinkedIn": "https://www.linkedin.com/in/annemarijkepodt/",
+      "Twitter": "https://twitter.com/Annemarijke",
+      "Instagram": "https://www.instagram.com/Annemarijke/?hl=en",
+      "Facebook": "https://www.facebook.com/annemarijke.podt/?locale=nl_NL"
     }
   },
   {
@@ -5217,7 +5222,7 @@
     "voornaam": "Marijke",
     "achternaam": "Synhaeve",
     "voorletters": "M.",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 11,
@@ -5256,7 +5261,12 @@
     },
     "urls": {
       "wikidata": "http://www.wikidata.org/entity/Q123175965",
-      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamer-2023/partijen/d66/marijke-synhaeve-2023/"
+      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamer-2023/partijen/d66/marijke-synhaeve-2023/",
+      "partijwebsite": "https://d66.nl/nieuws/nieuwe-generatie-d66ers-op-kandidatenlijst/",
+      "LinkedIn": "https://www.linkedin.com/in/marijkesynhaeve/?originalSubdomain=nl",
+      "Twitter": "https://twitter.com/MarijkeSynhaeve",
+      "Instagram": "https://www.instagram.com/marijke.synhaeve/?hl=en",
+      "Facebook": "https://www.facebook.com/marijke.synhaeve/?locale=nl_NL"
     },
     "rainbowvote": true
   },
@@ -5267,7 +5277,7 @@
     "voornaam": "Lisa",
     "achternaam": "van Ginneken",
     "voorletters": "L.M.",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 12,
@@ -5307,7 +5317,12 @@
     "urls": {
       "wikidata": "http://www.wikidata.org/entity/Q102069083",
       "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamer-2023/partijen/d66/lisa-van-ginneken-2023/",
-      "Vind de bèta op de lijst": "https://vinddebetaopdelijst.nl/D66?person=lisavanginneken"
+      "Vind de bèta op de lijst": "https://vinddebetaopdelijst.nl/D66?person=lisavanginneken",
+      "partijwebsite": "https://d66.nl/nieuws/nieuwe-generatie-d66ers-op-kandidatenlijst/",
+      "LinkedIn": "https://www.linkedin.com/in/lisavanginneken/?locale=nl_NL",
+      "Twitter": "https://twitter.com/lisaginneken?lang=en",
+      "Instagram": "https://www.instagram.com/lisaginneken/?hl=en",
+      "Facebook": "https://facebook.com/lisa.v.ginneken/?locale=nl_NL"
     },
     "geboortedatum": "+1972-00-00T00:00:00Z",
     "rainbowvote": true,
@@ -5751,7 +5766,7 @@
     "voornaam": "Spencer",
     "achternaam": "Alberg",
     "voorletters": "S.T.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 19,
@@ -5984,7 +5999,7 @@
     "voornaam": "Dorien",
     "achternaam": "Blommers",
     "voorletters": "D.",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 23,
@@ -6022,7 +6037,11 @@
       }
     },
     "urls": {
-      "wikidata": "http://www.wikidata.org/entity/Q123175967"
+      "wikidata": "http://www.wikidata.org/entity/Q123175967",
+      "partijwebsite": "https://dorienblommers.nl/",
+      "LinkedIn": "https://www.linkedin.com/in/dorien-blommers-a4030186/?originalSubdomain=nl",
+      "Twitter": "https://twitter.com/DorienBlommers",
+      "Instagram": "https://www.instagram.com/dorien_blommers/?hl=en"
     }
   },
   {
@@ -6159,7 +6178,7 @@
     "voornaam": "Meryem",
     "achternaam": "Çimen",
     "voorletters": "M.",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 26,
@@ -6197,7 +6216,8 @@
       }
     },
     "urls": {
-      "wikidata": "http://www.wikidata.org/entity/Q123175968"
+      "wikidata": "http://www.wikidata.org/entity/Q123175968",
+      "Facebook": "https://www.facebook.com/meryem.cimen.31/"
     }
   },
   {
@@ -6207,7 +6227,7 @@
     "voornaam": "Ouafa",
     "achternaam": "Oualhadj",
     "voorletters": "A.",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 27,
@@ -6245,7 +6265,11 @@
       }
     },
     "urls": {
-      "wikidata": "http://www.wikidata.org/entity/Q123175969"
+      "wikidata": "http://www.wikidata.org/entity/Q123175969",
+      "partijwebsite": "https://ouafa.nl/",
+      "LinkedIn": "https://www.linkedin.com/in/ouafa-oualhadj-1613b850/?originalSubdomain=nl",
+      "Twitter": "https://twitter.com/ouafa070?lang=en",
+      "Instagram": "https://www.instagram.com/ouafa070/"
     }
   },
   {
@@ -6255,7 +6279,7 @@
     "voornaam": "Marvin",
     "achternaam": "Putuhena",
     "voorletters": "M.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 28,
@@ -6352,7 +6376,7 @@
     "voornaam": "Veerle",
     "achternaam": "Brink",
     "voorletters": "V.J.",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 30,
@@ -6390,7 +6414,10 @@
       }
     },
     "urls": {
-      "wikidata": "http://www.wikidata.org/entity/Q123175971"
+      "wikidata": "http://www.wikidata.org/entity/Q123175971",
+      "LinkedIn": "https://www.linkedin.com/in/veerle-brink-7064505a/",
+      "Twitter": "https://twitter.com/veerlebrink",
+      "Instagram": "https://www.instagram.com/veerlebrink/"
     }
   },
   {
@@ -6400,7 +6427,7 @@
     "voornaam": "Paul",
     "achternaam": "van Dorst",
     "voorletters": "P.A.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 31,
@@ -6452,7 +6479,7 @@
     "voornaam": "Gerben",
     "achternaam": "Wijnja",
     "voorletters": "G.H.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 32,
@@ -6502,7 +6529,7 @@
     "voornaam": "Margreet",
     "achternaam": "de Vries",
     "voorletters": "M.M.",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 33,
@@ -6540,7 +6567,9 @@
       }
     },
     "urls": {
-      "wikidata": "http://www.wikidata.org/entity/Q123175974"
+      "wikidata": "http://www.wikidata.org/entity/Q123175974",
+      "LinkedIn": "https://www.linkedin.com/in/margreetmdevries/",
+      "Twitter": "https://twitter.com/MargreetdeVries"
     }
   },
   {
@@ -6550,7 +6579,7 @@
     "voornaam": "Frank",
     "achternaam": "Schoonbeek",
     "voorletters": "F.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 34,
@@ -6673,7 +6702,7 @@
     "voornaam": "Wiebe",
     "achternaam": "Ruttenberg",
     "voorletters": "W.C.J.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 36,
@@ -6721,7 +6750,7 @@
     "voornaam": "Joey",
     "achternaam": "Koops",
     "voorletters": "J.H.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 37,
@@ -6846,7 +6875,7 @@
     "voornaam": "Gerben",
     "achternaam": "Hiemstra",
     "voorletters": "G.J.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 39,
@@ -6894,7 +6923,7 @@
     "voornaam": "Judith",
     "achternaam": "Keijmel - den Boer",
     "voorletters": "J.M.I.",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 40,
@@ -6932,7 +6961,10 @@
       }
     },
     "urls": {
-      "wikidata": "http://www.wikidata.org/entity/Q123175981"
+      "wikidata": "http://www.wikidata.org/entity/Q123175981",
+      "partijwebsite": "https://d66.nl/veere/mensen/judith-keijmel-den-boer/",
+      "LinkedIn": "https://www.linkedin.com/in/judith-keijmel-den-boer-13806163/",
+      "Twitter": "https://twitter.com/judithdb"
     }
   },
   {
@@ -6942,7 +6974,7 @@
     "voornaam": "Hilde",
     "achternaam": "Tjeerdema",
     "voorletters": "H.",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 41,
@@ -6980,7 +7012,12 @@
       }
     },
     "urls": {
-      "wikidata": "http://www.wikidata.org/entity/Q123175982"
+      "wikidata": "http://www.wikidata.org/entity/Q123175982",
+      "partijwebsite": "https://d66.nl/leeuwarden/mensen/hilde-tjeerdema/",
+      "LinkedIn": "https://www.linkedin.com/in/hildetjeerdema/",
+      "Twitter": "https://twitter.com/Hilde_Tjeerdema",
+      "Instagram": "https://www.instagram.com/hildetjeerdema/",
+      "Facebook": "https://www.facebook.com/HildeTjeerdemaD66"
     }
   },
   {
@@ -6990,7 +7027,7 @@
     "voornaam": "Elze",
     "achternaam": "Woudstra",
     "voorletters": "E.",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 42,
@@ -7028,7 +7065,11 @@
       }
     },
     "urls": {
-      "wikidata": "http://www.wikidata.org/entity/Q123175983"
+      "wikidata": "http://www.wikidata.org/entity/Q123175983",
+      "partijwebsite": "https://d66.nl/rijswijk/mensen/elze-woudstra/",
+      "LinkedIn": "https://www.linkedin.com/in/elzewoudstra/",
+      "Twitter": "https://twitter.com/ElzeWoudstra",
+      "Instagram": "https://www.instagram.com/elzewoudstra/"
     }
   },
   {
@@ -7038,7 +7079,7 @@
     "voornaam": "Anne-Lise",
     "achternaam": "Olsthoorn",
     "voorletters": "A.",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 43,
@@ -7074,6 +7115,10 @@
           "adressendichtheid": "4994"
         }
       }
+    },
+    "urls": {
+      "LinkedIn": "https://nl.linkedin.com/in/anne-lise-olsthoorn-57a447107",
+      "Facebook": "https://www.facebook.com/caecilia.vanpeski/?locale=nl_NL"
     }
   },
   {
@@ -7083,7 +7128,7 @@
     "voornaam": "Caecilia",
     "achternaam": "van Peski",
     "voorletters": "C.J.",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 44,
@@ -7121,7 +7166,10 @@
       }
     },
     "urls": {
-      "wikidata": "http://www.wikidata.org/entity/Q123175985"
+      "wikidata": "http://www.wikidata.org/entity/Q123175985",
+      "LinkedIn": "https://nl.linkedin.com/in/caecilia-johanna-van-peski-a2b8961",
+      "Instagram": "https://www.instagram.com/caeciliavanpeski/",
+      "Facebook": "https://www.facebook.com/caecilia.vanpeski/?locale=nl_NL"
     }
   },
   {
@@ -7131,7 +7179,7 @@
     "voornaam": "Bonne",
     "achternaam": "van Hattum",
     "voorletters": "B.",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 45,
@@ -7169,7 +7217,9 @@
       }
     },
     "urls": {
-      "wikidata": "http://www.wikidata.org/entity/Q123175987"
+      "wikidata": "http://www.wikidata.org/entity/Q123175987",
+      "partijwebsite": "https://d66.nl/hilversum/mensen/bonne-van-hattum-7/",
+      "LinkedIn": "https://www.linkedin.com/in/bonnev/"
     }
   },
   {
@@ -7259,7 +7309,7 @@
     "voornaam": "Marco",
     "achternaam": "van Driel",
     "voorletters": "M.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 47,
@@ -7307,7 +7357,7 @@
     "voornaam": "Linda",
     "achternaam": "Ruijs",
     "voorletters": "L.J.M.",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 48,
@@ -7346,7 +7396,8 @@
     },
     "urls": {
       "wikidata": "http://www.wikidata.org/entity/Q123175989",
-      "Vind de bèta op de lijst": "https://vinddebetaopdelijst.nl/D66?person=lindaruijs"
+      "Vind de bèta op de lijst": "https://vinddebetaopdelijst.nl/D66?person=lindaruijs",
+      "LinkedIn": "https://www.linkedin.com/in/linda-ruijs-623436269/?trk=public_post_main-feed-card-text&originalSubdomain=nl"
     },
     "vinddebeta": true
   },
@@ -7357,7 +7408,7 @@
     "voornaam": "Pieter",
     "achternaam": "van der Gaag",
     "voorletters": "P.J.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 49,
@@ -7405,7 +7456,7 @@
     "voornaam": "Enrico",
     "achternaam": "Bosters",
     "voorletters": "E.L.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 50,
@@ -7453,7 +7504,7 @@
     "voornaam": "Donja",
     "achternaam": "Hoevers",
     "voorletters": "J.",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 51,
@@ -7491,7 +7542,11 @@
       }
     },
     "urls": {
-      "wikidata": "http://www.wikidata.org/entity/Q123175993"
+      "wikidata": "http://www.wikidata.org/entity/Q123175993",
+      "partijwebsite": "https://d66.nl/de-bilt/mensen/persoon-1/",
+      "LinkedIn": "https://nl.linkedin.com/in/donjahoevers",
+      "Twitter": "https://twitter.com/DonjaHoevers?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
+      "Facebook": "https://www.facebook.com/DonjaHoeversD66DeBilt/"
     }
   },
   {
@@ -7501,7 +7556,7 @@
     "voornaam": "Veerle",
     "achternaam": "van de Vijver",
     "voorletters": "V.F.",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 52,
@@ -7537,6 +7592,10 @@
           "adressendichtheid": "1992"
         }
       }
+    },
+    "urls": {
+      "partijwebsite": "https://d66.nl/schouwen-duiveland/mensen/veerle-fleur-van-de-vijver/",
+      "LinkedIn": "https://nl.linkedin.com/in/veerle-fleur-van-de-vijver-95a843236"
     }
   },
   {
@@ -7546,7 +7605,7 @@
     "voornaam": "Pepijn",
     "achternaam": "Vemer",
     "voorletters": "P.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 53,
@@ -7623,7 +7682,7 @@
     "voornaam": "David",
     "achternaam": "Wallast",
     "voorletters": "R.D.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 54,
@@ -7671,7 +7730,7 @@
     "voornaam": "Elly",
     "achternaam": "André",
     "voorletters": "E.S.",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 55,
@@ -7709,7 +7768,11 @@
       }
     },
     "urls": {
-      "wikidata": "http://www.wikidata.org/entity/Q123175996"
+      "wikidata": "http://www.wikidata.org/entity/Q123175996",
+      "partijwebsite": "https://d66.nl/apeldoorn/mensen/elly-andre/",
+      "LinkedIn": "https://nl.linkedin.com/in/elly-andr%C3%A9-664529206",
+      "Instagram": "https://www.instagram.com/ellyy.andre/",
+      "Facebook": "https://www.facebook.com/profile.php?id=100076145280774"
     }
   },
   {
@@ -7719,7 +7782,7 @@
     "voornaam": "Anne",
     "achternaam": "Wesseling",
     "voorletters": "A.",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 56,
@@ -7757,7 +7820,11 @@
       }
     },
     "urls": {
-      "wikidata": "http://www.wikidata.org/entity/Q123175997"
+      "wikidata": "http://www.wikidata.org/entity/Q123175997",
+      "partijwebsite": "https://d66.nl/limburg/mensen/anne-wesseling/",
+      "LinkedIn": "https://nl.linkedin.com/in/anne-wesseling",
+      "Instagram": "https://www.instagram.com/annewesselingx/",
+      "Facebook": "https://www.facebook.com/anne.wesseling.31/"
     }
   },
   {
@@ -7767,7 +7834,7 @@
     "voornaam": "Remy",
     "achternaam": "Maessen",
     "voorletters": "R.J.M.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 57,
@@ -7815,7 +7882,7 @@
     "voornaam": "Monique",
     "achternaam": "Schoonen",
     "voorletters": "M.",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 58,
@@ -7853,7 +7920,8 @@
       }
     },
     "urls": {
-      "wikidata": "http://www.wikidata.org/entity/Q123175999"
+      "wikidata": "http://www.wikidata.org/entity/Q123175999",
+      "LinkedIn": "https://nl.linkedin.com/in/monique-schoonen-782b9220"
     }
   },
   {
@@ -7863,7 +7931,7 @@
     "voornaam": "Pepijn",
     "achternaam": "Pi Van de Venne",
     "voorletters": "P.R.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 59,
@@ -7911,7 +7979,7 @@
     "voornaam": "Marlou",
     "achternaam": "Jenneskens",
     "voorletters": "M.T.P.",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 60,
@@ -7957,7 +8025,11 @@
       }
     },
     "urls": {
-      "wikidata": "http://www.wikidata.org/entity/Q123176001"
+      "wikidata": "http://www.wikidata.org/entity/Q123176001",
+      "partijwebsite": "https://d66.nl/limburg/mensen/marlou-jenneskens/",
+      "LinkedIn": "https://nl.linkedin.com/in/marloujenneskens",
+      "Twitter": "https://twitter.com/Mmmmarlou",
+      "Instagram": "https://www.instagram.com/marloujenneskensd66/"
     }
   },
   {
@@ -8016,7 +8088,7 @@
     "voornaam": "Laura",
     "achternaam": "de Vries",
     "voorletters": "L.",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 62,
@@ -8054,7 +8126,9 @@
       }
     },
     "urls": {
-      "wikidata": "http://www.wikidata.org/entity/Q123176002"
+      "wikidata": "http://www.wikidata.org/entity/Q123176002",
+      "LinkedIn": "https://www.linkedin.com/in/margreetmdevries/",
+      "Twitter": "https://twitter.com/MargreetdeVries"
     }
   },
   {
@@ -8064,7 +8138,7 @@
     "voornaam": "Sumer",
     "achternaam": "Chaban",
     "voorletters": "S.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 63,
@@ -8139,7 +8213,7 @@
     "voornaam": "Ton",
     "achternaam": "Louhenapessij",
     "voorletters": "A.F.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 64,
@@ -8187,7 +8261,7 @@
     "voornaam": "Linda",
     "achternaam": "Nooitmeer",
     "voorletters": "L.I.",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 65,
@@ -8225,7 +8299,11 @@
       }
     },
     "urls": {
-      "wikidata": "http://www.wikidata.org/entity/Q123176005"
+      "wikidata": "http://www.wikidata.org/entity/Q123176005",
+      "partijwebsite": "https://d66.nl/ijsselstein/mensen/linda-nooitmeer/",
+      "LinkedIn": "https://www.linkedin.com/in/linda-n-86a8274/",
+      "Twitter": "https://twitter.com/LindaNooitmeer",
+      "Instagram": "https://www.instagram.com/lindanooitmeer/"
     }
   },
   {
@@ -8483,7 +8561,7 @@
     "voornaam": "Marcelle",
     "achternaam": "Hendrickx",
     "voorletters": "M.T.M.",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 70,
@@ -8521,7 +8599,9 @@
       }
     },
     "urls": {
-      "wikidata": "http://www.wikidata.org/entity/Q123176006"
+      "wikidata": "http://www.wikidata.org/entity/Q123176006",
+      "partijwebsite": "https://d66.nl/tilburg/mensen/marcelle-hendrickx/",
+      "Twitter": "https://twitter.com/marhendrickx?lang=en"
     }
   },
   {
@@ -10325,7 +10405,7 @@
     "voornaam": "Elke",
     "achternaam": "Slagt-Tichelman",
     "voorletters": "E.",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 19,
@@ -10365,7 +10445,9 @@
     "urls": {
       "partijwebsite": "https://groenlinkspvda.nl/kandidaat/elke-slagt-tichelman/",
       "wikidata": "http://www.wikidata.org/entity/Q123176007",
-      "Vind de bèta op de lijst": "https://vinddebetaopdelijst.nl/Groenlinks-PvdA?person=elkeslagt-tichelman"
+      "Vind de bèta op de lijst": "https://vinddebetaopdelijst.nl/Groenlinks-PvdA?person=elkeslagt-tichelman",
+      "LinkedIn": "https://www.linkedin.com/in/elke-slagt-58484526/?originalSubdomain=nl",
+      "Facebook": "https://www.facebook.com/elke.slagttichelman"
     },
     "vinddebeta": true
   },
@@ -10454,7 +10536,7 @@
     "voornaam": "Raoul",
     "achternaam": "White",
     "voorletters": "R.J.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 21,
@@ -10682,7 +10764,7 @@
     "voornaam": "Luc",
     "achternaam": "Stultiens",
     "voorletters": "L.C.J.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 25,
@@ -10833,7 +10915,7 @@
     "voornaam": "Hayte",
     "achternaam": "de Jong",
     "voorletters": "H.A.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 28,
@@ -11086,7 +11168,7 @@
     "voornaam": "Jan",
     "achternaam": "Daenen",
     "voorletters": "J.W.B.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 32,
@@ -11216,7 +11298,7 @@
     "voornaam": "Eylem",
     "achternaam": "Köseoglu",
     "voorletters": "E.",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 34,
@@ -11255,7 +11337,11 @@
     },
     "urls": {
       "partijwebsite": "https://groenlinkspvda.nl/kandidaat/eylem-koseoglu/",
-      "wikidata": "http://www.wikidata.org/entity/Q123176012"
+      "wikidata": "http://www.wikidata.org/entity/Q123176012",
+      "LinkedIn": "https://linkedin.com/in/eylem-koseoglu-36236186",
+      "Twitter": "https://twitter.com/eylemkoseoglu",
+      "Instagram": "https://instagram.com/koseoglueylem?igshid=OGQ5ZDc2ODk2ZA==",
+      "Facebook": "https://facebook.com/eylem.koseoglu.50"
     }
   },
   {
@@ -11265,7 +11351,7 @@
     "voornaam": "Evelien",
     "achternaam": "van Roemburg",
     "voorletters": "E.T.W.",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 35,
@@ -11304,7 +11390,8 @@
     },
     "urls": {
       "partijwebsite": "https://groenlinkspvda.nl/kandidaat/evelien-van-roemburg/",
-      "wikidata": "http://www.wikidata.org/entity/Q123176013"
+      "wikidata": "http://www.wikidata.org/entity/Q123176013",
+      "Twitter": "https://twitter.com/evanroemburg"
     }
   },
   {
@@ -11561,7 +11648,9 @@
     "urls": {
       "partijwebsite": "https://groenlinkspvda.nl/kandidaat/paul-smits/",
       "wikidata": "http://www.wikidata.org/entity/Q123176014",
-      "Vind de bèta op de lijst": "https://vinddebetaopdelijst.nl/Groenlinks-PvdA?person=paulsmits"
+      "Vind de bèta op de lijst": "https://vinddebetaopdelijst.nl/Groenlinks-PvdA?person=paulsmits",
+      "Twitter": "https://twitter.com/PLSmits",
+      "Facebook": "https://www.facebook.com/paul.l.smits"
     },
     "vinddebeta": true
   },
@@ -11572,7 +11661,7 @@
     "voornaam": "Mohamed",
     "achternaam": "Nabih",
     "voorletters": "M.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 40,
@@ -11621,7 +11710,7 @@
     "voornaam": "David",
     "achternaam": "Rietveld",
     "voorletters": "M.D.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 41,
@@ -11747,7 +11836,7 @@
     "voornaam": "Eva",
     "achternaam": "de Bruijn",
     "voorletters": "E.",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 43,
@@ -11788,7 +11877,11 @@
       "partijwebsite": "https://groenlinkspvda.nl/kandidaat/eva-de-bruijn/",
       "wikidata": "http://www.wikidata.org/entity/Q123176017",
       "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamer-2023/partijen/groenlinkspvda/eva-de-bruijn-2023/",
-      "Vind de bèta op de lijst": "https://vinddebetaopdelijst.nl/Groenlinks-PvdA?person=evadebruijn"
+      "Vind de bèta op de lijst": "https://vinddebetaopdelijst.nl/Groenlinks-PvdA?person=evadebruijn",
+      "LinkedIn": "https://www.linkedin.com/in/evadebruijn/",
+      "Twitter": "https://twitter.com/evadebruijn",
+      "Instagram": "https://www.instagram.com/eva_de_bruijn/",
+      "Facebook": "https://www.facebook.com/Evadebruijn/"
     },
     "rainbowvote": true,
     "vinddebeta": true
@@ -11800,7 +11893,7 @@
     "voornaam": "Eline",
     "achternaam": "Bosman",
     "voorletters": "E.M.",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 44,
@@ -11839,7 +11932,9 @@
     },
     "urls": {
       "partijwebsite": "https://groenlinkspvda.nl/kandidaat/eline-bosman/",
-      "wikidata": "http://www.wikidata.org/entity/Q123176018"
+      "wikidata": "http://www.wikidata.org/entity/Q123176018",
+      "LinkedIn": "https://www.linkedin.com/in/eline-bosman-289a7ab/",
+      "Facebook": "https://www.facebook.com/eline.bosman.54"
     }
   },
   {
@@ -11849,7 +11944,7 @@
     "voornaam": "Charda",
     "achternaam": "Kuipers",
     "voorletters": "C.M.",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 45,
@@ -11888,7 +11983,9 @@
     },
     "urls": {
       "partijwebsite": "https://groenlinkspvda.nl/kandidaat/charda-kuipers/",
-      "wikidata": "http://www.wikidata.org/entity/Q123176019"
+      "wikidata": "http://www.wikidata.org/entity/Q123176019",
+      "LinkedIn": "https://nl.linkedin.com/in/charda-kuipers-82672740?challengeId=AQFpavfWIhNhEAAAAYpkXG8vi1ukcw8UpzC26RADC1NuFvAFGYMcQZResBns0zrVWSwWbz6IrH4bjsHZEM8NJp9Gr9Hsw9nnaw&submissionId=a13c6e59-e3f1-8117-76ee-af6feb7f457a&challengeSource=AgEj2pxbgHAOwQAAAYpkXKUfzsBonM1yoxmM1ZvlogH-vI9yB-xvTbtpn_Hk4Ic&challegeType=AgHTX_5ntWQkiQAAAYpkXKUha9UoN8HHH0izwGYOGxam1mp3OslRrC8&memberId=AgETKyOaZiVl8QAAAYpkXKUkA3hfn_SXVZtt62tC066UzpU&recognizeDevice=AgHwkk9__Sd-NQAAAYpkXKUmFDm0hk_Da6qZ8E0FITWeAtZY6wDX",
+      "Twitter": "https://twitter.com/chardakuipers"
     }
   },
   {
@@ -11898,7 +11995,7 @@
     "voornaam": "Marlieke",
     "achternaam": "van Schalkwijk",
     "voorletters": "M.W.",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 46,
@@ -11937,7 +12034,11 @@
     },
     "urls": {
       "partijwebsite": "https://groenlinkspvda.nl/kandidaat/marlieke-van-schalkwijk/",
-      "wikidata": "http://www.wikidata.org/entity/Q123176020"
+      "wikidata": "http://www.wikidata.org/entity/Q123176020",
+      "LinkedIn": "https://www.linkedin.com/in/marlieke-van-schalkwijk/",
+      "Twitter": "https://twitter.com/m_vaNieuw Sociaal Contracthalkwijk",
+      "Instagram": "https://www.instagram.com/marliekevaNieuw Sociaal Contracthalkwijk/",
+      "Facebook": "https://www.facebook.com/profile.php?id=61550348684689"
     }
   },
   {
@@ -12048,7 +12149,7 @@
     "voornaam": "Verone",
     "achternaam": "de Vries",
     "voorletters": "J.H.",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 49,
@@ -12070,7 +12171,12 @@
       }
     },
     "urls": {
-      "wikidata": "http://www.wikidata.org/entity/Q123176021"
+      "wikidata": "http://www.wikidata.org/entity/Q123176021",
+      "partijwebsite": "https://groenlinkspvda.nl/kandidaat/verone-de-vries/",
+      "LinkedIn": "https://nl.linkedin.com/in/veronemeengsdevries",
+      "Twitter": "https://twitter.com/veronedevries",
+      "Instagram": "https://www.instagram.com/veronedevries_groenlinks/",
+      "Facebook": "https://www.facebook.com/profile.php?id=100093004192323"
     }
   },
   {
@@ -20242,7 +20348,7 @@
     "voornaam": "Thierry",
     "achternaam": "Baudet",
     "voorletters": "T.H.P.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 1,
@@ -20314,7 +20420,7 @@
     "voornaam": "Frederik",
     "achternaam": "Jansen",
     "voorletters": "F.J.H.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 2,
@@ -20386,7 +20492,7 @@
     "voornaam": "Gideon",
     "achternaam": "van Meijeren",
     "voorletters": "G.F.C.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 3,
@@ -20431,7 +20537,7 @@
     "voornaam": "Pepijn",
     "achternaam": "van Houwelingen",
     "voorletters": "P.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 4,
@@ -20476,7 +20582,7 @@
     "voornaam": "Ralf",
     "achternaam": "Dekker",
     "voorletters": "R.J.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 5,
@@ -20552,7 +20658,7 @@
     "voornaam": "Lidewij",
     "achternaam": "de Vos",
     "voorletters": "L.G.",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 6,
@@ -20591,7 +20697,9 @@
     },
     "vinddebeta": true,
     "urls": {
-      "Vind de bèta op de lijst": "https://vinddebetaopdelijst.nl/FvD?person=lidewijdevos"
+      "Vind de bèta op de lijst": "https://vinddebetaopdelijst.nl/FvD?person=lidewijdevos",
+      "LinkedIn": "https://www.linkedin.com/in/lidewij-de-vos-59279b157/",
+      "Twitter": "https://twitter.com/lidewij_devos?lang=en"
     }
   },
   {
@@ -20601,7 +20709,7 @@
     "voornaam": "Tom",
     "achternaam": "Russcher",
     "voorletters": "T.K.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 7,
@@ -20646,7 +20754,7 @@
     "voornaam": "Massimo",
     "achternaam": "Etalle",
     "voorletters": "M.J.S.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 8,
@@ -20695,7 +20803,7 @@
     "voornaam": "Andreas",
     "achternaam": "Bakir",
     "voorletters": "A.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 9,
@@ -20767,7 +20875,7 @@
     "voornaam": "Johan",
     "achternaam": "Dessing",
     "voorletters": "J.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 10,
@@ -20839,7 +20947,7 @@
     "voornaam": "Joyce",
     "achternaam": "Vastenhouw",
     "voorletters": "J.",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 11,
@@ -20902,6 +21010,10 @@
         "woonplaats": "Ilpendam",
         "partij_naam": "Forum voor Democratie"
       }
+    },
+    "urls": {
+      "LinkedIn": "https://www.linkedin.com/in/joycevastenhouw",
+      "Twitter": "https://twitter.com/JoyceVastenhouw/"
     }
   },
   {
@@ -20911,7 +21023,7 @@
     "voornaam": "Iem",
     "achternaam": "Al Biyati",
     "voorletters": "I.",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 12,
@@ -20947,6 +21059,10 @@
           "adressendichtheid": "6096"
         }
       }
+    },
+    "urls": {
+      "partijwebsite": "https://jongerenForum voor Democratie.nl/bestuur",
+      "Twitter": "https://twitter.com/biemyati"
     }
   },
   {
@@ -20956,7 +21072,7 @@
     "voornaam": "Rebecca",
     "achternaam": "de Knegt",
     "voorletters": "R.E.R.",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 13,
@@ -20992,6 +21108,9 @@
           "adressendichtheid": "1348"
         }
       }
+    },
+    "urls": {
+      "partijwebsite": "https://Forum voor Democratie.nl/auteurs/rebecca-de-knegt"
     }
   },
   {
@@ -21001,7 +21120,7 @@
     "voornaam": "Peter",
     "achternaam": "Verstegen",
     "voorletters": "P.J.T.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 14,
@@ -21066,7 +21185,7 @@
     "voornaam": "Anton",
     "achternaam": "van Schijndel",
     "voorletters": "A.H.J.W.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 15,
@@ -21111,7 +21230,7 @@
     "voornaam": "Brigitte",
     "achternaam": "Antolini",
     "voorletters": "B.M.",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 16,
@@ -21147,6 +21266,9 @@
           "adressendichtheid": "1532"
         }
       }
+    },
+    "urls": {
+      "Twitter": "https://twitter.com/brigitteForum voor Democratie?lang=en"
     }
   },
   {
@@ -21156,7 +21278,7 @@
     "voornaam": "Martin",
     "achternaam": "Bos",
     "voorletters": "M.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 17,
@@ -21228,7 +21350,7 @@
     "voornaam": "Pelle",
     "achternaam": "Koopman",
     "voorletters": "P.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 18,
@@ -21273,7 +21395,7 @@
     "voornaam": "Ramon",
     "achternaam": "van Asch",
     "voorletters": "R.W.G.T.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 19,
@@ -21318,7 +21440,7 @@
     "voornaam": "Marco",
     "achternaam": "van den Boomgaard",
     "voorletters": "M.R.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 20,
@@ -21360,10 +21482,10 @@
     "iri": "https://opwiekanikstemmen.nl/id/person/J.L.%20Epema",
     "id": "J.L._Epema",
     "naam": "J.L. Epema",
-    "voornaam": "",
+    "voornaam": "Jan Leonard",
     "achternaam": "Epema",
     "voorletters": "J.L.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 21,
@@ -21386,10 +21508,10 @@
     "iri": "https://opwiekanikstemmen.nl/id/person/K.P.G.H.%20Winkelaar",
     "id": "K.P.G.H._Winkelaar",
     "naam": "K.P.G.H. Winkelaar",
-    "voornaam": "",
+    "voornaam": "Kim",
     "achternaam": "Winkelaar",
     "voorletters": "K.P.G.H.",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 22,
@@ -21412,10 +21534,10 @@
     "iri": "https://opwiekanikstemmen.nl/id/person/N.%20Feenstra",
     "id": "N._Feenstra",
     "naam": "N. Feenstra",
-    "voornaam": "",
+    "voornaam": "Nanne",
     "achternaam": "Feenstra",
     "voorletters": "N.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 23,
@@ -21433,16 +21555,19 @@
           "adressendichtheid": "2148"
         }
       }
+    },
+    "urls": {
+      "partijwebsite": "https://www.provinciegroningen.nl/bestuur-en-organisatie/provinciale-staten/fracties/forum-voor-democratie/kim-winkelaar/"
     }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/A.%20Krijgsman",
     "id": "A._Krijgsman",
     "naam": "A. Krijgsman",
-    "voornaam": "",
+    "voornaam": "Armin",
     "achternaam": "Krijgsman",
     "voorletters": "A.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 24,
@@ -21466,10 +21591,10 @@
     "iri": "https://opwiekanikstemmen.nl/id/person/H.J.%20Jellema",
     "id": "H.J._Jellema",
     "naam": "H.J. Jellema",
-    "voornaam": "",
+    "voornaam": "Hylke",
     "achternaam": "Jellema",
     "voorletters": "H.J.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 25,
@@ -21493,10 +21618,10 @@
     "iri": "https://opwiekanikstemmen.nl/id/person/T.J.%20Baas",
     "id": "T.J._Baas",
     "naam": "T.J. Baas",
-    "voornaam": "",
+    "voornaam": "Ted",
     "achternaam": "Baas",
     "voorletters": "T.J.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 26,
@@ -21520,10 +21645,10 @@
     "iri": "https://opwiekanikstemmen.nl/id/person/A.K.%20de%20Lange",
     "id": "A.K._de_Lange",
     "naam": "A.K. de Lange",
-    "voornaam": "",
+    "voornaam": "Anton",
     "achternaam": "de Lange",
     "voorletters": "A.K.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 27,
@@ -21563,10 +21688,10 @@
     "iri": "https://opwiekanikstemmen.nl/id/person/B.S.T.%20Hadderingh",
     "id": "B.S.T._Hadderingh",
     "naam": "B.S.T. Hadderingh",
-    "voornaam": "",
+    "voornaam": "Brent",
     "achternaam": "Hadderingh",
     "voorletters": "B.S.T.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 28,
@@ -21608,10 +21733,10 @@
     "iri": "https://opwiekanikstemmen.nl/id/person/J.C.%20Wittebrood",
     "id": "J.C._Wittebrood",
     "naam": "J.C. Wittebrood",
-    "voornaam": "",
+    "voornaam": "Jelle",
     "achternaam": "Wittebrood",
     "voorletters": "J.C.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 29,
@@ -21653,10 +21778,10 @@
     "iri": "https://opwiekanikstemmen.nl/id/person/T.%20Bilgin",
     "id": "T._Bilgin",
     "naam": "T. Bilgin",
-    "voornaam": "",
+    "voornaam": "Tanay",
     "achternaam": "Bilgin",
     "voorletters": "T.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 30,
@@ -21698,10 +21823,10 @@
     "iri": "https://opwiekanikstemmen.nl/id/person/G.A.A.%20Luurssen",
     "id": "G.A.A._Luurssen",
     "naam": "G.A.A. Luurssen",
-    "voornaam": "",
+    "voornaam": "Gino",
     "achternaam": "Luurssen",
     "voorletters": "G.A.A.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 31,
@@ -21743,10 +21868,10 @@
     "iri": "https://opwiekanikstemmen.nl/id/person/J.D.%20Minkels",
     "id": "J.D._Minkels",
     "naam": "J.D. Minkels",
-    "voornaam": "",
+    "voornaam": "Jozef",
     "achternaam": "Minkels",
     "voorletters": "J.D.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 32,
@@ -21788,10 +21913,10 @@
     "iri": "https://opwiekanikstemmen.nl/id/person/T.H.G.%20Heller",
     "id": "T.H.G._Heller",
     "naam": "T.H.G. Heller",
-    "voornaam": "",
+    "voornaam": "Theo",
     "achternaam": "Heller",
     "voorletters": "T.H.G.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 33,
@@ -21833,10 +21958,10 @@
     "iri": "https://opwiekanikstemmen.nl/id/person/J.V.%20Postuma",
     "id": "J.V._Postuma",
     "naam": "J.V. Postuma",
-    "voornaam": "",
+    "voornaam": "Jelena",
     "achternaam": "Postuma",
     "voorletters": "J.V.",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 34,
@@ -21872,16 +21997,21 @@
           "adressendichtheid": "1616"
         }
       }
+    },
+    "urls": {
+      "LinkedIn": "https://nl.linkedin.com/in/jelenavictoriapostuma",
+      "Twitter": "https://twitter.com/jelenavictoria?lang=en",
+      "Facebook": "https://www.facebook.com/jelena.postuma/?locale=nl_NL"
     }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/A.V.B.%20Vos",
     "id": "A.V.B._Vos",
     "naam": "A.V.B. Vos",
-    "voornaam": "",
+    "voornaam": "Vincent",
     "achternaam": "Vos",
     "voorletters": "A.V.B.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 35,
@@ -21923,10 +22053,10 @@
     "iri": "https://opwiekanikstemmen.nl/id/person/M.%20Hartman",
     "id": "M._Hartman",
     "naam": "M. Hartman",
-    "voornaam": "",
+    "voornaam": "Moriah",
     "achternaam": "Hartman",
     "voorletters": "M.",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 36,
@@ -21962,16 +22092,19 @@
           "adressendichtheid": "3591"
         }
       }
+    },
+    "urls": {
+      "Instagram": "https://www.instagram.com/moriahhartman/"
     }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/T.%20Panis",
     "id": "T._Panis",
     "naam": "T. Panis",
-    "voornaam": "",
+    "voornaam": "Tommy",
     "achternaam": "Panis",
     "voorletters": "T.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 37,
@@ -22013,10 +22146,10 @@
     "iri": "https://opwiekanikstemmen.nl/id/person/J.A.%20van%20der%20Voort",
     "id": "J.A._van_der_Voort",
     "naam": "J.A. van der Voort",
-    "voornaam": "",
+    "voornaam": "Jasper",
     "achternaam": "van der Voort",
     "voorletters": "J.A.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 38,
@@ -22058,10 +22191,10 @@
     "iri": "https://opwiekanikstemmen.nl/id/person/M.%20Nijman",
     "id": "M._Nijman",
     "naam": "M. Nijman",
-    "voornaam": "",
+    "voornaam": "Mark",
     "achternaam": "Nijman",
     "voorletters": "M.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 39,
@@ -22103,10 +22236,10 @@
     "iri": "https://opwiekanikstemmen.nl/id/person/M.M.%20Wijngaard",
     "id": "M.M._Wijngaard",
     "naam": "M.M. Wijngaard",
-    "voornaam": "",
+    "voornaam": "Michael",
     "achternaam": "Wijngaard",
     "voorletters": "M.M.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 40,
@@ -22148,10 +22281,10 @@
     "iri": "https://opwiekanikstemmen.nl/id/person/S.%20van%20Rij",
     "id": "S._van_Rij",
     "naam": "S. van Rij",
-    "voornaam": "",
+    "voornaam": "S.",
     "achternaam": "van Rij",
     "voorletters": "S.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 41,
@@ -22193,10 +22326,10 @@
     "iri": "https://opwiekanikstemmen.nl/id/person/E.R.%20van%20Run",
     "id": "E.R._van_Run",
     "naam": "E.R. van Run",
-    "voornaam": "",
+    "voornaam": "Esmeralda",
     "achternaam": "van Run",
     "voorletters": "E.R.",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 42,
@@ -22238,10 +22371,10 @@
     "iri": "https://opwiekanikstemmen.nl/id/person/J.O.%20van%20de%20Breevaart",
     "id": "J.O._van_de_Breevaart",
     "naam": "J.O. van de Breevaart",
-    "voornaam": "",
+    "voornaam": "Hans",
     "achternaam": "van de Breevaart",
     "voorletters": "J.O.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 43,
@@ -22283,10 +22416,10 @@
     "iri": "https://opwiekanikstemmen.nl/id/person/D.V.%20Schaap",
     "id": "D.V._Schaap",
     "naam": "D.V. Schaap",
-    "voornaam": "",
+    "voornaam": "D.V.",
     "achternaam": "Schaap",
     "voorletters": "D.V.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 44,
@@ -22327,10 +22460,10 @@
     "iri": "https://opwiekanikstemmen.nl/id/person/M.J.R.L.%20de%20Graaff",
     "id": "M.J.R.L._de_Graaff",
     "naam": "M.J.R.L. de Graaff",
-    "voornaam": "",
+    "voornaam": "Marcel",
     "achternaam": "de Graaff",
     "voorletters": "M.J.R.L.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 45,
@@ -22365,10 +22498,10 @@
     "iri": "https://opwiekanikstemmen.nl/id/person/T.%20Zwitser",
     "id": "T._Zwitser",
     "naam": "T. Zwitser",
-    "voornaam": "",
+    "voornaam": "Tom",
     "achternaam": "Zwitser",
     "voorletters": "T.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 46,
@@ -22410,10 +22543,10 @@
     "iri": "https://opwiekanikstemmen.nl/id/person/J.C.M.%20van%20den%20Oetelaar",
     "id": "J.C.M._van_den_Oetelaar",
     "naam": "J.C.M. van den Oetelaar",
-    "voornaam": "",
+    "voornaam": "Joris",
     "achternaam": "van den Oetelaar",
     "voorletters": "J.C.M.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 47,
@@ -22455,10 +22588,10 @@
     "iri": "https://opwiekanikstemmen.nl/id/person/S.%20Kerseboom",
     "id": "S._Kerseboom",
     "naam": "S. Kerseboom",
-    "voornaam": "",
+    "voornaam": "Simone",
     "achternaam": "Kerseboom",
     "voorletters": "S.",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 48,
@@ -22521,6 +22654,12 @@
         "woonplaats": "Maastricht",
         "partij_naam": "Forum voor Democratie"
       }
+    },
+    "urls": {
+      "partijwebsite": "https://Forum voor Democratie.nl/auteurs/simone-kerseboom",
+      "LinkedIn": "https://www.linkedin.com/in/noveltranslations/?originalSubdomain=nl",
+      "Twitter": "https://twitter.com/SimoneKerseboom",
+      "Instagram": "https://www.instagram.com/simone_kerseboom/"
     }
   },
   {
@@ -22530,7 +22669,7 @@
     "voornaam": "Paul",
     "achternaam": "Cliteur",
     "voorletters": "P.B.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 49,
@@ -23074,7 +23213,7 @@
     "voornaam": "Anna",
     "achternaam": "Krijger",
     "voorletters": "A.L.",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 8,
@@ -23114,7 +23253,10 @@
     "urls": {
       "partijwebsite": "https://www.partijvoordedieren.nl/kandidatenlijst-tk23#8.-anna-krijger",
       "wikidata": "http://www.wikidata.org/entity/Q123173939",
-      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamer-2023/partijen/pvdd/anna-krijger/"
+      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamer-2023/partijen/pvdd/anna-krijger/",
+      "LinkedIn": "https://www.linkedin.com/in/anna-krijger-10b53b211/",
+      "Twitter": "https://twitter.com/AnnaKrijger",
+      "Instagram": "https://www.instagram.com/anna.krijger/"
     },
     "rainbowvote": true
   },
@@ -23202,7 +23344,7 @@
     "voornaam": "Pieter",
     "achternaam": "Groenewege",
     "voorletters": "P.J.L.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 10,
@@ -23251,7 +23393,7 @@
     "voornaam": "Maarten",
     "achternaam": "van Heuven",
     "voorletters": "M.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 11,
@@ -23302,7 +23444,7 @@
     "voornaam": "Falco",
     "achternaam": "van Hassel",
     "voorletters": "F.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 12,
@@ -23353,7 +23495,7 @@
     "voornaam": "Rosalie",
     "achternaam": "Bunnik",
     "voorletters": "R.J.",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 13,
@@ -23392,7 +23534,11 @@
     },
     "urls": {
       "partijwebsite": "https://www.partijvoordedieren.nl/kandidatenlijst-tk23#13.-rosalie-bunnik",
-      "wikidata": "http://www.wikidata.org/entity/Q123176108"
+      "wikidata": "http://www.wikidata.org/entity/Q123176108",
+      "LinkedIn": "https://www.linkedin.com/in/rosaliebunnik/?originalSubdomain=nl",
+      "Twitter": "https://twitter.com/RosalieJulia91",
+      "Instagram": "https://www.instagram.com/rosalie_bunnik/",
+      "Facebook": "https://www.facebook.com/RosalieBunnik"
     }
   },
   {
@@ -23402,7 +23548,7 @@
     "voornaam": "Hanneke",
     "achternaam": "Schmeets",
     "voorletters": "H.H.J.",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 14,
@@ -23441,7 +23587,9 @@
     },
     "urls": {
       "partijwebsite": "https://www.partijvoordedieren.nl/kandidatenlijst-tk23#14.-hanneke-schmeets",
-      "wikidata": "http://www.wikidata.org/entity/Q117233448"
+      "wikidata": "http://www.wikidata.org/entity/Q117233448",
+      "LinkedIn": "https://www.linkedin.com/in/hannekeschmeets/",
+      "Twitter": "https://twitter.com/HSchmeets"
     },
     "geboortedatum": "+1977-11-20T00:00:00Z"
   },
@@ -23452,7 +23600,7 @@
     "voornaam": "Kıvılcım",
     "achternaam": "Pınar",
     "voorletters": "K.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 15,
@@ -23558,7 +23706,7 @@
     "voornaam": "Janette",
     "achternaam": "Bosma",
     "voorletters": "J.",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 17,
@@ -23598,7 +23746,11 @@
     "urls": {
       "partijwebsite": "https://www.partijvoordedieren.nl/kandidatenlijst-tk23#17.-janette-bosma",
       "wikidata": "http://www.wikidata.org/entity/Q123176110",
-      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamer-2023/partijen/pvdd/janette-bosma/"
+      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamer-2023/partijen/pvdd/janette-bosma/",
+      "LinkedIn": "https://www.linkedin.com/in/janette-bosma-88b890108/",
+      "Twitter": "https://twitter.com/JanetteBosma",
+      "Instagram": "https://www.instagram.com/janettebosma/",
+      "Facebook": "https://www.facebook.com/janette.bosma.3"
     },
     "rainbowvote": true
   },
@@ -23609,7 +23761,7 @@
     "voornaam": "Robert",
     "achternaam": "Barker",
     "voorletters": "R.N.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 18,
@@ -23685,7 +23837,7 @@
     "voornaam": "Kjell",
     "achternaam": "van Wijlandt",
     "voorletters": "K.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 19,
@@ -23734,7 +23886,7 @@
     "voornaam": "Jesseka",
     "achternaam": "Batteau",
     "voorletters": "J.M.",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 20,
@@ -23773,7 +23925,11 @@
     },
     "urls": {
       "partijwebsite": "https://www.partijvoordedieren.nl/kandidatenlijst-tk23#20.-jesseka-batteau",
-      "wikidata": "http://www.wikidata.org/entity/Q123176113"
+      "wikidata": "http://www.wikidata.org/entity/Q123176113",
+      "LinkedIn": "https://www.linkedin.com/in/jesseka-batteau-99a1052/",
+      "Twitter": "https://twitter.com/jesseka_batteau",
+      "Instagram": "https://www.instagram.com/jessekabatteau/",
+      "Facebook": "https://www.facebook.com/jesseka.batteau"
     }
   },
   {
@@ -23783,7 +23939,7 @@
     "voornaam": "Jaap",
     "achternaam": "Hollebeek",
     "voorletters": "J.P.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 21,
@@ -23859,7 +24015,7 @@
     "voornaam": "Iris",
     "achternaam": "Dicke",
     "voorletters": "I.M.",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 22,
@@ -23899,7 +24055,8 @@
     "urls": {
       "partijwebsite": "https://www.partijvoordedieren.nl/kandidatenlijst-tk23#22.-iris-dicke",
       "wikidata": "http://www.wikidata.org/entity/Q123176115",
-      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamer-2023/partijen/pvdd/iris-dicke-2023/"
+      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamer-2023/partijen/pvdd/iris-dicke-2023/",
+      "LinkedIn": "https://www.linkedin.com/in/idicke/"
     },
     "rainbowvote": true
   },
@@ -23910,7 +24067,7 @@
     "voornaam": "Bart",
     "achternaam": "Salemans",
     "voorletters": "B.R.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 23,
@@ -23961,7 +24118,7 @@
     "voornaam": "Freek",
     "achternaam": "Bersch",
     "voorletters": "F.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 24,
@@ -24012,7 +24169,7 @@
     "voornaam": "Frank",
     "achternaam": "de Gram",
     "voorletters": "F.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 25,
@@ -24063,7 +24220,7 @@
     "voornaam": "Lotte",
     "achternaam": "Krediet",
     "voorletters": "L.",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 26,
@@ -24102,7 +24259,10 @@
     },
     "urls": {
       "partijwebsite": "https://www.partijvoordedieren.nl/kandidatenlijst-tk23#26.-lotte-krediet",
-      "wikidata": "http://www.wikidata.org/entity/Q123176119"
+      "wikidata": "http://www.wikidata.org/entity/Q123176119",
+      "LinkedIn": "https://www.linkedin.com/in/lotte-krediet-b0857661/?originalSubdomain=nl",
+      "Twitter": "https://twitter.com/LotteKrediet",
+      "Instagram": "https://www.instagram.com/lotte.krediet/"
     }
   },
   {
@@ -24112,7 +24272,7 @@
     "voornaam": "Dave",
     "achternaam": "de Vos",
     "voorletters": "D.J.C.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 27,
@@ -24163,7 +24323,7 @@
     "voornaam": "Myra",
     "achternaam": "van der Velde",
     "voorletters": "M.C.",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 28,
@@ -24203,7 +24363,11 @@
     "urls": {
       "partijwebsite": "https://www.partijvoordedieren.nl/kandidatenlijst-tk23#28.-myra-van-der-velde",
       "wikidata": "http://www.wikidata.org/entity/Q123176121",
-      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamer-2023/partijen/pvdd/myra-van-der-velde/"
+      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamer-2023/partijen/pvdd/myra-van-der-velde/",
+      "LinkedIn": "https://www.linkedin.com/in/myra-van-der-velde/",
+      "Twitter": "https://twitter.com/Myravandervelde",
+      "Instagram": "https://www.instagram.com/myravdvelde/",
+      "Facebook": "https://www.facebook.com/myravdvelde"
     },
     "rainbowvote": true
   },
@@ -24265,7 +24429,7 @@
     "voornaam": "Leonie",
     "achternaam": "Gerritsen",
     "voorletters": "L.",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 30,
@@ -24332,7 +24496,11 @@
     "urls": {
       "partijwebsite": "https://www.partijvoordedieren.nl/kandidatenlijst-tk23#30.-leonie-gerritsen",
       "wikidata": "http://www.wikidata.org/entity/Q123176122",
-      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamer-2023/partijen/pvdd/leonie-gerritsen/"
+      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamer-2023/partijen/pvdd/leonie-gerritsen/",
+      "LinkedIn": "https://www.linkedin.com/in/leonie-gerritsen/",
+      "Twitter": "https://twitter.com/L_Gerritsen",
+      "Instagram": "https://www.instagram.com/leoniegerritsen_Partij voor de Dieren/",
+      "Facebook": "https://www.facebook.com/LeonieG47"
     },
     "rainbowvote": true
   },
@@ -24343,7 +24511,7 @@
     "voornaam": "Marjolijn",
     "achternaam": "Veenstra",
     "voorletters": "M.",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 31,
@@ -24409,7 +24577,11 @@
     },
     "urls": {
       "partijwebsite": "https://www.partijvoordedieren.nl/kandidatenlijst-tk23#31.-marjolijn-veenstra",
-      "wikidata": "http://www.wikidata.org/entity/Q123176123"
+      "wikidata": "http://www.wikidata.org/entity/Q123176123",
+      "LinkedIn": "https://www.linkedin.com/in/marjolijn-veenstra-0307904/",
+      "Twitter": "https://twitter.com/MarjolijnVeens2",
+      "Instagram": "https://www.instagram.com/marjolijn_veenstra_Partij voor de Dieren/",
+      "Facebook": "https://www.facebook.com/marjolijnveenstra"
     }
   },
   {
@@ -24419,7 +24591,7 @@
     "voornaam": "Anne-Miep",
     "achternaam": "Vlasveld",
     "voorletters": "A.I.",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 32,
@@ -24458,7 +24630,9 @@
     },
     "urls": {
       "partijwebsite": "https://www.partijvoordedieren.nl/kandidatenlijst-tk23#32.-anne-miep-vlasveld",
-      "wikidata": "http://www.wikidata.org/entity/nan"
+      "wikidata": "http://www.wikidata.org/entity/nan",
+      "Twitter": "https://twitter.com/Partij voor de Dieren_annemiep",
+      "Instagram": "https://www.instagram.com/Partij voor de Dieren.annemiep.vlasveld/"
     }
   },
   {
@@ -24547,7 +24721,7 @@
     "voornaam": "Pinar",
     "achternaam": "Coşkun",
     "voorletters": "Z.P.",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 34,
@@ -24586,7 +24760,9 @@
     },
     "urls": {
       "partijwebsite": "https://www.partijvoordedieren.nl/kandidatenlijst-tk23#34.-pinar-coşkun",
-      "wikidata": "http://www.wikidata.org/entity/Q123176125"
+      "wikidata": "http://www.wikidata.org/entity/Q123176125",
+      "LinkedIn": "https://www.linkedin.com/in/pinar-coskun-89abb612/",
+      "Instagram": "https://www.instagram.com/pinarvoordedieren/"
     }
   },
   {
@@ -24596,7 +24772,7 @@
     "voornaam": "Lester",
     "achternaam": "van der Pluijm",
     "voorletters": "L.C.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 35,
@@ -24645,7 +24821,7 @@
     "voornaam": "Siska",
     "achternaam": "Peeks",
     "voorletters": "S.J.",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 36,
@@ -24711,7 +24887,9 @@
     },
     "urls": {
       "partijwebsite": "https://www.partijvoordedieren.nl/kandidatenlijst-tk23#36.-siska-peeks",
-      "wikidata": "http://www.wikidata.org/entity/Q123176127"
+      "wikidata": "http://www.wikidata.org/entity/Q123176127",
+      "LinkedIn": "https://www.linkedin.com/in/siska-peeks-b1b54320a/",
+      "Twitter": "https://twitter.com/Partij voor de DierenSiska"
     }
   },
   {
@@ -24799,7 +24977,7 @@
     "voornaam": "Wesley",
     "achternaam": "Pechler",
     "voorletters": "W.I.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 38,
@@ -24879,7 +25057,7 @@
     "voornaam": "Janneke",
     "achternaam": "van Lierop",
     "voorletters": "J.",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 39,
@@ -24918,7 +25096,9 @@
     },
     "urls": {
       "partijwebsite": "https://www.partijvoordedieren.nl/kandidatenlijst-tk23#39.-janneke-van-lierop",
-      "wikidata": "http://www.wikidata.org/entity/Q123176130"
+      "wikidata": "http://www.wikidata.org/entity/Q123176130",
+      "LinkedIn": "https://www.linkedin.com/in/janneke-van-lierop-a0206446/",
+      "Instagram": "https://www.instagram.com/janneke.vanlierop/"
     }
   },
   {
@@ -24928,7 +25108,7 @@
     "voornaam": "Vivianne",
     "achternaam": "Spruit",
     "voorletters": "V.",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 40,
@@ -24967,7 +25147,10 @@
     },
     "urls": {
       "partijwebsite": "https://www.partijvoordedieren.nl/kandidatenlijst-tk23#40.-vivianne-spruit",
-      "wikidata": "http://www.wikidata.org/entity/Q123176131"
+      "wikidata": "http://www.wikidata.org/entity/Q123176131",
+      "LinkedIn": "https://www.linkedin.com/in/vivianne-spruit-32a16b69/",
+      "Twitter": "https://twitter.com/Viviannespruit",
+      "Instagram": "https://www.facebook.com/vivianne.spruit"
     }
   },
   {
@@ -24977,7 +25160,7 @@
     "voornaam": "Bart",
     "achternaam": "Kuijer",
     "voorletters": "B.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 41,
@@ -25055,7 +25238,7 @@
     "voornaam": "Gaby",
     "achternaam": "Markandu",
     "voorletters": "G.",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 42,
@@ -25094,7 +25277,10 @@
     },
     "urls": {
       "partijwebsite": "https://www.partijvoordedieren.nl/kandidatenlijst-tk23#42.-gaby-markandu",
-      "wikidata": "http://www.wikidata.org/entity/Q123176133"
+      "wikidata": "http://www.wikidata.org/entity/Q123176133",
+      "LinkedIn": "https://www.linkedin.com/in/gaby-markandu-98071a200/?originalSubdomain=nl",
+      "Twitter": "https://twitter.com/GabyMarkandu",
+      "Instagram": "https://www.instagram.com/gabymarkandu/"
     }
   },
   {
@@ -25104,7 +25290,7 @@
     "voornaam": "Joeri",
     "achternaam": "Oudshoorn",
     "voorletters": "J.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 43,
@@ -25153,7 +25339,7 @@
     "voornaam": "Radjan",
     "achternaam": "Hanoeman",
     "voorletters": "R.R.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 44,
@@ -25202,7 +25388,7 @@
     "voornaam": "Eileen",
     "achternaam": "Samshuijzen",
     "voorletters": "E.",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 45,
@@ -25241,7 +25427,11 @@
     },
     "urls": {
       "partijwebsite": "https://www.partijvoordedieren.nl/kandidatenlijst-tk23#45.-eileen-samshuijzen",
-      "wikidata": "http://www.wikidata.org/entity/Q123176136"
+      "wikidata": "http://www.wikidata.org/entity/Q123176136",
+      "LinkedIn": "https://www.linkedin.com/in/eileensamshuijzen/",
+      "Twitter": "https://twitter.com/e_samshuijzen",
+      "Instagram": "https://www.instagram.com/eileensamshuijzen/",
+      "Facebook": "https://www.facebook.com/eileen.samshuijzen"
     }
   },
   {
@@ -25251,7 +25441,7 @@
     "voornaam": "Menno",
     "achternaam": "Brouwer",
     "voorletters": "M.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 46,
@@ -25300,7 +25490,7 @@
     "voornaam": "Suzanne",
     "achternaam": "Onderdelinden",
     "voorletters": "S.E.",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 47,
@@ -25367,7 +25557,9 @@
     "urls": {
       "partijwebsite": "https://www.partijvoordedieren.nl/kandidatenlijst-tk23#47.-suzanne-onderdelinden",
       "wikidata": "http://www.wikidata.org/entity/Q123176138",
-      "Vind de bèta op de lijst": "https://vinddebetaopdelijst.nl/PvdD?person=suzanneonderdelinden"
+      "Vind de bèta op de lijst": "https://vinddebetaopdelijst.nl/PvdD?person=suzanneonderdelinden",
+      "LinkedIn": "https://www.linkedin.com/in/sonderdelinden/",
+      "Twitter": "https://twitter.com/Suzanne_Odl"
     },
     "vinddebeta": true
   },
@@ -25378,7 +25570,7 @@
     "voornaam": "Jaap",
     "achternaam": "Rozema",
     "voorletters": "J.G.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 48,
@@ -25454,7 +25646,7 @@
     "voornaam": "Sabrina",
     "achternaam": "van de Peppel",
     "voorletters": "S.",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 49,
@@ -25493,7 +25685,10 @@
     },
     "urls": {
       "partijwebsite": "https://www.partijvoordedieren.nl/kandidatenlijst-tk23#49.-sabrina-van-de-peppel",
-      "wikidata": "http://www.wikidata.org/entity/Q123176140"
+      "wikidata": "http://www.wikidata.org/entity/Q123176140",
+      "LinkedIn": "https://www.linkedin.com/in/sabrina-van-de-peppel-455a26163/",
+      "Twitter": "https://twitter.com/oedeswijsheid",
+      "Instagram": "https://www.instagram.com/sabrina_van_de_peppel/"
     }
   },
   {
@@ -25543,7 +25738,11 @@
     "urls": {
       "partijwebsite": "https://www.partijvoordedieren.nl/kandidatenlijst-tk23#50.-xenia-minnaert",
       "wikidata": "http://www.wikidata.org/entity/Q112155792",
-      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamer-2023/partijen/pvdd/xenia-minnaert-2023/"
+      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamer-2023/partijen/pvdd/xenia-minnaert-2023/",
+      "LinkedIn": "https://www.linkedin.com/in/xenia-minnaert/",
+      "Twitter": "https://twitter.com/XMinnaert",
+      "Instagram": "https://www.instagram.com/xeniaminnaert/",
+      "Facebook": "https://www.facebook.com/xenia.minnaert"
     },
     "rainbowvote": true
   },
@@ -28686,7 +28885,7 @@
     "voornaam": "Imane",
     "achternaam": "Elfilali",
     "voorletters": "I.",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 4,
@@ -28725,7 +28924,11 @@
     },
     "urls": {
       "partijwebsite": "https://voltnederland.org/mensen/imane-elfilali-tk2023",
-      "wikidata": "http://www.wikidata.org/entity/Q123176169"
+      "wikidata": "http://www.wikidata.org/entity/Q123176169",
+      "LinkedIn": "https://www.linkedin.com/in/imanee/?originalSubdomain=nl",
+      "Twitter": "https://twitter.com/imane_elfilali?lang=en",
+      "Instagram": "https://www.instagram.com/imane.Elfilali.volt/",
+      "Facebook": "https://nl-nl.facebook.com/Imane.elfilali.volt/"
     }
   },
   {
@@ -28735,7 +28938,7 @@
     "voornaam": "Martijn",
     "achternaam": "Hagoort",
     "voorletters": "M.B.J.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 5,
@@ -28784,7 +28987,7 @@
     "voornaam": "Romy",
     "achternaam": "Frijters",
     "voorletters": "R.M.J.",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 6,
@@ -28823,7 +29026,10 @@
     },
     "urls": {
       "partijwebsite": "https://voltnederland.org/mensen/romy-frijters-tk2023",
-      "wikidata": "http://www.wikidata.org/entity/Q123176170"
+      "wikidata": "http://www.wikidata.org/entity/Q123176170",
+      "LinkedIn": "https://www.linkedin.com/in/romy-frijters/?locale=en_US",
+      "Instagram": "https://www.instagram.com/romy.frijters/",
+      "Facebook": "https://www.facebook.com/romy.frijters/"
     }
   },
   {
@@ -28833,7 +29039,7 @@
     "voornaam": "Rens",
     "achternaam": "de Boer",
     "voorletters": "R.W.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 7,
@@ -28882,7 +29088,7 @@
     "voornaam": "Sanne",
     "achternaam": "van der Lugt",
     "voorletters": "S.",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 8,
@@ -28921,7 +29127,8 @@
     },
     "urls": {
       "partijwebsite": "https://voltnederland.org/mensen/sanne-van-der-lugt-tk2023",
-      "wikidata": "http://www.wikidata.org/entity/Q123176172"
+      "wikidata": "http://www.wikidata.org/entity/Q123176172",
+      "LinkedIn": "https://www.linkedin.com/in/sannevdlugt/?originalSubdomain=nl"
     }
   },
   {
@@ -28931,7 +29138,7 @@
     "voornaam": "Bjorn",
     "achternaam": "Beijnon",
     "voorletters": "B.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 9,
@@ -28982,7 +29189,7 @@
     "voornaam": "Robin",
     "achternaam": "Twickler",
     "voorletters": "R.",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 10,
@@ -29022,7 +29229,10 @@
     "urls": {
       "partijwebsite": "https://voltnederland.org/mensen/robin-twickler-tk2023",
       "wikidata": "http://www.wikidata.org/entity/Q123176174",
-      "Vind de bèta op de lijst": "https://vinddebetaopdelijst.nl/Volt?person=robintwickler"
+      "Vind de bèta op de lijst": "https://vinddebetaopdelijst.nl/Volt?person=robintwickler",
+      "LinkedIn": "https://www.linkedin.com/in/robin-twickler/?locale=en_US",
+      "Twitter": "https://twitter.com/RobinTwickler",
+      "Instagram": "https://www.instagram.com/robintwickler/?hl=en"
     },
     "vinddebeta": true
   },
@@ -29033,7 +29243,7 @@
     "voornaam": "Cankut",
     "achternaam": "Ercan",
     "voorletters": "C.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 11,
@@ -29082,7 +29292,7 @@
     "voornaam": "Julia",
     "achternaam": "Hamel",
     "voorletters": "J.E.R.",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 12,
@@ -29121,7 +29331,9 @@
     },
     "urls": {
       "partijwebsite": "https://voltnederland.org/mensen/julia-hamel-tk2023",
-      "wikidata": "http://www.wikidata.org/entity/Q123176176"
+      "wikidata": "http://www.wikidata.org/entity/Q123176176",
+      "LinkedIn": "https://www.linkedin.com/in/julia-hamel-890a4215/?originalSubdomain=nl",
+      "Twitter": "https://twitter.com/juulnl"
     }
   },
   {
@@ -29131,7 +29343,7 @@
     "voornaam": "Willem",
     "achternaam": "van Ewijk",
     "voorletters": "W.H.E.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 13,
@@ -29231,7 +29443,7 @@
     "voornaam": "Michael",
     "achternaam": "Tai",
     "voorletters": "M.T.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 15,
@@ -29280,7 +29492,7 @@
     "voornaam": "Valérie",
     "achternaam": "Pajak",
     "voorletters": "V.L.",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 16,
@@ -29321,7 +29533,10 @@
       "partijwebsite": "https://voltnederland.org/mensen/valerie-pajak-tk2023",
       "wikidata": "http://www.wikidata.org/entity/Q123176179",
       "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamer-2023/partijen/volt/valerie-pajak/",
-      "Vind de bèta op de lijst": "https://vinddebetaopdelijst.nl/Volt?person=valériepajak"
+      "Vind de bèta op de lijst": "https://vinddebetaopdelijst.nl/Volt?person=valériepajak",
+      "LinkedIn": "https://www.linkedin.com/in/valerie-pajak/?originalSubdomain=nl",
+      "Instagram": "https://www.instagram.com/valeriekyree/?hl=en",
+      "Facebook": "https://www.facebook.com/valerieekyree"
     },
     "rainbowvote": true,
     "vinddebeta": true
@@ -29409,7 +29624,7 @@
     "voornaam": "Eveline",
     "achternaam": "Verbeek",
     "voorletters": "E.L.I.",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 18,
@@ -29448,7 +29663,9 @@
     },
     "urls": {
       "partijwebsite": "https://voltnederland.org/mensen/eveline-verbeek-tk2023",
-      "wikidata": "http://www.wikidata.org/entity/Q123176180"
+      "wikidata": "http://www.wikidata.org/entity/Q123176180",
+      "LinkedIn": "https://www.linkedin.com/in/eveline-verbeek/?originalSubdomain=nl",
+      "Instagram": "https://www.instagram.com/evelineverbeek/?hl=en"
     }
   },
   {
@@ -29509,7 +29726,7 @@
     "voornaam": "Dianne",
     "achternaam": "Elsinga",
     "voorletters": "D.",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 20,
@@ -29548,7 +29765,8 @@
     },
     "urls": {
       "partijwebsite": "https://voltnederland.org/mensen/dianne-elsinga-tk2023",
-      "wikidata": "http://www.wikidata.org/entity/Q123176181"
+      "wikidata": "http://www.wikidata.org/entity/Q123176181",
+      "LinkedIn": "https://www.linkedin.com/in/dianneelsinga/?originalSubdomain=nl"
     }
   },
   {
@@ -29558,7 +29776,7 @@
     "voornaam": "Sjoerd",
     "achternaam": "Dreteler",
     "voorletters": "S.J.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 21,
@@ -31824,7 +32042,7 @@
     "voornaam": "Nathanaël",
     "achternaam": "Middelkoop",
     "voorletters": "P.N.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 4,
@@ -31899,7 +32117,7 @@
     "voornaam": "Wouter-Jan",
     "achternaam": "Vroegindeweij",
     "voorletters": "W.J.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 5,
@@ -31993,7 +32211,7 @@
     "voornaam": "Henk",
     "achternaam": "van der Wind",
     "voorletters": "H.J.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 7,
@@ -32041,7 +32259,7 @@
     "voornaam": "Dick",
     "achternaam": "Both",
     "voorletters": "D.D.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 8,
@@ -32116,7 +32334,7 @@
     "voornaam": "Jan",
     "achternaam": "Kloosterman",
     "voorletters": "J.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 9,
@@ -32191,7 +32409,7 @@
     "voornaam": "Rody",
     "achternaam": "van Heijst",
     "voorletters": "R.C.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 10,
@@ -32239,7 +32457,7 @@
     "voornaam": "Adriaan",
     "achternaam": "van der Wulp",
     "voorletters": "A.D.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 11,
@@ -32287,7 +32505,7 @@
     "voornaam": "Harm",
     "achternaam": "Polinder",
     "voorletters": "H.J.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 12,
@@ -32332,7 +32550,7 @@
     "voornaam": "Maarten",
     "achternaam": "Slingerland",
     "voorletters": "M.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 13,
@@ -32407,7 +32625,7 @@
     "voornaam": "Wim",
     "achternaam": "van Duijn",
     "voorletters": "W.J.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 14,
@@ -32455,7 +32673,7 @@
     "voornaam": "Leo",
     "achternaam": "Barth",
     "voorletters": "L.G.I.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 15,
@@ -32503,7 +32721,7 @@
     "voornaam": "Johnny",
     "achternaam": "Lukasse",
     "voorletters": "J.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 16,
@@ -32654,7 +32872,7 @@
     "voornaam": "Ewart",
     "achternaam": "Bosma",
     "voorletters": "E.G.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 18,
@@ -32729,7 +32947,7 @@
     "voornaam": "Geert",
     "achternaam": "Schipaanboord",
     "voorletters": "G.P.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 19,
@@ -32804,7 +33022,7 @@
     "voornaam": "Joost",
     "achternaam": "Veldman",
     "voorletters": "J.D.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 20,
@@ -32879,7 +33097,7 @@
     "voornaam": "Jan",
     "achternaam": "Hartog",
     "voorletters": "J.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 21,
@@ -32927,7 +33145,7 @@
     "voornaam": "Tom",
     "achternaam": "Koekoek",
     "voorletters": "J.T.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 22,
@@ -32975,7 +33193,7 @@
     "voornaam": "Leendert",
     "achternaam": "de Knegt",
     "voorletters": "L.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 23,
@@ -33025,7 +33243,7 @@
     "voornaam": "Gert",
     "achternaam": "van Leeuwen",
     "voorletters": "G.R.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 24,
@@ -33073,7 +33291,7 @@
     "voornaam": "Tom",
     "achternaam": "Bakker",
     "voorletters": "T.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 25,
@@ -33148,7 +33366,7 @@
     "voornaam": "Wim",
     "achternaam": "Kok",
     "voorletters": "W.H.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 26,
@@ -33223,7 +33441,7 @@
     "voornaam": "Steven",
     "achternaam": "van Westreenen",
     "voorletters": "S.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 27,
@@ -33271,7 +33489,7 @@
     "voornaam": "Peter",
     "achternaam": "Noordergraaf",
     "voorletters": "P.T.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 28,
@@ -33346,7 +33564,7 @@
     "voornaam": "Ardjan",
     "achternaam": "Boersma",
     "voorletters": "A.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 29,
@@ -33421,7 +33639,7 @@
     "voornaam": "Lubbert",
     "achternaam": "Talen",
     "voorletters": "L.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 30,
@@ -33469,7 +33687,7 @@
     "voornaam": "Rick",
     "achternaam": "van de Waerdt",
     "voorletters": "C.J.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 31,
@@ -33517,7 +33735,7 @@
     "voornaam": "Henk",
     "achternaam": "Bulten",
     "voorletters": "H.G.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 32,
@@ -33594,7 +33812,7 @@
     "voornaam": "Arnold",
     "achternaam": "Versteeg",
     "voorletters": "A.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 33,
@@ -33671,7 +33889,7 @@
     "voornaam": "Lambert",
     "achternaam": "Kisteman",
     "voorletters": "L.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 34,
@@ -33746,7 +33964,7 @@
     "voornaam": "Lourens",
     "achternaam": "van Bruchem",
     "voorletters": "L.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 35,
@@ -33794,7 +34012,7 @@
     "voornaam": "Bertrick",
     "achternaam": "van den Dikkenberg",
     "voorletters": "L.C.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 36,
@@ -33842,7 +34060,7 @@
     "voornaam": "Hendrik",
     "achternaam": "Herweijer",
     "voorletters": "H.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 37,
@@ -33890,7 +34108,7 @@
     "voornaam": "Gert",
     "achternaam": "van Laar",
     "voorletters": "G.J.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 38,
@@ -33938,7 +34156,7 @@
     "voornaam": "André",
     "achternaam": "Scheppink",
     "voorletters": "A.J.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 39,
@@ -33986,7 +34204,7 @@
     "voornaam": "Ruben",
     "achternaam": "van Heteren",
     "voorletters": "R.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 40,
@@ -34034,7 +34252,7 @@
     "voornaam": "Bernard",
     "achternaam": "van den Belt",
     "voorletters": "B.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 41,
@@ -34082,7 +34300,7 @@
     "voornaam": "Daniël",
     "achternaam": "van Iwaarden",
     "voorletters": "D.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 42,
@@ -34130,7 +34348,7 @@
     "voornaam": "Leendert",
     "achternaam": "van Tuijl",
     "voorletters": "L.O.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 43,
@@ -34178,7 +34396,7 @@
     "voornaam": "Arnoud",
     "achternaam": "Proos",
     "voorletters": "A.J.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 44,
@@ -38192,7 +38410,7 @@
     "voornaam": "Cor",
     "achternaam": "Pierik",
     "voorletters": "C.R.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 6,
@@ -38241,7 +38459,7 @@
     "voornaam": "Claudia",
     "achternaam": "van Zanten",
     "voorletters": "C.R.",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 7,
@@ -38280,7 +38498,10 @@
     },
     "urls": {
       "partijwebsite": "https://boerburgerbeweging.nl/kandidaten/claudia-van-zanten/",
-      "wikidata": "http://www.wikidata.org/entity/Q123176329"
+      "wikidata": "http://www.wikidata.org/entity/Q123176329",
+      "LinkedIn": "https://www.linkedin.com/in/claudiavanzanten1/",
+      "Twitter": "https://twitter.com/claudiavz",
+      "Instagram": "https://www.instagram.com/vanzanten.claudia/"
     }
   },
   {
@@ -38290,7 +38511,7 @@
     "voornaam": "Jean",
     "achternaam": "Rummenie",
     "voorletters": "J.F.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 8,
@@ -38419,7 +38640,7 @@
     "voornaam": "Mariska",
     "achternaam": "Rikkers-Oosterkamp",
     "voorletters": "M.G.F.",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 10,
@@ -38458,7 +38679,10 @@
     },
     "urls": {
       "partijwebsite": "https://boerburgerbeweging.nl/kandidaten/mariska-rikkers/",
-      "wikidata": "http://www.wikidata.org/entity/Q122169462"
+      "wikidata": "http://www.wikidata.org/entity/Q122169462",
+      "LinkedIn": "https://www.linkedin.com/in/mariska-rikkers-oosterkamp-941004143/",
+      "Twitter": "https://twitter.com/MariskaRikkers",
+      "Facebook": "https://www.facebook.com/mariska.rikkers"
     }
   },
   {
@@ -38468,7 +38692,7 @@
     "voornaam": "Marieke",
     "achternaam": "Wijen-Nass",
     "voorletters": "M.J.M.H.",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 11,
@@ -38507,7 +38731,9 @@
     },
     "urls": {
       "partijwebsite": "https://boerburgerbeweging.nl/kandidaten/marieke-wijen/",
-      "wikidata": "http://www.wikidata.org/entity/Q122931964"
+      "wikidata": "http://www.wikidata.org/entity/Q122931964",
+      "LinkedIn": "https://www.linkedin.com/in/mariekenass/",
+      "Twitter": "https://twitter.com/WijenNass"
     }
   },
   {
@@ -38517,7 +38743,7 @@
     "voornaam": "Martin",
     "achternaam": "Oostenbrink",
     "voorletters": "M.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 12,
@@ -38566,7 +38792,7 @@
     "voornaam": "Jasper",
     "achternaam": "Rekers",
     "voorletters": "J.D.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 13,
@@ -38715,7 +38941,7 @@
     "voornaam": "Laurens",
     "achternaam": "van Vliet",
     "voorletters": "L.R.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 16,
@@ -38764,7 +38990,7 @@
     "voornaam": "Herma",
     "achternaam": "Hemmen",
     "voorletters": "H.M.",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 17,
@@ -38811,7 +39037,11 @@
     },
     "urls": {
       "partijwebsite": "https://boerburgerbeweging.nl/kandidaten/herma-hemmen/",
-      "wikidata": "http://www.wikidata.org/entity/Q122169455"
+      "wikidata": "http://www.wikidata.org/entity/Q122169455",
+      "LinkedIn": "https://www.linkedin.com/in/hermahemmen/",
+      "Twitter": "https://twitter.com/HermaHemmen",
+      "Instagram": "https://www.instagram.com/herma.hemmen/",
+      "Facebook": "https://www.facebook.com/herma.hemmen"
     }
   },
   {
@@ -38874,7 +39104,7 @@
     "voornaam": "Saskia",
     "achternaam": "van der Meer",
     "voorletters": "S.",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 19,
@@ -38913,7 +39143,9 @@
     },
     "urls": {
       "partijwebsite": "https://boerburgerbeweging.nl/kandidaten/saskia-van-der-meer/",
-      "wikidata": "http://www.wikidata.org/entity/Q123176331"
+      "wikidata": "http://www.wikidata.org/entity/Q123176331",
+      "LinkedIn": "https://www.linkedin.com/in/saskiavandermeer/",
+      "Twitter": "https://twitter.com/SaskiaHartogh"
     }
   },
   {
@@ -38923,7 +39155,7 @@
     "voornaam": "Kitty",
     "achternaam": "Stoop",
     "voorletters": "C.J.",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 20,
@@ -38962,7 +39194,8 @@
     },
     "urls": {
       "partijwebsite": "https://boerburgerbeweging.nl/kandidaten/kitty-stoop/",
-      "wikidata": "http://www.wikidata.org/entity/Q123176332"
+      "wikidata": "http://www.wikidata.org/entity/Q123176332",
+      "LinkedIn": "https://www.linkedin.com/in/catharina-kitty-stoop-84462485/"
     }
   },
   {
@@ -38972,7 +39205,7 @@
     "voornaam": "Andrea",
     "achternaam": "van Veen",
     "voorletters": "A.",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 21,
@@ -39011,7 +39244,8 @@
     },
     "urls": {
       "partijwebsite": "https://boerburgerbeweging.nl/kandidaten/andrea-van-veen-van-de-berg-2/",
-      "wikidata": "http://www.wikidata.org/entity/Q123176333"
+      "wikidata": "http://www.wikidata.org/entity/Q123176333",
+      "Instagram": "https://www.instagram.com/andreavan_veen/"
     }
   },
   {
@@ -39021,7 +39255,7 @@
     "voornaam": "Jan-Sebastian",
     "achternaam": "van Lissum",
     "voorletters": "J.T.M.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 22,
@@ -39147,7 +39381,7 @@
     "voornaam": "Florian",
     "achternaam": "Huiskamp",
     "voorletters": "F.M.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 24,
@@ -39196,7 +39430,7 @@
     "voornaam": "Derk-Jan",
     "achternaam": "Eppink",
     "voorletters": "D.J.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 25,
@@ -39245,7 +39479,7 @@
     "voornaam": "Haidy",
     "achternaam": "Hankers",
     "voorletters": "H.F.",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 26,
@@ -39284,7 +39518,8 @@
     "urls": {
       "partijwebsite": "https://boerburgerbeweging.nl/kandidaten/haidy-hankers/",
       "wikidata": "http://www.wikidata.org/entity/Q123176336",
-      "Vind de bèta op de lijst": "https://vinddebetaopdelijst.nl/BBB?person=haidyhankers"
+      "Vind de bèta op de lijst": "https://vinddebetaopdelijst.nl/BBB?person=haidyhankers",
+      "LinkedIn": "https://www.linkedin.com/in/haidy-hankers-a89695107/"
     },
     "vinddebeta": true
   },
@@ -39295,7 +39530,7 @@
     "voornaam": "Nils",
     "achternaam": "Berghout",
     "voorletters": "N.C.G.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 27,
@@ -39344,7 +39579,7 @@
     "voornaam": "Gerlof",
     "achternaam": "Roubos",
     "voorletters": "G.L.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 28,
@@ -39395,7 +39630,7 @@
     "voornaam": "Jordy",
     "achternaam": "Evers",
     "voorletters": "G.J.A.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 29,
@@ -39444,7 +39679,7 @@
     "voornaam": "Marcel",
     "achternaam": "Sijbolts",
     "voorletters": "M.A.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 30,
@@ -39495,7 +39730,7 @@
     "voornaam": "Willem",
     "achternaam": "Poppe",
     "voorletters": "W.P.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 31,
@@ -39544,7 +39779,7 @@
     "voornaam": "Jan",
     "achternaam": "Swaag",
     "voorletters": "J.H.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 32,
@@ -39593,7 +39828,7 @@
     "voornaam": "Derk-Evert",
     "achternaam": "Waalkens",
     "voorletters": "D.E.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 33,
@@ -39644,7 +39879,7 @@
     "voornaam": "Ines",
     "achternaam": "de Ridder",
     "voorletters": "R.J.G.",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 34,
@@ -39683,7 +39918,9 @@
     },
     "urls": {
       "partijwebsite": "https://boerburgerbeweging.nl/kandidaten/ines-de-ridder/",
-      "wikidata": "http://www.wikidata.org/entity/Q123176346"
+      "wikidata": "http://www.wikidata.org/entity/Q123176346",
+      "LinkedIn": "https://www.linkedin.com/in/inesderidder/",
+      "Instagram": "https://www.instagram.com/inesderidder/"
     }
   },
   {
@@ -39693,7 +39930,7 @@
     "voornaam": "Wim",
     "achternaam": "Jaspers",
     "voorletters": "W.C.P.H.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 35,
@@ -39769,7 +40006,7 @@
     "voornaam": "Eric",
     "achternaam": "Floors",
     "voorletters": "G.W.C.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 36,
@@ -39818,7 +40055,7 @@
     "voornaam": "Joke",
     "achternaam": "Luitwieler-Bosma",
     "voorletters": "J.M.",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 37,
@@ -39857,7 +40094,9 @@
     },
     "urls": {
       "partijwebsite": "https://boerburgerbeweging.nl/kandidaten/joke-luitwieler-bosma/",
-      "wikidata": "http://www.wikidata.org/entity/Q123176348"
+      "wikidata": "http://www.wikidata.org/entity/Q123176348",
+      "LinkedIn": "https://www.linkedin.com/in/joke-luitwieler-4598b0b/",
+      "Facebook": "https://www.facebook.com/joke.luitwieler"
     }
   },
   {
@@ -39867,7 +40106,7 @@
     "voornaam": "Inge",
     "achternaam": "Rood",
     "voorletters": "I.",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 38,
@@ -39906,7 +40145,9 @@
     },
     "urls": {
       "partijwebsite": "https://boerburgerbeweging.nl/kandidaten/inge-rood/",
-      "wikidata": "http://www.wikidata.org/entity/Q123176349"
+      "wikidata": "http://www.wikidata.org/entity/Q123176349",
+      "LinkedIn": "https://www.linkedin.com/in/inge-rood-08517937/",
+      "Facebook": "https://www.facebook.com/inge.rood"
     }
   },
   {
@@ -39916,7 +40157,7 @@
     "voornaam": "Madelon",
     "achternaam": "van Noort",
     "voorletters": "M.",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 39,
@@ -39955,7 +40196,8 @@
     },
     "urls": {
       "partijwebsite": "https://boerburgerbeweging.nl/kandidaten/madelon-van-noort/",
-      "wikidata": "http://www.wikidata.org/entity/Q123176350"
+      "wikidata": "http://www.wikidata.org/entity/Q123176350",
+      "LinkedIn": "https://www.linkedin.com/in/madelon-van-noort-19b8221/"
     }
   },
   {
@@ -39965,7 +40207,7 @@
     "voornaam": "Koos",
     "achternaam": "Cromwijk",
     "voorletters": "J.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 40,
@@ -40014,7 +40256,7 @@
     "voornaam": "Jeroen",
     "achternaam": "van Wijk",
     "voorletters": "J.W.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 41,
@@ -40063,7 +40305,7 @@
     "voornaam": "Lianne",
     "achternaam": "Bos-Zandstra",
     "voorletters": "K.J.",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 42,
@@ -40112,7 +40354,7 @@
     "voornaam": "Nicole",
     "achternaam": "Egelmeers",
     "voorletters": "P.C.J.M.",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 43,
@@ -40151,7 +40393,8 @@
     },
     "urls": {
       "partijwebsite": "https://boerburgerbeweging.nl/kandidaten/nicole-egelmeers/",
-      "wikidata": "http://www.wikidata.org/entity/Q123176354"
+      "wikidata": "http://www.wikidata.org/entity/Q123176354",
+      "LinkedIn": "https://www.linkedin.com/in/nicole-egelmeers-81b476/"
     }
   },
   {
@@ -40161,7 +40404,7 @@
     "voornaam": "Ad",
     "achternaam": "Baltus",
     "voorletters": "A.W.M.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 44,
@@ -40236,7 +40479,7 @@
     "voornaam": "Petra",
     "achternaam": "van der Wereld-Verkerk",
     "voorletters": "P.C.",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 45,
@@ -40275,7 +40518,8 @@
     },
     "urls": {
       "partijwebsite": "https://boerburgerbeweging.nl/kandidaten/petra-van-der-wereld-verkerk/",
-      "wikidata": "http://www.wikidata.org/entity/Q123176356"
+      "wikidata": "http://www.wikidata.org/entity/Q123176356",
+      "Twitter": "https://twitter.com/petravdwereld"
     }
   },
   {
@@ -40285,7 +40529,7 @@
     "voornaam": "Loretta",
     "achternaam": "Schoone",
     "voorletters": "L.",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 46,
@@ -40324,7 +40568,8 @@
     },
     "urls": {
       "partijwebsite": "https://boerburgerbeweging.nl/kandidaten/loretta-schoone/",
-      "wikidata": "http://www.wikidata.org/entity/Q123176357"
+      "wikidata": "http://www.wikidata.org/entity/Q123176357",
+      "LinkedIn": "https://www.linkedin.com/in/loretta-schoone-b62b28261/"
     }
   },
   {
@@ -40334,7 +40579,7 @@
     "voornaam": "Jo",
     "achternaam": "Spätgens",
     "voorletters": "J.M.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 47,
@@ -40383,7 +40628,7 @@
     "voornaam": "Duncan",
     "achternaam": "Zeedzen",
     "voorletters": "D.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 48,
@@ -40538,7 +40783,7 @@
     "voornaam": "Lisa",
     "achternaam": "Mc Cray",
     "voorletters": "L.",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 2,
@@ -40577,7 +40822,10 @@
     },
     "urls": {
       "wikidata": "http://www.wikidata.org/entity/Q123176395",
-      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamer-2023/partijen/bij1/lisa-mccray/"
+      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamer-2023/partijen/bij1/lisa-mccray/",
+      "LinkedIn": "https://www.linkedin.com/in/lisa-mccray-10a29993/",
+      "Twitter": "https://twitter.com/LISAMCCRAYBIJ1",
+      "Instagram": "https://www.instagram.com/lisamccraybij1/"
     },
     "rainbowvote": true
   },
@@ -40636,7 +40884,7 @@
     "voornaam": "Grace",
     "achternaam": "Courtar",
     "voorletters": "G.O.",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 4,
@@ -40674,7 +40922,10 @@
       }
     },
     "urls": {
-      "wikidata": "http://www.wikidata.org/entity/Q123176396"
+      "wikidata": "http://www.wikidata.org/entity/Q123176396",
+      "LinkedIn": "https://www.linkedin.com/in/grace-courtar-646619b1/",
+      "Twitter": "https://twitter.com/GraceCourtar",
+      "Instagram": "https://www.instagram.com/grace_courtar/"
     }
   },
   {
@@ -40684,7 +40935,7 @@
     "voornaam": "Evita",
     "achternaam": "de Miranda",
     "voorletters": "E.N.",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 5,
@@ -40722,7 +40973,9 @@
       }
     },
     "urls": {
-      "wikidata": "http://www.wikidata.org/entity/Q123176397"
+      "wikidata": "http://www.wikidata.org/entity/Q123176397",
+      "LinkedIn": "https://www.linkedin.com/in/evita-de-miranda-71a966101/",
+      "Instagram": "https://www.instagram.com/mizevita/"
     }
   },
   {
@@ -40732,7 +40985,7 @@
     "voornaam": "Liyah",
     "achternaam": "Berend",
     "voorletters": "C.E.W.R.",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 6,
@@ -40771,7 +41024,10 @@
     },
     "rainbowvote": true,
     "urls": {
-      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamer-2023/partijen/bij1/liyah-park-2023/"
+      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamer-2023/partijen/bij1/liyah-park-2023/",
+      "LinkedIn": "https://www.linkedin.com/in/liyahpark/",
+      "Twitter": "https://twitter.com/LiyahPark6",
+      "Instagram": "https://www.instagram.com/six.north/"
     }
   },
   {
@@ -40859,7 +41115,7 @@
     "voornaam": "Yuval",
     "achternaam": "Gal",
     "voorletters": "Y.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 8,
@@ -40934,7 +41190,7 @@
     "voornaam": "Jesse",
     "achternaam": "ten Caat",
     "voorletters": "J.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 9,
@@ -41023,7 +41279,10 @@
     },
     "urls": {
       "wikidata": "http://www.wikidata.org/entity/Q123176401",
-      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamer-2023/partijen/bij1/joanna-zandee/"
+      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamer-2023/partijen/bij1/joanna-zandee/",
+      "LinkedIn": "https://www.linkedin.com/in/joana-zandee-415bb41b6/",
+      "Twitter": "https://twitter.com/transgendrlobby",
+      "Instagram": "https://www.instagram.com/wieisjoana/"
     },
     "rainbowvote": true
   },
@@ -41034,7 +41293,7 @@
     "voornaam": "Dylan",
     "achternaam": "Bakker",
     "voorletters": "D.L.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 11,
@@ -41079,7 +41338,7 @@
     "voornaam": "Renske",
     "achternaam": "Wienen",
     "voorletters": "R.D.",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 12,
@@ -41118,7 +41377,9 @@
     },
     "urls": {
       "wikidata": "http://www.wikidata.org/entity/Q123176403",
-      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamer-2023/partijen/bij1/renske-wienen-2023/"
+      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamer-2023/partijen/bij1/renske-wienen-2023/",
+      "LinkedIn": "https://www.linkedin.com/in/renske-wienen/",
+      "Instagram": "https://www.instagram.com/oproerkraaier_/"
     },
     "rainbowvote": true
   },
@@ -41168,7 +41429,8 @@
     },
     "rainbowvote": true,
     "urls": {
-      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamer-2023/partijen/bij1/venus-bijleveld/"
+      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamer-2023/partijen/bij1/venus-bijleveld/",
+      "Instagram": "https://www.instagram.com/iammamaqueen/"
     }
   },
   {
@@ -49647,7 +49909,7 @@
     "voornaam": "Tom",
     "achternaam": "van Lamoen",
     "voorletters": "T.J.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 1,
@@ -49694,7 +49956,7 @@
     "voornaam": "Bart",
     "achternaam": "Burggraaf",
     "voorletters": "B.W.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 2,
@@ -49741,7 +50003,7 @@
     "voornaam": "Pasqual",
     "achternaam": "Verhagen",
     "voorletters": "P.H.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 3,
@@ -49788,7 +50050,7 @@
     "voornaam": "Johan",
     "achternaam": "Zijlstra",
     "voorletters": "J.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 4,
@@ -49835,7 +50097,7 @@
     "voornaam": "Jip",
     "achternaam": "Meijer",
     "voorletters": "T.D.J.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 5,
@@ -49909,7 +50171,7 @@
     "voornaam": "Tom",
     "achternaam": "Huijs",
     "voorletters": "T.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 6,
@@ -50030,7 +50292,7 @@
     "voornaam": "Lex",
     "achternaam": "Loman",
     "voorletters": "W.P.J.A.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 8,
@@ -50077,7 +50339,7 @@
     "voornaam": "Gerard",
     "achternaam": "van den Brink",
     "voorletters": "G.D.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 9,
@@ -50272,7 +50534,7 @@
     "voornaam": "Klaas",
     "achternaam": "Wassenaar",
     "voorletters": "K.J.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 12,
@@ -50319,7 +50581,7 @@
     "voornaam": "Martijn",
     "achternaam": "Noortman",
     "voorletters": "M.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 13,
@@ -50366,7 +50628,7 @@
     "voornaam": "Pieter",
     "achternaam": "Visser",
     "voorletters": "P.R.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 14,
@@ -50413,7 +50675,7 @@
     "voornaam": "Rody",
     "achternaam": "Mens",
     "voorletters": "R.W.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 15,
@@ -50507,7 +50769,7 @@
     "voornaam": "Rik",
     "achternaam": "Kleinsmit",
     "voorletters": "H.T.J.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 17,
@@ -50581,7 +50843,7 @@
     "voornaam": "Peter",
     "achternaam": "Hartkamp",
     "voorletters": "P.L.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 18,
@@ -50655,7 +50917,7 @@
     "voornaam": "Erik",
     "achternaam": "Vermeulen",
     "voorletters": "E.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 19,
@@ -55105,7 +55367,7 @@
     "voornaam": "Jelmer",
     "achternaam": "Becker",
     "voorletters": "J.R.C.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 47,
@@ -55137,7 +55399,7 @@
     "voornaam": "Bram",
     "achternaam": "Leeuwenkamp",
     "voorletters": "B.L.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 48,
@@ -55169,7 +55431,7 @@
     "voornaam": "Valentijn",
     "achternaam": "Brinkman",
     "voorletters": "V.A.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 49,
@@ -55201,7 +55463,7 @@
     "voornaam": "Fenneke",
     "achternaam": "van der Vegte",
     "voorletters": "F.G.",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 50,
@@ -55223,7 +55485,12 @@
       }
     },
     "urls": {
-      "wikidata": "http://www.wikidata.org/entity/Q123176025"
+      "wikidata": "http://www.wikidata.org/entity/Q123176025",
+      "partijwebsite": "https://groenlinkspvda.nl/kandidaat/fenneke-van-der-vegte/",
+      "LinkedIn": "https://www.linkedin.com/in/fennekevandervegte/",
+      "Twitter": "https://twitter.com/Fenneke_?t=xKKvVI6MhVTQSr9Gc9z3Pg&s=09",
+      "Instagram": "https://www.instagram.com/fenneke_fietst/",
+      "Facebook": "https://www.facebook.com/profile.php?id=100069349419448"
     }
   },
   {
@@ -55528,10 +55795,10 @@
     "iri": "https://opwiekanikstemmen.nl/id/person/L.%20van%20Meijeren",
     "id": "L._van_Meijeren",
     "naam": "L. van Meijeren",
-    "voornaam": "",
+    "voornaam": "Gideon",
     "achternaam": "van Meijeren",
     "voorletters": "L.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 26,
@@ -55691,10 +55958,10 @@
     "iri": "https://opwiekanikstemmen.nl/id/person/Y.W.%20de%20Graaff",
     "id": "Y.W._de_Graaff",
     "naam": "Y.W. de Graaff",
-    "voornaam": "",
+    "voornaam": "Marcel",
     "achternaam": "de Graaff",
     "voorletters": "Y.W.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 23,
@@ -55857,7 +56124,7 @@
     "voornaam": "Giel",
     "achternaam": "van der Steenhoven",
     "voorletters": "G.P.G.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 47,
@@ -55947,7 +56214,7 @@
     "voornaam": "Paulien",
     "achternaam": "Gankema",
     "voorletters": "P.",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 49,
@@ -55968,7 +56235,11 @@
       }
     },
     "urls": {
-      "wikidata": "http://www.wikidata.org/entity/Q123176027"
+      "wikidata": "http://www.wikidata.org/entity/Q123176027",
+      "partijwebsite": "https://groenlinkspvda.nl/kandidaat/paulien-gankema/",
+      "LinkedIn": "https://www.linkedin.com/in/pauliengankema/",
+      "Twitter": "https://twitter.com/pauliengankema",
+      "Instagram": "https://www.instagram.com/paulien.gankema/"
     }
   },
   {
@@ -56626,7 +56897,7 @@
     "voornaam": "Lianne",
     "achternaam": "van Kalken",
     "voorletters": "L.",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 50,
@@ -56648,7 +56919,11 @@
       }
     },
     "urls": {
-      "wikidata": "http://www.wikidata.org/entity/Q123176028"
+      "wikidata": "http://www.wikidata.org/entity/Q123176028",
+      "partijwebsite": "https://groenlinkspvda.nl/kandidaat/lianne-van-kalken/",
+      "LinkedIn": "https://www.linkedin.com/in/lianne-van-kalken-5356428a/",
+      "Twitter": "https://twitter.com/lsvankalken",
+      "Instagram": "https://www.instagram.com/liannevankalken/"
     }
   },
   {
@@ -57208,7 +57483,7 @@
     "voornaam": "Lieke",
     "achternaam": "van Son",
     "voorletters": "L.J.M.",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 47,
@@ -57231,17 +57506,21 @@
       }
     },
     "urls": {
-      "wikidata": "http://www.wikidata.org/entity/Q123176029"
+      "wikidata": "http://www.wikidata.org/entity/Q123176029",
+      "partijwebsite": "https://groenlinkspvda.nl/kandidaat/lieke-van-son/",
+      "LinkedIn": "https://www.linkedin.com/in/lieke-van-son/",
+      "Instagram": "https://www.instagram.com/lieke.van.son/",
+      "Facebook": "https://www.facebook.com/lieke.vanson"
     }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/A.%20Penninx",
     "id": "A._Penninx",
     "naam": "A. Penninx",
-    "voornaam": "",
+    "voornaam": "Anna-Lena ",
     "achternaam": "Penninx",
     "voorletters": "A.",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 48,
@@ -57262,6 +57541,13 @@
           "adressendichtheid": "649"
         }
       }
+    },
+    "urls": {
+      "partijwebsite": "https://groenlinkspvda.nl/kandidaat/anna-lena-penninx/",
+      "LinkedIn": "https://nl.linkedin.com/in/annalenapenninx",
+      "Twitter": "https://www.twitter.com/annalenapx",
+      "Instagram": "https://www.instagram.com/annalenapx",
+      "Facebook": "https://www.facebook.com/annalenapenninx"
     }
   },
   {
@@ -57271,7 +57557,7 @@
     "voornaam": "Hanneke",
     "achternaam": "Roozendaal",
     "voorletters": "H.",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 49,
@@ -57294,7 +57580,10 @@
       }
     },
     "urls": {
-      "wikidata": "http://www.wikidata.org/entity/Q123176030"
+      "wikidata": "http://www.wikidata.org/entity/Q123176030",
+      "partijwebsite": "https://groenlinkspvda.nl/kandidaat/hanneke-roozendaal/",
+      "Twitter": "https://twitter.com/HannekeR024",
+      "Facebook": "https://www.facebook.com/hanneke.roozendaal"
     }
   },
   {
@@ -57304,7 +57593,7 @@
     "voornaam": "Frank",
     "achternaam": "van de Wolde",
     "voorletters": "F.",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2023": {
         "lijstnummer": 50,
