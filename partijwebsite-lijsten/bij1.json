@@ -52,6 +52,10 @@
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 7
+			},
+			"tk2025": {
+				"lijstnummer": 16,
+				"voornaamwoorden": "die/hen"
 			}
 		}
 	},
@@ -60,6 +64,10 @@
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 8
+			},
+			"tk2025": {
+				"lijstnummer": 15,
+				"voornaamwoorden": "hij/hem"
 			}
 		}
 	},
@@ -100,6 +108,10 @@
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 13
+			},
+			"tk2025": {
+				"lijstnummer": 10,
+				"voornaamwoorden": "die/diens aka Ma’MaQueen - zij/haar"
 			}
 		}
 	},
@@ -116,6 +128,159 @@
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 15
+			}
+		}
+	},
+	{
+		"naam": "Tofik Dibi",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 1,
+				"voornaamwoorden": "hij/hem"
+			}
+		}
+	},
+	{
+		"naam": "Naomi Tuininga",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 2,
+				"voornaamwoorden": "zij/haar"
+			}
+		}
+	},
+	{
+		"naam": "Teun Otte",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 3,
+				"voornaamwoorden": "die/hun"
+			}
+		}
+	},
+	{
+		"naam": "Marchiano van Campenhout",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 4,
+				"voornaamwoorden": "hij/hem"
+			}
+		}
+	},
+	{
+		"naam": "Mika Beau Dalderop",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 5,
+				"voornaamwoorden": "hij/hem"
+			}
+		}
+	},
+	{
+		"naam": "Noura Oul Fakir",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 6,
+				"voornaamwoorden": "zij/haar"
+			}
+		}
+	},
+	{
+		"naam": "Precious Sadhoe",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 7,
+				"voornaamwoorden": "zij/haar"
+			}
+		}
+	},
+	{
+		"naam": "Soheila Najand",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 8,
+				"voornaamwoorden": "zij/haar"
+			}
+		}
+	},
+	{
+		"naam": "Carolien Nieuweboer",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 9,
+				"voornaamwoorden": "zij/haar"
+			}
+		}
+	},
+	{
+		"naam": "Nathan Miango",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 11,
+				"voornaamwoorden": "hij/hem"
+			}
+		}
+	},
+	{
+		"naam": "Marie-Louise Beekmans",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 12,
+				"voornaamwoorden": "zij/haar"
+			}
+		}
+	},
+	{
+		"naam": "Tikhoe Isaack",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 13,
+				"voornaamwoorden": "hij/hem"
+			}
+		}
+	},
+	{
+		"naam": "Bianca Grootfaam",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 14,
+				"voornaamwoorden": "zij/haar"
+			}
+		}
+	},
+	{
+		"naam": "Joanna RD",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 17,
+				"voornaamwoorden": "zij/haar"
+			}
+		}
+	},
+	{
+		"naam": "Chihiro Geuzebroek",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 18,
+				"voornaamwoorden": "zij/haar"
+			}
+		}
+	},
+	{
+		"naam": "Stevie Nolten",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 19,
+				"voornaamwoorden": "zij/haar"
+			}
+		}
+	},
+	{
+		"naam": "Vayhishta Miskin",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 20,
+				"voornaamwoorden": "zij/haar"
 			}
 		}
 	}

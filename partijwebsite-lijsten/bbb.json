@@ -8,12 +8,6 @@
 			"tk2023": {
 				"lijstnummer": 1,
 				"woonplaats": "Deventer"
-			},
-			"tk2025": {
-				"lijstnummer": 1,
-				"leeftijd": 58,
-				"woonplaats": "Deventer",
-				"provincie": "Overijssel"
 			}
 		}
 	},
@@ -26,12 +20,6 @@
 			"tk2023": {
 				"lijstnummer": 2,
 				"woonplaats": "Volendam"
-			},
-			"tk2025": {
-				"lijstnummer": 2,
-				"leeftijd": 56,
-				"woonplaats": "Edam-Volendam",
-				"provincie": "Noord-Holland"
 			}
 		}
 	},
@@ -44,12 +32,6 @@
 			"tk2023": {
 				"lijstnummer": 3,
 				"woonplaats": "Oud-Beijerland"
-			},
-			"tk2025": {
-				"lijstnummer": 6,
-				"leeftijd": 45,
-				"woonplaats": "Oud-Beijerland",
-				"provincie": "Zuid-Holland"
 			}
 		}
 	},
@@ -62,12 +44,6 @@
 			"tk2023": {
 				"lijstnummer": 4,
 				"woonplaats": "Harderwijk"
-			},
-			"tk2025": {
-				"lijstnummer": 3,
-				"leeftijd": 59,
-				"woonplaats": "Harderwijk",
-				"provincie": "Gelderland"
 			}
 		}
 	},
@@ -104,12 +80,6 @@
 			"tk2023": {
 				"lijstnummer": 7,
 				"woonplaats": "Amsterdam"
-			},
-			"tk2025": {
-				"lijstnummer": 5,
-				"leeftijd": 46,
-				"woonplaats": "Amsterdam",
-				"provincie": "Noord-Holland"
 			}
 		}
 	},
@@ -122,12 +92,6 @@
 			"tk2023": {
 				"lijstnummer": 8,
 				"woonplaats": "Den Haag"
-			},
-			"tk2025": {
-				"lijstnummer": 13,
-				"leeftijd": 72,
-				"woonplaats": "Den Haag",
-				"provincie": "Zuid-Holland"
 			}
 		}
 	},
@@ -140,12 +104,6 @@
 			"tk2023": {
 				"lijstnummer": 9,
 				"woonplaats": "Maarssen"
-			},
-			"tk2025": {
-				"lijstnummer": 50,
-				"leeftijd": 34,
-				"woonplaats": "Maarssen",
-				"provincie": "Utrecht"
 			}
 		}
 	},
@@ -170,12 +128,6 @@
 			"tk2023": {
 				"lijstnummer": 11,
 				"woonplaats": "Gulpen"
-			},
-			"tk2025": {
-				"lijstnummer": 7,
-				"leeftijd": 32,
-				"woonplaats": "Gulpen",
-				"provincie": "Limburg"
 			}
 		}
 	},
@@ -188,12 +140,6 @@
 			"tk2023": {
 				"lijstnummer": 12,
 				"woonplaats": "Voorburg"
-			},
-			"tk2025": {
-				"lijstnummer": 9,
-				"leeftijd": 38,
-				"woonplaats": "Voorburg",
-				"provincie": "Zuid-Holland"
 			}
 		}
 	},
@@ -218,12 +164,6 @@
 			"tk2023": {
 				"lijstnummer": 14,
 				"woonplaats": "Leiden"
-			},
-			"tk2025": {
-				"lijstnummer": 10,
-				"leeftijd": 29,
-				"woonplaats": "Leiden",
-				"provincie": "Zuid-Holland"
 			}
 		}
 	},
@@ -236,12 +176,6 @@
 			"tk2023": {
 				"lijstnummer": 15,
 				"woonplaats": "Westdorpe"
-			},
-			"tk2025": {
-				"lijstnummer": 11,
-				"leeftijd": 57,
-				"woonplaats": "Westdorpe",
-				"provincie": "Zeeland"
 			}
 		}
 	},
@@ -374,12 +308,6 @@
 			"tk2023": {
 				"lijstnummer": 26,
 				"woonplaats": "Barneveld"
-			},
-			"tk2025": {
-				"lijstnummer": 19,
-				"leeftijd": 49,
-				"woonplaats": "Barneveld",
-				"provincie": "Gelderland"
 			}
 		}
 	},
@@ -476,12 +404,6 @@
 			"tk2023": {
 				"lijstnummer": 34,
 				"woonplaats": "Nieuwkoop"
-			},
-			"tk2025": {
-				"lijstnummer": 18,
-				"leeftijd": 58,
-				"woonplaats": "Nieuwkoop",
-				"provincie": "Zuid-Holland"
 			}
 		}
 	},
@@ -650,454 +572,6 @@
 			"tk2023": {
 				"lijstnummer": 48,
 				"woonplaats": "Brunssum"
-			}
-		}
-	},
-	{
-		"naam": "Femke Wiersma",
-		"urls": {
-			"partijwebsite": "https://boerburgerbeweging.nl/kandidaten/femke-wiersma/"
-		},
-		"verkiezingen": {
-			"tk2025": {
-				"lijstnummer": 4,
-				"leeftijd": 40,
-				"woonplaats": "Holwerd",
-				"provincie": "Friesland"
-			}
-		}
-	},
-	{
-		"naam": "Agnes Joseph",
-		"urls": {
-			"partijwebsite": "https://boerburgerbeweging.nl/kandidaten/agnes-joseph/"
-		},
-		"verkiezingen": {
-			"tk2025": {
-				"lijstnummer": 8,
-				"leeftijd": 45,
-				"woonplaats": "Soest",
-				"provincie": "Utrecht"
-			}
-		}
-	},
-	{
-		"naam": "Robert Tieman",
-		"urls": {},
-		"verkiezingen": {
-			"tk2025": {
-				"lijstnummer": 12,
-				"leeftijd": 49,
-				"woonplaats": "Rotterdam",
-				"provincie": "Zuid-Holland"
-			}
-		}
-	},
-	{
-		"naam": "Eddie van Marum",
-		"urls": {},
-		"verkiezingen": {
-			"tk2025": {
-				"lijstnummer": 14,
-				"leeftijd": 57,
-				"woonplaats": "Niekerk",
-				"provincie": "Groningen"
-			}
-		}
-	},
-	{
-		"naam": "Daniëlle Wiegmans",
-		"urls": {},
-		"verkiezingen": {
-			"tk2025": {
-				"lijstnummer": 15,
-				"leeftijd": 37,
-				"woonplaats": "Den Haag",
-				"provincie": "Zuid-Holland"
-			}
-		}
-	},
-	{
-		"naam": "Kilian Karsbergen",
-		"urls": {},
-		"verkiezingen": {
-			"tk2025": {
-				"lijstnummer": 16,
-				"leeftijd": 32,
-				"woonplaats": "Rhoon",
-				"provincie": "Zuid-Holland"
-			}
-		}
-	},
-	{
-		"naam": "Erik den Hertog",
-		"urls": {},
-		"verkiezingen": {
-			"tk2025": {
-				"lijstnummer": 17,
-				"leeftijd": 40,
-				"woonplaats": "Putten",
-				"provincie": "Gelderland"
-			}
-		}
-	},
-	{
-		"naam": "Marc Sprik",
-		"urls": {},
-		"verkiezingen": {
-			"tk2025": {
-				"lijstnummer": 20,
-				"leeftijd": 56,
-				"woonplaats": "Voorschoten",
-				"provincie": "Zuid-Holland"
-			}
-		}
-	},
-	{
-		"naam": "Tjalle Morsink",
-		"urls": {},
-		"verkiezingen": {
-			"tk2025": {
-				"lijstnummer": 21,
-				"leeftijd": 22,
-				"woonplaats": "Enter",
-				"provincie": "Overijssel"
-			}
-		}
-	},
-	{
-		"naam": "Andrea van Veen",
-		"urls": {},
-		"verkiezingen": {
-			"tk2025": {
-				"lijstnummer": 22,
-				"leeftijd": 41,
-				"woonplaats": "Urk",
-				"provincie": "Flevoland"
-			}
-		}
-	},
-	{
-		"naam": "Cees Meeldijk",
-		"urls": {},
-		"verkiezingen": {
-			"tk2025": {
-				"lijstnummer": 23,
-				"leeftijd": 33,
-				"woonplaats": "Hippolytushoef",
-				"provincie": "Noord-Holland"
-			}
-		}
-	},
-	{
-		"naam": "Mies Pabon",
-		"urls": {},
-		"verkiezingen": {
-			"tk2025": {
-				"lijstnummer": 24,
-				"leeftijd": 40,
-				"woonplaats": "Ravenswaaij",
-				"provincie": "Gelderland"
-			}
-		}
-	},
-	{
-		"naam": "Dirk Buis",
-		"urls": {},
-		"verkiezingen": {
-			"tk2025": {
-				"lijstnummer": 25,
-				"leeftijd": 45,
-				"woonplaats": "Uden",
-				"provincie": "Noord-Brabant"
-			}
-		}
-	},
-	{
-		"naam": "Jelmer de Groot",
-		"urls": {},
-		"verkiezingen": {
-			"tk2025": {
-				"lijstnummer": 26,
-				"leeftijd": 20,
-				"woonplaats": "Stavoren",
-				"provincie": "Friesland"
-			}
-		}
-	},
-	{
-		"naam": "Joost Olthof",
-		"urls": {},
-		"verkiezingen": {
-			"tk2025": {
-				"lijstnummer": 27,
-				"leeftijd": 50,
-				"woonplaats": "Ruurlo",
-				"provincie": "Gelderland"
-			}
-		}
-	},
-	{
-		"naam": "Pien Huijbens",
-		"urls": {},
-		"verkiezingen": {
-			"tk2025": {
-				"lijstnummer": 28,
-				"leeftijd": 24,
-				"woonplaats": "Zoeterwoude",
-				"provincie": "Zuid-Holland"
-			}
-		}
-	},
-	{
-		"naam": "Kevin Brouwer",
-		"urls": {},
-		"verkiezingen": {
-			"tk2025": {
-				"lijstnummer": 29,
-				"leeftijd": 27,
-				"woonplaats": "Utrecht",
-				"provincie": "Utrecht"
-			}
-		}
-	},
-	{
-		"naam": "Folkert Stienstra",
-		"urls": {},
-		"verkiezingen": {
-			"tk2025": {
-				"lijstnummer": 30,
-				"leeftijd": 40,
-				"woonplaats": "Meppel",
-				"provincie": "Drenthe"
-			}
-		}
-	},
-	{
-		"naam": "Bram Berg",
-		"urls": {},
-		"verkiezingen": {
-			"tk2025": {
-				"lijstnummer": 31,
-				"leeftijd": 20,
-				"woonplaats": "Zandvoort",
-				"provincie": "Noord-Holland"
-			}
-		}
-	},
-	{
-		"naam": "Ward Meijroos",
-		"urls": {},
-		"verkiezingen": {
-			"tk2025": {
-				"lijstnummer": 32,
-				"leeftijd": 51,
-				"woonplaats": "Zoetermeer",
-				"provincie": "Zuid-Holland"
-			}
-		}
-	},
-	{
-		"naam": "Hans Dekker",
-		"urls": {},
-		"verkiezingen": {
-			"tk2025": {
-				"lijstnummer": 33,
-				"leeftijd": 21,
-				"woonplaats": "Vriezenveen",
-				"provincie": "Overijssel"
-			}
-		}
-	},
-	{
-		"naam": "Monique Flipsen-Verhagen",
-		"urls": {},
-		"verkiezingen": {
-			"tk2025": {
-				"lijstnummer": 34,
-				"leeftijd": 52,
-				"woonplaats": "Den Hout",
-				"provincie": "Noord-Brabant"
-			}
-		}
-	},
-	{
-		"naam": "Tjerk Zeitsen",
-		"urls": {},
-		"verkiezingen": {
-			"tk2025": {
-				"lijstnummer": 35,
-				"leeftijd": 28,
-				"woonplaats": "Heerhugowaard",
-				"provincie": "Noord-Holland"
-			}
-		}
-	},
-	{
-		"naam": "Jochem Vrugt",
-		"urls": {},
-		"verkiezingen": {
-			"tk2025": {
-				"lijstnummer": 36,
-				"leeftijd": 22,
-				"woonplaats": "Amsterdam",
-				"provincie": "Noord-Holland"
-			}
-		}
-	},
-	{
-		"naam": "Ilona Lagas",
-		"urls": {},
-		"verkiezingen": {
-			"tk2025": {
-				"lijstnummer": 37,
-				"leeftijd": 69,
-				"woonplaats": "Vinkenbuurt",
-				"provincie": "Overijssel"
-			}
-		}
-	},
-	{
-		"naam": "Mark van de Ven",
-		"urls": {},
-		"verkiezingen": {
-			"tk2025": {
-				"lijstnummer": 38,
-				"leeftijd": 31,
-				"woonplaats": "Oirschot",
-				"provincie": "Noord-Brabant"
-			}
-		}
-	},
-	{
-		"naam": "Harold Zoet",
-		"urls": {},
-		"verkiezingen": {
-			"tk2025": {
-				"lijstnummer": 39,
-				"leeftijd": 54,
-				"woonplaats": "Wezep",
-				"provincie": "Gelderland"
-			}
-		}
-	},
-	{
-		"naam": "Annetje Schoolmeesters",
-		"urls": {},
-		"verkiezingen": {
-			"tk2025": {
-				"lijstnummer": 40,
-				"leeftijd": 61,
-				"woonplaats": "Voerendaal",
-				"provincie": "Limburg"
-			}
-		}
-	},
-	{
-		"naam": "Robbert Lievense",
-		"urls": {},
-		"verkiezingen": {
-			"tk2025": {
-				"lijstnummer": 41,
-				"leeftijd": 45,
-				"woonplaats": "Zierikzee",
-				"provincie": "Zeeland"
-			}
-		}
-	},
-	{
-		"naam": "Harry Schuiling",
-		"urls": {},
-		"verkiezingen": {
-			"tk2025": {
-				"lijstnummer": 42,
-				"leeftijd": 65,
-				"woonplaats": "Nijeveen",
-				"provincie": "Drenthe"
-			}
-		}
-	},
-	{
-		"naam": "Kor Hoving",
-		"urls": {},
-		"verkiezingen": {
-			"tk2025": {
-				"lijstnummer": 43,
-				"leeftijd": 52,
-				"woonplaats": "Tripscompagnie",
-				"provincie": "Groningen"
-			}
-		}
-	},
-	{
-		"naam": "André Adolfs",
-		"urls": {},
-		"verkiezingen": {
-			"tk2025": {
-				"lijstnummer": 44,
-				"leeftijd": 54,
-				"woonplaats": "Markelo",
-				"provincie": "Overijssel"
-			}
-		}
-	},
-	{
-		"naam": "Ingrid de Sain",
-		"urls": {},
-		"verkiezingen": {
-			"tk2025": {
-				"lijstnummer": 45,
-				"leeftijd": 55,
-				"woonplaats": "Schellinkhout",
-				"provincie": "Noord-Holland"
-			}
-		}
-	},
-	{
-		"naam": "Abel Kooistra",
-		"urls": {},
-		"verkiezingen": {
-			"tk2025": {
-				"lijstnummer": 46,
-				"leeftijd": 30,
-				"woonplaats": "Wergea",
-				"provincie": "Friesland"
-			}
-		}
-	},
-	{
-		"naam": "Jelle Beemsterboer",
-		"urls": {},
-		"verkiezingen": {
-			"tk2025": {
-				"lijstnummer": 47,
-				"leeftijd": 41,
-				"woonplaats": "Tuitjenhorn",
-				"provincie": "Noord-Holland"
-			}
-		}
-	},
-	{
-		"naam": "Nicole Koks",
-		"urls": {},
-		"verkiezingen": {
-			"tk2025": {
-				"lijstnummer": 48,
-				"leeftijd": 37,
-				"woonplaats": "Lettele",
-				"provincie": "Overijssel"
-			}
-		}
-	},
-	{
-		"naam": "Helma Lodders",
-		"urls": {},
-		"verkiezingen": {
-			"tk2025": {
-				"lijstnummer": 49,
-				"leeftijd": 45,
-				"woonplaats": "Zeewolde",
-				"provincie": "Flevoland"
 			}
 		}
 	}
