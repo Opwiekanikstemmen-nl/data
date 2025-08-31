@@ -2,12 +2,23 @@
 	{
 		"naam": "Henri Bontenbal",
 		"urls": {
-			"partijwebsite": "https://www.cda.nl/henri"
+			"partijwebsite": "https://www.cda.nl/henri",
+			"linkedin": "https://www.linkedin.com/in/henribontenbal/",
+			"facebook": "https://www.facebook.com/cda.henri.bontenbal",
+			"instagram": "https://www.instagram.com/henribontenbal/",
+			"x": "https://x.com/HenriBontenbal",
+			"spotify": "https://open.spotify.com/show/1Jvvj8DQduOIi28YkBGS28"
 		},
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 1,
 				"woonplaats": "Rotterdam"
+			},
+			"tk2025": {
+				"lijstnummer": 1,
+				"leeftijd": 42,
+				"woonplaats": "Rotterdam",
+				"studie": "Natuurkunde aan de Universiteit van Leiden"
 			}
 		}
 	},	
@@ -26,34 +37,60 @@
 	{
 		"naam": "Derk Boswijk",
 		"urls": {
-			"partijwebsite": "https://www.cda.nl/derk-boswijk-tk23"
+			"partijwebsite": "https://www.cda.nl/derk-boswijk",
+			"linkedin": "https://www.linkedin.com/in/derk-boswijk-b8279111/",
+			"facebook": "https://www.facebook.com/derkboswijk2",
+			"instagram": "https://www.instagram.com/derkboswijk/?hl=nl",
+			"x": "https://x.com/DerkBoswijk"
 		},
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 3,
 				"woonplaats": "Kockengen"
+			},
+			"tk2025": {
+				"lijstnummer": 3,
+				"leeftijd": 36,
+				"woonplaats": "Kockengen",
+				"studie": "Natuurkunde aan de Universiteit van Amsterdam"
 			}
 		}
 	},	
 	{
 		"naam": "Inge van Dijk",
 		"urls": {
-			"partijwebsite": "https://www.cda.nl/inge-van-dijk-tk23"
+			"partijwebsite": "https://www.cda.nl/inge-van-dijk",
+			"linkedin": "https://www.linkedin.com/in/inge-van-dijk-17623512/",
+			"facebook": "https://www.facebook.com/cdaingevandijk",
+			"instagram": "https://www.instagram.com/dijkingevan/",
+			"x": "https://x.com/i_dijk"
 		},
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 4,
 				"woonplaats": "Gemert-Bakel"
+			},
+			"tk2025": {
+				"lijstnummer": 4,
+				"woonplaats": "Gemert"
 			}
 		}
 	},	
 	{
 		"naam": "Harmen Krul",
 		"urls": {
-			"partijwebsite": "https://www.cda.nl/harmen-krul-tk23"
+			"partijwebsite": "https://www.cda.nl/mensen/harmen-krul",
+			"linkedin": "https://www.linkedin.com/in/harmen-krul-a30686139/",
+			"facebook": "https://www.facebook.com/harmen.krul.9",
+			"instagram": "https://www.instagram.com/harmenkrul/?hl=nl",
+			"x": "https://x.com/HarmenKrul"
 		},
 		"verkiezingen": {
 			"tk2023": {
+				"lijstnummer": 5,
+				"woonplaats": "Den Helder"
+			},
+			"tk2025": {
 				"lijstnummer": 5,
 				"woonplaats": "Den Helder"
 			}
@@ -74,10 +111,18 @@
 	{
 		"naam": "Bart van den Brink",
 		"urls": {
-			"partijwebsite": "https://www.cda.nl/bart-van-den-brink-tk23"
+			"partijwebsite": "https://www.cda.nl/mensen/kandidaat-bart-van-den-brink",
+			"linkedin": "https://www.linkedin.com/in/bart-van-den-brink-1bb7905/",
+			"facebook": "https://www.facebook.com/bart.vandenbrink.54/",
+			"instagram": "https://www.instagram.com/bart.vandenbrink/",
+			"x": "https://x.com/BartvdBrink/status/1725971469451084226"
 		},
 		"verkiezingen": {
 			"tk2023": {
+				"lijstnummer": 7,
+				"woonplaats": "Amersfoort"
+			},
+			"tk2025": {
 				"lijstnummer": 7,
 				"woonplaats": "Amersfoort"
 			}
@@ -98,12 +143,22 @@
 	{
 		"naam": "Hanneke Steen",
 		"urls": {
-			"partijwebsite": "https://www.cda.nl/hanneke-steen"
+			"partijwebsite": "https://www.cda.nl/mensen/kandidaat-hanneke-steen/",
+			"linkedin": "https://www.linkedin.com/in/hanneke-steen-klok",
+			"facebook": "https://www.facebook.com/hanneke.steen",
+			"instagram": "https://www.instagram.com/hannekesteenklok/",
+			"x": "https://x.com/hannekesteen"
 		},
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 9,
 				"woonplaats": "Hengelo"
+			},
+			"tk2025": {
+				"lijstnummer": 2,
+				"leeftijd": 42,
+				"woonplaats": "Hengelo",
+				"studie": "Rechten en bestuurskunde (RUG Groningen)"
 			}
 		}
 	},	
@@ -158,12 +213,20 @@
 	{
 		"naam": "Jantine Zwinkels",
 		"urls": {
-			"partijwebsite": "https://www.cda.nl/jantine-zwinkels"
+			"partijwebsite": "https://www.cda.nl/mensen/kandidaat-jantine-zwinkels/",
+			"linkedin": "https://www.linkedin.com/in/jantine-zwinkels-23787a19/",
+			"facebook": "https://www.facebook.com/JantineZwinkelsCDA/",
+			"instagram": "https://www.instagram.com/jantinezw/",
+			"x": "https://x.com/JantineZwinkels/"
 		},
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 14,
 				"woonplaats": " Utrecht"
+			},
+			"tk2025": {
+				"lijstnummer": 12,
+				"woonplaats": "Utrecht"
 			}
 		}
 	}, 	
@@ -175,19 +238,25 @@
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 15,
-				"woonplaats": " Beek (L"
+				"woonplaats": " Beek"
 			}
 		}
 	}, 	
 	{
 		"naam": "Sarath Hamstra",
 		"urls": {
-			"partijwebsite": "https://www.cda.nl/sarath-hamstra"
+			"partijwebsite": "https://www.cda.nl/mensen/kandidaat-sarath-hamstra/",
+			"linkedin": "https://nl.linkedin.com/in/sarathhamstra",
+			"instagram": "https://www.instagram.com/sarathhamstra/"
 		},
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 16,
 				"woonplaats": " Ermelo"
+			},
+			"tk2025": {
+				"lijstnummer": 17,
+				"woonplaats": "Ermelo"
 			}
 		}
 	}, 	
@@ -206,12 +275,19 @@
 	{
 		"naam": "Chantal van den Berg",
 		"urls": {
-			"partijwebsite": "https://www.cda.nl/chantal-van-den-berg"
+			"partijwebsite": "https://www.cda.nl/mensen/kandidaat-chantal-van-den-berg/",
+			"linkedin": "http://linkedin.com/in/chantal-van-den-berg-5077608",
+			"facebook": "https://www.facebook.com/share/1ZuxytWzRV/?mibextid=wwXIfr",
+			"instagram": "https://www.instagram.com/chantalvdenberg"
 		},
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 18,
 				"woonplaats": " Vijfhuizen"
+			},
+			"tk2025": {
+				"lijstnummer": 21,
+				"woonplaats": "Vijfhuizen"
 			}
 		}
 	}, 	
@@ -266,12 +342,20 @@
 	{
 		"naam": "Paul Boogaard",
 		"urls": {
-			"partijwebsite": "https://www.cda.nl/paul-boogaard"
+			"partijwebsite": "https://www.cda.nl/mensen/kandidaat-paul-boogaard/",
+			"linkedin": "http://linkedin.com/in/paulboogaard",
+			"facebook": "https://www.facebook.com/paul.boogaard",
+			"instagram": "https://www.instagram.com/paulboogaard/",
+			"x": "https://x.com/paul_boogaard"
 		},
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 23,
 				"woonplaats": " Hoeksche Waard"
+			},
+			"tk2025": {
+				"lijstnummer": 43,
+				"woonplaats": "Nieuw-Beijerland"
 			}
 		}
 	}, 	
@@ -338,12 +422,17 @@
 	{
 		"naam": "Marieke van der Spek",
 		"urls": {
-			"partijwebsite": "https://www.cda.nl/marieke-van-der-spek-den-besten"
+			"partijwebsite": "https://www.cda.nl/mensen/kandidaat-marieke-van-der-spek/",
+			"x": "https://x.com/marieke52454469"
 		},
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 29,
 				"woonplaats": " Vijfheerenlanden"
+			},
+			"tk2025": {
+				"lijstnummer": 24,
+				"woonplaats": "Nieuwland"
 			}
 		}
 	}, 	
@@ -362,24 +451,38 @@
 	{
 		"naam": "Jacky Silos",
 		"urls": {
-			"partijwebsite": "https://www.cda.nl/jacky-silos"
+			"partijwebsite": "https://www.cda.nl/mensen/kandidaat-jacky-silos/",
+			"linkedin": "https://www.linkedin.com/in/jacky-silos-5b778112",
+			"facebook": "https://www.facebook.com/share/1G5f4KVNe7/?mibextid=wwXIfr",
+			"instagram": "https://www.instagram.com/jackysilos"
 		},
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 31,
 				"woonplaats": " Vlaardingen"
+			},
+			"tk2025": {
+				"lijstnummer": 41,
+				"woonplaats": "Vlaardingen"
 			}
 		}
 	}, 	
 	{
 		"naam": "Yusuf Tuncer",
 		"urls": {
-			"partijwebsite": "https://www.cda.nl/yusuf-tuncer"
+			"partijwebsite": "https://www.cda.nl/mensen/kandidaat-yusuf-tuncer/",
+			"linkedin": "https://www.linkedin.com/in/yusuftuncer/",
+			"facebook": "https://www.facebook.com/YusTuncer",
+			"instagram": "https://www.instagram.com/yustuncer/"
 		},
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 32,
 				"woonplaats": " Schiedam"
+			},
+			"tk2025": {
+				"lijstnummer": 37,
+				"woonplaats": "Schiedam"
 			}
 		}
 	}, 	
@@ -506,12 +609,20 @@
 	{
 		"naam": "Dani Bracke",
 		"urls": {
-			"partijwebsite": "https://www.cda.nl/dani-bracke"
+			"partijwebsite": "https://www.cda.nl/mensen/kandidaat-dani-bracke/",
+			"linkedin": "https://www.linkedin.com/in/dani-bracke-34574311a/",
+			"facebook": "https://www.facebook.com/danibracke",
+			"instagram": "https://www.instagram.com/danibracke_voorderegio/",
+			"tiktok": "https://www.tiktok.com/@danibracke"
 		},
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 43,
 				"woonplaats": " Hulst"
+			},
+			"tk2025": {
+				"lijstnummer": 36,
+				"woonplaats": "Hulst"
 			}
 		}
 	}, 	
@@ -584,6 +695,514 @@
 			"tk2023": {
 				"lijstnummer": 49,
 				"woonplaats": " Amsterdam"
+			}
+		}
+	},
+	{
+		"naam": "Jeltje Straatman",
+		"urls": {
+			"partijwebsite": "https://www.cda.nl/mensen/kandidaat-jeltje-straatman",
+			"linkedin": "https://nl.linkedin.com/in/jeltje-straatman-36199b32",
+			"facebook": "https://www.facebook.com/jeltje.straatman/",
+			"instagram": "https://www.instagram.com/jeltjestraatman/"
+		},
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 6,
+				"woonplaats": "Bladel"
+			}
+		}
+	},
+	{
+		"naam": "Judith Bühler",
+		"urls": {
+			"partijwebsite": "https://www.cda.nl/mensen/kandidaat-judith-buhler",
+			"linkedin": "https://www.linkedin.com/in/judithbuhler/",
+			"facebook": "https://www.facebook.com/judith.buhler.90",
+			"instagram": "https://www.instagram.com/judithbuhler/",
+			"x": "https://x.com/judithbuhlerCDA"
+		},
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 8,
+				"woonplaats": "Geleen"
+			}
+		}
+	},
+	{
+		"naam": "Henk Jumelet",
+		"urls": {
+			"partijwebsite": "https://www.cda.nl/mensen/kandidaat-henk-jumelet"
+		},
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 9,
+				"woonplaats": "Erica"
+			}
+		}
+	},
+	{
+		"naam": "Elles van Ark",
+		"urls": {
+			"partijwebsite": "https://www.cda.nl/mensen/kandidaat-elles-van-ark"
+		},
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 10,
+				"woonplaats": "Maarssen"
+			}
+		}
+	},
+	{
+		"naam": "Tijs van den Brink",
+		"urls": {
+			"partijwebsite": "https://www.cda.nl/mensen/kandidaat-tijs-van-den-brink",
+			"linkedin": "https://nl.linkedin.com/in/tijs-van-den-brink-8aaa50b",
+			"instagram": "https://www.instagram.com/tijsvandenbrink/",
+			"x": "https://x.com/TijsvandenBrink"
+		},
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 11,
+				"woonplaats": "Amersfoort"
+			}
+		}
+	},
+	{
+		"naam": "Maes van Lanschot",
+		"urls": {
+			"partijwebsite": "https://www.cda.nl/mensen/kandidaat-maes-van-lanschot"
+		},
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 13,
+				"woonplaats": "Eindhoven"
+			}
+		}
+	},
+	{
+		"naam": "Luciënne Boelsma-Hoekstra",
+		"urls": {
+			"partijwebsite": "https://www.cda.nl/mensen/kandidaat-lucienne-boelsma-hoekstra"
+		},
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 14,
+				"woonplaats": "Idskenhuizen"
+			}
+		}
+	},
+	{
+		"naam": "Jan Arie Koorevaar",
+		"urls": {
+			"partijwebsite": "https://www.cda.nl/mensen/kandidaat-jan-arie-koorevaar",
+			"linkedin": "https://www.linkedin.com/in/jan-arie-koorevaar-8042058/"
+		},
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 15,
+				"woonplaats": "Goudriaan"
+			}
+		}
+	},
+	{
+		"naam": "Eveline Tijmstra",
+		"urls": {
+			"partijwebsite": "https://www.cda.nl/mensen/kandidaat-eveline-tijmstra",
+			"linkedin": "https://www.linkedin.com/in/eveline-tijmstra/",
+			"facebook": "https://www.facebook.com/eveline.tijmstra",
+			"instagram": "https://www.instagram.com/evelinetijmstra/",
+			"x": "https://x.com/EvelineTijmstra"
+		},
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 16,
+				"woonplaats": "Purmerend"
+			}
+		}
+	},
+	{
+		"naam": "Etkin Armut",
+		"urls": {
+			"partijwebsite": "https://www.cda.nl/mensen/kandidaat-etkin-armut",
+			"linkedin": "https://www.linkedin.com/in/etkin-armut-0b3b70224",
+			"instagram": "https://www.instagram.com/etkinarmut",
+			"x": "https://www.twitter.com/etkinarmut"
+		},
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 18,
+				"woonplaats": "Groningen"
+			}
+		}
+	},
+	{
+		"naam": "André Poortman",
+		"urls": {
+			"partijwebsite": "https://www.cda.nl/mensen/kandidaat-andre-poortman",
+			"linkedin": "https://www.linkedin.com/in/andrepoortman/",
+			"instagram": "https://www.instagram.com/andre__poortman/"
+		},
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 19,
+				"woonplaats": "Zwolle"
+			}
+		}
+	},
+	{
+		"naam": "Joris Lohman",
+		"urls": {
+			"partijwebsite": "https://www.cda.nl/mensen/kandidaat-joris-lohman",
+			"linkedin": "https://www.linkedin.com/in/jorislohman/",
+			"instagram": "https://www.instagram.com/jorislohman/",
+			"x": "https://x.com/jorislohman"
+		},
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 20,
+				"woonplaats": "Zaandam"
+			}
+		}
+	},
+	{
+		"naam": "Marcel Hanegraaff",
+		"urls": {
+			"partijwebsite": "https://www.cda.nl/mensen/kandidaat-marcel-hanegraaff",
+			"linkedin": "https://www.linkedin.com/in/marcel-hanegraaff-60aa40/",
+			"facebook": "https://www.facebook.com/profile.php?id=100089911011570",
+			"instagram": "https://www.instagram.com/marcelhanegraaff/",
+			"x": "https://x.com/MarcelHanegraaf"
+		},
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 22,
+				"woonplaats": "Velden"
+			}
+		}
+	},
+	{
+		"naam": "Karsten Klein",
+		"urls": {
+			"partijwebsite": "https://www.cda.nl/mensen/kandidaat-karsten-klein",
+			"linkedin": "https://www.linkedin.com/in/karstenkleinnetherlands/",
+			"instagram": "https://www.instagram.com/karstenklein1/",
+			"x": "https://x.com/karstenklein"
+		},
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 23,
+				"woonplaats": "Den Haag"
+			}
+		}
+	},
+	{
+		"naam": "Arjan Tolkamp",
+		"urls": {
+			"partijwebsite": "https://www.cda.nl/mensen/kandidaat-arjan-tolkamp",
+			"linkedin": "https://nl.linkedin.com/in/arjan-tolkamp-b2865554",
+			"x": "https://twitter.com/TolkampArjan"
+		},
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 25,
+				"woonplaats": "Aalten"
+			}
+		}
+	},
+	{
+		"naam": "Hemin Hawezy",
+		"urls": {
+			"partijwebsite": "https://www.cda.nl/mensen/kandidaat-hemin-hawezy",
+			"linkedin": "https://www.linkedin.com/in/hemin-hawezy/",
+			"facebook": "https://www.facebook.com/hhawezy/",
+			"instagram": "https://www.instagram.com/heminhawezy/"
+		},
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 26,
+				"woonplaats": "Zoetermeer"
+			}
+		}
+	},
+	{
+		"naam": "Ankie de Hoon",
+		"urls": {
+			"partijwebsite": "https://www.cda.nl/mensen/kandidaat-ankie-de-hoon",
+			"linkedin": "https://www.linkedin.com/in/ankiedehoon/",
+			"facebook": "https://www.facebook.com/ankiedehoon",
+			"instagram": "https://www.instagram.com/ankiedehoon/"
+		},
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 27,
+				"woonplaats": "Etten-Leur"
+			}
+		}
+	},
+	{
+		"naam": "Johanna de Vries",
+		"urls": {
+			"partijwebsite": "https://www.cda.nl/mensen/kandidaat-johanna-de-vries",
+			"linkedin": "https://www.linkedin.com/in/johannabesteman/",
+			"facebook": "https://facebook.com/johannabesteman",
+			"x": "https://x.com/johannabesteman"
+		},
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 28,
+				"woonplaats": "Rijswijk"
+			}
+		}
+	},
+	{
+		"naam": "Stefan Mastenbroek",
+		"urls": {
+			"partijwebsite": "https://www.cda.nl/mensen/kandidaat-stefan-mastenbroek",
+			"linkedin": "https://www.linkedin.com/in/stefanmastenbroek/"
+		},
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 29,
+				"woonplaats": "Rotterdam"
+			}
+		}
+	},
+	{
+		"naam": "Josine Heijnen",
+		"urls": {
+			"partijwebsite": "https://www.cda.nl/mensen/kandidaat-josine-heijnen",
+			"linkedin": "https://www.linkedin.com/in/josineheijnen/",
+			"instagram": "https://www.instagram.com/josineheijnen/"
+		},
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 30,
+				"woonplaats": "Leiden"
+			}
+		}
+	},
+	{
+		"naam": "Jacob Boonstra",
+		"urls": {
+			"partijwebsite": "https://www.cda.nl/mensen/kandidaat-jacob-boonstra",
+			"linkedin": "https://www.linkedin.com/in/jacobboonstra/"
+		},
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 31,
+				"woonplaats": "Haren (Gr)"
+			}
+		}
+	},
+	{
+		"naam": "Caroline van Brakel",
+		"urls": {
+			"partijwebsite": "https://www.cda.nl/mensen/kandidaat-caroline-van-brakel",
+			"linkedin": "https://www.linkedin.com/in/caroline-van-brakel-a90b769a"
+		},
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 32,
+				"woonplaats": "Veldhoven"
+			}
+		}
+	},
+	{
+		"naam": "Ivora Noort",
+		"urls": {
+			"partijwebsite": "https://www.cda.nl/mensen/kandidaat-ivora-noort",
+			"linkedin": "https://nl.linkedin.com/in/ivora-noort-320319210",
+			"instagram": "https://www.instagram.com/mrsivb/"
+		},
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 33,
+				"woonplaats": "Voorburg"
+			}
+		}
+	},
+	{
+		"naam": "Sjoerd Wijnsma",
+		"urls": {
+			"partijwebsite": "https://www.cda.nl/mensen/kandidaat-sjoerd-wijnsma",
+			"linkedin": "https://www.linkedin.com/in/sjoerdwijnsma/",
+			"instagram": "https://www.instagram.com/sjoerdwijnsma/"
+		},
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 34,
+				"woonplaats": "Leeuwarden"
+			}
+		}
+	},
+	{
+		"naam": "Daisy Vliegenthart-Goedhart",
+		"urls": {
+			"partijwebsite": "https://www.cda.nl/mensen/kandidaat-daisy-vliegenthart-goedhart",
+			"linkedin": "https://linkedin.com/in/daisyvliegenthart",
+			"facebook": "https://www.facebook.com/daisy.vliegenthartgoedhart",
+			"instagram": "https://www.instagram.com/daisyvliegenthart/"
+		},
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 35,
+				"woonplaats": "Ermelo"
+			}
+		}
+	},
+	{
+		"naam": "René Vrugt",
+		"urls": {
+			"partijwebsite": "https://www.cda.nl/mensen/kandidaat-rene-vrugt",
+			"linkedin": "https://linkedIn.com/in/rene-vrugt-7439772",
+			"facebook": "https://www.facebook.com/rene.vrugt.1"
+		},
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 38,
+				"woonplaats": "Alphen aan den Rijn"
+			}
+		}
+	},
+	{
+		"naam": "Steven van Die",
+		"urls": {
+			"partijwebsite": "https://www.cda.nl/mensen/kandidaat-steven-van-die",
+			"linkedin": "https://nl.linkedin.com/in/steven-van-die-8154963b"
+		},
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 39,
+				"woonplaats": "Rotterdam"
+			}
+		}
+	},
+	{
+		"naam": "Matthijs Buijs",
+		"urls": {
+			"partijwebsite": "https://www.cda.nl/mensen/kandidaat-matthijs-buijs",
+			"linkedin": "https://www.linkedin.com/in/matthijs-buijs-7b719447/"
+		},
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 40,
+				"woonplaats": "Amersfoort"
+			}
+		}
+	},
+	{
+		"naam": "Erik Drenth",
+		"urls": {
+			"partijwebsite": "https://www.cda.nl/mensen/kandidaat-erik-drenth",
+			"linkedin": "https://www.linkedin.com/in/erikdrenth/"
+		},
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 42,
+				"woonplaats": "Hoogezand"
+			}
+		}
+	},
+	{
+		"naam": "Elske van der Mik",
+		"urls": {
+			"partijwebsite": "https://www.cda.nl/mensen/kandidaat-elske-van-der-mik",
+			"linkedin": "https://www.linkedin.com/in/elske-van-der-mik-85734a17/",
+			"facebook": "https://www.facebook.com/elske.vandermik.1",
+			"instagram": "https://www.instagram.com/elskevandermik/"
+		},
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 44,
+				"woonplaats": "Dalfsen"
+			}
+		}
+	},
+	{
+		"naam": "Hubert Schokker",
+		"urls": {
+			"partijwebsite": "https://www.cda.nl/mensen/kandidaat-hubert-schokker",
+			"linkedin": "https://www.linkedin.com/in/hubert-schokker/?originalSubdomain=nl"
+		},
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 45,
+				"woonplaats": "Wassenaar"
+			}
+		}
+	},
+	{
+		"naam": "Willemien Wever",
+		"urls": {
+			"partijwebsite": "https://www.cda.nl/mensen/kandidaat-willemien-wever",
+			"linkedin": "https://www.linkedin.com/in/willemien-wever-8a65973a/",
+			"facebook": "https://www.facebook.com/willemien.wever/",
+			"instagram": "https://www.instagram.com/willemienwever/"
+		},
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 46,
+				"woonplaats": "Swifterbant"
+			}
+		}
+	},
+	{
+		"naam": "Stijn Sips",
+		"urls": {
+			"partijwebsite": "https://www.cda.nl/mensen/kandidaat-stijn-sips",
+			"linkedin": "https://www.linkedin.com/in/stijn-sips/",
+			"facebook": "https://www.facebook.com/raadslidstijn",
+			"instagram": "https://www.instagram.com/stijnsips/"
+		},
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 47,
+				"woonplaats": "Dongen"
+			}
+		}
+	},
+	{
+		"naam": "Luc van Dijk-Wijmenga",
+		"urls": {
+			"partijwebsite": "https://www.cda.nl/mensen/kandidaat-luc-van-dijk-wijmenga",
+			"linkedin": "https://www.linkedin.com/in/lucvandijk/",
+			"facebook": "https://www.facebook.com/lucvandijk",
+			"instagram": "https://www.instagram.com/lsvdijk/",
+			"x": "https://x.com/LSvanDijk"
+		},
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 48,
+				"woonplaats": "Leeuwarden"
+			}
+		}
+	},
+	{
+		"naam": "Gregor Rossen",
+		"urls": {
+			"partijwebsite": "https://www.cda.nl/mensen/kandidaat-gregor-rossen",
+			"linkedin": "https://www.linkedin.com/in/gregorrossen"
+		},
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 49,
+				"woonplaats": "Amsterdam"
+			}
+		}
+	},
+	{
+		"naam": "Gregory Sedoc",
+		"urls": {
+			"partijwebsite": "https://www.cda.nl/mensen/kandidaat-gregory-sedoc",
+			"linkedin": "https://www.linkedin.com/in/gregorysedoc/",
+			"instagram": "https://instagram.com/gregory_sedoc",
+			"x": "https://x.com/gregorysedoc"
+		},
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 50,
+				"woonplaats": "Zoetermeer"
 			}
 		}
 	}

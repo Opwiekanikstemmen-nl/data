@@ -2,20 +2,23 @@
 	{
 		"naam": "Wybren van Haga",
 		"urls": {
-			"partijwebsite": "https://bvnl.nl/k/1"
+			"partijwebsite": "https://bvnl.nl/wybren-van-haga/"
 		},
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 1,
 				"woonplaats": "Haarlem"
+			},
+			"tk2025": {
+				"lijstnummer": 1,
+				"Geboortedatum": "31-01-1967",
+				"woonplaats": "Haarlem",
+				"Geboorteplaats": "Den Haag"
 			}
 		}
 	},
 	{
 		"naam": "Henk Krol",
-		"urls": {
-			"partijwebsite": "https://bvnl.nl/k/2"
-		},
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 2,
@@ -25,9 +28,6 @@
 	},
 	{
 		"naam": "Sieta van Keimpema",
-		"urls": {
-			"partijwebsite": "https://bvnl.nl/k/3"
-		},
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 3,
@@ -37,21 +37,18 @@
 	},
 	{
 		"naam": "René Dercksen",
-		"urls": {
-			"partijwebsite": "https://bvnl.nl/k/4"
-		},
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 4,
 				"woonplaats": "Bosch en Duin"
+			},
+			"tk2025": {
+				"lijstnummer": 5
 			}
 		}
 	},
 	{
 		"naam": "Nynke Koopmans - van der Veen",
-		"urls": {
-			"partijwebsite": "https://bvnl.nl/k/5"
-		},
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 5,
@@ -61,21 +58,18 @@
 	},
 	{
 		"naam": "Roy van Aalst",
-		"urls": {
-			"partijwebsite": "https://bvnl.nl/k/6"
-		},
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 6,
 				"woonplaats": "Hengelo"
+			},
+			"tk2025": {
+				"lijstnummer": 50
 			}
 		}
 	},
 	{
 		"naam": "Imke Emons",
-		"urls": {
-			"partijwebsite": "https://bvnl.nl/k/7"
-		},
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 7,
@@ -85,9 +79,6 @@
 	},
 	{
 		"naam": "Shohreh Shahbazi Fishtali",
-		"urls": {
-			"partijwebsite": "https://bvnl.nl/k/8"
-		},
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 8,
@@ -97,9 +88,6 @@
 	},
 	{
 		"naam": "Arjan de Kok",
-		"urls": {
-			"partijwebsite": "https://bvnl.nl/k/9"
-		},
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 9,
@@ -109,9 +97,6 @@
 	},
 	{
 		"naam": "Hans van Tellingen",
-		"urls": {
-			"partijwebsite": "https://bvnl.nl/k/10"
-		},
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 10,
@@ -121,9 +106,6 @@
 	},
 	{
 		"naam": "Peter van der Velden",
-		"urls": {
-			"partijwebsite": "https://bvnl.nl/k/11"
-		},
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 11,
@@ -133,9 +115,6 @@
 	},
 	{
 		"naam": "Yernaz Ramautarsing",
-		"urls": {
-			"partijwebsite": "https://bvnl.nl/k/12"
-		},
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 12,
@@ -145,9 +124,6 @@
 	},
 	{
 		"naam": "Carmen Bosscher",
-		"urls": {
-			"partijwebsite": "https://bvnl.nl/k/13"
-		},
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 13,
@@ -157,9 +133,6 @@
 	},
 	{
 		"naam": "Harry Wijnschenk",
-		"urls": {
-			"partijwebsite": "https://bvnl.nl/k/14"
-		},
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 14,
@@ -169,9 +142,6 @@
 	},
 	{
 		"naam": "Sven-Äke Hulleman",
-		"urls": {
-			"partijwebsite": "https://bvnl.nl/k/15"
-		},
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 15,
@@ -181,21 +151,18 @@
 	},
 	{
 		"naam": "Arjen Schuiling",
-		"urls": {
-			"partijwebsite": "https://bvnl.nl/k/16"
-		},
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 16,
 				"woonplaats": "Tynaarlo"
+			},
+			"tk2025": {
+				"lijstnummer": 25
 			}
 		}
 	},
 	{
 		"naam": "Tjitske Aline van der Veen",
-		"urls": {
-			"partijwebsite": "https://bvnl.nl/k/17"
-		},
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 17,
@@ -205,21 +172,18 @@
 	},
 	{
 		"naam": "Patrick Schilder",
-		"urls": {
-			"partijwebsite": "https://bvnl.nl/k/18"
-		},
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 18,
 				"woonplaats": "Edam-Volendam"
+			},
+			"tk2025": {
+				"lijstnummer": 13
 			}
 		}
 	},
 	{
 		"naam": "Siebe Jan Vogelzang",
-		"urls": {
-			"partijwebsite": "https://bvnl.nl/k/19"
-		},
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 19,
@@ -229,9 +193,6 @@
 	},
 	{
 		"naam": "Robert Pestman",
-		"urls": {
-			"partijwebsite": "https://bvnl.nl/k/20"
-		},
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 20,
@@ -241,21 +202,18 @@
 	},
 	{
 		"naam": "Stefanie Vulders",
-		"urls": {
-			"partijwebsite": "https://bvnl.nl/k/21"
-		},
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 21,
 				"woonplaats": "Oisterwijk"
+			},
+			"tk2025": {
+				"lijstnummer": 12
 			}
 		}
 	},
 	{
 		"naam": "Danielle van der Wiele",
-		"urls": {
-			"partijwebsite": "https://bvnl.nl/k/22"
-		},
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 22,
@@ -265,9 +223,6 @@
 	},
 	{
 		"naam": "Robert Brunke",
-		"urls": {
-			"partijwebsite": "https://bvnl.nl/k/23"
-		},
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 23,
@@ -277,9 +232,6 @@
 	},
 	{
 		"naam": "Mirjam Gorter-de Vos",
-		"urls": {
-			"partijwebsite": "https://bvnl.nl/k/24"
-		},
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 24,
@@ -289,21 +241,18 @@
 	},
 	{
 		"naam": "Elbert van Dalen",
-		"urls": {
-			"partijwebsite": "https://bvnl.nl/k/25"
-		},
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 25,
 				"woonplaats": "Zaltbommel"
+			},
+			"tk2025": {
+				"lijstnummer": 43
 			}
 		}
 	},
 	{
 		"naam": "Kevin Wiersma",
-		"urls": {
-			"partijwebsite": "https://bvnl.nl/k/26"
-		},
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 26,
@@ -313,9 +262,6 @@
 	},
 	{
 		"naam": "Pascal van Kassel",
-		"urls": {
-			"partijwebsite": "https://bvnl.nl/k/27"
-		},
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 27,
@@ -325,9 +271,6 @@
 	},
 	{
 		"naam": "Grite Wymenga-Kooistra",
-		"urls": {
-			"partijwebsite": "https://bvnl.nl/k/28"
-		},
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 28,
@@ -337,9 +280,6 @@
 	},
 	{
 		"naam": "Saul Jonk",
-		"urls": {
-			"partijwebsite": "https://bvnl.nl/k/29"
-		},
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 29,
@@ -349,9 +289,6 @@
 	},
 	{
 		"naam": "Cor Zuidema",
-		"urls": {
-			"partijwebsite": "https://bvnl.nl/k/30"
-		},
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 30,
@@ -361,9 +298,6 @@
 	},
 	{
 		"naam": "Camiel van der Meeren",
-		"urls": {
-			"partijwebsite": "https://bvnl.nl/k/31"
-		},
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 31,
@@ -373,21 +307,18 @@
 	},
 	{
 		"naam": "Charlotte Marie Mensing",
-		"urls": {
-			"partijwebsite": "https://bvnl.nl/k/32"
-		},
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 32,
 				"woonplaats": "Den Haag"
+			},
+			"tk2025": {
+				"lijstnummer": 21
 			}
 		}
 	},
 	{
 		"naam": "Frederique Durlacher",
-		"urls": {
-			"partijwebsite": "https://bvnl.nl/k/33"
-		},
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 33,
@@ -397,21 +328,18 @@
 	},
 	{
 		"naam": "Iwan Dienjes",
-		"urls": {
-			"partijwebsite": "https://bvnl.nl/k/34"
-		},
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 34,
 				"woonplaats": "Breda"
+			},
+			"tk2025": {
+				"lijstnummer": 23
 			}
 		}
 	},
 	{
 		"naam": "Maikel de Bekker",
-		"urls": {
-			"partijwebsite": "https://bvnl.nl/k/35"
-		},
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 35,
@@ -421,9 +349,6 @@
 	},
 	{
 		"naam": "Onno Laarhoven",
-		"urls": {
-			"partijwebsite": "https://bvnl.nl/k/36"
-		},
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 36,
@@ -433,9 +358,6 @@
 	},
 	{
 		"naam": "Roos Eradus",
-		"urls": {
-			"partijwebsite": "https://bvnl.nl/k/37"
-		},
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 37,
@@ -445,9 +367,6 @@
 	},
 	{
 		"naam": "Roel Westhoff",
-		"urls": {
-			"partijwebsite": "https://bvnl.nl/k/38"
-		},
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 38,
@@ -457,9 +376,6 @@
 	},
 	{
 		"naam": "Marco Beverloo",
-		"urls": {
-			"partijwebsite": "https://bvnl.nl/k/39"
-		},
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 39,
@@ -469,9 +385,6 @@
 	},
 	{
 		"naam": "Meindert van Buuren",
-		"urls": {
-			"partijwebsite": "https://bvnl.nl/k/40"
-		},
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 40,
@@ -481,9 +394,6 @@
 	},
 	{
 		"naam": "Alistair Overeem",
-		"urls": {
-			"partijwebsite": "https://bvnl.nl/k/41"
-		},
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 41,
@@ -493,9 +403,6 @@
 	},
 	{
 		"naam": "Frederike Thiessens",
-		"urls": {
-			"partijwebsite": "https://bvnl.nl/k/42"
-		},
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 42,
@@ -505,9 +412,6 @@
 	},
 	{
 		"naam": "Arjan Brouwer",
-		"urls": {
-			"partijwebsite": "https://bvnl.nl/k/43"
-		},
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 43,
@@ -517,21 +421,18 @@
 	},
 	{
 		"naam": "Toine Manders",
-		"urls": {
-			"partijwebsite": "https://bvnl.nl/k/44"
-		},
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 44,
 				"woonplaats": "Maarheeze"
+			},
+			"tk2025": {
+				"lijstnummer": 9
 			}
 		}
 	},
 	{
 		"naam": "Bas Filippini",
-		"urls": {
-			"partijwebsite": "https://bvnl.nl/k/45"
-		},
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 45,
@@ -541,21 +442,18 @@
 	},
 	{
 		"naam": "Willy Verweij",
-		"urls": {
-			"partijwebsite": "https://bvnl.nl/k/46"
-		},
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 46,
 				"woonplaats": "Nigtevecht"
+			},
+			"tk2025": {
+				"lijstnummer": 18
 			}
 		}
 	},
 	{
 		"naam": "Rob Elens",
-		"urls": {
-			"partijwebsite": "https://bvnl.nl/k/47"
-		},
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 47,
@@ -565,21 +463,18 @@
 	},
 	{
 		"naam": "Marcus Rolloos",
-		"urls": {
-			"partijwebsite": "https://bvnl.nl/k/48"
-		},
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 48,
 				"woonplaats": "Oegstgeest"
+			},
+			"tk2025": {
+				"lijstnummer": 17
 			}
 		}
 	},
 	{
 		"naam": "Johan Talsma",
-		"urls": {
-			"partijwebsite": "https://bvnl.nl/k/49"
-		},
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 49,
@@ -589,14 +484,163 @@
 	},
 	{
 		"naam": "Hans Smolders",
-		"urls": {
-			"partijwebsite": "https://bvnl.nl/k/50"
-		},
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 50,
 				"woonplaats": "Tilburg"
 			}
 		}
+	},
+	{
+		"naam": "Dorien Rookmaker",
+		"verkiezingen": { "tk2025": { "lijstnummer": 2 } }
+	},
+	{
+		"naam": "Harm Beertema",
+		"verkiezingen": { "tk2025": { "lijstnummer": 3 } }
+	},
+	{
+		"naam": "Theo Schetters",
+		"verkiezingen": { "tk2025": { "lijstnummer": 4 } }
+	},
+	{
+		"naam": "Vala van den Boomen",
+		"verkiezingen": { "tk2025": { "lijstnummer": 6 } }
+	},
+	{
+		"naam": "Geert Dales",
+		"verkiezingen": { "tk2025": { "lijstnummer": 7 } }
+	},
+	{
+		"naam": "Ab Flipse",
+		"verkiezingen": { "tk2025": { "lijstnummer": 8 } }
+	},
+	{
+		"naam": "Hennie van Schaik",
+		"verkiezingen": { "tk2025": { "lijstnummer": 10 } }
+	},
+	{
+		"naam": "Erwin Versteeg",
+		"verkiezingen": { "tk2025": { "lijstnummer": 11 } }
+	},
+	{
+		"naam": "Meike Terhorst",
+		"verkiezingen": { "tk2025": { "lijstnummer": 14 } }
+	},
+	{
+		"naam": "Mark Bos",
+		"verkiezingen": { "tk2025": { "lijstnummer": 15 } }
+	},
+	{
+		"naam": "Johan Kosters",
+		"verkiezingen": { "tk2025": { "lijstnummer": 16 } }
+	},
+	{
+		"naam": "Peter Mul",
+		"verkiezingen": { "tk2025": { "lijstnummer": 19 } }
+	},
+	{
+		"naam": "Rubert Remijn",
+		"verkiezingen": { "tk2025": { "lijstnummer": 20 } }
+	},
+	{
+		"naam": "Gerard van Erp",
+		"verkiezingen": { "tk2025": { "lijstnummer": 22 } }
+	},
+	{
+		"naam": "Jaimi Keirouz",
+		"verkiezingen": { "tk2025": { "lijstnummer": 24 } }
+	},
+	{
+		"naam": "Yannick Rietman",
+		"verkiezingen": { "tk2025": { "lijstnummer": 26 } }
+	},
+	{
+		"naam": "Fabienne Schnetkamp",
+		"verkiezingen": { "tk2025": { "lijstnummer": 27 } }
+	},
+	{
+		"naam": "Elaine Toes",
+		"verkiezingen": { "tk2025": { "lijstnummer": 28 } }
+	},
+	{
+		"naam": "Ingmar Elferink",
+		"verkiezingen": { "tk2025": { "lijstnummer": 29 } }
+	},
+	{
+		"naam": "Jan Boomsma",
+		"verkiezingen": { "tk2025": { "lijstnummer": 30 } }
+	},
+	{
+		"naam": "Yasmina Jimenez",
+		"verkiezingen": { "tk2025": { "lijstnummer": 31 } }
+	},
+	{
+		"naam": "Sjef Siemons",
+		"verkiezingen": { "tk2025": { "lijstnummer": 32 } }
+	},
+	{
+		"naam": "Noël van Keeken",
+		"verkiezingen": { "tk2025": { "lijstnummer": 33 } }
+	},
+	{
+		"naam": "Pieter Eggermont",
+		"verkiezingen": { "tk2025": { "lijstnummer": 34 } }
+	},
+	{
+		"naam": "Cees Freeke",
+		"verkiezingen": { "tk2025": { "lijstnummer": 35 } }
+	},
+	{
+		"naam": "Johan van Leeuwen",
+		"verkiezingen": { "tk2025": { "lijstnummer": 36 } }
+	},
+	{
+		"naam": "Dirk Moes",
+		"verkiezingen": { "tk2025": { "lijstnummer": 37 } }
+	},
+	{
+		"naam": "Jan Pieter Verhoog",
+		"verkiezingen": { "tk2025": { "lijstnummer": 38 } }
+	},
+	{
+		"naam": "Ko Vos",
+		"verkiezingen": { "tk2025": { "lijstnummer": 39 } }
+	},
+	{
+		"naam": "Meir Villegas Henriquez",
+		"verkiezingen": { "tk2025": { "lijstnummer": 40 } }
+	},
+	{
+		"naam": "Paul Bohte",
+		"verkiezingen": { "tk2025": { "lijstnummer": 41 } }
+	},
+	{
+		"naam": "Bauke Westphal",
+		"verkiezingen": { "tk2025": { "lijstnummer": 42 } }
+	},
+	{
+		"naam": "Wim Huisman",
+		"verkiezingen": { "tk2025": { "lijstnummer": 44 } }
+	},
+	{
+		"naam": "Yalda Qadiri",
+		"verkiezingen": { "tk2025": { "lijstnummer": 45 } }
+	},
+	{
+		"naam": "Laurentius van den Bolsem",
+		"verkiezingen": { "tk2025": { "lijstnummer": 46 } }
+	},
+	{
+		"naam": "Ramon Koeleman",
+		"verkiezingen": { "tk2025": { "lijstnummer": 47 } }
+	},
+	{
+		"naam": "Murat Yurekli",
+		"verkiezingen": { "tk2025": { "lijstnummer": 48 } }
+	},
+	{
+		"naam": "Patrick Kicken",
+		"verkiezingen": { "tk2025": { "lijstnummer": 49 } }
 	}
 ]
