@@ -5,8 +5,16 @@
 			"tk2023": {
 				"lijstnummer": 1,
 				"leeftijd": 36
+			},
+			"tk2025": {
+				"lijstnummer": 1,
+				"leeftijd": 38
 			}
-		}
+		},
+		"functies": [
+			"lijsttrekker",
+			"partijleider van D66"
+		]
 	},
 	{
 		"naam": "Jan Paternotte",
@@ -14,8 +22,15 @@
 			"tk2023": {
 				"lijstnummer": 2,
 				"leeftijd": 39
+			},
+			"tk2025": {
+				"lijstnummer": 2,
+				"leeftijd": 41
 			}
-		}
+		},
+		"functies": [
+			"Tweede Kamerlid"
+		]
 	},
 	{
 		"naam": "Hans Vijlbrief",
@@ -23,8 +38,16 @@
 			"tk2023": {
 				"lijstnummer": 3,
 				"leeftijd": 60
+			},
+			"tk2025": {
+				"lijstnummer": 3,
+				"leeftijd": 61
 			}
-		}
+		},
+		"functies": [
+			"econoom",
+			"Tweede Kamerlid"
+		]
 	},
 	{
 		"naam": "Anne-Marijke Podt",
@@ -32,8 +55,15 @@
 			"tk2023": {
 				"lijstnummer": 4,
 				"leeftijd": 48
+			},
+			"tk2025": {
+				"lijstnummer": 4,
+				"leeftijd": 50
 			}
-		}
+		},
+		"functies": [
+			"Tweede Kamerlid"
+		]
 	},
 	{
 		"naam": "Joost Sneller",
@@ -41,8 +71,15 @@
 			"tk2023": {
 				"lijstnummer": 5,
 				"leeftijd": 41
+			},
+			"tk2025": {
+				"lijstnummer": 5,
+				"leeftijd": 43
 			}
-		}
+		},
+		"functies": [
+			"Tweede Kamerlid"
+		]
 	},
 	{
 		"naam": "Ilana Rooderkerk",
@@ -50,8 +87,15 @@
 			"tk2023": {
 				"lijstnummer": 6,
 				"leeftijd": 36
+			},
+			"tk2025": {
+				"lijstnummer": 13,
+				"leeftijd": 38
 			}
-		}
+		},
+		"functies": [
+			"Tweede Kamerlid"
+		]
 	},
 	{
 		"naam": "Wieke Paulusma",
@@ -59,8 +103,15 @@
 			"tk2023": {
 				"lijstnummer": 7,
 				"leeftijd": 44
+			},
+			"tk2025": {
+				"lijstnummer": 7,
+				"leeftijd": 46
 			}
-		}
+		},
+		"functies": [
+			"Tweede Kamerlid"
+		]
 	},
 	{
 		"naam": "Hanneke van der Werf",
@@ -68,8 +119,15 @@
 			"tk2023": {
 				"lijstnummer": 8,
 				"leeftijd": 38
+			},
+			"tk2025": {
+				"lijstnummer": 9,
+				"leeftijd": 40
 			}
-		}
+		},
+		"functies": [
+			"Tweede Kamerlid"
+		]
 	},
 	{
 		"naam": "Tom van Mpanzu Bamenga",
@@ -77,8 +135,16 @@
 			"tk2023": {
 				"lijstnummer": 9,
 				"leeftijd": 38
+			},
+			"tk2025": {
+				"lijstnummer": 10,
+				"leeftijd": 40
 			}
-		}
+		},
+		"functies": [
+			"Tweede Kamerlid",
+			"mensenrechtenjurist"
+		]
 	},
 	{
 		"naam": "Tjeerd de Groot",
@@ -90,58 +156,22 @@
 		}
 	},
 	{
-		"naam": "Marijke Synhaeve",
-		"verkiezingen": {
-			"tk2023": {
-				"lijstnummer": 11,
-				"leeftijd": 33
-			}
-		}
-	},
-	{
-		"naam": "Habtamu Lisa van Ginneken",
-		"verkiezingen": {
-			"tk2023": {
-				"lijstnummer": 12,
-				"leeftijd": 51
-			}
-		}
-	},
-	{
-		"naam": "Salima Belhaj",
-		"verkiezingen": {
-			"tk2023": {
-				"lijstnummer": 13,
-				"leeftijd": 44
-			}
-		}
-	},
-	{
-		"naam": "Faissal Boulakjar",
-		"verkiezingen": {
-			"tk2023": {
-				"lijstnummer": 14,
-				"leeftijd": 44
-			}
-		}
-	},
-	{
-		"naam": "Fonda Sahla",
-		"verkiezingen": {
-			"tk2023": {
-				"lijstnummer": 15,
-				"leeftijd": 43
-			}
-		}
-	},
-	{
 		"naam": "Felix Klos",
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 16,
 				"leeftijd": 31
+			},
+			"tk2025": {
+				"lijstnummer": 11,
+				"leeftijd": 33
 			}
-		}
+		},
+		"functies": [
+			"historicus",
+			"schrijver",
+			"chef-staf van de D66-delegatie in het Europees Parlement"
+		]
 	},
 	{
 		"naam": "Hülya Kat",
@@ -240,8 +270,17 @@
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 27
+			},
+			"tk2025": {
+				"lijstnummer": 15,
+				"leeftijd": 35
 			}
-		}
+		},
+		"functies": [
+			"beleidsadviseur bij het ministerie van Financiën",
+			"bestuurder bij Giro555",
+			"presentator bij de Koninklijke Bibliotheek"
+		]
 	},
 	{
 		"naam": "Marvin Putuhena",
@@ -664,6 +703,345 @@
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 80
+			}
+		}
+	},
+	{
+		"naam": "Nathalie van Berkel",
+		"urls": {},
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 6,
+				"leeftijd": 41
+			}
+		},
+		"functies": [
+			"bestuurder bij het UWV",
+			"toezichthouder in cultuursector, woningmarkt en publieke dienstverlening"
+		]
+	},
+	{
+		"naam": "Fatimazhra Belhirch",
+		"urls": {},
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 8,
+				"leeftijd": 49
+			}
+		},
+		"functies": [
+			"Eerste Kamerlid",
+			"lid Beneluxparlement",
+			"bestuurslid commissie vrede en internationale veiligheid (IPU)"
+		]
+	},
+	{
+		"naam": "Robert van Asten",
+		"urls": {},
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 14,
+				"leeftijd": 46
+			}
+		},
+		"functies": [
+			"wethouder Den Haag"
+		]
+	},
+	{
+		"naam": "Anouschka Biekman",
+		"urls": {},
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 16,
+				"leeftijd": 45
+			}
+		},
+		"functies": [
+			"wethouder Schiedam"
+		]
+	},
+	{
+		"naam": "Renilde Huizenga",
+		"urls": {},
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 17,
+				"leeftijd": 54
+			}
+		},
+		"functies": [
+			"fractievoorzitter D66 Overijssel",
+			"eigenaar bureau voor omgevingsmanagement"
+		]
+	},
+	{
+		"naam": "Heera Dijk",
+		"urls": {},
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 18,
+				"leeftijd": 45
+			}
+		},
+		"functies": [
+			"hbo-docent ICT",
+			"gemeenteraadslid Delft",
+			"coach bij Stichting Anne-Bo"
+		]
+	},
+	{
+		"naam": "Sarah El Boujdaini",
+		"urls": {},
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 19,
+				"leeftijd": 31
+			}
+		},
+		"functies": [
+			"senior-adviseur Data en AI bij IenW",
+			"voorzitter D66 Rotterdam"
+		]
+	},
+	{
+		"naam": "Henk-Jan Oosterhuis",
+		"urls": {},
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 20,
+				"leeftijd": 40
+			}
+		},
+		"functies": [
+			"adviseur Raad van Bestuur bij ProRail"
+		]
+	},
+	{
+		"naam": "Jan Schoonis",
+		"urls": {},
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 21,
+				"leeftijd": 44
+			}
+		},
+		"functies": [
+			"zelfstandig ondernemer"
+		]
+	},
+	{
+		"naam": "Koen Castelein",
+		"urls": {},
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 22,
+				"leeftijd": 35
+			}
+		},
+		"functies": [
+			"wethouder gemeente Hattem"
+		]
+	},
+	{
+		"naam": "Stephan Neijenhuis",
+		"urls": {},
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 23,
+				"leeftijd": 32
+			}
+		},
+		"functies": [
+			"Clusterleider Tweede Kamerfractie groen en ruimtelijk domein",
+			"gemeenteraadslid D66 Ede"
+		]
+	},
+	{
+		"naam": "Ulas Kose",
+		"urls": {},
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 24,
+				"leeftijd": 27
+			}
+		},
+		"functies": [
+			"Product Manager Energietransitie"
+		]
+	},
+	{
+		"naam": "Marc Vervuurt",
+		"urls": {},
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 25,
+				"leeftijd": 31
+			}
+		},
+		"functies": [
+			"gemeenteraadslid Venlo",
+			"bestuurslid D66 Limburg",
+			"beleidsadviseur ouderenzorg"
+		]
+	},
+	{
+		"naam": "Dion Huidekooper",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 26
+			}
+		}
+	},
+	{
+		"naam": "Marieke Vellinga-Beemsterboer",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 27
+			}
+		}
+	},
+	{
+		"naam": "Robin van Leijen",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 28
+			}
+		}
+	},
+	{
+		"naam": "Michelle Jagtenberg",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 29
+			}
+		}
+	},
+	{
+		"naam": "Mahjoub Mathlouti",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 30
+			}
+		}
+	},
+	{
+		"naam": "Lisanne van Damme",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 31
+			}
+		}
+	},
+	{
+		"naam": "Yared Stifanos",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 32
+			}
+		}
+	},
+	{
+		"naam": "Marike Hoekstra",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 33
+			}
+		}
+	},
+	{
+		"naam": "Hester Borm",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 34
+			}
+		}
+	},
+	{
+		"naam": "Elke Smulders",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 35
+			}
+		}
+	},
+	{
+		"naam": "Nes Barkey Wolf",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 36
+			}
+		}
+	},
+	{
+		"naam": "Ocker Ghering",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 37
+			}
+		}
+	},
+	{
+		"naam": "Elze Woudstra",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 38
+			}
+		}
+	},
+	{
+		"naam": "Björn Bonten",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 39
+			}
+		}
+	},
+	{
+		"naam": "Marloes Derks",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 40
+			}
+		}
+	},
+	{
+		"naam": "Samantha Regtuijt",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 41
+			}
+		}
+	},
+	{
+		"naam": "Yvo Senden",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 42
+			}
+		}
+	},
+	{
+		"naam": "Jan Teake Pander",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 43
+			}
+		}
+	},
+	{
+		"naam": "Thom Berends",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 44
+			}
+		}
+	},
+	{
+		"naam": "Remy Maessen",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 45
 			}
 		}
 	}
