@@ -1,5 +1,29 @@
 [
 	{
+		"naam": "Matthijs Janssen",
+		"urls": {
+			"instagram": "https://www.instagram.com/matthiasconstantijn/"
+		},
+		"leeftijd": 35,
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 1
+			}
+		}
+	},
+	{
+		"naam": "Marcella Perdok",
+		"urls": {
+			"instagram": "https://www.instagram.com/marcellaperdok/"
+		},
+		"leeftijd": 31,
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 2
+			}
+		}
+	},
+	{
 		"naam": "Daniël van Duijn",
 		"verkiezingen": {
 			"tk2023": {
