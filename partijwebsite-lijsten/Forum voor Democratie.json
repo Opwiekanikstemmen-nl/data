@@ -5,6 +5,10 @@
 			"tk2023": {
 				"lijstnummer": 1,
 				"woonplaats": "Amsterdam"
+			},
+			"tk2025": {
+				"lijstnummer": 2,
+				"woonplaats": "Amsterdam"
 			}
 		}
 	},
@@ -14,6 +18,10 @@
 			"tk2023": {
 				"lijstnummer": 2,
 				"woonplaats": "Amsterdam"
+			},
+			"tk2025": {
+				"lijstnummer": 4,
+				"woonplaats": "Amsterdam"
 			}
 		}
 	},
@@ -21,6 +29,10 @@
 		"naam": "Gideon van Meijeren",
 		"verkiezingen": {
 			"tk2023": {
+				"lijstnummer": 3,
+				"woonplaats": "'s-Gravenhage"
+			},
+			"tk2025": {
 				"lijstnummer": 3,
 				"woonplaats": "'s-Gravenhage"
 			}
@@ -32,6 +44,10 @@
 			"tk2023": {
 				"lijstnummer": 4,
 				"woonplaats": "'s-Gravenhage"
+			},
+			"tk2025": {
+				"lijstnummer": 6,
+				"woonplaats": "'s-Gravenhage"
 			}
 		}
 	},
@@ -39,6 +55,10 @@
 		"naam": "Ralf Dekker",
 		"verkiezingen": {
 			"tk2023": {
+				"lijstnummer": 5,
+				"woonplaats": "Amsterdam"
+			},
+			"tk2025": {
 				"lijstnummer": 5,
 				"woonplaats": "Amsterdam"
 			}
@@ -50,6 +70,10 @@
 			"tk2023": {
 				"lijstnummer": 6,
 				"woonplaats": "'s-Gravenhage"
+			},
+			"tk2025": {
+				"lijstnummer": 1,
+				"woonplaats": "'s-Gravenhage"
 			}
 		}
 	},
@@ -58,6 +82,10 @@
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 7,
+				"woonplaats": "Amsterdam"
+			},
+			"tk2025": {
+				"lijstnummer": 8,
 				"woonplaats": "Amsterdam"
 			}
 		}
@@ -68,6 +96,10 @@
 			"tk2023": {
 				"lijstnummer": 8,
 				"woonplaats": "'s-Gravenhage"
+			},
+			"tk2025": {
+				"lijstnummer": 9,
+				"woonplaats": "'s-Gravenhage"
 			}
 		}
 	},
@@ -77,6 +109,10 @@
 			"tk2023": {
 				"lijstnummer": 9,
 				"woonplaats": "Enschede"
+			},
+			"tk2025": {
+				"lijstnummer": 12,
+				"woonplaats": "Enschede"
 			}
 		}
 	},
@@ -85,6 +121,10 @@
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 10,
+				"woonplaats": "Zaandam"
+			},
+			"tk2025": {
+				"lijstnummer": 42,
 				"woonplaats": "Zaandam"
 			}
 		}
@@ -104,6 +144,10 @@
 			"tk2023": {
 				"lijstnummer": 12,
 				"woonplaats": "Amsterdam"
+			},
+			"tk2025": {
+				"lijstnummer": 11,
+				"woonplaats": "Amsterdam"
 			}
 		}
 	},
@@ -122,6 +166,10 @@
 			"tk2023": {
 				"lijstnummer": 14,
 				"woonplaats": "Vierlingsbeek"
+			},
+			"tk2025": {
+				"lijstnummer": 41,
+				"woonplaats": "Vierlingsbeek"
 			}
 		}
 	},
@@ -138,6 +186,10 @@
 		"naam": "Brigitte Antolini",
 		"verkiezingen": {
 			"tk2023": {
+				"lijstnummer": 16,
+				"woonplaats": "Hoofddorp"
+			},
+			"tk2025": {
 				"lijstnummer": 16,
 				"woonplaats": "Hoofddorp"
 			}
@@ -158,6 +210,10 @@
 			"tk2023": {
 				"lijstnummer": 18,
 				"woonplaats": "Amsterdam"
+			},
+			"tk2025": {
+				"lijstnummer": 15,
+				"woonplaats": "Amsterdam"
 			}
 		}
 	},
@@ -167,6 +223,10 @@
 			"tk2023": {
 				"lijstnummer": 19,
 				"woonplaats": "Sint-Michielsgestel"
+			},
+			"tk2025": {
+				"lijstnummer": 13,
+				"woonplaats": "Sint-Michielsgestel"
 			}
 		}
 	},
@@ -175,6 +235,10 @@
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 20,
+				"woonplaats": "Zoetermeer"
+			},
+			"tk2025": {
+				"lijstnummer": 22,
 				"woonplaats": "Zoetermeer"
 			}
 		}
@@ -248,6 +312,10 @@
 			"tk2023": {
 				"lijstnummer": 28,
 				"woonplaats": "Almere"
+			},
+			"tk2025": {
+				"lijstnummer": 18,
+				"woonplaats": "Almere"
 			}
 		}
 	},
@@ -256,6 +324,10 @@
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 29,
+				"woonplaats": "Oudorp"
+			},
+			"tk2025": {
+				"lijstnummer": 26,
 				"woonplaats": "Oudorp"
 			}
 		}
@@ -293,6 +365,10 @@
 			"tk2023": {
 				"lijstnummer": 33,
 				"woonplaats": "Helmond"
+			},
+			"tk2025": {
+				"lijstnummer": 39,
+				"woonplaats": "Helmond"
 			}
 		}
 	},
@@ -320,6 +396,10 @@
 			"tk2023": {
 				"lijstnummer": 36,
 				"woonplaats": "Haarlem"
+			},
+			"tk2025": {
+				"lijstnummer": 25,
+				"woonplaats": "Haarlem"
 			}
 		}
 	},
@@ -329,6 +409,10 @@
 			"tk2023": {
 				"lijstnummer": 37,
 				"woonplaats": "IJmuiden"
+			},
+			"tk2025": {
+				"lijstnummer": 19,
+				"woonplaats": "IJmuiden"
 			}
 		}
 	},
@@ -337,6 +421,10 @@
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 38,
+				"woonplaats": "Monster"
+			},
+			"tk2025": {
+				"lijstnummer": 27,
 				"woonplaats": "Monster"
 			}
 		}
@@ -419,6 +507,10 @@
 			"tk2023": {
 				"lijstnummer": 47,
 				"woonplaats": "Schijndel"
+			},
+			"tk2025": {
+				"lijstnummer": 50,
+				"woonplaats": "Schijndel"
 			}
 		}
 	},
@@ -437,6 +529,206 @@
 			"tk2023": {
 				"lijstnummer": 49,
 				"woonplaats": "Amsterdam"
+			}
+		}
+	},
+	{
+		"naam": "Peter van Duyvenvoorde",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 7
+			}
+		}
+	},
+	{
+		"naam": "Milan Schenk",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 10
+			}
+		}
+	},
+	{
+		"naam": "Nicolas Knoester",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 14
+			}
+		}
+	},
+	{
+		"naam": "Esther Hendriksen",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 17
+			}
+		}
+	},
+	{
+		"naam": "Vincent Vos",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 20
+			}
+		}
+	},
+	{
+		"naam": "Fouad el Masoudi",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 21
+			}
+		}
+	},
+	{
+		"naam": "Marianne Akkermans",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 23
+			}
+		}
+	},
+	{
+		"naam": "Luca de Clippelaar",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 24
+			}
+		}
+	},
+	{
+		"naam": "Peter Vermaas",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 28
+			}
+		}
+	},
+	{
+		"naam": "Yvonne de Graaff",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 29
+			}
+		}
+	},
+	{
+		"naam": "Maxime de Lange",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 30
+			}
+		}
+	},
+	{
+		"naam": "Kay Burgemeester",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 31
+			}
+		}
+	},
+	{
+		"naam": "Patty Spoek",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 32
+			}
+		}
+	},
+	{
+		"naam": "Cirano van Haarlem",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 33
+			}
+		}
+	},
+	{
+		"naam": "Yolande Boom",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 34
+			}
+		}
+	},
+	{
+		"naam": "Claire Middelkoop",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 35
+			}
+		}
+	},
+	{
+		"naam": "Elisabeth de Heer",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 37
+			}
+		}
+	},
+	{
+		"naam": "Remco Roelofs",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 38
+			}
+		}
+	},
+	{
+		"naam": "Tibor Wouda",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 40
+			}
+		}
+	},
+	{
+		"naam": "Machiel de Graaf",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 43
+			}
+		}
+	},
+	{
+		"naam": "Chris Meijdam",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 44
+			}
+		}
+	},
+	{
+		"naam": "Pim van Rijswijk",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 45
+			}
+		}
+	},
+	{
+		"naam": "Hans van de Breevaart",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 46
+			}
+		}
+	},
+	{
+		"naam": "Bas Filippini",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 47
+			}
+		}
+	},
+	{
+		"naam": "Leroy Alberts",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 49
 			}
 		}
 	}

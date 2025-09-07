@@ -5,6 +5,10 @@
 			"tk2023": {
 				"lijstnummer": 1,
 				"woonplaats": "Rotterdam"
+			},
+			"tk2025": {
+				"lijstnummer": 1,
+				"woonplaats": "Rotterdam"
 			}
 		}
 	},
@@ -14,6 +18,28 @@
 			"tk2023": {
 				"lijstnummer": 2,
 				"woonplaats": "Amsterdam"
+			},
+			"tk2025": {
+				"lijstnummer": 2,
+				"woonplaats": "Amsterdam"
+			}
+		}
+	},
+	{
+		"naam": "Ingrid Coenradie",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 3,
+				"woonplaats": "Rotterdam"
+			}
+		}
+	},
+	{
+		"naam": "Michiel Hoogeveen",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 4,
+				"woonplaats": "Oegstgeest"
 			}
 		}
 	},
@@ -23,6 +49,431 @@
 			"tk2023": {
 				"lijstnummer": 3,
 				"woonplaats": "Rotterdam"
+			},
+			"tk2025": {
+				"lijstnummer": 5,
+				"woonplaats": "Rotterdam"
+			}
+		}
+	},
+	{
+		"naam": "Diederik Boomsma",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 6,
+				"woonplaats": "Amsterdam"
+			}
+		}
+	},
+	{
+		"naam": "Daniël van den Berg",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 10,
+				"woonplaats": "Huizen"
+			},
+			"tk2025": {
+				"lijstnummer": 7,
+				"woonplaats": "Huizen"
+			}
+		}
+	},
+	{
+		"naam": "Maarten Goudzwaard",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 6,
+				"woonplaats": "Leeuwarden"
+			},
+			"tk2025": {
+				"lijstnummer": 8,
+				"woonplaats": "Leeuwarden"
+			}
+		}
+	},
+	{
+		"naam": "Ranjith Clemminck-Croci",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 9,
+				"woonplaats": "Utrecht"
+			}
+		}
+	},
+	{
+		"naam": "Michel van Elck",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 10,
+				"woonplaats": "Rotterdam"
+			}
+		}
+	},
+	{
+		"naam": "Philippe Schyns",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 7,
+				"woonplaats": "Maastricht"
+			},
+			"tk2025": {
+				"lijstnummer": 11,
+				"woonplaats": "Maastricht"
+			}
+		}
+	},
+	{
+		"naam": "Geert Koster",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 12,
+				"woonplaats": "Rotterdam"
+			}
+		}
+	},
+	{
+		"naam": "Stijn Hesselink",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 12,
+				"woonplaats": "Albergen"
+			},
+			"tk2025": {
+				"lijstnummer": 13,
+				"woonplaats": "Albergen"
+			}
+		}
+	},
+	{
+		"naam": "Ivo Mantel",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 14,
+				"woonplaats": "Hoogkarspel"
+			}
+		}
+	},
+	{
+		"naam": "Cynthia Gordijn",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 26,
+				"woonplaats": "Krommenie"
+			},
+			"tk2025": {
+				"lijstnummer": 15,
+				"woonplaats": "Krommenie"
+			}
+		}
+	},
+	{
+		"naam": "Matthias Jager",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 16,
+				"woonplaats": "Abcoude"
+			}
+		}
+	},
+	{
+		"naam": "Floor van Scherpenzeel",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 17,
+				"woonplaats": "Groningen"
+			}
+		}
+	},
+	{
+		"naam": "Ronald Dijksterhuis",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 9,
+				"woonplaats": "Dantumadiel"
+			},
+			"tk2025": {
+				"lijstnummer": 18,
+				"woonplaats": "Dokkum"
+			}
+		}
+	},
+	{
+		"naam": "Kevin Nuijten",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 13,
+				"woonplaats": "Oosterhout"
+			},
+			"tk2025": {
+				"lijstnummer": 19,
+				"woonplaats": "Oosteind"
+			}
+		}
+	},
+	{
+		"naam": "Thom van Vugt",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 19,
+				"woonplaats": "Vlaardingen"
+			},
+			"tk2025": {
+				"lijstnummer": 20,
+				"woonplaats": "Vlaardingen"
+			}
+		}
+	},
+	{
+		"naam": "Leon Baten",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 16,
+				"woonplaats": "Rotterdam"
+			},
+			"tk2025": {
+				"lijstnummer": 21,
+				"woonplaats": "Rotterdam"
+			}
+		}
+	},
+	{
+		"naam": "Stijn van Ede",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 22,
+				"woonplaats": "Den Haag"
+			}
+		}
+	},
+	{
+		"naam": "Ruben Laurijssens",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 23,
+				"woonplaats": "Brussel"
+			}
+		}
+	},
+	{
+		"naam": "Melissa Hoogerwerf",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 24,
+				"woonplaats": "Amersfoort"
+			}
+		}
+	},
+	{
+		"naam": "Roy de Bruin",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 25,
+				"woonplaats": "Tilburg"
+			}
+		}
+	},
+	{
+		"naam": "Roman Determan",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 26,
+				"woonplaats": "Bleiswijk"
+			}
+		}
+	},
+	{
+		"naam": "Pauline de Bes",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 27,
+				"woonplaats": "Wassenaar"
+			}
+		}
+	},
+	{
+		"naam": "Gert Heijkoop",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 28,
+				"woonplaats": "Kortgene"
+			}
+		}
+	},
+	{
+		"naam": "Nawin Ramcharan",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 29,
+				"woonplaats": "Barendrecht"
+			}
+		}
+	},
+	{
+		"naam": "Frans van Zaalen",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 30,
+				"woonplaats": "Rhoon"
+			}
+		}
+	},
+	{
+		"naam": "Jaimy Meyer",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 31,
+				"woonplaats": "Nijmegen"
+			}
+		}
+	},
+	{
+		"naam": "Maike Manon Damen-Flobbe",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 32,
+				"woonplaats": "Langenboom"
+			}
+		}
+	},
+	{
+		"naam": "Servaas Roos",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 14,
+				"woonplaats": "Cappelle aan de IJssel"
+			},
+			"tk2025": {
+				"lijstnummer": 33,
+				"woonplaats": "Oud Beijerland"
+			}
+		}
+	},
+	{
+		"naam": "Dennis Lens van Rijn",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 34,
+				"woonplaats": "Rotterdam"
+			}
+		}
+	},
+	{
+		"naam": "Paul Chung",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 35,
+				"woonplaats": "Valkenburg"
+			}
+		}
+	},
+	{
+		"naam": "Hans Kövi",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 17,
+				"woonplaats": "Bilthoven"
+			},
+			"tk2025": {
+				"lijstnummer": 36,
+				"woonplaats": "Bilthoven"
+			}
+		}
+	},
+	{
+		"naam": "Mees Uijens",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 37,
+				"woonplaats": "Eindhoven"
+			}
+		}
+	},
+	{
+		"naam": "Nima Hakim",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 38,
+				"woonplaats": "Delft"
+			}
+		}
+	},
+	{
+		"naam": "Arthur van Geest",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 39,
+				"woonplaats": "Den Haag"
+			}
+		}
+	},
+	{
+		"naam": "Philip Drent",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 40,
+				"woonplaats": "Arnhem"
+			}
+		}
+	},
+	{
+		"naam": "Ian Patrick Meere",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 41,
+				"woonplaats": "Den Haag"
+			}
+		}
+	},
+	{
+		"naam": "Marnix van den Berk",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 42,
+				"woonplaats": "Etten-Leur"
+			}
+		}
+	},
+	{
+		"naam": "Artak Avdaljan",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 43,
+				"woonplaats": "Amstenrade"
+			}
+		}
+	},
+	{
+		"naam": "Jens Ernst",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 44,
+				"woonplaats": "Panningen"
+			}
+		}
+	},
+	{
+		"naam": "Marco Pastors",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 37,
+				"woonplaats": "Rotterdam"
+			},
+			"tk2025": {
+				"lijstnummer": 45,
+				"woonplaats": "Rotterdam"
+			}
+		}
+	},
+	{
+		"naam": "Simon Fortuyn",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 38,
+				"woonplaats": "Lansingerland"
+			},
+			"tk2025": {
+				"lijstnummer": 46,
+				"woonplaats": "Krimpen aan den IJssel"
 			}
 		}
 	},
@@ -45,47 +496,11 @@
 		}
 	},
 	{
-		"naam": "Maarten Goudzwaard",
-		"verkiezingen": {
-			"tk2023": {
-				"lijstnummer": 6,
-				"woonplaats": "Leeuwarden"
-			}
-		}
-	},
-	{
-		"naam": "Philippe Schyns",
-		"verkiezingen": {
-			"tk2023": {
-				"lijstnummer": 7,
-				"woonplaats": "Maastricht"
-			}
-		}
-	},
-	{
 		"naam": "Kelly Uiterwijk",
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 8,
 				"woonplaats": "Beverwijk"
-			}
-		}
-	},
-	{
-		"naam": "Ronald Dijksterhuis",
-		"verkiezingen": {
-			"tk2023": {
-				"lijstnummer": 9,
-				"woonplaats": "Dantumadiel"
-			}
-		}
-	},
-	{
-		"naam": "Daniël van den Berg",
-		"verkiezingen": {
-			"tk2023": {
-				"lijstnummer": 10,
-				"woonplaats": "Huizen"
 			}
 		}
 	},
@@ -99,33 +514,6 @@
 		}
 	},
 	{
-		"naam": "Stijn Hesselink",
-		"verkiezingen": {
-			"tk2023": {
-				"lijstnummer": 12,
-				"woonplaats": "Albergen"
-			}
-		}
-	},
-	{
-		"naam": "Kevin Nuijten",
-		"verkiezingen": {
-			"tk2023": {
-				"lijstnummer": 13,
-				"woonplaats": "Oosterhout"
-			}
-		}
-	},
-	{
-		"naam": "Servaas Roos",
-		"verkiezingen": {
-			"tk2023": {
-				"lijstnummer": 14,
-				"woonplaats": "Cappelle aan de IJssel"
-			}
-		}
-	},
-	{
 		"naam": "Maryam Soltani",
 		"verkiezingen": {
 			"tk2023": {
@@ -135,38 +523,11 @@
 		}
 	},
 	{
-		"naam": "Leon Baten",
-		"verkiezingen": {
-			"tk2023": {
-				"lijstnummer": 16,
-				"woonplaats": "Rotterdam"
-			}
-		}
-	},
-	{
-		"naam": "Hans Kövi",
-		"verkiezingen": {
-			"tk2023": {
-				"lijstnummer": 17,
-				"woonplaats": "Bilthoven"
-			}
-		}
-	},
-	{
 		"naam": "Luuk Wilson",
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 18,
 				"woonplaats": "IJsselmonde"
-			}
-		}
-	},
-	{
-		"naam": "Thom van Vugt",
-		"verkiezingen": {
-			"tk2023": {
-				"lijstnummer": 19,
-				"woonplaats": "Vlaardingen"
 			}
 		}
 	},
@@ -196,7 +557,7 @@
 			}
 		}
 	},
-	{	
+	{
 		"naam": "Frank Kauffmann",
 		"verkiezingen": {
 			"tk2023": {
@@ -220,15 +581,6 @@
 			"tk2023": {
 				"lijstnummer": 25,
 				"woonplaats": "Tholen"
-			}
-		}
-	},
-	{
-		"naam": "Cynthia Gordijn",
-		"verkiezingen": {
-			"tk2023": {
-				"lijstnummer": 26,
-				"woonplaats": "Krommenie"
 			}
 		}
 	},
@@ -293,7 +645,8 @@
 			}
 		}
 	},
-	{		"naam": "Gabe de Groot",
+	{
+		"naam": "Gabe de Groot",
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 34,
@@ -316,24 +669,6 @@
 			"tk2023": {
 				"lijstnummer": 36,
 				"woonplaats": "Beekdaelen"
-			}
-		}
-	},
-	{
-		"naam": "Marco Pastors",
-		"verkiezingen": {
-			"tk2023": {
-				"lijstnummer": 37,
-				"woonplaats": "Rotterdam"
-			}
-		}
-	},
-	{
-		"naam": "Simon Fortuijn",
-		"verkiezingen": {
-			"tk2023": {
-				"lijstnummer": 38,
-				"woonplaats": "Lansingerland"
 			}
 		}
 	}

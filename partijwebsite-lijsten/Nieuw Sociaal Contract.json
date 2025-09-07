@@ -17,9 +17,17 @@
 	},
 	{
 		"naam": "Judith Uitermark",
+		"url": {
+			"partijwebsite": "https://partijnieuwsociaalcontract.nl/kandidaten/2-judith-uitermark",
+			"linkedin": "https://www.linkedin.com/in/judith-uitermark-820278a7/"
+		},
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 3
+			},
+			"tk2025": {
+				"lijstnummer": 2,
+				"woonplaats": "Vijfhuizen"
 			}
 		}
 	},
@@ -41,9 +49,20 @@
 	},
 	{
 		"naam": "Eddy van Hijum",
+		"url": {
+			"partijwebsite": "https://partijnieuwsociaalcontract.nl/eddy-van-hijum",
+			"linkedin": "https://www.linkedin.com/in/eddy-van-hijum-407b786/",
+			"twitter": "https://x.com/vanHijum",
+			"instagram": "https://www.instagram.com/eddyvanhijum?igsh=MW9mdXF3cnRwbGs1Nw=="
+
+		},
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 6
+			},
+			"tk2025": {
+				"lijstnummer": 1,
+				"woonplaats": "Laag Zuthem"
 			}
 		}
 	},
@@ -73,9 +92,19 @@
 	},
 	{
 		"naam": "Merlien Welzijn",
+		"url": {
+			"partijwebsite": "https://partijnieuwsociaalcontract.nl/kandidaten/3-merlien-welzijn",
+			"linkedin": "https://www.linkedin.com/in/merlienwelzijn/",
+			"twitter": "https://x.com/Merlien_Welzijn",
+			"instagram": "https://www.instagram.com/merlienwelzijn/"
+		},
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 10
+			},
+			"tk2025": {
+				"lijstnummer": 3,
+				"woonplaats": "Rotterdam"
 			}
 		}
 	},
@@ -113,9 +142,17 @@
 	},
 	{
 		"naam": "Tjebbe van Oostenbruggen",
+		"url": {
+			"partijwebsite": "https://partijnieuwsociaalcontract.nl/kandidaten/4-tjebbe-van-oostenbruggen",
+			"linkedin": "https://www.linkedin.com/in/tjebbevanoostenbruggen/"
+		},
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 15
+			},
+			"tk2025": {
+				"lijstnummer": 4,
+				"woonplaats": "De Meern"
 			}
 		}
 	},
@@ -140,6 +177,10 @@
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 18
+			},
+			"tk2025": {
+				"lijstnummer": 8,
+				"woonplaats": "Almere"
 			}
 		}
 	},
@@ -180,6 +221,10 @@
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 23
+			},
+			"tk2025": {
+				"lijstnummer": 6,
+				"woonplaats": "Winterswijk"
 			}
 		}
 	},
@@ -188,6 +233,10 @@
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 24
+			},
+			"tk2025": {
+				"lijstnummer": 5,
+				"woonplaats": "Stein"
 			}
 		}
 	},
@@ -196,6 +245,10 @@
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 25
+			},
+			"tk2025": {
+				"lijstnummer": 11,
+				"woonplaats": "Den Haag"
 			}
 		}
 	},
@@ -220,6 +273,10 @@
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 28
+			},
+			"tk2025": {
+				"lijstnummer": 17,
+				"woonplaats": "Baambrugge"
 			}
 		}
 	},
@@ -244,6 +301,10 @@
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 31
+			},
+			"tk2025": {
+				"lijstnummer": 13,
+				"woonplaats": "Den Haag"
 			}
 		}
 	},
@@ -252,6 +313,10 @@
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 32
+			},
+			"tk2025": {
+				"lijstnummer": 12,
+				"woonplaats": "Brussel"
 			}
 		}
 	},
@@ -340,6 +405,10 @@
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 43
+			},
+			"tk2025": {
+				"lijstnummer": 14,
+				"woonplaats": "Zoetermeer"
 			}
 		}
 	},
@@ -348,6 +417,181 @@
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 44
+			},
+			"tk2025": {
+				"lijstnummer": 10,
+				"woonplaats": "Den Haag"
+			}
+		}
+	},
+	{
+		"naam": "Jurr van Dalen",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 7,
+				"woonplaats": "Zuidwolde"
+			}
+		}
+	},
+	{
+		"naam": "Thomas Beukema",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 9,
+				"woonplaats": "Utrecht"
+			}
+		}
+	},
+	{
+		"naam": "Jan Vredenburg",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 15,
+				"woonplaats": "Giethoorn"
+			}
+		}
+	},
+	{
+		"naam": "Jamilja van der Meulen",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 16,
+				"woonplaats": "Wijnandsrade"
+			}
+		}
+	},
+	{
+		"naam": "Rinke van der Duim",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 18,
+				"woonplaats": "Smallingerland"
+			}
+		}
+	},
+	{
+		"naam": "Mireille Louwerens-Huys",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 19,
+				"woonplaats": "Hoeksche Waard"
+			}
+		}
+	},
+	{
+		"naam": "Quintijn Mauer",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 20,
+				"woonplaats": "Arnhem"
+			}
+		}
+	},
+	{
+		"naam": "Inge Mol",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 21,
+				"woonplaats": "Beek"
+			}
+		}
+	},
+	{
+		"naam": "Patrick Goorhuis",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 22,
+				"woonplaats": "Hof van Twente"
+			}
+		}
+	},
+	{
+		"naam": "Kristan IJkema",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 23,
+				"woonplaats": "Den Haag"
+			}
+		}
+	},
+	{
+		"naam": "Luka Bootsma",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 24,
+				"woonplaats": "Leiden"
+			}
+		}
+	},
+	{
+		"naam": "Tatjana Meijvogel-Volk",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 25,
+				"woonplaats": "Apeldoorn"
+			}
+		}
+	},
+	{
+		"naam": "Kevin Hermse",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 26,
+				"woonplaats": "Dordrecht"
+			}
+		}
+	},
+	{
+		"naam": "Wilhelmina Steijling",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 27,
+				"woonplaats": "Den Haag"
+			}
+		}
+	},
+	{
+		"naam": "Jos Roelofs",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 28,
+				"woonplaats": "Beek"
+			}
+		}
+	},
+	{
+		"naam": "Jos van Ginneken",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 29,
+				"woonplaats": "Breda"
+			}
+		}
+	},
+	{
+		"naam": "Dirk Gotink",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 30,
+				"woonplaats": "Brussel"
+			}
+		}
+	},
+	{
+		"naam": "Titia Jonkman",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 31,
+				"woonplaats": "'s-Graveland"
+			}
+		}
+	},
+	{
+		"naam": "Colette Kersten",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 32,
+				"woonplaats": "Etten-Leur"
 			}
 		}
 	}

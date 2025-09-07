@@ -11,9 +11,16 @@
 			"tk2023": {
 				"lijstnummer": 1,
 				"woonplaats": "Gouda"
+			},
+			"tk2025": {
+				"lijstnummer": 1,
+				"woonplaats": "Gouda"
 			}
 		},
-		"geboortejaar": 1982
+		"geboortejaar": 1982,
+		"functies": [
+			"Fractievoorzitter ChristenUnie Tweede Kamerfractie"
+		]
 	},
 	{
 		"naam": "Pieter Grinwis",
@@ -27,9 +34,16 @@
 			"tk2023": {
 				"lijstnummer": 2,
 				"woonplaats": "Den Haag"
+			},
+			"tk2025": {
+				"lijstnummer": 2,
+				"woonplaats": "Den Haag"
 			}
 		},
-		"geboortejaar": 1979
+		"geboortejaar": 1979,
+		"functies": [
+			"Tweede Kamerlid ChristenUnie"
+		]
 	},
 	{
 		"naam": "Don Ceder",
@@ -43,9 +57,16 @@
 			"tk2023": {
 				"lijstnummer": 3,
 				"woonplaats": "Amsterdam"
+			},
+			"tk2025": {
+				"lijstnummer": 3,
+				"woonplaats": "Amsterdam"
 			}
 		},
-		"geboortejaar": 1989
+		"geboortejaar": 1989,
+		"functies": [
+			"Tweede Kamerlid ChristenUnie"
+		]
 	},
 	{
 		"naam": "Alwin te Rietstap",
@@ -59,9 +80,18 @@
 			"tk2023": {
 				"lijstnummer": 4,
 				"woonplaats": "Kloosterhaar"
+			},
+			"tk2025": {
+				"lijstnummer": 4,
+				"woonplaats": "Kloosterhaar"
 			}
 		},
-		"geboortejaar": 1979
+		"geboortejaar": 1979,
+		"functies": [
+			"Wethouder gemeente Hardenberg",
+			"Voorzitter RVT Verre Naasten (mission organisatie)",
+			"Voorzitter herdenkingscomité gevallenen Bergentheim e.o."
+		]
 	},
 	{
 		"naam": "Joëlle Gooijer-Medema",
@@ -75,9 +105,16 @@
 			"tk2023": {
 				"lijstnummer": 5,
 				"woonplaats": "Delft"
+			},
+			"tk2025": {
+				"lijstnummer": 5,
+				"woonplaats": "Delft"
 			}
 		},
-		"geboortejaar": 1976
+		"geboortejaar": 1976,
+		"functies": [
+			"Wethouder Jeugd & Onderwijs, Ouderen, Armoede en Inclusief Samenleven"
+		]
 	},
 	{
 		"naam": "Nico Drost",
@@ -91,9 +128,17 @@
 			"tk2023": {
 				"lijstnummer": 6,
 				"woonplaats": "Rhenen"
+			},
+			"tk2025": {
+				"lijstnummer": 6,
+				"woonplaats": "Rhenen"
 			}
 		},
-		"geboortejaar": 1980
+		"geboortejaar": 1980,
+		"functies": [
+			"Ondernemer en Adviseur in de Nederlandse Maakindustrie",
+			"Betrokken bij long covid-patiëntenorganisaties"
+		]
 	},
 	{
 		"naam": "Tobias Holtman",
@@ -105,9 +150,17 @@
 			"tk2023": {
 				"lijstnummer": 7,
 				"woonplaats": "Aalten"
+			},
+			"tk2025": {
+				"lijstnummer": 10,
+				"woonplaats": "Aalten"
 			}
 		},
-		"geboortejaar": 1988
+		"geboortejaar": 1988,
+		"functies": [
+			"Raadslid/fractievoorzitter ChristenUnie Aalten",
+			"Teammanager sociaal beleid gemeente Zevenaar"
+		]
 	},
 	{
 		"naam": "Cora Otter-van den Bosch",
@@ -121,9 +174,16 @@
 			"tk2023": {
 				"lijstnummer": 8,
 				"woonplaats": "Bennekom"
+			},
+			"tk2025": {
+				"lijstnummer": 9,
+				"woonplaats": "Bennekom"
 			}
 		},
-		"geboortejaar": 1969
+		"geboortejaar": 1969,
+		"functies": [
+			"Raadslid ChristenUnie Ede"
+		]
 	},
 	{
 		"naam": "Stieneke van der Graaf",
@@ -169,9 +229,19 @@
 			"tk2023": {
 				"lijstnummer": 11,
 				"woonplaats": "Wirdum"
+			},
+			"tk2025": {
+				"lijstnummer": 7,
+				"woonplaats": "Wirdum"
 			}
 		},
-		"geboortejaar": 1986
+		"geboortejaar": 1986,
+		"functies": [
+			"Beleidsadviseur bij de gemeente Súdwest Fryslân binnen het sociaal domein",
+			"Fractievoorzitter ChristenUnie Leeuwarden",
+			"Vrijwilliger Hope4Ukraine",
+			"Lid Gilderaad Schutterij de Eendracht Ulft"
+		]
 	},
 	{
 		"naam": "Jerke Setz",
@@ -200,9 +270,17 @@
 			"tk2023": {
 				"lijstnummer": 13,
 				"woonplaats": "Eindhoven"
+			},
+			"tk2025": {
+				"lijstnummer": 14,
+				"woonplaats": "Eindhoven"
 			}
 		},
-		"geboortejaar": 1992
+		"geboortejaar": 1992,
+		"functies": [
+			"Portfolio Manager bij ASML",
+			"Voorzitter stichtingsbestuur Jongerencentrum Pitstop"
+		]
 	},
 	{
 		"naam": "Arjan Langen",
@@ -278,9 +356,17 @@
 			"tk2023": {
 				"lijstnummer": 18,
 				"woonplaats": "Vlaardingen"
+			},
+			"tk2025": {
+				"lijstnummer": 8,
+				"woonplaats": "Vlaardingen"
 			}
 		},
-		"geboortejaar": 1999
+		"geboortejaar": 1999,
+		"functies": [
+			"Fractievoorzitter ChristenUnie-SGP Vlaardingen",
+			"Docent Geschiedenis en examensecretaris ISW Westland Vakcollege"
+		]
 	},
 	{
 		"naam": "Gaetan Mbwete",
@@ -294,6 +380,10 @@
 			"tk2023": {
 				"lijstnummer": 19,
 				"woonplaats": "Den Haag"
+			},
+			"tk2025": {
+				"lijstnummer": 18,
+				"woonplaats": "Den Haag"
 			}
 		},
 		"geboortejaar": 1987
@@ -305,6 +395,10 @@
 		},
 		"verkiezingen": {
 			"tk2023": {
+				"lijstnummer": 20,
+				"woonplaats": "Groningen"
+			},
+			"tk2025": {
 				"lijstnummer": 20,
 				"woonplaats": "Groningen"
 			}
@@ -368,9 +462,16 @@
 			"tk2023": {
 				"lijstnummer": 24,
 				"woonplaats": "Heteren"
+			},
+			"tk2025": {
+				"lijstnummer": 15,
+				"woonplaats": "Heteren"
 			}
 		},
-		"geboortejaar": 1974
+		"geboortejaar": 1974,
+		"functies": [
+			"Senior researcher Landscape Governance aan de Wageningen University & Research"
+		]
 	},
 	{
 		"naam": "Ingeborg Dijkstra-Verbeek",
@@ -414,6 +515,10 @@
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 27,
+				"woonplaats": "Bunschoten-Spakenburg"
+			},
+			"tk2025": {
+				"lijstnummer": 33,
 				"woonplaats": "Bunschoten-Spakenburg"
 			}
 		},
@@ -637,6 +742,10 @@
 			"tk2023": {
 				"lijstnummer": 42,
 				"woonplaats": "Arnhem"
+			},
+			"tk2025": {
+				"lijstnummer": 28,
+				"woonplaats": "Arnhem"
 			}
 		},
 		"geboortejaar": 1987
@@ -758,5 +867,278 @@
 			}
 		},
 		"geboortejaar": 1976
+	},
+	{
+		"naam": "Inge Jongman-Mollema",
+		"urls": {},
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 11,
+				"woonplaats": "Groningen"
+			}
+		},
+		"geboortejaar": 1969,
+		"functies": [
+			"Wethouder gemeente Groningen"
+		]
+	},
+	{
+		"naam": "Maarten van Ooijen",
+		"urls": {},
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 12,
+				"woonplaats": "Utrecht"
+			}
+		},
+		"geboortejaar": 1990,
+		"functies": [
+			"Programmadirecteur Leger des Heils"
+		]
+	},
+	{
+		"naam": "Harmjan Vedder",
+		"urls": {},
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 13,
+				"woonplaats": "Enschede"
+			}
+		},
+		"geboortejaar": 1987,
+		"functies": [
+			"Wethouder Jeugd, Onderwijs en Zorg, Gemeente Enschede"
+		]
+	},
+	{
+		"naam": "Hetty Egger-van Oppen",
+		"urls": {},
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 16,
+				"woonplaats": "Vierlingsbeek"
+			}
+		},
+		"geboortejaar": 1966
+	},
+	{
+		"naam": "Roos Jonkheer-Vos",
+		"urls": {},
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 17,
+				"woonplaats": "Wierden"
+			}
+		},
+		"geboortejaar": 1998
+	},
+	{
+		"naam": "Harmke Vlieg-Kempe",
+		"urls": {},
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 19,
+				"woonplaats": "Assen"
+			}
+		},
+		"geboortejaar": 1974
+	},
+	{
+		"naam": "Willemien Treurniet-Klapwijk",
+		"urls": {},
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 21,
+				"woonplaats": "Middelburg"
+			}
+		},
+		"geboortejaar": 1972
+	},
+	{
+		"naam": "Jennifer Elskamp-Hofstede",
+		"urls": {},
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 22,
+				"woonplaats": "Nunspeet"
+			}
+		},
+		"geboortejaar": 1978
+	},
+	{
+		"naam": "Robert de Heer",
+		"urls": {},
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 23,
+				"woonplaats": "Dordrecht"
+			}
+		},
+		"geboortejaar": 1986
+	},
+	{
+		"naam": "Henco Cecilia",
+		"urls": {},
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 24,
+				"woonplaats": "Rotterdam"
+			}
+		},
+		"geboortejaar": 1966
+	},
+	{
+		"naam": "Auke Pasterkamp",
+		"urls": {},
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 25,
+				"woonplaats": "Urk"
+			}
+		},
+		"geboortejaar": 1983
+	},
+	{
+		"naam": "Francis van der Mooren",
+		"urls": {},
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 26,
+				"woonplaats": "Eys"
+			}
+		},
+		"geboortejaar": 1977
+	},
+	{
+		"naam": "Ruben van de Belt",
+		"urls": {},
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 27,
+				"woonplaats": "Zwolle"
+			}
+		},
+		"geboortejaar": 1991
+	},
+	{
+		"naam": "Ad de Boer",
+		"urls": {},
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 29,
+				"woonplaats": "Nijkerk"
+			}
+		},
+		"geboortejaar": 1946
+	},
+	{
+		"naam": "Wim Voskamp",
+		"urls": {},
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 30,
+				"woonplaats": "Poeldijk"
+			}
+		},
+		"geboortejaar": 1971
+	},
+	{
+		"naam": "Jaco van Hoorn",
+		"urls": {},
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 31,
+				"woonplaats": "Nieuwerkerk aan de IJssel"
+			}
+		},
+		"geboortejaar": 1961
+	},
+	{
+		"naam": "Matthijs de Vries",
+		"urls": {},
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 32,
+				"woonplaats": "Leeuwarden"
+			}
+		},
+		"geboortejaar": 1980
+	},
+	{
+		"naam": "Sitsofe Quarshie",
+		"urls": {},
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 34,
+				"woonplaats": "Amsterdam"
+			}
+		},
+		"geboortejaar": 1998
+	},
+	{
+		"naam": "Marcel Koning",
+		"urls": {},
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 35,
+				"woonplaats": "Amersfoort"
+			}
+		},
+		"geboortejaar": 1974
+	},
+	{
+		"naam": "Ed Bosma",
+		"urls": {},
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 36,
+				"woonplaats": "Almere"
+			}
+		},
+		"geboortejaar": 1959
+	},
+	{
+		"naam": "Gerard Stoop",
+		"urls": {},
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 37,
+				"woonplaats": "Hendrik-Ido-Ambacht"
+			}
+		},
+		"geboortejaar": 1974
+	},
+	{
+		"naam": "Twan Moes",
+		"urls": {},
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 38,
+				"woonplaats": "Stadskanaal"
+			}
+		},
+		"geboortejaar": 2003
+	},
+	{
+		"naam": "Dianne Hoefakker",
+		"urls": {},
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 39,
+				"woonplaats": "Amstelveen"
+			}
+		},
+		"geboortejaar": 1984
+	},
+	{
+		"naam": "Jeroen Westendorp",
+		"urls": {},
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 40,
+				"woonplaats": "Roden"
+			}
+		},
+		"geboortejaar": 1981
 	}
 ]

@@ -2,21 +2,39 @@
 	{
 		"naam": "Frans Timmermans",
 		"urls": {
-			"partijwebsite": "https://groenlinkspvda.nl/frans-timmermans"
+			"partijwebsite": "https://groenlinkspvda.nl/frans-timmermans",
+			"facebook": "https://www.facebook.com/frans.timmermans",
+			"twitter": "https://twitter.com/F__Timmermans",
+			"linkedin": "https://www.linkedin.com/in/frans-timmermans/",
+			"instagram": "https://www.instagram.com/frans__timmermans"
 		},
+		"functies": "Lijsttrekker GroenLinks-PvdA",
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 1
+			},
+			"tk2025": {
+				"lijstnummer": 1,
+				"woonplaats": "Maastricht"
 			}
 		}
 	},
 	{
 		"naam": "Esmah Lahlah",
 		"urls": {
-			"partijwebsite": "https://groenlinkspvda.nl/kandidaat/esmah-lahlah/"
+			"partijwebsite": "https://groenlinkspvda.nl/kandidaat/esmah-lahlah/",
+			"linkedin": "https://nl.linkedin.com/in/esmah-lahlah-2b136212",
+			"instagram": "https://www.instagram.com/esmah_lahlah/",
+			"facebook": "https://www.facebook.com/p/Esmah-Lahlah-61552804886756/",
+			"twitter": "https://x.com/a_lahlah"
 		},
+		"functies": "Tweede Kamerlid",
 		"verkiezingen": {
 			"tk2023": {
+				"lijstnummer": 2,
+				"woonplaats": "Tilburg"
+			},
+			"tk2025": {
 				"lijstnummer": 2,
 				"woonplaats": "Tilburg"
 			}
@@ -25,10 +43,19 @@
 	{
 		"naam": "Jesse Klaver",
 		"urls": {
-			"partijwebsite": "https://groenlinkspvda.nl/kandidaat/jesse-klaver/"
+			"partijwebsite": "https://groenlinkspvda.nl/kandidaat/jesse-klaver/",
+			"linkedin": "https://nl.linkedin.com/in/jesseklaver",
+			"instagram": "https://www.instagram.com/jesseklaver/",
+			"tiktok": "https://www.tiktok.com/@jesse.klaver",
+			"bsky": "https://bsky.app/profile/did:plc:d2abjpdrusdj5ukgka2diups"
 		},
+		"functies": "Tweede Kamerlid en vice-fractievoorzitter",
 		"verkiezingen": {
 			"tk2023": {
+				"lijstnummer": 3,
+				"woonplaats": "Den Haag"
+			},
+			"tk2025": {
 				"lijstnummer": 3,
 				"woonplaats": "Den Haag"
 			}
@@ -37,10 +64,19 @@
 	{
 		"naam": "Kati Piri",
 		"urls": {
-			"partijwebsite": "https://groenlinkspvda.nl/kandidaat/kati-piri/"
+			"partijwebsite": "https://groenlinkspvda.nl/kandidaat/kati-piri/",
+			"linkedin": "https://nl.linkedin.com/in/kati-piri-4ab3a02",
+			"instagram": "https://www.instagram.com/katipiri/",
+			"bsky": "https://bsky.app/profile/katipiri.bsky.social",
+			"twitter": "https://x.com/KatiPiri?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
 		},
+		"functies": "Tweede Kamerlid",
 		"verkiezingen": {
 			"tk2023": {
+				"lijstnummer": 4,
+				"woonplaats": "Den Haag"
+			},
+			"tk2025": {
 				"lijstnummer": 4,
 				"woonplaats": "Den Haag"
 			}
@@ -49,10 +85,20 @@
 	{
 		"naam": "Lisa Westerveld",
 		"urls": {
-			"partijwebsite": "https://groenlinkspvda.nl/kandidaat/lisa-westerveld/"
+			"partijwebsite": "https://groenlinkspvda.nl/kandidaat/lisa-westerveld/",
+			"facebook": "https://www.facebook.com/lisa.westerveld/",
+			"linkedin": "https://www.linkedin.com/in/lisawesterveld/",
+			"instagram": "https://www.instagram.com/lisa_westerveld/",
+			"bsky": "https://bsky.app/profile/lisawesterveld.bsky.social",
+			"twitter": "https://x.com/Lisawesterveld"
 		},
+		"functies": "Tweede Kamerlid",
 		"verkiezingen": {
 			"tk2023": {
+				"lijstnummer": 5,
+				"woonplaats": "Nijmegen"
+			},
+			"tk2025": {
 				"lijstnummer": 5,
 				"woonplaats": "Nijmegen"
 			}
@@ -61,11 +107,20 @@
 	{
 		"naam": "Mariëtte Patijn",
 		"urls": {
-			"partijwebsite": "https://groenlinkspvda.nl/kandidaat/mariette-patijn/"
+			"partijwebsite": "https://groenlinkspvda.nl/kandidaat/mariette-patijn/",
+			"linkedin": "https://nl.linkedin.com/in/mariettepatijn",
+			"instagram": "https://www.instagram.com/mariettepatijn/",
+			"bsky": "https://bsky.app/profile/patijn.bsky.social/post/3lbaxsl7pa22h",
+			"twitter": "https://x.com/mpatijn"
 		},
+		"functies": "Tweede Kamerlid",
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 6,
+				"woonplaats": "Hilversum"
+			},
+			"tk2025": {
+				"lijstnummer": 14,
 				"woonplaats": "Hilversum"
 			}
 		}
@@ -73,11 +128,20 @@
 	{
 		"naam": "Suzanne Kröger",
 		"urls": {
-			"partijwebsite": "https://groenlinkspvda.nl/kandidaat/suzanne-kroger/"
+			"partijwebsite": "https://groenlinkspvda.nl/kandidaat/suzanne-kroger/",
+			"linkedin": "https://www.linkedin.com/in/suzannekroger/?originalSubdomain=nl",
+			"instagram": "https://www.instagram.com/suzannekroger_gl/",
+			"bsky": "https://bsky.app/profile/suzannekroger.bsky.social",
+			"twitter": "https://x.com/suzanne_GL"
 		},
+		"functies": "Tweede Kamerlid",
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 7,
+				"woonplaats": "Amsterdam"
+			},
+			"tk2025": {
+				"lijstnummer": 12,
 				"woonplaats": "Amsterdam"
 			}
 		}
@@ -85,11 +149,22 @@
 	{
 		"naam": "Julian Bushoff",
 		"urls": {
-			"partijwebsite": "https://groenlinkspvda.nl/kandidaat/julian-bushoff/"
+			"partijwebsite": "https://groenlinkspvda.nl/kandidaat/julian-bushoff/",
+			"linkedin": "https://nl.linkedin.com/in/julianbushoff",
+			"instagram": "https://www.instagram.com/julianbushoff/?hl=nl",
+			"facebook": "https://www.facebook.com/T.J.Bushoff/?locale=nl_NL",
+			"tiktok": "https://www.tiktok.com/@julianbushoff",
+			"bsky": "https://bsky.app/profile/julianbushoff.bsky.social",
+			"twitter": "https://x.com/julianbushoff"
 		},
+		"functies": "Tweede Kamerlid",
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 8,
+				"woonplaats": "Groningen"
+			},
+			"tk2025": {
+				"lijstnummer": 11,
 				"woonplaats": "Groningen"
 			}
 		}
@@ -97,11 +172,21 @@
 	{
 		"naam": "Tom van der Lee",
 		"urls": {
-			"partijwebsite": "https://groenlinkspvda.nl/kandidaat/tom-van-der-lee/"
+			"partijwebsite": "https://groenlinkspvda.nl/kandidaat/tom-van-der-lee/",
+			"linkedin": "https://nl.linkedin.com/in/tomvanderlee",
+			"bsky": "https://web-cdn.bsky.app/profile/tomvanderlee.bsky.social",
+			"twitter": "https://x.com/TomvanderLee?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
+			"instagram": "https://www.instagram.com/tomvanderlee/",
+			"facebook": "https://nl-nl.facebook.com/tom.vanderlee1"
 		},
+		"functies": "Tweede Kamerlid | Eerste Ondervoorzitter Tweede Kamer",
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 9,
+				"woonplaats": "Amsterdam"
+			},
+			"tk2025": {
+				"lijstnummer": 16,
 				"woonplaats": "Amsterdam"
 			}
 		}
@@ -109,11 +194,20 @@
 	{
 		"naam": "Songül Mutluer",
 		"urls": {
-			"partijwebsite": "https://groenlinkspvda.nl/kandidaat/songul-mutluer/"
+			"partijwebsite": "https://groenlinkspvda.nl/kandidaat/songul-mutluer/",
+			"linkedin": "https://nl.linkedin.com/in/song%C3%BCl-mutluer-221119b",
+			"instagram": "https://www.instagram.com/songulmutluer/?hl=nl",
+			"facebook": "https://www.facebook.com/SongulMutluer1TK",
+			"twitter": "https://x.com/songulmutluer?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
 		},
+		"functies": "Tweede Kamerlid",
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 10,
+				"woonplaats": "Zaandam"
+			},
+			"tk2025": {
+				"lijstnummer": 17,
 				"woonplaats": "Zaandam"
 			}
 		}
@@ -121,11 +215,18 @@
 	{
 		"naam": "Laura Bromet",
 		"urls": {
-			"partijwebsite": "https://groenlinkspvda.nl/kandidaat/laura-bromet/"
+			"partijwebsite": "https://groenlinkspvda.nl/kandidaat/laura-bromet/",
+			"linkedin": "https://nl.linkedin.com/in/laura-bromet-b980aaa",
+			"bsky": "https://bsky.app/profile/laurabromet.bsky.social"
 		},
+		"functies": "Tweede Kamerlid | Voorzitter van de Commissie OCW",
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 11,
+				"woonplaats": "Monnickendam"
+			},
+			"tk2025": {
+				"lijstnummer": 9,
 				"woonplaats": "Monnickendam"
 			}
 		}
@@ -133,12 +234,22 @@
 	{
 		"naam": "Habtamu de Hoop",
 		"urls": {
-			"partijwebsite": "https://groenlinkspvda.nl/kandidaat/habtamu-de-hoop/"
+			"partijwebsite": "https://groenlinkspvda.nl/kandidaat/habtamu-de-hoop/",
+			"linkedin": "https://www.linkedin.com/in/habtamu-de-hoop-49649214b/?originalSubdomain=nl",
+			"instagram": "https://www.instagram.com/habtamudehoop/",
+			"facebook": "https://www.facebook.com/habtamuopwegnaardeverkiezingen/?locale=nl_NL",
+			"bsky": "https://bsky.app/profile/habtamudehoop.bsky.social/post/3llwcczk2l224",
+			"twitter": "https://x.com/habtamudehoop?lang=en"
 		},
+		"functies": "Tweede Kamerlid",
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 12,
 				"woonplaats": "Wommels"
+			},
+			"tk2025": {
+				"lijstnummer": 8,
+				"woonplaats": "Sneek"
 			}
 		}
 	},
@@ -157,23 +268,41 @@
 	{
 		"naam": "Mohammed Mohandis",
 		"urls": {
-			"partijwebsite": "https://groenlinkspvda.nl/kandidaat/mohammed-mohandis/"
+			"partijwebsite": "https://groenlinkspvda.nl/kandidaat/mohammed-mohandis/",
+			"linkedin": "https://www.linkedin.com/in/mohandis/",
+			"instagram": "https://www.instagram.com/momohandis/",
+			"bsky": "https://bsky.app/profile/momohandis.bsky.social",
+			"twitter": "https://x.com/momohandis"
 		},
+		"functies": "Tweede Kamerlid | Voorzitter vaste Kamercommissie Volksgezondheid Welzijn en Sport",
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 14,
 				"woonplaats": "Gouda"
+			},
+			"tk2025": {
+				"lijstnummer": 13
 			}
 		}
 	},
 	{
 		"naam": "Geert Gabriëls",
 		"urls": {
-			"partijwebsite": "https://groenlinkspvda.nl/kandidaat/geert-gabriels/"
+			"partijwebsite": "https://groenlinkspvda.nl/kandidaat/geert-gabriels/",
+			"linkedin": "https://www.linkedin.com/in/geert-gabri%C3%ABls-364780335/?originalSubdomain=nl",
+			"instagram": "https://www.instagram.com/gabrielsgeert/",
+			"facebook": "https://www.facebook.com/geert.gabriels.5/",
+			"bsky": "https://bsky.app/profile/geertgabriels.bsky.social",
+			"twitter": "https://x.com/geert_gabriels"
 		},
+		"functies": "Tweede Kamerlid",
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 15,
+				"woonplaats": "Weert"
+			},
+			"tk2025": {
+				"lijstnummer": 19,
 				"woonplaats": "Weert"
 			}
 		}
@@ -205,11 +334,19 @@
 	{
 		"naam": "Barbara Kathmann",
 		"urls": {
-			"partijwebsite": "https://groenlinkspvda.nl/kandidaat/barbara-kathmann/"
+			"partijwebsite": "https://groenlinkspvda.nl/kandidaat/barbara-kathmann/",
+			"linkedin": "https://nl.linkedin.com/in/barbara-kathmann-3a825738",
+			"instagram": "https://www.instagram.com/barbarakathmann",
+			"bsky": "https://bsky.app/profile/barbarakathmann.bsky.social"
 		},
+		"functies": "Tweede Kamerlid",
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 18,
+				"woonplaats": "Rotterdam"
+			},
+			"tk2025": {
+				"lijstnummer": 32,
 				"woonplaats": "Rotterdam"
 			}
 		}
@@ -229,11 +366,21 @@
 	{
 		"naam": "Mikal Tseggai",
 		"urls": {
-			"partijwebsite": "https://groenlinkspvda.nl/kandidaat/mikal-tseggai/"
+			"partijwebsite": "https://groenlinkspvda.nl/kandidaat/mikal-tseggai/",
+			"instagram": "https://www.instagram.com/mikaltseggai/",
+			"linkedin": "https://www.linkedin.com/in/mikaltseggai/",
+			"facebook": "https://www.facebook.com/MikalTseggai/",
+			"twitter": "https://www.twitter.com/mikaltseggai/",
+			"tiktok": "https://www.tiktok.com/@mikaltseggai/"
 		},
+		"functies": "Tweede Kamerlid",
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 20,
+				"woonplaats": "Den Haag"
+			},
+			"tk2025": {
+				"lijstnummer": 25,
 				"woonplaats": "Den Haag"
 			}
 		}
@@ -241,11 +388,20 @@
 	{
 		"naam": "Raoul White",
 		"urls": {
-			"partijwebsite": "https://groenlinkspvda.nl/kandidaat/raoul-white/"
+			"partijwebsite": "https://groenlinkspvda.nl/kandidaat/raoul-white/",
+			"linkedin": "https://www.linkedin.com/in/raoulwhite",
+			"instagram": "https://www.instagram.com/raoulwhite",
+			"facebook": "https://www.facebook.com/raoul.white.1",
+			"bsky": "https://bsky.app/profile/raoulwhite.bsky.social"
 		},
+		"functies": "Tweede Kamerlid | Voorzitter van de Commissie Verzoekschriften en Burgerinitiatieven | Lid van de Interparlementair Commissie van de Nederlandse Taalunie",
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 21,
+				"woonplaats": "Purmerend"
+			},
+			"tk2025": {
+				"lijstnummer": 30,
 				"woonplaats": "Purmerend"
 			}
 		}
@@ -253,23 +409,40 @@
 	{
 		"naam": "Anita Pijpelink",
 		"urls": {
-			"partijwebsite": "https://groenlinkspvda.nl/kandidaat/anita-pijpelink/"
+			"partijwebsite": "https://groenlinkspvda.nl/kandidaat/anita-pijpelink/",
+			"instagram": "https://instagram.com/anitapijpelink?igshid=MmIzYWVlNDQ5Yg==",
+			"linkedin": "https://www.linkedin.com/in/anita-pijpelink-b3544415",
+			"twitter": "https://x.com/apijpelink?s=11&t=PDqIpCIamINRYeL3LWmDWA"
 		},
+		"functies": "Tweede Kamerlid | Lid parlementaire enquêtecommissie corona",
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 22,
 				"woonplaats": "Middelburg"
+			},
+			"tk2025": {
+				"lijstnummer": 26
 			}
 		}
 	},
 	{
 		"naam": "Glimina Chakor",
 		"urls": {
-			"partijwebsite": "https://groenlinkspvda.nl/kandidaat/glimina-chakor/"
+			"partijwebsite": "https://groenlinkspvda.nl/kandidaat/glimina-chakor/",
+			"linkedin": "https://linkedin.com/in/glimina-chakor-41004a5a",
+			"instagram": "https://www.instagram.com/glimina_/",
+			"tiktok": "https://www.tiktok.com/@glimina/video/7484671134634446102",
+			"bluesky": "https://bsky.app/profile/gliminachakor.bsky.social",
+			"twitter": "https://x.com/gliminachakor"
 		},
+		"functies": "Tweede Kamerlid",
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 23,
+				"woonplaats": "Groningen"
+			},
+			"tk2025": {
+				"lijstnummer": 35,
 				"woonplaats": "Groningen"
 			}
 		}
@@ -277,11 +450,17 @@
 	{
 		"naam": "Jimme Nordkamp",
 		"urls": {
-			"partijwebsite": "https://groenlinkspvda.nl/kandidaat/jimme-nordkamp/"
+			"partijwebsite": "https://groenlinkspvda.nl/kandidaat/jimme-nordkamp/",
+			"linkedin": "https://www.linkedin.com/in/jimme-nordkamp-345569161/"
 		},
+		"functies": "Tweede Kamerlid",
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 24,
+				"woonplaats": "Losser"
+			},
+			"tk2025": {
+				"lijstnummer": 20,
 				"woonplaats": "Losser"
 			}
 		}
@@ -289,11 +468,20 @@
 	{
 		"naam": "Luc Stultiens",
 		"urls": {
-			"partijwebsite": "https://groenlinkspvda.nl/kandidaat/luc-stultiens/"
+			"partijwebsite": "https://groenlinkspvda.nl/onze-mensen/tweede-kamer/luc-stultiens/",
+			"twitter": "https://x.com/LucStultiens",
+			"instagram": "https://www.instagram.com/lucstultiens/?hl=en",
+			"bsky": "https://bsky.app/profile/lucstultiens.bsky.social",
+			"linkedin": "https://www.linkedin.com/in/lucstultiens/"
 		},
+		"functies": "Tweede Kamerlid",
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 25,
+				"woonplaats": "Den Haag"
+			},
+			"tk2025": {
+				"lijstnummer": 7,
 				"woonplaats": "Den Haag"
 			}
 		}
@@ -301,23 +489,41 @@
 	{
 		"naam": "Marleen Haage",
 		"urls": {
-			"partijwebsite": "https://groenlinkspvda.nl/kandidaat/marleen-haage/"
+			"partijwebsite": "https://groenlinkspvda.nl/kandidaat/marleen-haage/",
+			"linkedin": "https://www.linkedin.com/in/marleenhaage/?originalSubdomain=nl",
+			"instagram": "https://www.instagram.com/metmarleen",
+			"bsky": "https://bsky.app/profile/metmarleen.bsky.social",
+			"twitter": "https://x.com/marleenhaage"
 		},
+		"functies": "Tweede Kamerlid",
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 26,
 				"woonplaats": "Rotterdam"
+			},
+			"tk2025": {
+				"lijstnummer": 29,
+				"woonplaats": "Maarn"
 			}
 		}
 	},
 	{
 		"naam": "Daniëlle Hirsch",
 		"urls": {
-			"partijwebsite": "https://groenlinkspvda.nl/kandidaat/danielle-hirsch/"
+			"partijwebsite": "https://groenlinkspvda.nl/kandidaat/danielle-hirsch/",
+			"linkedin": "https://www.linkedin.com/in/danielle-h-hirsch/",
+			"instagram": "https://www.instagram.com/dhirsch68/#",
+			"bsky": "https://bsky.app/profile/daniellehirsch.bsky.social",
+			"twitter": "https://x.com/Danielle_H_BE"
 		},
+		"functies": "Tweede Kamerlid",
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 27,
+				"woonplaats": "Amsterdam"
+			},
+			"tk2025": {
+				"lijstnummer": 23,
 				"woonplaats": "Amsterdam"
 			}
 		}
@@ -325,47 +531,260 @@
 	{
 		"naam": "Hayte de Jong",
 		"urls": {
-			"partijwebsite": "https://groenlinkspvda.nl/kandidaat/hayte-de-jong/"
+			"partijwebsite": "https://groenlinkspvda.nl/kandidaat/hayte-de-jong/",
+			"linkedin": "https://nl.linkedin.com/in/hayte-de-jong-59908010",
+			"bluesky": "https://bsky.app/profile/hayte.bsky.social",
+			"instagram": "https://www.instagram.com/haytedejong"
 		},
+		"functies": "Corporate Affairs leader bij PwC Nederland",
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 28,
+				"woonplaats": "Amsterdam"
+			},
+			"tk2025": {
+				"lijstnummer": 34,
 				"woonplaats": "Amsterdam"
 			}
 		}
 	},
 	{
-		"naam": "Jeroen Postma",
+		"naam": "Marcel Vonk",
 		"urls": {
-			"partijwebsite": "https://groenlinkspvda.nl/kandidaat/jeroen-postma/"
+			"partijwebsite": "https://groenlinkspvda.nl/kandidaat/marcel-vonk/",
+			"linkedin": "https://linkedin.com/in/marcel-vonk/",
+			"instagram": "https://www.instagram.com/marcelvonk/",
+			"facebook": "https://www.facebook.com/marcel.vonk1"
 		},
+		"functies": "Adviseur public affairs - Van Oort en Van Oort | Penningmeester - Stichting deel je mantel (Uitgever Sint Maarten straatkrant)",
 		"verkiezingen": {
-			"tk2023": {
-				"lijstnummer": 29,
+			"tk2025": {
+				"lijstnummer": 36,
+				"woonplaats": "Harmelen"
+			}
+		}
+	},
+	{
+		"naam": "Rick van der Zweth",
+		"urls": {
+			"partijwebsite": "https://groenlinkspvda.nl/kandidaat/rick-van-der-zweth/",
+			"linkedin": "https://linkedin.com/in/rick-van-der-zweth-43532428/",
+			"instagram": "https://www.instagram.com/rickvdzweth/",
+			"facebook": "https://www.facebook.com/rick.vanderzweth/",
+			"bsky": "https://bsky.app/profile/rickvdzweth.bsky.social",
+			"twitter": "https://x.com/RickvdZweth"
+		},
+		"functies": "Fractievoorzitter PvdA Utrecht | Strategisch adviseur Huurprijsbeleid bij Ymere",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 37,
+				"woonplaats": "Utrecht"
+			}
+		}
+	},
+	{
+		"naam": "Annerijn Vink",
+		"urls": {
+			"partijwebsite": "https://groenlinkspvda.nl/kandidaat/annerijn-vink/",
+			"linkedin": "https://nl.linkedin.com/in/annerijn-vink",
+			"instagram": "https://www.instagram.com/janne.catharina/",
+			"bsky": "https://bsky.app/profile/annerijn.bsky.social"
+		},
+		"functies": "Een van de drijvende krachten achter RoodGroen | Medewerker ministerie Sociale Zaken en Werkgelegenheid",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 38,
+				"woonplaats": "Den Haag"
+			}
+		}
+	},
+	{
+		"naam": "Dennis Tak",
+		"urls": {
+			"partijwebsite": "https://groenlinkspvda.nl/kandidaat/dennis-tak/",
+			"linkedin": "https://linkedin.com/in/dennistak",
+			"instagram": "https://www.instagram.com/dpatak",
+			"bsky": "https://bsky.app/profile/dpatak.bsky.social"
+		},
+		"functies": "Head of Business Management & Support, Rabobank | Gemeenteraadslid namens de PvdA, Rotterdam",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 39,
 				"woonplaats": "Rotterdam"
 			}
 		}
 	},
 	{
-		"naam": "Inge Oosting",
+		"naam": "Shadi Nikshomar",
 		"urls": {
-			"partijwebsite": "https://groenlinkspvda.nl/kandidaat/inge-oosting/"
+			"partijwebsite": "https://groenlinkspvda.nl/kandidaat/shadi-nikshomar/",
+			"linkedin": "https://linkedin.com/in/shadi-nikshomar-1029b2210",
+			"instagram": "https://www.instagram.com/shadinikshomar",
+			"tiktok": "https://www.tiktok.com/@shadinikshomar"
 		},
+		"functies": "Fractievoorzitter voor GroenLinks in de gemeenteraad van Almere | Beleidsmedewerker Sociale Zaken en Werkgelegenheid voor de Tweede Kamerfractie van GroenLinks-PvdA",
 		"verkiezingen": {
-			"tk2023": {
-				"lijstnummer": 30,
-				"woonplaats": "Elim"
+			"tk2025": {
+				"lijstnummer": 40,
+				"woonplaats": "Almere"
+			}
+		}
+	},
+	{
+		"naam": "Imran Hyder",
+		"urls": {
+			"partijwebsite": "https://groenlinkspvda.nl/kandidaat/imran-hyder/",
+			"linkedin": "https://nl.linkedin.com/in/imran-hyder",
+			"instagram": "https://www.instagram.com/imranhyder92/"
+		},
+		"functies": "Teamcoördinator bij Ministerie van Financiën",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 41,
+				"woonplaats": "Leiden"
+			}
+		}
+	},
+	{
+		"naam": "Lara Sibbing",
+		"urls": {
+			"partijwebsite": "https://groenlinkspvda.nl/kandidaat/lara-sibbing/",
+			"linkedin": "https://nl.linkedin.com/in/larasibbing/en",
+			"instagram": "https://www.instagram.com/larasibbing/"
+		},
+		"functies": "Beleidsexpert voedsel, landbouw en circulaire economie | Storyteller",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 42,
+				"woonplaats": "Hilversum"
+			}
+		}
+	},
+	{
+		"naam": "Naomi Woltring",
+		"urls": {
+			"partijwebsite": "https://groenlinkspvda.nl/kandidaat/naomi-woltring/",
+			"linkedin": "https://www.linkedin.com/in/naomiwoltring/"
+		},
+		"functies": "Onderzoeker en schrijver",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 43,
+				"woonplaats": "Eindhoven"
+			}
+		}
+	},
+	{
+		"naam": "Daan Olivier",
+		"urls": {
+			"partijwebsite": "https://groenlinkspvda.nl/kandidaat/daan-olivier/",
+			"linkedin": "https://www.linkedin.com/in/daanolivier/",
+			"instagram": "https://www.instagram.com/daanolivier14/",
+			"facebook": "https://www.facebook.com/daan.olivier/",
+			"bsky": "https://bsky.app/profile/daanolivier.bsky.social",
+			"twitter": "https://x.com/DaanOlivier"
+		},
+		"functies": "Strategisch Adviseur Duurzaamheid voor Samenwerkingsorganisatie De Wolden Hoogeveen | Statenlid Provincie Fryslân",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 44,
+				"woonplaats": "Heerenveen"
+			}
+		}
+	},
+	{
+		"naam": "Tim de Kroon",
+		"urls": {
+			"partijwebsite": "https://groenlinkspvda.nl/kandidaat/tim-de-kroon/",
+			"linkedin": "https://www.linkedin.com/in/tim-de-kroon-0a95004b/",
+			"facebook": "https://www.facebook.com/share/1AqDn6GhFz/?mibextid=wwXIfr",
+			"instagram": "https://www.instagram.com/tim.dekroon/"
+		},
+		"functies": "Adviseur bij het Leids Universitair Medisch Centrum | Fractievoorzitter GroenLinks in Culemborg",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 45,
+				"woonplaats": "Culemborg"
 			}
 		}
 	},
 	{
 		"naam": "Margreet de Boer",
 		"urls": {
-			"partijwebsite": "https://groenlinkspvda.nl/kandidaat/margreet-de-boer/"
+			"partijwebsite": "https://groenlinkspvda.nl/kandidaat/margreet-de-boer/",
+			"linkedin": "https://www.linkedin.com/in/margreet-de-boer",
+			"bsky": "https://bsky.app/profile/margreetdeboer.bsky.social"
 		},
+		"functies": "zelfstandig advocaat bij van Kempen cs Advocaten (slachtofferrecht)",
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 31,
+				"woonplaats": "Amsterdam"
+			},
+			"tk2025": {
+				"lijstnummer": 46,
+				"woonplaats": "Amsterdam"
+			}
+		}
+	},
+	{
+		"naam": "Ruben Boomsma",
+		"urls": {
+			"partijwebsite": "https://groenlinkspvda.nl/kandidaat/ruben-boomsma/",
+			"linkedin": "https://nl.linkedin.com/in/rubenboomsma",
+			"instagram": "https://www.instagram.com/rubenboomsma_glpvda/",
+			"facebook": "https://www.facebook.com/share/1HkUGEn9CL/",
+			"twitter": "https://x.com/rboomsma_glpvda",
+			"bsky": "https://bsky.app/profile/rubenboomsmaglpvda.bsky.social"
+		},
+		"functies": "Plaatsvervangend teamchef basisteam eenheid Amsterdam van de Nationale Politie",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 47,
+				"woonplaats": "Alkmaar"
+			}
+		}
+	},
+	{
+		"naam": "Tanja de Jonge",
+		"urls": {
+			"partijwebsite": "https://groenlinkspvda.nl/kandidaat/tanja-de-jonge/",
+			"linkedin": "https://www.linkedin.com/in/tdejonge/",
+			"bsky": "https://bsky.app/profile/tanjadejonge.bsky.social"
+		},
+		"functies": "Wethouder Dordrecht | Lid Raad van Toezicht Oxfam Novib | Lid Raad van Advies Staatsbosbeheer",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 48,
+				"woonplaats": "Dordrecht"
+			}
+		}
+	},
+	{
+		"naam": "Ruchama Bwefar",
+		"urls": {
+			"partijwebsite": "https://groenlinkspvda.nl/kandidaat/ruchama-bwefar/",
+			"linkedin": "https://nl.linkedin.com/in/ruchamaimana/en",
+			"instagram": "https://www.instagram.com/ruchamasstories/"
+		},
+		"functies": "Zelfstandig jurist & mediator | Statenlid in Noord-Holland",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 49,
+				"woonplaats": "Amsterdam"
+			}
+		}
+	},
+	{
+		"naam": "Lotte Jeursen",
+		"urls": {
+			"partijwebsite": "https://groenlinkspvda.nl/kandidaat/lotte-jeursen/",
+			"linkedin": "https://www.linkedin.com/in/lotte-jeursen-6510b366/"
+		},
+		"functies": "Hoofd Bewegingsopbouw bij Milieudefensie",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 50,
 				"woonplaats": "Amsterdam"
 			}
 		}
@@ -373,11 +792,19 @@
 	{
 		"naam": "Jan Daenen",
 		"urls": {
-			"partijwebsite": "https://groenlinkspvda.nl/kandidaat/jan-daenen/"
+			"partijwebsite": "https://groenlinkspvda.nl/kandidaat/jan-daenen/",
+			"linkedin": "https://nl.linkedin.com/in/jan-daenen-6a6197134",
+			"instagram": "https://www.instagram.com/jan_daenen/",
+			"twitter": "https://x.com/jan_daenen"
 		},
+		"functies": "Landbouweconoom en econometrist | Fractievoorzitter PvdA Gelderland",
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 32,
+				"woonplaats": "Nijmegen"
+			},
+			"tk2025": {
+				"lijstnummer": 51,
 				"woonplaats": "Nijmegen"
 			}
 		}
@@ -433,11 +860,21 @@
 	{
 		"naam": "Lyle Muns",
 		"urls": {
-			"partijwebsite": "https://groenlinkspvda.nl/kandidaat/lyle-muns/"
+			"partijwebsite": "https://groenlinkspvda.nl/kandidaat/lyle-muns/",
+			"linkedin": "https://nl.linkedin.com/in/lyle-muns-4a6473a9",
+			"instagram": "https://www.instagram.com/lyle.muns",
+			"facebook": "https://www.facebook.com/lyle.muns",
+			"tiktok": "https://www.tiktok.com/@lylemuns",
+			"twitter": "https://x.com/lylemuns"
 		},
+		"functies": "Pleitbezorger bij Aidsfonds - Soa Aids Nederland",
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 37,
+				"woonplaats": "Amsterdam"
+			},
+			"tk2025": {
+				"lijstnummer": 33,
 				"woonplaats": "Amsterdam"
 			}
 		}
@@ -445,11 +882,19 @@
 	{
 		"naam": "Iris Vrolijks",
 		"urls": {
-			"partijwebsite": "https://groenlinkspvda.nl/kandidaat/iris-vrolijks/"
+			"partijwebsite": "https://groenlinkspvda.nl/kandidaat/iris-vrolijks/",
+			"facebook": "https://www.facebook.com/iris.vrolijks/?locale=nl_NL",
+			"instagram": "https://www.instagram.com/irisvrolijks/",
+			"tiktok": "https://www.tiktok.com/@irisvrolijks"
 		},
+		"functies": "Programmamanager Maatschappelijk Leiderschap bij de Baak | Fractievoorzitter PvdA Maassluis",
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 38,
+				"woonplaats": "Maassluis"
+			},
+			"tk2025": {
+				"lijstnummer": 31,
 				"woonplaats": "Maassluis"
 			}
 		}
@@ -549,5 +994,290 @@
 				"woonplaats": "IJsselstein"
 			}
 		}
+	},
+	{
+		"naam": "Marjolein Moorman",
+		"urls": {
+			"partijwebsite": "https://groenlinkspvda.nl/onze-mensen/kandidaten-tk25/marjolein-moorman/",
+			"linkedin": "https://www.linkedin.com/marjoleinmoorman",
+			"instagram": "https://www.instagram.com/marjolein_moorman",
+			"facebook": "https://facebook.com/marjolein.moorman",
+			"bsky": "https://bsky.app/profile/marjoleinmoorman.bsky.social",
+			"twitter": "https://x.com/marjoleinmoorman"
+		},
+		"functies": "Wethouder en locoburgemeester Amsterdam",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 6
+			}
+		}
+	},
+	{
+		"naam": "Sjoukje van Oosterhout",
+		"urls": {
+			"partijwebsite": "https://groenlinkspvda.nl/onze-mensen/kandidaten-tk25/sjoukje-van-oosterhout/",
+			"linkedin": "https://www.linkedin.com/in/sjoukjevanoosterhout/",
+			"instagram": "https://www.instagram.com/sjoukjevanoosterhout/",
+			"twitter": "https://x.com/annasjoukjevo?lang=en"
+		},
+		"functies": "Teamleider rechtszaken en woordvoerder bij Milieudefensie",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 10,
+				"woonplaats": "Amsterdam"
+			}
+		}
+	},
+	{
+		"naam": "Ani Zalinyan",
+		"urls": {
+			"partijwebsite": "https://groenlinkspvda.nl/onze-mensen/kandidaten-tk25/ani-zalinyan/",
+			"linkedin": "http://linkedin.com/in/anizalinyan",
+			"instagram": "https://www.instagram.com/ani.zalinyan/"
+		},
+		"functies": "Wethouder gemeente Heemskerk",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 15,
+				"woonplaats": "Hoofddorp"
+			}
+		}
+	},
+	{
+		"naam": "Wimar Bolhuis",
+		"urls": {
+			"partijwebsite": "https://groenlinkspvda.nl/onze-mensen/kandidaten-tk25/wimar-bolhuis/",
+			"linkedin": "https://www.linkedin.com/in/wimarbolhuis/",
+			"twitter": "https://x.com/wimarbolhuis/"
+		},
+		"functies": "Directeur van TNO Vector | Docent bij de afdeling Economie van de Universiteit Leiden | Maker van de podcast Studio Tegengif",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 18,
+				"woonplaats": "Den Haag"
+			}
+		}
+	},
+	{
+		"naam": "Jade van der Linden",
+		"urls": {
+			"partijwebsite": "https://groenlinkspvda.nl/onze-mensen/kandidaten-tk25/jade-van-der-linden/",
+			"linkedin": "https://www.linkedin.com/in/jade-van-der-linden/",
+			"instagram": "https://www.instagram.com/jade.vd.linden/",
+			"facebook": "https://www.instagram.com/jade.vd.linden/%20%20Facebook:%20https://www.facebook.com/jade.vanderlinden.52",
+			"bsky": "https://bsky.app/profile/jadevdlinden.bsky.social"
+		},
+		"functies": "Fractievoorzitter GroenLinks Brabant | Strategisch adviseur bij Smart Links",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 21,
+				"woonplaats": "Oss"
+			}
+		}
+	},
+	{
+		"naam": "Floor Roduner",
+		"urls": {
+			"partijwebsite": "https://groenlinkspvda.nl/onze-mensen/kandidaten-tk25/floor-roduner/",
+			"linkedin": "https://nl.linkedin.com/in/floor-roduner-0763534",
+			"facebook": "https://www.facebook.com/floor.roduner"
+		},
+		"functies": "Wethouder Ruimtelijke Ontwikkeling, Wonen, Monumenten, Grondbeleid en Financiën - gemeente Haarlem | Loco-burgemeester Haarlem",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 22,
+				"woonplaats": "Haarlem"
+			}
+		}
+	},
+	{
+		"naam": "Fatihya Abdi",
+		"urls": {
+			"partijwebsite": "https://groenlinkspvda.nl/onze-mensen/kandidaten-tk25/fatihya-abdi/",
+			"linkedin": "https://www.linkedin.com/in/fatihyaabdi/",
+			"instagram": "https://www.instagram.com/fatihya_abdi/",
+			"bsky": "https://bsky.app/profile/fatihyaabdi.bsky.social",
+			"twitter": "https://x.com/fatihyaabdi"
+		},
+		"functies": "Beleidsadviseur bij het ministerie van Volksgezondheid, Welzijn en Sport | Vice-fractievoorzitter van PvdA Amsterdam",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 24,
+				"woonplaats": "Amsterdam"
+			}
+		}
+	},
+	{
+		"naam": "Lisa Vliegenthart",
+		"urls": {
+			"partijwebsite": "https://groenlinkspvda.nl/onze-mensen/kandidaten-tk25/lisa-vliegenthart/",
+			"linkedin": "https://www.linkedin.com/in/lisa-vliegenthart-03b6659a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
+			"instagram": "https://www.instagram.com/lisavliegenthart?igsh=MTZldWIyemN1OXllbg==",
+			"facebook": "https://www.facebook.com/profile.php?id=6157915200594"
+		},
+		"functies": "Verloskundige en programmamanager Seksuele en Reproductieve Gezondheid bij Dokters van de Wereld",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 27,
+				"woonplaats": "Rijswijk"
+			}
+		}
+	},
+	{
+		"naam": "Marco Esser",
+		"urls": {
+			"partijwebsite": "https://groenlinkspvda.nl/onze-mensen/kandidaten-tk25/marco-esser/",
+			"linkedin": "https://www.linkedin.com/in/marco-esser/"
+		},
+		"functies": "Directeur-bestuurder van The Hague & Partners",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 28,
+				"woonplaats": "Den Haag"
+			}
+		}
+	},
+	{
+		"naam": "Fenna Bolding",
+		"urls": {
+			"partijwebsite": "https://groenlinkspvda.nl/onze-mensen/kandidaten-tk25/fenna-bolding/",
+			"linkedin": "https://www.linkedin.com/in/fenna-bolding-3b5ab42a/?originalSubdomain=nl"
+		},
+		"functies": "Senior Adviseur bij STAMM CMO",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 52,
+				"woonplaats": "Hooghalen"
+			}
+		}
+	},
+	{
+		"naam": "Tamim Mehdi",
+		"urls": {
+			"partijwebsite": "https://groenlinkspvda.nl/onze-mensen/kandidaten-tk25/tamim-mehdi/",
+			"linkedin": "https://www.linkedin.com/in/tamimpvda?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+			"facebook": "https://www.facebook.com/share/1CBRnqrfQu/"
+		},
+		"functies": "Raadslid voor de PvdA in Zutphen-Warnsveld | Voorzitter van de Patiëntenadviesraad van ReumaNederland | Community librarian bij een bibliotheek.",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 53,
+				"woonplaats": "Zutphen"
+			}
+		}
+	},
+	{
+		"naam": "Palwasha Hamzad",
+		"urls": {
+			"partijwebsite": "https://groenlinkspvda.nl/onze-mensen/kandidaten-tk25/palwasha-hamzad/",
+			"linkedin": "https://www.linkedin.com/in/palwasha-hamzad-8b61a07a/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
+			"instagram": "https://www.instagram.com/palwashahamzad?igsh=MWt2cDhudGIyMWNlMA%3D%3D&utm_source=qr",
+			"facebook": "https://www.facebook.com/palwashahamzad?mibextid=wwXIfr&rdid=P7OmshggPa1D2e5f ",
+			"tiktok": "https://www.tiktok.com/@palwashahamzad?_t=ZG-8yWdFcxacEL&",
+			"bsky": "https://bsky.app/profile/palwashahamzad.bsky.social",
+			"twitter": " https://x.com/phamzad?s=21"
+		},
+		"functies": "Leerkrachtondersteuner en educatief professional in het basisonderwijs | Gemeenteraadslid GroenLinks Haarlem",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 54,
+				"woonplaats": "Haarlem"
+			}
+		}
+	},
+	{
+		"naam": "Giovanni Visser",
+		"urls": {
+			"partijwebsite": "https://groenlinkspvda.nl/onze-mensen/kandidaten-tk25/giovanni-visser/",
+			"linkedin": "https://www.linkedin.com/in/giovannivisser/",
+			"instagram": "https://www.instagram.com/giovanni_visser/",
+			"facebook": "https://www.facebook.com/vissergiovanni/",
+			"bsky": "https://bsky.app/profile/giovannivisser.bsky.social",
+			"twitter": "https://x.com/GiovanniV1"
+		},
+		"functies": "Beleidsmedewerker Ministerie van Onderwijs, Cultuur en Wetenschap | Fractievoorzitter PvdA Arnhem",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 55,
+				"woonplaats": "Arnhem"
+			}
+		}
+	},
+	{
+		"naam": "Margriet Schreuders",
+		"urls": {
+			"partijwebsite": "https://groenlinkspvda.nl/onze-mensen/kandidaten-tk25/margriet-schreuders/",
+			"linkedin": "https://www.linkedin.com/in/margriet-schreuders/"
+		},
+		"functies": "Directeur van het Studenten Service Centrum van Maastricht Univerisity",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 56,
+				"woonplaats": "Maastricht"
+			}
+		}
+	},
+	{
+		"naam": "Milan Bijl",
+		"urls": {
+			"partijwebsite": "https://groenlinkspvda.nl/onze-mensen/kandidaten-tk25/milan-bijl/",
+			"linkedin": "https://www.linkedin.com/in/milan-bijl-b64a7727/",
+			"instagram": "https://www.instagram.com/milanbijl/"
+		},
+		"functies": "Duurzaamheidsadviseur (zzp'er)",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 57,
+				"woonplaats": "Heiloo"
+			}
+		}
+	},
+	{
+		"naam": "Ron Piepers",
+		"urls": {
+			"partijwebsite": "https://groenlinkspvda.nl/onze-mensen/kandidaten-tk25/ron-piepers/",
+			"instagram": "https://www.instagram.com/ronpiepers/",
+			"facebook": "https://www.facebook.com/ron.piepers/",
+			"tiktok": "https://www.tiktok.com/@ronpiepers",
+			"twitter": "https://x.com/ronpiepers"
+		},
+		"functies": "Fractievoorzitter PvdA Roermond | Adviseur bij FRAEY Partners in Publieke Waarde",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 58,
+				"woonplaats": "Roermond"
+			}
+		}
+	},
+	{
+		"naam": "Ties Ammerlaan",
+		"urls": {
+			"partijwebsite": "https://groenlinkspvda.nl/onze-mensen/kandidaten-tk25/ties-ammerlaan/",
+			"linkedin": "https://www.linkedin.com/in/ties-ammerlaan/",
+			"instagram": "https://www.instagram.com/tiesammerlaan/"
+		},
+		"functies": "Senior adviseur staatsdeelnemingen bij het ministerie van Financiën",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 59,
+				"woonplaats": "Amsterdam"
+			}
+		}
+	},
+	{
+		"naam": "Willemijn Punte-Zwart",
+		"urls": {
+			"partijwebsite": "https://groenlinkspvda.nl/onze-mensen/kandidaten-tk25/willemijn-punte-zwart/",
+			"linkedin": "https://www.linkedin.com/in/willemijnzwart/",
+			"instagram": "https://www.instagram.com/willemijnzwart053/"
+		},
+		"functies": "Docent Nederlands op College Zuid (voortgezet onderwijs) in Enschede | Lid Straatnamencommissie Enschede | Bestuurslid Genootschap Onze Taal | Lid Raad van Toezicht van het Alfa-College (mbo) in Groningen, Hoogeveen en Hardenberg",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 60,
+				"woonplaats": "Enschede"
+			}
+		}
 	}
+
 ]
