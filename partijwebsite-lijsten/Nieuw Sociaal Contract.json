@@ -17,6 +17,10 @@
 	},
 	{
 		"naam": "Judith Uitermark",
+		"url": {
+			"partijwebsite": "https://partijnieuwsociaalcontract.nl/kandidaten/2-judith-uitermark",
+			"linkedin": "https://www.linkedin.com/in/judith-uitermark-820278a7/"
+		},
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 3
@@ -45,6 +49,13 @@
 	},
 	{
 		"naam": "Eddy van Hijum",
+		"url": {
+			"partijwebsite": "https://partijnieuwsociaalcontract.nl/eddy-van-hijum",
+			"linkedin": "https://www.linkedin.com/in/eddy-van-hijum-407b786/",
+			"twitter": "https://x.com/vanHijum",
+			"instagram": "https://www.instagram.com/eddyvanhijum?igsh=MW9mdXF3cnRwbGs1Nw=="
+
+		},
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 6
@@ -81,6 +92,12 @@
 	},
 	{
 		"naam": "Merlien Welzijn",
+		"url": {
+			"partijwebsite": "https://partijnieuwsociaalcontract.nl/kandidaten/3-merlien-welzijn",
+			"linkedin": "https://www.linkedin.com/in/merlienwelzijn/",
+			"twitter": "https://x.com/Merlien_Welzijn",
+			"instagram": "https://www.instagram.com/merlienwelzijn/"
+		},
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 10
@@ -125,6 +142,10 @@
 	},
 	{
 		"naam": "Tjebbe van Oostenbruggen",
+		"url": {
+			"partijwebsite": "https://partijnieuwsociaalcontract.nl/kandidaten/4-tjebbe-van-oostenbruggen",
+			"linkedin": "https://www.linkedin.com/in/tjebbevanoostenbruggen/"
+		},
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 15
