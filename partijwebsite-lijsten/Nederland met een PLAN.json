@@ -4,6 +4,9 @@
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 1
+			},
+			"tk2025": {
+				"lijstnummer": 1
 			}
 		}
 	},
@@ -20,6 +23,9 @@
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 3
+			},
+			"tk2025": {
+				"lijstnummer": 5
 			}
 		}
 	},
@@ -28,6 +34,9 @@
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 4
+			},
+			"tk2025": {
+				"lijstnummer": 3
 			}
 		}
 	},
@@ -36,6 +45,9 @@
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 5
+			},
+			"tk2025": {
+				"lijstnummer": 6
 			}
 		}
 	},
@@ -44,6 +56,9 @@
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 6
+			},
+			"tk2025": {
+				"lijstnummer": 4
 			}
 		}
 	},
@@ -84,6 +99,9 @@
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 11
+			},
+			"tk2025": {
+				"lijstnummer": 7
 			}
 		}
 	},
@@ -140,6 +158,14 @@
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 18
+			}
+		}
+	},
+	{
+		"naam": "Kyra Baselmans",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 2
 			}
 		}
 	}
