@@ -1,0 +1,222 @@
+[
+  {
+    "naam": "Danielle Tulp",
+    "geslacht": "vrouw",
+    "verkiezingen": {
+      "tk2025": {
+        "lijstnummer": 1,
+        "woonplaats": "Stadskanaal"
+      }
+    }
+  },
+  {
+    "naam": "Kimberley Fer",
+    "geslacht": "vrouw",
+    "verkiezingen": {
+      "tk2025": {
+        "lijstnummer": 2,
+        "woonplaats": "Almere"
+      }
+    }
+  },
+  {
+    "naam": "Remy Leurs",
+    "geslacht": "vrouw",
+    "verkiezingen": {
+      "tk2025": {
+        "lijstnummer": 3,
+        "woonplaats": "Zwijndrecht"
+      }
+    }
+  },
+  {
+    "naam": "Funda Ileri",
+    "geslacht": "vrouw",
+    "verkiezingen": {
+      "tk2025": {
+        "lijstnummer": 4,
+        "woonplaats": "'s-Gravenhage"
+      }
+    }
+  },
+  {
+    "naam": "Mehmet Sagsu",
+    "geslacht": "man",
+    "verkiezingen": {
+      "tk2025": {
+        "lijstnummer": 5,
+        "woonplaats": "Arnhem"
+      }
+    }
+  },
+  {
+    "naam": "Clyde Walker",
+    "geslacht": "man",
+    "verkiezingen": {
+      "tk2025": {
+        "lijstnummer": 6,
+        "woonplaats": "Einighausen"
+      }
+    }
+  },
+  {
+    "naam": "Wilfred Zielman",
+    "geslacht": "man",
+    "verkiezingen": {
+      "tk2025": {
+        "lijstnummer": 7,
+        "woonplaats": "Krimpenerwaard"
+      }
+    }
+  },
+  {
+    "naam": "Gymaine Inen",
+    "geslacht": "vrouw",
+    "verkiezingen": {
+      "tk2025": {
+        "lijstnummer": 8,
+        "woonplaats": "Zevenaar"
+      }
+    }
+  },
+  {
+    "naam": "Miranda Damkat",
+    "geslacht": "vrouw",
+    "verkiezingen": {
+      "tk2025": {
+        "lijstnummer": 9,
+        "woonplaats": "Groningen"
+      }
+    }
+  },
+  {
+    "naam": "Latoya Hallatu",
+    "geslacht": "vrouw",
+    "verkiezingen": {
+      "tk2025": {
+        "lijstnummer": 10,
+        "woonplaats": "Capelle aan den IJssel"
+      }
+    }
+  },
+  {
+    "naam": "Abd Alfarrah",
+    "geslacht": "man",
+    "verkiezingen": {
+      "tk2025": {
+        "lijstnummer": 11,
+        "woonplaats": "Groningen"
+      }
+    }
+  },
+  {
+    "naam": "Gerben de Vos",
+    "geslacht": "man",
+    "verkiezingen": {
+      "tk2025": {
+        "lijstnummer": 12,
+        "woonplaats": "Harmelen"
+      }
+    }
+  },
+  {
+    "naam": "Edmee Verstraten",
+    "geslacht": "vrouw",
+    "verkiezingen": {
+      "tk2025": {
+        "lijstnummer": 13,
+        "woonplaats": "Rotterdam"
+      }
+    }
+  },
+  {
+    "naam": "Fawzia Dhahar",
+    "geslacht": "vrouw",
+    "verkiezingen": {
+      "tk2025": {
+        "lijstnummer": 14,
+        "woonplaats": "Amsterdam"
+      }
+    }
+  },
+  {
+    "naam": "Moray Juffermans",
+    "geslacht": "man",
+    "verkiezingen": {
+      "tk2025": {
+        "lijstnummer": 15,
+        "woonplaats": "Westerland"
+      }
+    }
+  },
+  {
+    "naam": "Bnar Gurdji",
+    "geslacht": "man",
+    "verkiezingen": {
+      "tk2025": {
+        "lijstnummer": 16,
+        "woonplaats": "Beverwijk"
+      }
+    }
+  },
+  {
+    "naam": "Jan Krijger",
+    "geslacht": "man",
+    "verkiezingen": {
+      "tk2025": {
+        "lijstnummer": 17,
+        "woonplaats": "Bergschenhoek"
+      }
+    }
+  },
+  {
+    "naam": "Alexander van der Velden",
+    "geslacht": "man",
+    "verkiezingen": {
+      "tk2025": {
+        "lijstnummer": 18,
+        "woonplaats": "Badhoevedorp"
+      }
+    }
+  },
+  {
+    "naam": "Nathalie Sijbesma",
+    "geslacht": "vrouw",
+    "verkiezingen": {
+      "tk2025": {
+        "lijstnummer": 19,
+        "woonplaats": "Blauwhuis"
+      }
+    }
+  },
+  {
+    "naam": "Mirurgia Breinburg",
+    "geslacht": "vrouw",
+    "verkiezingen": {
+      "tk2025": {
+        "lijstnummer": 20,
+        "woonplaats": "Amsterdam"
+      }
+    }
+  },
+  {
+    "naam": "Elias Schreuder",
+    "geslacht": "man",
+    "verkiezingen": {
+      "tk2025": {
+        "lijstnummer": 21,
+        "woonplaats": "Dordrecht"
+      }
+    }
+  },
+  {
+    "naam": "Annemarie Schaacke",
+    "geslacht": "vrouw",
+    "verkiezingen": {
+      "tk2025": {
+        "lijstnummer": 22,
+        "woonplaats": "Dordrecht"
+      }
+    }
+  }
+]
