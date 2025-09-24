@@ -1,0 +1,152 @@
+[
+    {
+        "naam": "Gerard van Hooft",
+        "geslacht": "man",
+        "verkiezingen": {
+            "tk2025": {
+                "lijstnummer": 1,
+                "woonplaats": "Oudheusden"
+            }
+        }
+    },
+    {
+        "naam": "Jojo Mulder",
+        "geslacht": "vrouw",
+        "verkiezingen": {
+            "tk2025": {
+                "lijstnummer": 2,
+                "woonplaats": "Amsterdam"
+            }
+        }
+    },
+    {
+        "naam": "Presley Bergen",
+        "geslacht": "man",
+        "verkiezingen": {
+            "tk2025": {
+                "lijstnummer": 3,
+                "woonplaats": "Bladel"
+            }
+        }
+    },
+    {
+        "naam": "Tineke Bulder",
+        "geslacht": "vrouw",
+        "verkiezingen": {
+            "tk2025": {
+                "lijstnummer": 4,
+                "woonplaats": "Vrouwenpolder"
+            }
+        }
+    },
+    {
+        "naam": "George Peeters",
+        "geslacht": "man",
+        "verkiezingen": {
+            "tk2025": {
+                "lijstnummer": 5,
+                "woonplaats": "Venlo"
+            }
+        }
+    },
+    {
+        "naam": "Wytse van der Veen",
+        "geslacht": "man",
+        "verkiezingen": {
+            "tk2025": {
+                "lijstnummer": 6,
+                "woonplaats": "Enschede"
+            }
+        }
+    },
+    {
+        "naam": "John Voets",
+        "geslacht": "man",
+        "verkiezingen": {
+            "tk2025": {
+                "lijstnummer": 7,
+                "woonplaats": "Bergen op Zoom"
+            }
+        }
+    },
+    {
+        "naam": "Selda Bozkurt",
+        "geslacht": "vrouw",
+        "verkiezingen": {
+            "tk2025": {
+                "lijstnummer": 8,
+                "woonplaats": "Roosendaal"
+            }
+        }
+    },
+    {
+        "naam": "Steven Gielisse",
+        "geslacht": "man",
+        "verkiezingen": {
+            "tk2025": {
+                "lijstnummer": 9,
+                "woonplaats": "'s-Gravenhage"
+            }
+        }
+    },
+    {
+        "naam": "Ria Derks van de Ven - Poldervaart",
+        "geslacht": "vrouw",
+        "verkiezingen": {
+            "tk2025": {
+                "lijstnummer": 10,
+                "woonplaats": "Sambeek"
+            }
+        }
+    },
+    {
+        "naam": "Ad Kastelijn",
+        "geslacht": "man",
+        "verkiezingen": {
+            "tk2025": {
+                "lijstnummer": 11,
+                "woonplaats": "Tilburg"
+            }
+        }
+    },
+    {
+        "naam": "Bas Klasen",
+        "geslacht": "man",
+        "verkiezingen": {
+            "tk2025": {
+                "lijstnummer": 12,
+                "woonplaats": "Tilburg"
+            }
+        }
+    },
+    {
+        "naam": "Corinne Roos",
+        "geslacht": "vrouw",
+        "verkiezingen": {
+            "tk2025": {
+                "lijstnummer": 13,
+                "woonplaats": "Warnsveld"
+            }
+        }
+    },
+    {
+        "naam": "Denis Wood",
+        "geslacht": "man",
+        "verkiezingen": {
+            "tk2025": {
+                "lijstnummer": 14,
+                "woonplaats": "Nieuw Namen"
+            }
+        }
+    },
+    {
+        "naam": "Petra Kastelijn",
+        "geslacht": "vrouw",
+        "verkiezingen": {
+            "tk2025": {
+                "lijstnummer": 15,
+                "woonplaats": "Oudheusden"
+            }
+        }
+    }
+]
