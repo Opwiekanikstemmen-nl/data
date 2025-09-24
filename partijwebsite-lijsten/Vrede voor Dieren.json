@@ -1,0 +1,299 @@
+[
+	{
+		"naam": "Pascale Plusquin",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 1,
+				"woonplaats": "Geulle"
+			}
+		}
+	},
+	{
+		"naam": "Ruud van der Velden",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 2,
+				"woonplaats": "Rotterdam"
+			}
+		}
+	},
+	{
+		"naam": "Arabella Burgers",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 3,
+				"woonplaats": "Huizen"
+			}
+		}
+	},
+	{
+		"naam": "Ewald Engelen",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 4,
+				"woonplaats": "Heveadorp"
+			}
+		}
+	},
+	{
+		"naam": "Harry Voss",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 5,
+				"woonplaats": "Apeldoorn"
+			}
+		}
+	},
+	{
+		"naam": "Anne Hanssen",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 6,
+				"woonplaats": "Voerendaal"
+			}
+		}
+	},
+	{
+		"naam": "Rosanna Huertas Mulckhuyse",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 7,
+				"woonplaats": "Dieren"
+			}
+		}
+	},
+	{
+		"naam": "Lara Klaassen",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 8,
+				"woonplaats": "Mheer"
+			}
+		}
+	},
+	{
+		"naam": "Sabrina van de Peppel",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 9,
+				"woonplaats": "Hoogvliet Rotterdam"
+			}
+		}
+	},
+	{
+		"naam": "Annemieke Poutsma",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 10,
+				"woonplaats": "Steggerda"
+			}
+		}
+	},
+	{
+		"naam": "Simone Broekman-Falcão Pereira Gomes",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 11,
+				"woonplaats": "Deventer"
+			}
+		}
+	},
+	{
+		"naam": "Martijntje Smits",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 12,
+				"woonplaats": "'s-Gravenhage"
+			}
+		}
+	},
+	{
+		"naam": "Cindy Wever",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 13,
+				"woonplaats": "Pedroqao Pequeno (PT)"
+			}
+		}
+	},
+	{
+		"naam": "Paul Savelkouls",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 14,
+				"woonplaats": "Selfkant-Wehr (DE)"
+			}
+		}
+	},
+	{
+		"naam": "Mattheus Bleijenberg",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 15,
+				"woonplaats": "Epe"
+			}
+		}
+	},
+	{
+		"naam": "Olivia van Tergouw",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 16,
+				"woonplaats": "Amstelveen"
+			}
+		}
+	},
+	{
+		"naam": "Hennie Stevens",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 17,
+				"woonplaats": "Heemstede"
+			}
+		}
+	},
+	{
+		"naam": "Judith Kochen",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 18,
+				"woonplaats": "Heerlen"
+			}
+		}
+	},
+	{
+		"naam": "Aad van der Waal",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 19,
+				"woonplaats": "Apeldoorn"
+			}
+		}
+	},
+	{
+		"naam": "Ineke van den Abeele",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 20,
+				"woonplaats": "Renkum"
+			}
+		}
+	},
+	{
+		"naam": "Bob Hagen",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 21,
+				"woonplaats": "Nijbroek"
+			}
+		}
+	},
+	{
+		"naam": "Norma Miedema",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 22,
+				"woonplaats": "Noordhorn"
+			}
+		}
+	},
+	{
+		"naam": "Monique Schouten",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 23,
+				"woonplaats": "Heerenveen"
+			}
+		}
+	},
+	{
+		"naam": "Jurgen Suurmeijer",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 24,
+				"woonplaats": "Spaarndam"
+			}
+		}
+	},
+	{
+		"naam": "Annemarie van Gelder",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 25,
+				"woonplaats": "Makkinga"
+			}
+		}
+	},
+	{
+		"naam": "Hans Bok",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 26,
+				"woonplaats": "Vaassen"
+			}
+		}
+	},
+	{
+		"naam": "Jeroen Koedam",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 27,
+				"woonplaats": "Kranenburg (DE)"
+			}
+		}
+	},
+	{
+		"naam": "Theo van den Elsen",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 28,
+				"woonplaats": "Dieren"
+			}
+		}
+	},
+	{
+		"naam": "Myrna van de Laar",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 29,
+				"woonplaats": "Spaarndam"
+			}
+		}
+	},
+	{
+		"naam": "Rita Holtslag",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 30,
+				"woonplaats": "Opperdoes"
+			}
+		}
+	},
+	{
+		"naam": "Henk Baars",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 31,
+				"woonplaats": "'s-Gravenhage"
+			}
+		}
+	},
+	{
+		"naam": "Belinda Meuldijk",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 32,
+				"woonplaats": "Lieren"
+			}
+		}
+	},
+	{
+		"naam": "Hans Bouma",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 33,
+				"woonplaats": "Kampen"
+			}
+		}
+	}
+]
