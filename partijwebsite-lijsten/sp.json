@@ -16,6 +16,10 @@
 			"tk2023": {
 				"lijstnummer": 2,
 				"woonplaats": "Groningen"
+			},
+			"tk2025": {
+				"lijstnummer": 2,
+				"woonplaats": "Groningen"
 			}
 		}
 	},
@@ -35,6 +39,10 @@
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 4,
+				"woonplaats": "Groningen"
+			},
+			"tk2025": {
+				"lijstnummer": 1,
 				"woonplaats": "Groningen"
 			}
 		}
@@ -56,6 +64,9 @@
 			"tk2023": {
 				"lijstnummer": 6,
 				"woonplaats": "Arnhem"
+			},
+			"tk2025": {
+				"lijstnummer": 3
 			}
 		}
 	},
@@ -75,6 +86,10 @@
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 8,
+				"woonplaats": "Zutphen"
+			},
+			"tk2025": {
+				"lijstnummer": 15,
 				"woonplaats": "Zutphen"
 			}
 		}
@@ -96,6 +111,9 @@
 			"tk2023": {
 				"lijstnummer": 10,
 				"woonplaats": "Den Haag"
+			},
+			"tk2025": {
+				"lijstnummer": 4
 			}
 		}
 	},
@@ -106,6 +124,9 @@
 			"tk2023": {
 				"lijstnummer": 11,
 				"woonplaats": "Arnhem"
+			},
+			"tk2025": {
+				"lijstnummer": 6
 			}
 		}
 	},
@@ -115,6 +136,10 @@
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 12,
+				"woonplaats": "Roermond"
+			},
+			"tk2025": {
+				"lijstnummer": 33,
 				"woonplaats": "Roermond"
 			}
 		}
@@ -135,6 +160,10 @@
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 14,
+				"woonplaats": "Amsterdam"
+			},
+			"tk2025": {
+				"lijstnummer": 49,
 				"woonplaats": "Amsterdam"
 			}
 		}
@@ -216,6 +245,10 @@
 			"tk2023": {
 				"lijstnummer": 22,
 				"woonplaats": "Meppel"
+			},
+			"tk2025": {
+				"lijstnummer": 32,
+				"woonplaats": "Meppel"
 			}
 		}
 	},
@@ -236,6 +269,10 @@
 			"tk2023": {
 				"lijstnummer": 24,
 				"woonplaats": "Rotterdam"
+			},
+			"tk2025": {
+				"lijstnummer": 48,
+				"woonplaats": "Rotterdam"
 			}
 		}
 	},
@@ -246,6 +283,9 @@
 			"tk2023": {
 				"lijstnummer": 25,
 				"woonplaats": "Den Haag"
+			},
+			"tk2025": {
+				"lijstnummer": 7
 			}
 		}
 	},
@@ -266,6 +306,10 @@
 			"tk2023": {
 				"lijstnummer": 27,
 				"woonplaats": "Breda"
+			},
+			"tk2025": {
+				"lijstnummer": 26,
+				"woonplaats": "Breda"
 			}
 		}
 	},
@@ -275,6 +319,10 @@
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 28,
+				"woonplaats": "Delft"
+			},
+			"tk2025": {
+				"lijstnummer": 18,
 				"woonplaats": "Delft"
 			}
 		}
@@ -306,6 +354,9 @@
 			"tk2023": {
 				"lijstnummer": 31,
 				"woonplaats": "Leiden"
+			},
+			"tk2025": {
+				"lijstnummer": 12
 			}
 		}
 	},
@@ -336,6 +387,9 @@
 			"tk2023": {
 				"lijstnummer": 34,
 				"woonplaats": "Haarlem"
+			},
+			"tk2025": {
+				"lijstnummer": 10
 			}
 		}
 	},
@@ -346,6 +400,10 @@
 			"tk2023": {
 				"lijstnummer": 35,
 				"woonplaats": "Utrecht"
+			},
+			"tk2025": {
+				"lijstnummer": 27,
+				"woonplaats": "Amsterdam"
 			}
 		}
 	},
@@ -386,6 +444,10 @@
 			"tk2023": {
 				"lijstnummer": 39,
 				"woonplaats": "Lelystad"
+			},
+			"tk2025": {
+				"lijstnummer": 19,
+				"woonplaats": "Lelystad"
 			}
 		}
 	},
@@ -415,6 +477,10 @@
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 42,
+				"woonplaats": "Delft"
+			},
+			"tk2025": {
+				"lijstnummer": 21,
 				"woonplaats": "Delft"
 			}
 		}
@@ -491,11 +557,322 @@
 	},
 	{
 		"naam": "Renske Leijten",
-        "geboortejaar": 197,
+        "geboortejaar": 1979,
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 50,
 				"woonplaats": "Haarlem "
+			}
+		}
+	},
+	{
+		"naam": "Maurits Hondmann",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 5
+			}
+		}
+	},
+	{
+		"naam": "Sunita Biharie",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 8
+			}
+		}
+	},
+	{
+		"naam": "Stephanie Blom",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 9
+			}
+		}
+	},
+	{
+		"naam": "Leroy Vossenberg",
+		"geboortejaar": 1993,
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 11,
+				"woonplaats": "Oss"
+			}
+		}
+	},
+	{
+		"naam": "Amber Witsenburg",
+		"geboortejaar": 1992,
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 13
+			}
+		}
+	},
+	{
+		"naam": "Erica Wever",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 14
+			}
+		}
+	},
+	{
+		"naam": "Thomas van Halm",
+		"geboortejaar": 1993,
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 16,
+				"woonplaats": "Leiden"
+			}
+		}
+	},
+	{
+		"naam": "Steven Peltenburg",
+		"geboortejaar": 2005,
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 17,
+				"woonplaats": "Schoonhoven"
+			}
+		}
+	},
+	{
+		"naam": "Mustapha Eaisaouiyen",
+		"geboortejaar": 1974,
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 20,
+				"woonplaats": "Rotterdam"
+			}
+		}
+	},
+	{
+		"naam": "Sandra Drost",
+		"geboortejaar": 1978,
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 22,
+				"woonplaats": "Zwolle"
+			}
+		}
+	},
+	{
+		"naam": "Sam Schwarz",
+		"geboortejaar": 1995,
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 23,
+				"woonplaats": "Amsterdam"
+			}
+		}
+	},
+	{
+		"naam": "Ruud Merks",
+		"geboortejaar": 1967,
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 24,
+				"woonplaats": "Schijndel"
+			}
+		}
+	},
+	{
+		"naam": "Michel van Winden",
+		"geboortejaar": 1966,
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 25,
+				"woonplaats": "‘s-Gravenhage"
+			}
+		}
+	},
+	{
+		"naam": "Dani Smith",
+		"geboortejaar": 1997,
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 28,
+				"woonplaats": "Vught"
+			}
+		}
+	},
+	{
+		"naam": "Edith Kuitert",
+		"geboortejaar": 1971,
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 29,
+				"woonplaats": "Terneuzen"
+			}
+		}
+	},
+	{
+		"naam": "Hanneke Goede",
+		"geboortejaar": 1981,
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 30,
+				"woonplaats": "Sneek"
+			}
+		}
+	},
+	{
+		"naam": "Erik Schapendonk",
+		"geboortejaar": 1993,
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 31,
+				"woonplaats": "Tilburg"
+			}
+		}
+	},
+	{
+		"naam": "Anna Moriarty Linthorst",
+		"geboortejaar": 2000,
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 34,
+				"woonplaats": "Maastricht"
+			}
+		}
+	},
+	{
+		"naam": "Angelo Alessandro Delsen",
+		"geboortejaar": 1994,
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 35,
+				"woonplaats": "Amsterdam"
+			}
+		}
+	},
+	{
+		"naam": "Emin Başoğlu",
+		"geboortejaar": 1990,
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 36,
+				"woonplaats": "Rotterdam"
+			}
+		}
+	},
+	{
+		"naam": "Ruth de Kleijn",
+		"geboortejaar": 1967,
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 37,
+				"woonplaats": "Voorthuizen"
+			}
+		}
+	},
+	{
+		"naam": "Anne-Marie Mineur",
+		"geboortejaar": 1966,
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 38,
+				"woonplaats": "De Bilt"
+			}
+		}
+	},
+	{
+		"naam": "Yurre Wieken",
+		"geboortejaar": 1989,
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 39,
+				"woonplaats": "Nijmegen"
+			}
+		}
+	},
+	{
+		"naam": "Jaswinder Singh",
+		"geboortejaar": 1978,
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 40,
+				"woonplaats": "Utrecht"
+			}
+		}
+	},
+	{
+		"naam": "Jente van Eck",
+		"geboortejaar": 1977,
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 41,
+				"woonplaats": "Den Bosch"
+			}
+		}
+	},
+	{
+		"naam": "Lisanne Zandvliet-Oldenkamp",
+		"geboortejaar": 1995,
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 42,
+				"woonplaats": "Beilen"
+			}
+		}
+	},
+	{
+		"naam": "Wim Hoogervorst",
+		"geboortejaar": 1966,
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 43,
+				"woonplaats": "Enkhuizen"
+			}
+		}
+	},
+	{
+		"naam": "Iris van de Kolk",
+		"geboortejaar": 1993,
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 44,
+				"woonplaats": "Nieuwerkerk aan den IJssel"
+			}
+		}
+	},
+	{
+		"naam": "Thom Smit",
+		"geboortejaar": 1996,
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 45,
+				"woonplaats": "Harlingen"
+			}
+		}
+	},
+	{
+		"naam": "Erik Flentge",
+		"geboortejaar": 1966,
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 46,
+				"woonplaats": "Amsterdam"
+			}
+		}
+	},
+	{
+		"naam": "Robert Bos",
+		"geboortejaar": 1982,
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 47,
+				"woonplaats": "Zwolle"
+			}
+		}
+	},
+	{
+		"naam": "Remi Poppe",
+		"geboortejaar": 1938,
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 50,
+				"woonplaats": "Vlaardingen"
 			}
 		}
 	}
