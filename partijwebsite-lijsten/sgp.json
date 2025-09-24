@@ -5,6 +5,10 @@
             "tk2023": {
                 "lijstnummer": 1,
                 "woonplaats": "Elspeet"
+            },
+            "tk2025": {
+                "lijstnummer": 1,
+                "woonplaats": "Elspeet"
             }
         }
     },
@@ -12,6 +16,10 @@
         "naam": "Diederik van Dijk",
         "verkiezingen": {
             "tk2023": {
+                "lijstnummer": 2,
+                "woonplaats": "Benthuizen"
+            },
+            "tk2025": {
                 "lijstnummer": 2,
                 "woonplaats": "Benthuizen"
             }
@@ -23,6 +31,10 @@
             "tk2023": {
                 "lijstnummer": 3,
                 "woonplaats": "Hendrik Ido Ambacht"
+            },
+            "tk2025": {
+                "lijstnummer": 3,
+                "woonplaats": "H.I.-Ambacht"
             }
         }
     },
@@ -30,6 +42,10 @@
         "naam": "Nathanaël Middelkoop",
         "verkiezingen": {
             "tk2023": {
+                "lijstnummer": 4,
+                "woonplaats": "Urk"
+            },
+            "tk2025": {
                 "lijstnummer": 4,
                 "woonplaats": "Urk"
             }
@@ -41,6 +57,10 @@
             "tk2023": {
                 "lijstnummer": 5,
                 "woonplaats": "Katwijk"
+            },
+            "tk2025": {
+                "lijstnummer": 5,
+                "woonplaats": "Katwijk"
             }
         }
     },
@@ -48,6 +68,10 @@
         "naam": "Harry van der Maas",
         "verkiezingen": {
             "tk2023": {
+                "lijstnummer": 6,
+                "woonplaats": "Aagtekerke"
+            },
+            "tk2025": {
                 "lijstnummer": 6,
                 "woonplaats": "Aagtekerke"
             }
@@ -59,6 +83,10 @@
             "tk2023": {
                 "lijstnummer": 7,
                 "woonplaats": "Maarsbergen"
+            },
+            "tk2025": {
+                "lijstnummer": 7,
+                "woonplaats": "Maarsbergen"
             }
         }
     },
@@ -66,6 +94,10 @@
         "naam": "Dick Both",
         "verkiezingen": {
             "tk2023": {
+                "lijstnummer": 8,
+                "woonplaats": "Veenendaal"
+            },
+            "tk2025": {
                 "lijstnummer": 8,
                 "woonplaats": "Veenendaal"
             }
@@ -77,6 +109,19 @@
             "tk2023": {
                 "lijstnummer": 9,
                 "woonplaats": "Apeldoorn"
+            },
+            "tk2025": {
+                "lijstnummer": 9,
+                "woonplaats": "Apeldoorn"
+            }
+        }
+    },
+    {
+        "naam": "Johan Roodnat",
+        "verkiezingen": {
+            "tk2025": {
+                "lijstnummer": 10,
+                "woonplaats": "Woudenberg"
             }
         }
     },
@@ -95,6 +140,10 @@
             "tk2023": {
                 "lijstnummer": 11,
                 "woonplaats": "‘s Gravendeel"
+            },
+            "tk2025": {
+                "lijstnummer": 11,
+                "woonplaats": "‘s Gravendeel"
             }
         }
     },
@@ -102,6 +151,10 @@
         "naam": "Harm Jan Polinder",
         "verkiezingen": {
             "tk2023": {
+                "lijstnummer": 12,
+                "woonplaats": "Nunspeet"
+            },
+            "tk2025": {
                 "lijstnummer": 12,
                 "woonplaats": "Nunspeet"
             }
@@ -113,6 +166,10 @@
             "tk2023": {
                 "lijstnummer": 13,
                 "woonplaats": "Genemuiden"
+            },
+            "tk2025": {
+                "lijstnummer": 13,
+                "woonplaats": "Genemuiden"
             }
         }
     },
@@ -120,6 +177,10 @@
         "naam": "Wim van Duijn",
         "verkiezingen": {
             "tk2023": {
+                "lijstnummer": 14,
+                "woonplaats": "Katwijk"
+            },
+            "tk2025": {
                 "lijstnummer": 14,
                 "woonplaats": "Katwijk"
             }
@@ -131,6 +192,10 @@
             "tk2023": {
                 "lijstnummer": 15,
                 "woonplaats": "Ouderkerk a/d IJssel"
+            },
+            "tk2025": {
+                "lijstnummer": 15,
+                "woonplaats": "Ouderkerk a/d IJssel"
             }
         }
     },
@@ -138,6 +203,10 @@
         "naam": "Johnny Lukasse",
         "verkiezingen": {
             "tk2023": {
+                "lijstnummer": 16,
+                "woonplaats": "Goes"
+            },
+            "tk2025": {
                 "lijstnummer": 16,
                 "woonplaats": "Goes"
             }
@@ -149,6 +218,10 @@
             "tk2023": {
                 "lijstnummer": 17,
                 "woonplaats": "Sliedrecht"
+            },
+            "tk2025": {
+                "lijstnummer": 17,
+                "woonplaats": "Sliedrecht"
             }
         }
     },
@@ -156,6 +229,10 @@
         "naam": "Ewart Bosma",
         "verkiezingen": {
             "tk2023": {
+                "lijstnummer": 18,
+                "woonplaats": "Rijssen"
+            },
+            "tk2025": {
                 "lijstnummer": 18,
                 "woonplaats": "Rijssen"
             }
@@ -167,6 +244,23 @@
             "tk2023": {
                 "lijstnummer": 19,
                 "woonplaats": "Leiderdorp"
+            },
+            "tk2025": {
+                "lijstnummer": 19,
+                "woonplaats": "Leiderdorp"
+            }
+        }
+    },
+    {
+        "naam": "Arnold Versteeg",
+        "verkiezingen": {
+            "tk2023": {
+                "lijstnummer": 33,
+                "woonplaats": "Wekerom"
+            },
+            "tk2025": {
+                "lijstnummer": 20,
+                "woonplaats": "Wekerom"
             }
         }
     },
@@ -185,6 +279,10 @@
             "tk2023": {
                 "lijstnummer": 21,
                 "woonplaats": "Niekerk"
+            },
+            "tk2025": {
+                "lijstnummer": 21,
+                "woonplaats": "Niekerk"
             }
         }
     },
@@ -192,6 +290,10 @@
         "naam": "Tom Koekoek",
         "verkiezingen": {
             "tk2023": {
+                "lijstnummer": 22,
+                "woonplaats": "Stuifzand"
+            },
+            "tk2025": {
                 "lijstnummer": 22,
                 "woonplaats": "Stuifzand"
             }
@@ -203,6 +305,10 @@
             "tk2023": {
                 "lijstnummer": 23,
                 "woonplaats": "Barneveld"
+            },
+            "tk2025": {
+                "lijstnummer": 23,
+                "woonplaats": "Barneveld"
             }
         }
     },
@@ -212,6 +318,19 @@
             "tk2023": {
                 "lijstnummer": 24,
                 "woonplaats": "Opheusden"
+            },
+            "tk2025": {
+                "lijstnummer": 24,
+                "woonplaats": "Opheusden"
+            }
+        }
+    },
+    {
+        "naam": "Berend de Boer",
+        "verkiezingen": {
+            "tk2025": {
+                "lijstnummer": 25,
+                "woonplaats": "Opeinde"
             }
         }
     },
@@ -230,6 +349,19 @@
             "tk2023": {
                 "lijstnummer": 26,
                 "woonplaats": "Middelburg"
+            },
+            "tk2025": {
+                "lijstnummer": 26,
+                "woonplaats": "Middelburg"
+            }
+        }
+    },
+    {
+        "naam": "Jan Kuijers",
+        "verkiezingen": {
+            "tk2025": {
+                "lijstnummer": 27,
+                "woonplaats": "Staphorst"
             }
         }
     },
@@ -243,11 +375,29 @@
         }
     },
     {
+        "naam": "Henk van Zelst",
+        "verkiezingen": {
+            "tk2025": {
+                "lijstnummer": 28,
+                "woonplaats": "Sprang-Capelle"
+            }
+        }
+    },
+    {
         "naam": "Peter Noordergraaf",
         "verkiezingen": {
             "tk2023": {
                 "lijstnummer": 28,
                 "woonplaats": "Werkendam"
+            }
+        }
+    },
+    {
+        "naam": "Rob Bource",
+        "verkiezingen": {
+            "tk2025": {
+                "lijstnummer": 29,
+                "woonplaats": "Huizen"
             }
         }
     },
@@ -266,6 +416,19 @@
             "tk2023": {
                 "lijstnummer": 30,
                 "woonplaats": "Staphorst"
+            },
+            "tk2025": {
+                "lijstnummer": 30,
+                "woonplaats": "Staphorst"
+            }
+        }
+    },
+    {
+        "naam": "Jan Baijense",
+        "verkiezingen": {
+            "tk2025": {
+                "lijstnummer": 31,
+                "woonplaats": "Kerkrade"
             }
         }
     },
@@ -284,6 +447,19 @@
             "tk2023": {
                 "lijstnummer": 32,
                 "woonplaats": "Doetinchem"
+            },
+            "tk2025": {
+                "lijstnummer": 32,
+                "woonplaats": "Doetinchem"
+            }
+        }
+    },
+    {
+        "naam": "Jan Top",
+        "verkiezingen": {
+            "tk2025": {
+                "lijstnummer": 33,
+                "woonplaats": "Barneveld"
             }
         }
     },
@@ -293,6 +469,10 @@
             "tk2023": {
                 "lijstnummer": 33,
                 "woonplaats": "Wekerom"
+            },
+            "tk2025": {
+                "lijstnummer": 20,
+                "woonplaats": "Wekerom"
             }
         }
     },
@@ -300,6 +480,10 @@
         "naam": "Lambert Kisteman",
         "verkiezingen": {
             "tk2023": {
+                "lijstnummer": 34,
+                "woonplaats": "De Klomp"
+            },
+            "tk2025": {
                 "lijstnummer": 34,
                 "woonplaats": "De Klomp"
             }
@@ -311,6 +495,10 @@
             "tk2023": {
                 "lijstnummer": 35,
                 "woonplaats": "Tricht"
+            },
+            "tk2025": {
+                "lijstnummer": 35,
+                "woonplaats": "Tricht"
             }
         }
     },
@@ -320,6 +508,10 @@
             "tk2023": {
                 "lijstnummer": 36,
                 "woonplaats": "Elst"
+            },
+            "tk2025": {
+                "lijstnummer": 36,
+                "woonplaats": "Elst (UT)"
             }
         }
     },
@@ -329,6 +521,10 @@
             "tk2023": {
                 "lijstnummer": 37,
                 "woonplaats": "Dirksland"
+            },
+            "tk2025": {
+                "lijstnummer": 37,
+                "woonplaats": "Nieuw-Beijerland"
             }
         }
     },
@@ -336,6 +532,10 @@
         "naam": "Gert van Laar",
         "verkiezingen": {
             "tk2023": {
+                "lijstnummer": 38,
+                "woonplaats": "Rhenen"
+            },
+            "tk2025": {
                 "lijstnummer": 38,
                 "woonplaats": "Rhenen"
             }
@@ -347,6 +547,10 @@
             "tk2023": {
                 "lijstnummer": 39,
                 "woonplaats": "Rijssen"
+            },
+            "tk2025": {
+                "lijstnummer": 39,
+                "woonplaats": "Rijssen"
             }
         }
     },
@@ -354,6 +558,10 @@
         "naam": "Ruben van Heteren",
         "verkiezingen": {
             "tk2023": {
+                "lijstnummer": 40,
+                "woonplaats": "Barendrecht"
+            },
+            "tk2025": {
                 "lijstnummer": 40,
                 "woonplaats": "Barendrecht"
             }
@@ -365,6 +573,10 @@
             "tk2023": {
                 "lijstnummer": 41,
                 "woonplaats": "IJsselmuiden"
+            },
+            "tk2025": {
+                "lijstnummer": 41,
+                "woonplaats": "IJsselmuiden"
             }
         }
     },
@@ -374,6 +586,19 @@
             "tk2023": {
                 "lijstnummer": 42,
                 "woonplaats": "Yerseke"
+            },
+            "tk2025": {
+                "lijstnummer": 42,
+                "woonplaats": "Yerseke"
+            }
+        }
+    },
+    {
+        "naam": "Jan-Bert Heinen",
+        "verkiezingen": {
+            "tk2025": {
+                "lijstnummer": 43,
+                "woonplaats": "Bunschoten-Spakenburg"
             }
         }
     },
@@ -383,6 +608,19 @@
             "tk2023": {
                 "lijstnummer": 43,
                 "woonplaats": "Nieuwaal"
+            },
+            "tk2025": {
+                "lijstnummer": 48,
+                "woonplaats": "Nieuwaal"
+            }
+        }
+    },
+    {
+        "naam": "Willem-Jan Verdoes",
+        "verkiezingen": {
+            "tk2025": {
+                "lijstnummer": 44,
+                "woonplaats": "Moerkapelle"
             }
         }
     },
@@ -392,6 +630,51 @@
             "tk2023": {
                 "lijstnummer": 44,
                 "woonplaats": "Barendrecht"
+            }
+        }
+    },
+    {
+        "naam": "Jan Lock",
+        "verkiezingen": {
+            "tk2025": {
+                "lijstnummer": 45,
+                "woonplaats": "Giessenburg"
+            }
+        }
+    },
+    {
+        "naam": "Joan van Burg",
+        "verkiezingen": {
+            "tk2025": {
+                "lijstnummer": 46,
+                "woonplaats": "Terneuzen"
+            }
+        }
+    },
+    {
+        "naam": "Kees Vermaat",
+        "verkiezingen": {
+            "tk2025": {
+                "lijstnummer": 47,
+                "woonplaats": "Leerbroek"
+            }
+        }
+    },
+    {
+        "naam": "Gerbrand van Hoef",
+        "verkiezingen": {
+            "tk2025": {
+                "lijstnummer": 49,
+                "woonplaats": "Rotterdam"
+            }
+        }
+    },
+    {
+        "naam": "Florian Pronk",
+        "verkiezingen": {
+            "tk2025": {
+                "lijstnummer": 50,
+                "woonplaats": "Sliedrecht"
             }
         }
     }
