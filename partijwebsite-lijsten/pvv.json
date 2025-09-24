@@ -4,6 +4,9 @@
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 1
+			},
+			"tk2025": {
+				"lijstnummer": 1
 			}
 		}
 	},
@@ -20,6 +23,9 @@
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 3
+			},
+			"tk2025": {
+				"lijstnummer": 25
 			}
 		}
 	},
@@ -28,6 +34,9 @@
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 4
+			},
+			"tk2025": {
+				"lijstnummer": 5
 			}
 		}
 	},
@@ -36,6 +45,9 @@
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 5
+			},
+			"tk2025": {
+				"lijstnummer": 6
 			}
 		}
 	},
@@ -44,6 +56,9 @@
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 6
+			},
+			"tk2025": {
+				"lijstnummer": 7
 			}
 		}
 	},
@@ -52,6 +67,9 @@
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 7
+			},
+			"tk2025": {
+				"lijstnummer": 9
 			}
 		}
 	},
@@ -60,6 +78,9 @@
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 8
+			},
+			"tk2025": {
+				"lijstnummer": 11
 			}
 		}
 	},
@@ -68,6 +89,9 @@
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 9
+			},
+			"tk2025": {
+				"lijstnummer": 10
 			}
 		}
 	},
@@ -76,6 +100,9 @@
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 10
+			},
+			"tk2025": {
+				"lijstnummer": 8
 			}
 		}
 	},
@@ -84,6 +111,9 @@
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 11
+			},
+			"tk2025": {
+				"lijstnummer": 12
 			}
 		}
 	},
@@ -92,6 +122,9 @@
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 12
+			},
+			"tk2025": {
+				"lijstnummer": 80
 			}
 		}
 	},
@@ -108,6 +141,9 @@
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 14
+			},
+			"tk2025": {
+				"lijstnummer": 18
 			}
 		}
 	},
@@ -116,6 +152,9 @@
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 15
+			},
+			"tk2025": {
+				"lijstnummer": 38
 			}
 		}
 	},
@@ -124,6 +163,9 @@
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 16
+			},
+			"tk2025": {
+				"lijstnummer": 22
 			}
 		}
 	},
@@ -132,6 +174,9 @@
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 17
+			},
+			"tk2025": {
+				"lijstnummer": 19
 			}
 		}
 	},
@@ -140,6 +185,9 @@
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 18
+			},
+			"tk2025": {
+				"lijstnummer": 30
 			}
 		}
 	},
@@ -148,6 +196,9 @@
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 19
+			},
+			"tk2025": {
+				"lijstnummer": 27
 			}
 		}
 	},
@@ -164,6 +215,9 @@
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 21
+			},
+			"tk2025": {
+				"lijstnummer": 32
 			}
 		}
 	},
@@ -172,6 +226,9 @@
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 22
+			},
+			"tk2025": {
+				"lijstnummer": 28
 			}
 		}
 	},
@@ -180,6 +237,9 @@
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 23
+			},
+			"tk2025": {
+				"lijstnummer": 29
 			}
 		}
 	},
@@ -188,6 +248,9 @@
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 24
+			},
+			"tk2025": {
+				"lijstnummer": 23
 			}
 		}
 	},
@@ -196,6 +259,9 @@
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 25
+			},
+			"tk2025": {
+				"lijstnummer": 16
 			}
 		}
 	},
@@ -204,6 +270,9 @@
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 26
+			},
+			"tk2025": {
+				"lijstnummer": 33
 			}
 		}
 	},
@@ -212,6 +281,9 @@
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 27
+			},
+			"tk2025": {
+				"lijstnummer": 13
 			}
 		}
 	},
@@ -220,6 +292,9 @@
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 28
+			},
+			"tk2025": {
+				"lijstnummer": 35
 			}
 		}
 	},
@@ -228,6 +303,9 @@
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 29
+			},
+			"tk2025": {
+				"lijstnummer": 44
 			}
 		}
 	},
@@ -236,6 +314,9 @@
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 30
+			},
+			"tk2025": {
+				"lijstnummer": 36
 			}
 		}
 	},
@@ -252,6 +333,9 @@
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 32
+			},
+			"tk2025": {
+				"lijstnummer": 34
 			}
 		}
 	},
@@ -260,6 +344,9 @@
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 33
+			},
+			"tk2025": {
+				"lijstnummer": 43
 			}
 		}
 	},
@@ -268,6 +355,9 @@
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 34
+			},
+			"tk2025": {
+				"lijstnummer": 14
 			}
 		}
 	},
@@ -276,6 +366,9 @@
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 35
+			},
+			"tk2025": {
+				"lijstnummer": 39
 			}
 		}
 	},
@@ -284,6 +377,9 @@
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 36
+			},
+			"tk2025": {
+				"lijstnummer": 15
 			}
 		}
 	},
@@ -292,6 +388,9 @@
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 37
+			},
+			"tk2025": {
+				"lijstnummer": 31
 			}
 		}
 	},
@@ -300,6 +399,9 @@
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 38
+			},
+			"tk2025": {
+				"lijstnummer": 40
 			}
 		}
 	},
@@ -308,6 +410,9 @@
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 39
+			},
+			"tk2025": {
+				"lijstnummer": 42
 			}
 		}
 	},
@@ -316,6 +421,9 @@
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 40
+			},
+			"tk2025": {
+				"lijstnummer": 45
 			}
 		}
 	},
@@ -324,6 +432,9 @@
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 41
+			},
+			"tk2025": {
+				"lijstnummer": 37
 			}
 		}
 	},
@@ -332,6 +443,9 @@
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 42
+			},
+			"tk2025": {
+				"lijstnummer": 24
 			}
 		}
 	},
@@ -348,6 +462,9 @@
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 44
+			},
+			"tk2025": {
+				"lijstnummer": 79
 			}
 		}
 	},
@@ -356,6 +473,94 @@
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 45
+			}
+		}
+	},
+	{
+		"naam": "Sebastiaan Stöteler",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 2
+			}
+		}
+	},
+	{
+		"naam": "Shanna Schilder",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 3
+			}
+		}
+	},
+	{
+		"naam": "Annelotte Lammers",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 4
+			}
+		}
+	},
+	{
+		"naam": "Nicole Moinat",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 17
+			}
+		}
+	},
+	{
+		"naam": "Tamara ten Hove",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 20
+			}
+		}
+	},
+	{
+		"naam": "Erwin Prickaertz",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 21
+			}
+		}
+	},
+	{
+		"naam": "Chris Jansen",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 26
+			}
+		}
+	},
+	{
+		"naam": "Ton van Kesteren",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 75
+			}
+		}
+	},
+	{
+		"naam": "Ilse Bezaan",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 76
+			}
+		}
+	},
+	{
+		"naam": "Rachel Blom",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 77
+			}
+		}
+	},
+	{
+		"naam": "Marieke Ehlers",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 78
 			}
 		}
 	}
