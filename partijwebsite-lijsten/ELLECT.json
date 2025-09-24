@@ -1,0 +1,82 @@
+[
+    {
+		"naam": "Joana Amoah",
+		"geslacht": "vrouw",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 1,
+				"woonplaats": "Lelystad"
+			}
+		}
+	},
+	{
+		"naam": "Esther Morisson",
+		"geslacht": "vrouw",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 2,
+				"woonplaats": "Amsterdam"
+			}
+		}
+	},
+	{
+		"naam": "Eddie de Sera",
+		"geslacht": "man",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 3,
+				"woonplaats": "Tiel"
+			}
+		}
+	},
+	{
+		"naam": "Katia Rodrigues de Souza",
+		"geslacht": "vrouw",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 4,
+				"woonplaats": "Amsterdam"
+			}
+		}
+	},
+	{
+		"naam": "Ferdinand Anthonij de Jongh",
+		"geslacht": "man",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 5,
+				"woonplaats": "Tiel"
+			}
+		}
+	},
+	{
+		"naam": "Ruthsela Regalda Ustasia",
+		"geslacht": "vrouw",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 6,
+				"woonplaats": "Eede"
+			}
+		}
+	},
+	{
+		"naam": "Margo Celestine van Rhemen",
+		"geslacht": "vrouw",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 7,
+				"woonplaats": "Amsterdam"
+			}
+		}
+	},
+	{
+		"naam": "Maria Joanna Petronella Vinken",
+		"geslacht": "vrouw",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 8,
+				"woonplaats": "Gorssel"
+			}
+		}
+	}
+]
