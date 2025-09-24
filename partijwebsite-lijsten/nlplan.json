@@ -1,0 +1,12 @@
+[
+    {
+		"naam": "Kok Chan",
+		"geslacht": "man",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 1,
+				"woonplaats": "Amsterdam"
+			}
+		}
+	}
+]
