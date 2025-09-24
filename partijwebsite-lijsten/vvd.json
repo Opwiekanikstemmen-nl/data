@@ -2,10 +2,13 @@
 	{
 		"naam": "Dilan Yeşilgöz-Zegerius",
 		"urls": {
-			"partijwebsite": "https://www.vvd.nl/profielen/dilan-yesilgoz-zegerius/"
+			"partijwebsite": "https://www.vvd.nl/profielen/dilan-yesilgoz-zegerius-2/"
 		},
 		"verkiezingen": {
 			"tk2023": {
+				"lijstnummer": 1
+			},
+			"tk2025": {
 				"lijstnummer": 1
 			}
 		}
@@ -25,11 +28,14 @@
 	{
 		"naam": "Bente Becker",
 		"urls": {
-			"partijwebsite": "https://www.vvd.nl/profielen/bente-becker/"
+			"partijwebsite": "https://www.vvd.nl/profielen/bente-becker-2/"
 		},
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 3
+			},
+			"tk2025": {
+				"lijstnummer": 6
 			}
 		}
 	},
@@ -41,6 +47,9 @@
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 4
+			},
+			"tk2025": {
+				"lijstnummer": 5
 			}
 		}
 	},
@@ -63,6 +72,9 @@
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 6
+			},
+			"tk2025": {
+				"lijstnummer": 3
 			}
 		}
 	},
@@ -74,13 +86,16 @@
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 7
+			},
+			"tk2025": {
+				"lijstnummer": 2
 			}
 		}
 	},
 	{
 		"naam": "Aukje de Vries",
 		"urls": {
-			"partijwebsite": "https://www.vvd.nl/profielen/aukje-de-vries/"
+			"partijwebsite": "https://www.vvd.nl/profielen/aukje-de-vries-2/"
 		},
 		"verkiezingen": {
 			"tk2023": {
@@ -118,16 +133,22 @@
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 11
+			},
+			"tk2025": {
+				"lijstnummer": 8
 			}
 		}
 	},
 	{
-		"naam": "Queeny Rajkowski",
+		"naam": "Queeny-Aimée Rajkowski",
 		"urls": {
 			"partijwebsite": "https://www.vvd.nl/profielen/queeny-rajkowski-2/"
 		},
 		"verkiezingen": {
 			"tk2023": {
+				"lijstnummer": 12
+			},
+			"tk2025": {
 				"lijstnummer": 12
 			}
 		}
@@ -135,11 +156,14 @@
 	{
 		"naam": "Thierry Aartsen",
 		"urls": {
-			"partijwebsite": "https://www.vvd.nl/profielen/thierry-aartsen/"
+			"partijwebsite": "https://www.vvd.nl/profielen/thierry-aartsen-2/"
 		},
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 13
+			},
+			"tk2025": {
+				"lijstnummer": 14
 			}
 		}
 	},
@@ -151,13 +175,16 @@
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 14
+			},
+			"tk2025": {
+				"lijstnummer": 11
 			}
 		}
 	},
 	{
 		"naam": "Judith Tielen",
 		"urls": {
-			"partijwebsite": "https://www.vvd.nl/profielen/judith-tielen/"
+			"partijwebsite": "https://www.vvd.nl/profielen/judith-tielen-2/"
 		},
 		"verkiezingen": {
 			"tk2023": {
@@ -168,7 +195,7 @@
 	{
 		"naam": "Hester Veltman-Kamp",
 		"urls": {
-			"partijwebsite": "https://www.vvd.nl/profielen/hester-veltman-kamp/"
+			"partijwebsite": "https://www.vvd.nl/profielen/hester-veltman-kamp-2/"
 		},
 		"verkiezingen": {
 			"tk2023": {
@@ -179,11 +206,14 @@
 	{
 		"naam": "Wendy van Eijk-Nagel",
 		"urls": {
-			"partijwebsite": "https://www.vvd.nl/profielen/wendy-van-eijk-nagel/"
+			"partijwebsite": "https://www.vvd.nl/profielen/wendy-van-eijk-nagel-2/"
 		},
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 17
+			},
+			"tk2025": {
+				"lijstnummer": 7
 			}
 		}
 	},
@@ -195,39 +225,51 @@
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 18
+			},
+			"tk2025": {
+				"lijstnummer": 13
 			}
 		}
 	},
 	{
 		"naam": "Ingrid Michon-Derkzen",
 		"urls": {
-			"partijwebsite": "https://www.vvd.nl/profielen/ingrid-michon-derkzen/"
+			"partijwebsite": "https://www.vvd.nl/profielen/ingrid-michon-derkzen-2/"
 		},
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 19
+			},
+			"tk2025": {
+				"lijstnummer": 15
 			}
 		}
 	},
 	{
 		"naam": "Claire Martens-America",
 		"urls": {
-			"partijwebsite": "https://www.vvd.nl/profielen/claire-martens/"
+			"partijwebsite": "https://www.vvd.nl/profielen/claire-martens-2/"
 		},
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 20
+			},
+			"tk2025": {
+				"lijstnummer": 9
 			}
 		}
 	},
 	{
 		"naam": "Wim Meulenkamp",
 		"urls": {
-			"partijwebsite": "https://www.vvd.nl/profielen/wim-meulenkamp/"
+			"partijwebsite": "https://www.vvd.nl/profielen/wim-meulenkamp-2/"
 		},
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 21
+			},
+			"tk2025": {
+				"lijstnummer": 25
 			}
 		}
 	},
@@ -239,17 +281,23 @@
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 22
+			},
+			"tk2025": {
+				"lijstnummer": 16
 			}
 		}
 	},
 	{
 		"naam": "Arend Kisteman",
 		"urls": {
-			"partijwebsite": "https://www.vvd.nl/profielen/arend-kisteman/"
+			"partijwebsite": "https://www.vvd.nl/profielen/arend-kisteman-2/"
 		},
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 23
+			},
+			"tk2025": {
+				"lijstnummer": 19
 			}
 		}
 	},
@@ -261,6 +309,9 @@
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 24
+			},
+			"tk2025": {
+				"lijstnummer": 20
 			}
 		}
 	},
@@ -289,11 +340,14 @@
 	{
 		"naam": "Harry Bevers",
 		"urls": {
-			"partijwebsite": "https://www.vvd.nl/profielen/harry-bevers/"
+			"partijwebsite": "https://www.vvd.nl/profielen/harry-bevers-2/"
 		},
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 27
+			},
+			"tk2025": {
+				"lijstnummer": 17
 			}
 		}
 	},
@@ -305,13 +359,16 @@
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 28
+			},
+			"tk2025": {
+				"lijstnummer": 34
 			}
 		}
 	},
 	{
 		"naam": "Rosemarijn Dral",
 		"urls": {
-			"partijwebsite": "https://www.vvd.nl/profielen/rosemarijn-dral/"
+			"partijwebsite": "https://www.vvd.nl/profielen/rosemarijn-dral-2/"
 		},
 		"verkiezingen": {
 			"tk2023": {
@@ -327,6 +384,9 @@
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 30
+			},
+			"tk2025": {
+				"lijstnummer": 23
 			}
 		}
 	},
@@ -338,6 +398,9 @@
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 31
+			},
+			"tk2025": {
+				"lijstnummer": 29
 			}
 		}
 	},
@@ -349,17 +412,23 @@
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 32
+			},
+			"tk2025": {
+				"lijstnummer": 32
 			}
 		}
 	},
 	{
 		"naam": "Martin de Beer",
 		"urls": {
-			"partijwebsite": "https://www.vvd.nl/profielen/martin-de-beer/"
+			"partijwebsite": "https://www.vvd.nl/profielen/martin-de-beer-2/"
 		},
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 33
+			},
+			"tk2025": {
+				"lijstnummer": 26
 			}
 		}
 	},
@@ -377,18 +446,21 @@
 	{
 		"naam": "Jeroen Hartsuiker",
 		"urls": {
-			"partijwebsite": "https://www.vvd.nl/profielen/jeroen-hartsuiker/"
+			"partijwebsite": "https://www.vvd.nl/profielen/jeroen-hartsuiker-2/"
 		},
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 35
+			},
+			"tk2025": {
+				"lijstnummer": 39
 			}
 		}
 	},
 	{
 		"naam": "Hester Klein Lankhorst",
 		"urls": {
-			"partijwebsite": "https://www.vvd.nl/profielen/hester-klein-lankhorst/"
+			"partijwebsite": "https://www.vvd.nl/profielen/hester-klein-lankhorst-2/"
 		},
 		"verkiezingen": {
 			"tk2023": {
@@ -430,31 +502,37 @@
 		}
 	},
 	{
-		"naam": "Dieke van Groningen",
+		"naam": "Dieke van Groningen-de Haas",
 		"urls": {
-			"partijwebsite": "https://www.vvd.nl/profielen/dieke-van-groningen/"
+			"partijwebsite": "https://www.vvd.nl/profielen/dieke-van-groningen-2/"
 		},
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 40
+			},
+			"tk2025": {
+				"lijstnummer": 30
 			}
 		}
 	},
 	{
 		"naam": "Ellis Zeeuw van der Laan",
 		"urls": {
-			"partijwebsite": "https://www.vvd.nl/profielen/ellis-zeeuw-van-der-laan/"
+			"partijwebsite": "https://www.vvd.nl/profielen/ellis-zeeuw-van-der-laan-2/"
 		},
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 41
+			},
+			"tk2025": {
+				"lijstnummer": 40
 			}
 		}
 	},
 	{
 		"naam": "Youri Volkman",
 		"urls": {
-			"partijwebsite": "https://www.vvd.nl/profielen/youri-volkman/"
+			"partijwebsite": "https://www.vvd.nl/profielen/youri-volkman-2/"
 		},
 		"verkiezingen": {
 			"tk2023": {
@@ -465,11 +543,14 @@
 	{
 		"naam": "Peter van Kessel",
 		"urls": {
-			"partijwebsite": "https://www.vvd.nl/profielen/peter-van-kessel/"
+			"partijwebsite": "https://www.vvd.nl/profielen/peter-van-kessel-2/"
 		},
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 43
+			},
+			"tk2025": {
+				"lijstnummer": 35
 			}
 		}
 	},
@@ -487,7 +568,7 @@
 	{
 		"naam": "Bart Omlo",
 		"urls": {
-			"partijwebsite": "https://www.vvd.nl/profielen/bart-omlo/"
+			"partijwebsite": "https://www.vvd.nl/profielen/bart-omlo-2/"
 		},
 		"verkiezingen": {
 			"tk2023": {
@@ -498,11 +579,14 @@
 	{
 		"naam": "Remco Yizhak Cooremans",
 		"urls": {
-			"partijwebsite": "https://www.vvd.nl/profielen/remco-cooremans/"
+			"partijwebsite": "https://www.vvd.nl/profielen/remco-cooremans-2/"
 		},
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 46
+			},
+			"tk2025": {
+				"lijstnummer": 41
 			}
 		}
 	},
@@ -514,13 +598,16 @@
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 47
+			},
+			"tk2025": {
+				"lijstnummer": 46
 			}
 		}
 	},
 	{
 		"naam": "Bas de Wit",
 		"urls": {
-			"partijwebsite": "https://www.vvd.nl/profielen/bas-de-wit/"
+			"partijwebsite": "https://www.vvd.nl/profielen/bas-de-wit-2/"
 		},
 		"verkiezingen": {
 			"tk2023": {
@@ -531,7 +618,7 @@
 	{
 		"naam": "Miriam van Meerten-Kok",
 		"urls": {
-			"partijwebsite": "https://www.vvd.nl/profielen/miriam-van-meerten/"
+			"partijwebsite": "https://www.vvd.nl/profielen/miriam-van-meerten-2/"
 		},
 		"verkiezingen": {
 			"tk2023": {
@@ -542,11 +629,14 @@
 	{
 		"naam": "Barry Hoogezand",
 		"urls": {
-			"partijwebsite": "https://www.vvd.nl/profielen/barry-hoogezand/"
+			"partijwebsite": "https://www.vvd.nl/profielen/barry-hoogezand-2/"
 		},
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 50
+			},
+			"tk2025": {
+				"lijstnummer": 43
 			}
 		}
 	},
@@ -564,29 +654,35 @@
 	{
 		"naam": "Hilde Wendel",
 		"urls": {
-			"partijwebsite": "https://www.vvd.nl/profielen/hilde-wendel/"
+			"partijwebsite": "https://www.vvd.nl/profielen/hilde-wendel-2/"
 		},
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 52
+			},
+			"tk2025": {
+				"lijstnummer": 21
 			}
 		}
 	},
 	{
 		"naam": "Nupur Kohli",
 		"urls": {
-			"partijwebsite": "https://www.vvd.nl/profielen/nupur-kohli/"
+			"partijwebsite": "https://www.vvd.nl/profielen/nupur-kohli-2/"
 		},
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 53
+			},
+			"tk2025": {
+				"lijstnummer": 48
 			}
 		}
 	},
 	{
 		"naam": "Ilona Klerks",
 		"urls": {
-			"partijwebsite": "https://www.vvd.nl/profielen/ilona-klerks/"
+			"partijwebsite": "https://www.vvd.nl/profielen/ilona-klerks-2/"
 		},
 		"verkiezingen": {
 			"tk2023": {
@@ -597,7 +693,7 @@
 	{
 		"naam": "Herre Dijkema",
 		"urls": {
-			"partijwebsite": "https://www.vvd.nl/profielen/herre-dijkema/"
+			"partijwebsite": "https://www.vvd.nl/profielen/herre-dijkema-2/"
 		},
 		"verkiezingen": {
 			"tk2023": {
@@ -608,7 +704,7 @@
 	{
 		"naam": "Anna Elkerbout",
 		"urls": {
-			"partijwebsite": "https://www.vvd.nl/profielen/anna-elkerbout/"
+			"partijwebsite": "https://www.vvd.nl/profielen/anna-elkerbout-2/"
 		},
 		"verkiezingen": {
 			"tk2023": {
@@ -619,7 +715,7 @@
 	{
 		"naam": "Dimitri van Rijn",
 		"urls": {
-			"partijwebsite": "https://www.vvd.nl/profielen/dimitri-van-rijn/"
+			"partijwebsite": "https://www.vvd.nl/profielen/dimitri-van-rijn-2/"
 		},
 		"verkiezingen": {
 			"tk2023": {
@@ -630,18 +726,21 @@
 	{
 		"naam": "Berend Aptroot",
 		"urls": {
-			"partijwebsite": "https://www.vvd.nl/profielen/berend-aptroot/"
+			"partijwebsite": "https://www.vvd.nl/profielen/berend-aptroot-2/"
 		},
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 58
+			},
+			"tk2025": {
+				"lijstnummer": 51
 			}
 		}
 	},
 	{
 		"naam": "Lilianne de Regt",
 		"urls": {
-			"partijwebsite": "https://www.vvd.nl/profielen/lilianne-de-regt/"
+			"partijwebsite": "https://www.vvd.nl/profielen/lilianne-de-regt-2/"
 		},
 		"verkiezingen": {
 			"tk2023": {
@@ -652,7 +751,7 @@
 	{
 		"naam": "Jaap van Veen",
 		"urls": {
-			"partijwebsite": "https://www.vvd.nl/profielen/jaap-van-veen/"
+			"partijwebsite": "https://www.vvd.nl/profielen/jaap-van-veen-2/"
 		},
 		"verkiezingen": {
 			"tk2023": {
@@ -663,29 +762,35 @@
 	{
 		"naam": "Marjolein Vulpes",
 		"urls": {
-			"partijwebsite": "https://www.vvd.nl/profielen/marjolein-vulpes/"
+			"partijwebsite": "https://www.vvd.nl/profielen/marjolein-vulpes-2/"
 		},
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 61
+			},
+			"tk2025": {
+				"lijstnummer": 50
 			}
 		}
 	},
 	{
 		"naam": "Jasper van Os",
 		"urls": {
-			"partijwebsite": "https://www.vvd.nl/profielen/jasper-van-os/"
+			"partijwebsite": "https://www.vvd.nl/profielen/jasper-van-os-2/"
 		},
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 62
+			},
+			"tk2025": {
+				"lijstnummer": 55
 			}
 		}
 	},
 	{
 		"naam": "Roland van der Klauw",
 		"urls": {
-			"partijwebsite": "https://www.vvd.nl/profielen/roland-van-der-klauw/"
+			"partijwebsite": "https://www.vvd.nl/profielen/roland-van-der-klauw-2/"
 		},
 		"verkiezingen": {
 			"tk2023": {
@@ -696,7 +801,7 @@
 	{
 		"naam": "Arash Rahmani",
 		"urls": {
-			"partijwebsite": "https://www.vvd.nl/profielen/arash-rahmani/"
+			"partijwebsite": "https://www.vvd.nl/profielen/arash-rahmani-2/"
 		},
 		"verkiezingen": {
 			"tk2023": {
@@ -707,7 +812,7 @@
 	{
 		"naam": "Rick Bouma",
 		"urls": {
-			"partijwebsite": "https://www.vvd.nl/profielen/rick-bouma/"
+			"partijwebsite": "https://www.vvd.nl/profielen/rick-bouma-2/"
 		},
 		"verkiezingen": {
 			"tk2023": {
@@ -718,18 +823,21 @@
 	{
 		"naam": "Anne van Berlo",
 		"urls": {
-			"partijwebsite": "https://www.vvd.nl/profielen/anne-van-berlo/"
+			"partijwebsite": "https://www.vvd.nl/profielen/anne-van-berlo-2/"
 		},
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 66
+			},
+			"tk2025": {
+				"lijstnummer": 62
 			}
 		}
 	},
 	{
 		"naam": "Irma Talens",
 		"urls": {
-			"partijwebsite": "https://www.vvd.nl/profielen/irma-talens/"
+			"partijwebsite": "https://www.vvd.nl/profielen/irma-talens-2/"
 		},
 		"verkiezingen": {
 			"tk2023": {
@@ -740,18 +848,21 @@
 	{
 		"naam": "Rogier Bruin",
 		"urls": {
-			"partijwebsite": "https://www.vvd.nl/profielen/rogier-bruin/"
+			"partijwebsite": "https://www.vvd.nl/profielen/rogier-bruin-2/"
 		},
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 68
+			},
+			"tk2025": {
+				"lijstnummer": 56
 			}
 		}
 	},
 	{
 		"naam": "Trudie van 't Hull-Bettink",
 		"urls": {
-			"partijwebsite": "https://www.vvd.nl/profielen/trudie-van-t-hull-bettink/"
+			"partijwebsite": "https://www.vvd.nl/profielen/trudie-van-t-hull-bettink-2/"
 		},
 		"verkiezingen": {
 			"tk2023": {
@@ -762,29 +873,35 @@
 	{
 		"naam": "Johan Gadella",
 		"urls": {
-			"partijwebsite": "https://www.vvd.nl/profielen/johan-gadella/"
+			"partijwebsite": "https://www.vvd.nl/profielen/johan-gadella-2/"
 		},
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 70
+			},
+			"tk2025": {
+				"lijstnummer": 66
 			}
 		}
 	},
 	{
 		"naam": "Daan Vermeulen",
 		"urls": {
-			"partijwebsite": "https://www.vvd.nl/profielen/daan-vermeulen/"
+			"partijwebsite": "https://www.vvd.nl/profielen/daan-vermeulen-2/"
 		},
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 71
+			},
+			"tk2025": {
+				"lijstnummer": 52
 			}
 		}
 	},
 	{
 		"naam": "Marijke van Noort-Cnossen",
 		"urls": {
-			"partijwebsite": "https://www.vvd.nl/profielen/marijke-van-noort/"
+			"partijwebsite": "https://www.vvd.nl/profielen/marijke-van-noort-2/"
 		},
 		"verkiezingen": {
 			"tk2023": {
@@ -795,7 +912,7 @@
 	{
 		"naam": "Monique Van der Sanden",
 		"urls": {
-			"partijwebsite": "https://www.vvd.nl/profielen/monique-van-der-sanden/"
+			"partijwebsite": "https://www.vvd.nl/profielen/monique-van-der-sanden-2/"
 		},
 		"verkiezingen": {
 			"tk2023": {
@@ -806,18 +923,21 @@
 	{
 		"naam": "Holger Rodoe",
 		"urls": {
-			"partijwebsite": "https://www.vvd.nl/profielen/holger-rodoe/"
+			"partijwebsite": "https://www.vvd.nl/profielen/holger-rodoe-2/"
 		},
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 74
+			},
+			"tk2025": {
+				"lijstnummer": 54
 			}
 		}
 	},
 	{
 		"naam": "Cas Schollink",
 		"urls": {
-			"partijwebsite": "https://www.vvd.nl/profielen/cas-schollink/"
+			"partijwebsite": "https://www.vvd.nl/profielen/cas-schollink-2/"
 		},
 		"verkiezingen": {
 			"tk2023": {
@@ -839,7 +959,7 @@
 	{
 		"naam": "Yldau de Boer",
 		"urls": {
-			"partijwebsite": "https://www.vvd.nl/profielen/yldau-de-boer/"
+			"partijwebsite": "https://www.vvd.nl/profielen/yldau-de-boer-2/"
 		},
 		"verkiezingen": {
 			"tk2023": {
@@ -850,7 +970,7 @@
 	{
 		"naam": "Murat Yildirim",
 		"urls": {
-			"partijwebsite": "https://www.vvd.nl/profielen/murat-yildirim/"
+			"partijwebsite": "https://www.vvd.nl/profielen/murat-yildirim-2/"
 		},
 		"verkiezingen": {
 			"tk2023": {
@@ -861,7 +981,7 @@
 	{
 		"naam": "Hilda Mulder",
 		"urls": {
-			"partijwebsite": "https://www.vvd.nl/profielen/hilda-mulder/"
+			"partijwebsite": "https://www.vvd.nl/profielen/hilda-mulder-2/"
 		},
 		"verkiezingen": {
 			"tk2023": {
@@ -876,6 +996,446 @@
 		},
 		"verkiezingen": {
 			"tk2023": {
+				"lijstnummer": 80
+			}
+		}
+	},
+	{
+		"naam": "Vincent Karremans",
+		"urls": {
+			"partijwebsite": "https://www.vvd.nl/profielen/vincent-karremans/"
+		},
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 4
+			}
+		}
+	},
+	{
+		"naam": "Jurgen Nobel",
+		"urls": {
+			"partijwebsite": "https://www.vvd.nl/profielen/jurgen-nobel/"
+		},
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 10
+			}
+		}
+	},
+	{
+		"naam": "Renate den Hollander",
+		"urls": {
+			"partijwebsite": "https://www.vvd.nl/profielen/renate-den-hollander/"
+		},
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 18
+			}
+		}
+	},
+	{
+		"naam": "Björn Schutz",
+		"urls": {
+			"partijwebsite": "https://www.vvd.nl/profielen/bjorn-schutz/"
+		},
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 22
+			}
+		}
+	},
+	{
+		"naam": "Alisha Müller",
+		"urls": {
+			"partijwebsite": "https://www.vvd.nl/profielen/alisha-muller/"
+		},
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 24
+			}
+		}
+	},
+	{
+		"naam": "Nicole Maes",
+		"urls": {
+			"partijwebsite": "https://www.vvd.nl/profielen/nicole-maes/"
+		},
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 27
+			}
+		}
+	},
+	{
+		"naam": "Erik van der Maas",
+		"urls": {
+			"partijwebsite": "https://www.vvd.nl/profielen/erik-van-der-maas/"
+		},
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 28
+			}
+		}
+	},
+	{
+		"naam": "Soler Berk",
+		"urls": {
+			"partijwebsite": "https://www.vvd.nl/profielen/soler-berk/"
+		},
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 31
+			}
+		}
+	},
+	{
+		"naam": "Joost Hoebink",
+		"urls": {
+			"partijwebsite": "https://www.vvd.nl/profielen/joost-hoebink/"
+		},
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 33
+			}
+		}
+	},
+	{
+		"naam": "Vincent Janssen",
+		"urls": {
+			"partijwebsite": "https://www.vvd.nl/profielen/vincent-janssen/"
+		},
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 36
+			}
+		}
+	},
+	{
+		"naam": "Denise Eikelenboom",
+		"urls": {
+			"partijwebsite": "https://www.vvd.nl/profielen/denise-eikelenboom/"
+		},
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 37
+			}
+		}
+	},
+	{
+		"naam": "Stijn Nijssen",
+		"urls": {
+			"partijwebsite": "https://www.vvd.nl/profielen/stijn-nijssen/"
+		},
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 38
+			}
+		}
+	},
+	{
+		"naam": "Thomas Melisse",
+		"urls": {
+			"partijwebsite": "https://www.vvd.nl/profielen/thomas-melisse/"
+		},
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 42
+			}
+		}
+	},
+	{
+		"naam": "Angela Huckriede",
+		"urls": {
+			"partijwebsite": "https://www.vvd.nl/profielen/angela-huckriede/"
+		},
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 44
+			}
+		}
+	},
+	{
+		"naam": "Jeroen van Dijken",
+		"urls": {
+			"partijwebsite": "https://www.vvd.nl/profielen/jeroen-van-dijken/"
+		},
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 45
+			}
+		}
+	},
+	{
+		"naam": "Jeroen Verwoort",
+		"urls": {
+			"partijwebsite": "https://www.vvd.nl/profielen/jeroen-verwoort/"
+		},
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 47
+			}
+		}
+	},
+	{
+		"naam": "Kathy Arends-Drijver",
+		"urls": {
+			"partijwebsite": "https://www.vvd.nl/profielen/kathy-arends-drijver/"
+		},
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 49
+			}
+		}
+	},
+	{
+		"naam": "Friso Versluijs",
+		"urls": {
+			"partijwebsite": "https://www.vvd.nl/profielen/friso-versluijs/"
+		},
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 53
+			}
+		}
+	},
+	{
+		"naam": "Annemarie van Nieuwamerongen-Oosterkamp",
+		"urls": {
+			"partijwebsite": "https://www.vvd.nl/profielen/annemarie-van-nieuwamerongen-oosterkamp/"
+		},
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 57
+			}
+		}
+	},
+	{
+		"naam": "Astrid Ens",
+		"urls": {
+			"partijwebsite": "https://www.vvd.nl/profielen/astrid-ens/"
+		},
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 58
+			}
+		}
+	},
+	{
+		"naam": "Christiaan Toussaint",
+		"urls": {
+			"partijwebsite": "https://www.vvd.nl/profielen/christiaan-toussaint/"
+		},
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 59
+			}
+		}
+	},
+	{
+		"naam": "Inge Simons",
+		"urls": {
+			"partijwebsite": "https://www.vvd.nl/profielen/inge-simons/"
+		},
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 60
+			}
+		}
+	},
+	{
+		"naam": "Joachim Jansen",
+		"urls": {
+			"partijwebsite": "https://www.vvd.nl/profielen/joachim-jansen/"
+		},
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 61
+			}
+		}
+	},
+	{
+		"naam": "Arend Jan van den Beld",
+		"urls": {
+			"partijwebsite": "https://www.vvd.nl/profielen/arend-jan-van-den-beld/"
+		},
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 63
+			}
+		}
+	},
+	{
+		"naam": "Miranda Voogt",
+		"urls": {
+			"partijwebsite": "https://www.vvd.nl/profielen/miranda-voogt/"
+		},
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 64
+			}
+		}
+	},
+	{
+		"naam": "Rick Zagers",
+		"urls": {
+			"partijwebsite": "https://www.vvd.nl/profielen/rick-zagers/"
+		},
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 65
+			}
+		}
+	},
+	{
+		"naam": "Nathalie de Visser",
+		"urls": {
+			"partijwebsite": "https://www.vvd.nl/profielen/nathalie-de-visser/"
+		},
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 67
+			}
+		}
+	},
+	{
+		"naam": "Eddie Altenburg-Collin",
+		"urls": {
+			"partijwebsite": "https://www.vvd.nl/profielen/eddie-altenburg-collin/"
+		},
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 68
+			}
+		}
+	},
+	{
+		"naam": "Daan de Kruijf",
+		"urls": {
+			"partijwebsite": "https://www.vvd.nl/profielen/daan-de-kruijf/"
+		},
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 69
+			}
+		}
+	},
+	{
+		"naam": "Martijn van Dalen",
+		"urls": {
+			"partijwebsite": "https://www.vvd.nl/profielen/martijn-van-dalen/"
+		},
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 70
+			}
+		}
+	},
+	{
+		"naam": "Sebastiaan Vliegen",
+		"urls": {
+			"partijwebsite": "https://www.vvd.nl/profielen/sebastiaan-vliegen/"
+		},
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 71
+			}
+		}
+	},
+	{
+		"naam": "Jan-Matthijs van Eendenburg",
+		"urls": {
+			"partijwebsite": "https://www.vvd.nl/profielen/jan-matthijs-van-eendenburg/"
+		},
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 72
+			}
+		}
+	},
+	{
+		"naam": "Kathleen van Dijk",
+		"urls": {
+			"partijwebsite": "https://www.vvd.nl/profielen/kathleen-van-dijk/"
+		},
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 73
+			}
+		}
+	},
+	{
+		"naam": "Femke Vleij",
+		"urls": {
+			"partijwebsite": "https://www.vvd.nl/profielen/femke-vleij/"
+		},
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 74
+			}
+		}
+	},
+	{
+		"naam": "Pepijn van den Hoogenband",
+		"urls": {
+			"partijwebsite": "https://www.vvd.nl/profielen/pepijn-van-den-hoogenband/"
+		},
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 75
+			}
+		}
+	},
+	{
+		"naam": "Jorin Aardoom",
+		"urls": {
+			"partijwebsite": "https://www.vvd.nl/profielen/jorin-aardoom/"
+		},
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 76
+			}
+		}
+	},
+	{
+		"naam": "Jan-Willem Verheij",
+		"urls": {
+			"partijwebsite": "https://www.vvd.nl/profielen/jan-willem-verheij/"
+		},
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 77
+			}
+		}
+	},
+	{
+		"naam": "Lily Amani-Ayan",
+		"urls": {
+			"partijwebsite": "https://www.vvd.nl/profielen/lily-amani-ayan/"
+		},
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 78
+			}
+		}
+	},
+	{
+		"naam": "Niels van Santen",
+		"urls": {
+			"partijwebsite": "https://www.vvd.nl/profielen/niels-van-santen/"
+		},
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 79
+			}
+		}
+	},
+	{
+		"naam": "Colin Rijmers",
+		"urls": {
+			"partijwebsite": "https://www.vvd.nl/profielen/colin-rijmers/"
+		},
+		"verkiezingen": {
+			"tk2025": {
 				"lijstnummer": 80
 			}
 		}
