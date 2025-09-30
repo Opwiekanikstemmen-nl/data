@@ -10,35 +10,55 @@
 	},
 	{
 		"naam": "Marc van Rooij",
+		"geslacht": "man",
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 2,
+				"woonplaats": "Almere"
+			},
+			"tk2025": {
+				"lijstnummer": 47,
 				"woonplaats": "Almere"
 			}
 		}
 	},
 	{
 		"naam": "Jan Frans Brouwers",
+		"geslacht": "man",
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 3,
+				"woonplaats": "Son en Breugel"
+			},
+			"tk2025": {
+				"lijstnummer": 13,
 				"woonplaats": "Son en Breugel"
 			}
 		}
 	},
 	{
 		"naam": "Mieke Hoek",
+		"geslacht": "vrouw",
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 4,
+				"woonplaats": "Vreeland"
+			},
+			"tk2025": {
+				"lijstnummer": 17,
 				"woonplaats": "Vreeland"
 			}
 		}
 	},
 	{
 		"naam": "Ruud van Acquoij",
+		"geslacht": "man",
 		"verkiezingen": {
 			"tk2023": {
+				"lijstnummer": 5,
+				"woonplaats": "Eindhoven"
+			},
+			"tk2025": {
 				"lijstnummer": 5,
 				"woonplaats": "Eindhoven"
 			}
@@ -46,10 +66,15 @@
 	},
 	{
 		"naam": "Adriana Hernández Martínez",
+		"geslacht": "vrouw",
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 6,
 				"woonplaats": "Den Bosch"
+			},
+			"tk2025": {
+				"lijstnummer": 18,
+				"woonplaats": "'s-Hertogenbosch"
 			}
 		}
 	},
@@ -64,9 +89,14 @@
 	},
 	{
 		"naam": "Henk van Tilborg",
+		"geslacht": "man",
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 8,
+				"woonplaats": "Tilburg"
+			},
+			"tk2025": {
+				"lijstnummer": 4,
 				"woonplaats": "Tilburg"
 			}
 		}
@@ -127,18 +157,28 @@
 	},
 	{
 		"naam": "John van Loon",
+		"geslacht": "man",
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 15,
+				"woonplaats": "Baarn"
+			},
+			"tk2025": {
+				"lijstnummer": 23,
 				"woonplaats": "Baarn"
 			}
 		}
 	},
 	{
-		"naam": "Frank de Kruif",
+		"naam": "Frank de Kruif-Vlasman",
+		"geslacht": "man",
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 16,
+				"woonplaats": "Almere"
+			},
+			"tk2025": {
+				"lijstnummer": 28,
 				"woonplaats": "Almere"
 			}
 		}
@@ -154,18 +194,28 @@
 	},
 	{
 		"naam": "Robert Biever",
+		"geslacht": "man",
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 18,
+				"woonplaats": "De Meern"
+			},
+			"tk2025": {
+				"lijstnummer": 45,
 				"woonplaats": "De Meern"
 			}
 		}
 	},
 	{
 		"naam": "Klaas Hamersma",
+		"geslacht": "man",
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 19,
+				"woonplaats": "Hoogezand"
+			},
+			"tk2025": {
+				"lijstnummer": 26,
 				"woonplaats": "Hoogezand"
 			}
 		}
@@ -212,6 +262,406 @@
 			"tk2023": {
 				"lijstnummer": 24,
 				"woonplaats": "Helmond"
+			}
+		}
+	},
+	{
+		"naam": "Jan Struijs",
+		"geslacht": "man",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 1,
+				"woonplaats": "Hellevoetsluis"
+			}
+		}
+	},
+	{
+		"naam": "Corrie van Brenk-van Barneveld",
+		"geslacht": "vrouw",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 2,
+				"woonplaats": "Utrecht"
+			}
+		}
+	},
+	{
+		"naam": "Martine Baay-Timmerman",
+		"geslacht": "vrouw",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 3,
+				"woonplaats": "Blaricum"
+			}
+		}
+	},
+	{
+		"naam": "Wilma van den Heuvel",
+		"geslacht": "vrouw",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 6,
+				"woonplaats": "Helmond"
+			}
+		}
+	},
+	{
+		"naam": "Anne Marie Fischer",
+		"geslacht": "vrouw",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 7,
+				"woonplaats": "Kerkrade"
+			}
+		}
+	},
+	{
+		"naam": "Anneke van der Helm-Chandansingh",
+		"geslacht": "vrouw",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 8,
+				"woonplaats": "Hoofddorp"
+			}
+		}
+	},
+	{
+		"naam": "Anton van Straten",
+		"geslacht": "man",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 9,
+				"woonplaats": "Tiel"
+			}
+		}
+	},
+	{
+		"naam": "Bennie van Est",
+		"geslacht": "man",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 10,
+				"woonplaats": "Maastricht"
+			}
+		}
+	},
+	{
+		"naam": "Alfons Leerkes",
+		"geslacht": "man",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 11,
+				"woonplaats": "Utrecht"
+			}
+		}
+	},
+	{
+		"naam": "Jaap Engel",
+		"geslacht": "man",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 12,
+				"woonplaats": "Oud-Beijerland"
+			}
+		}
+	},
+	{
+		"naam": "Jan van der Starre",
+		"geslacht": "man",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 14,
+				"woonplaats": "Heerhugowaard"
+			}
+		}
+	},
+	{
+		"naam": "Marita van Lierop-van Leuken",
+		"geslacht": "vrouw",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 15,
+				"woonplaats": "Helmond"
+			}
+		}
+	},
+	{
+		"naam": "Marinus Kasteleijn",
+		"geslacht": "man",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 16,
+				"woonplaats": "Emmen"
+			}
+		}
+	},
+	{
+		"naam": "Chris Veeze",
+		"geslacht": "man",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 19,
+				"woonplaats": "Tolbert"
+			}
+		}
+	},
+	{
+		"naam": "Herman Nota",
+		"geslacht": "man",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 20,
+				"woonplaats": "Parrega"
+			}
+		}
+	},
+	{
+		"naam": "Nico de Vos",
+		"geslacht": "man",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 21,
+				"woonplaats": "Terneuzen"
+			}
+		}
+	},
+	{
+		"naam": "Jolanda van den Bogaard",
+		"geslacht": "vrouw",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 22,
+				"woonplaats": "Tilburg"
+			}
+		}
+	},
+	{
+		"naam": "Sjanie Donker",
+		"geslacht": "vrouw",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 24,
+				"woonplaats": "Apeldoorn"
+			}
+		}
+	},
+	{
+		"naam": "Edmond van Ooijen",
+		"geslacht": "man",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 25,
+				"woonplaats": "Liessel"
+			}
+		}
+	},
+	{
+		"naam": "Ab Wissingh",
+		"geslacht": "man",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 27,
+				"woonplaats": "Venlo"
+			}
+		}
+	},
+	{
+		"naam": "Cor Verbeek",
+		"geslacht": "man",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 29,
+				"woonplaats": "Eindhoven"
+			}
+		}
+	},
+	{
+		"naam": "Jan van Gorkum",
+		"geslacht": "man",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 30,
+				"woonplaats": "Almelo"
+			}
+		}
+	},
+	{
+		"naam": "Frans Erkamp",
+		"geslacht": "man",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 31,
+				"woonplaats": "Eijsden"
+			}
+		}
+	},
+	{
+		"naam": "Willem Willemse",
+		"geslacht": "man",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 32,
+				"woonplaats": "Vlissingen"
+			}
+		}
+	},
+	{
+		"naam": "Willem Bakx",
+		"geslacht": "man",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 33,
+				"woonplaats": "Hillegom"
+			}
+		}
+	},
+	{
+		"naam": "André Verschoor",
+		"geslacht": "man",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 34,
+				"woonplaats": "Velp"
+			}
+		}
+	},
+	{
+		"naam": "Peter Jong",
+		"geslacht": "man",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 35,
+				"woonplaats": "Breda"
+			}
+		}
+	},
+	{
+		"naam": "Emiel Sjaardema",
+		"geslacht": "man",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 36,
+				"woonplaats": "Amstelveen"
+			}
+		}
+	},
+	{
+		"naam": "Geert Tomlow",
+		"geslacht": "man",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 37,
+				"woonplaats": "'s-Gravenhage"
+			}
+		}
+	},
+	{
+		"naam": "Joke Bouwmeester",
+		"geslacht": "vrouw",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 38,
+				"woonplaats": "Zeist"
+			}
+		}
+	},
+	{
+		"naam": "Louis van Houtert",
+		"geslacht": "man",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 39,
+				"woonplaats": "Papendrecht"
+			}
+		}
+	},
+	{
+		"naam": "Jan van Hoek",
+		"geslacht": "man",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 40,
+				"woonplaats": "Vinkel"
+			}
+		}
+	},
+	{
+		"naam": "Agnes Timmers-van Dijk",
+		"geslacht": "vrouw",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 41,
+				"woonplaats": "Cuijk"
+			}
+		}
+	},
+	{
+		"naam": "Annemieke Guldemond",
+		"geslacht": "vrouw",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 42,
+				"woonplaats": "Mijdrecht"
+			}
+		}
+	},
+	{
+		"naam": "Joost Boetes",
+		"geslacht": "man",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 43,
+				"woonplaats": "Barchem"
+			}
+		}
+	},
+	{
+		"naam": "Henk Denissen",
+		"geslacht": "man",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 44,
+				"woonplaats": "Berkel-Enschot"
+			}
+		}
+	},
+	{
+		"naam": "Henk van Elst",
+		"geslacht": "man",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 46,
+				"woonplaats": "Rumpt"
+			}
+		}
+	},
+	{
+		"naam": "Gerrit Jan van Otterloo",
+		"geslacht": "man",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 48,
+				"woonplaats": "'s-Gravenhage"
+			}
+		}
+	},
+	{
+		"naam": "Willem Dekker",
+		"geslacht": "man",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 49,
+				"woonplaats": "Hoofddorp"
+			}
+		}
+	},
+	{
+		"naam": "Martin van Rooijen",
+		"geslacht": "man",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 50,
+				"woonplaats": "Oegstgeest"
 			}
 		}
 	}

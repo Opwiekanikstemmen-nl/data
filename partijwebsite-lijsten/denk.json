@@ -1,17 +1,27 @@
 [
 	{
 		"naam": "Stephan van Baarle",
+		"geslacht": "man",
 		"verkiezingen": {
 			"tk2023": {
+				"lijstnummer": 1,
+				"woonplaats": "Rotterdam"
+			},
+			"tk2025": {
 				"lijstnummer": 1,
 				"woonplaats": "Rotterdam"
 			}
 		}
 	},
 	{
-		"naam": "Dogukan Ergin",
+		"naam": "Doğukan Ergin",
+		"geslacht": "man",
 		"verkiezingen": {
 			"tk2023": {
+				"lijstnummer": 2,
+				"woonplaats": "Schiedam"
+			},
+			"tk2025": {
 				"lijstnummer": 2,
 				"woonplaats": "Schiedam"
 			}
@@ -19,396 +29,544 @@
 	},
 	{
 		"naam": "Ismail El Abassi",
+		"geslacht": "man",
 		"verkiezingen": {
 			"tk2023": {
+				"lijstnummer": 3,
+				"woonplaats": "Utrecht"
+			},
+			"tk2025": {
 				"lijstnummer": 3,
 				"woonplaats": "Utrecht"
 			}
 		}
 	},
 	{
-		"naam": "Aalaa Alrubey",
+		"naam": "Elif Esen",
+		"geslacht": "vrouw",
 		"verkiezingen": {
-			"tk2023": {
+			"tk2025": {
 				"lijstnummer": 4,
-				"woonplaats": "Heerhugowaard"
+				"woonplaats": "Veenendaal"
 			}
 		}
 	},
 	{
-		"naam": "Emel Gün",
+		"naam": "Nassira Abaâziz",
+		"geslacht": "vrouw",
 		"verkiezingen": {
-			"tk2023": {
+			"tk2025": {
 				"lijstnummer": 5,
-				"woonplaats": "Amsterdam"
-			}
-		}
-	},
-	{
-		"naam": "Yıldırım Usta",
-		"verkiezingen": {
-			"tk2023": {
-				"lijstnummer": 6,
-				"woonplaats": "Arnhem"
-			}
-		}
-	},
-	{
-		"naam": "Nancy Rijssel",
-		"verkiezingen": {
-			"tk2023": {
-				"lijstnummer": 7,
-				"woonplaats": "Almere"
-			}
-		}
-	},
-	{
-		"naam": "Abdul Maroof",
-		"verkiezingen": {
-			"tk2023": {
-				"lijstnummer": 8,
-				"woonplaats": "Dordrecht"
-			}
-		}
-	},
-	{
-		"naam": "Yaw Mac Intosch",
-		"verkiezingen": {
-			"tk2023": {
-				"lijstnummer": 9,
-				"woonplaats": "Woerden"
-			}
-		}
-	},
-	{
-		"naam": "Mehmet Safranti",
-		"verkiezingen": {
-			"tk2023": {
-				"lijstnummer": 10,
-				"woonplaats": "Dordrecht"
-			}
-		}
-	},
-	{
-		"naam": "Can Bayrakci",
-		"verkiezingen": {
-			"tk2023": {
-				"lijstnummer": 11,
-				"woonplaats": "Tilburg"
-			}
-		}
-	},
-	{
-		"naam": "Ibrahim Ghazi",
-		"verkiezingen": {
-			"tk2023": {
-				"lijstnummer": 12,
-				"woonplaats": "Amsterdam"
-			}
-		}
-	},
-	{
-		"naam": "Selim Özçelik",
-		"verkiezingen": {
-			"tk2023": {
-				"lijstnummer": 13,
-				"woonplaats": "Venlo"
-			}
-		}
-	},
-	{
-		"naam": "Ahmet Kaya",
-		"verkiezingen": {
-			"tk2023": {
-				"lijstnummer": 14,
-				"woonplaats": "Deventer"
-			}
-		}
-	},
-	{
-		"naam": "Ayse Konuksever-Tekin",
-		"verkiezingen": {
-			"tk2023": {
-				"lijstnummer": 15,
-				"woonplaats": "Amsterdam"
-			}
-		}
-	},
-	{
-		"naam": "Omar Fkihi",
-		"verkiezingen": {
-			"tk2023": {
-				"lijstnummer": 16,
-				"woonplaats": "Helmond"
-			}
-		}
-	},
-	{
-		"naam": "Tahsin Çetinkaya",
-		"verkiezingen": {
-			"tk2023": {
-				"lijstnummer": 17,
-				"woonplaats": "Den Haag"
-			}
-		}
-	},
-	{
-		"naam": "Erdogan Şahin",
-		"verkiezingen": {
-			"tk2023": {
-				"lijstnummer": 18,
-				"woonplaats": "Zaandam"
-			}
-		}
-	},
-	{
-		"naam": "Cemil Kahramanoğlu",
-		"verkiezingen": {
-			"tk2023": {
-				"lijstnummer": 19,
-				"woonplaats": "Schiedam"
-			}
-		}
-	},
-	{
-		"naam": "Caner Kaplan",
-		"verkiezingen": {
-			"tk2023": {
-				"lijstnummer": 20,
-				"woonplaats": "Enschede"
-			}
-		}
-	},
-	{
-		"naam": "Emma Manhoef",
-		"verkiezingen": {
-			"tk2023": {
-				"lijstnummer": 21,
-				"woonplaats": "Amsterdam"
-			}
-		}
-	},
-	{
-		"naam": "Celil Tan",
-		"verkiezingen": {
-			"tk2023": {
-				"lijstnummer": 22,
-				"woonplaats": "Etten-Leur"
-			}
-		}
-	},
-	{
-		"naam": "Furkan Kondu",
-		"verkiezingen": {
-			"tk2023": {
-				"lijstnummer": 23,
-				"woonplaats": "Schiedam"
-			}
-		}
-	},
-	{
-		"naam": "İskender Şimşek",
-		"verkiezingen": {
-			"tk2023": {
-				"lijstnummer": 24,
-				"woonplaats": "Utrecht"
-			}
-		}
-	},
-	{
-		"naam": "Funda Ileri",
-		"verkiezingen": {
-			"tk2023": {
-				"lijstnummer": 25,
-				"woonplaats": "Den Haag"
-			}
-		}
-	},
-	{
-		"naam": "Hassan Buyatui",
-		"verkiezingen": {
-			"tk2023": {
-				"lijstnummer": 26,
-				"woonplaats": "Almere"
-			}
-		}
-	},
-	{
-		"naam": "Mila van Burik",
-		"verkiezingen": {
-			"tk2023": {
-				"lijstnummer": 27,
-				"woonplaats": "Utrecht"
-			}
-		}
-	},
-	{
-		"naam": "Nizaam Muradin",
-		"verkiezingen": {
-			"tk2023": {
-				"lijstnummer": 28,
-				"woonplaats": "Den Haag"
-			}
-		}
-	},
-	{
-		"naam": "Ilker Delener",
-		"verkiezingen": {
-			"tk2023": {
-				"lijstnummer": 29,
-				"woonplaats": "Amsterdam"
-			}
-		}
-	},
-	{
-		"naam": "Safa Sodirijo",
-		"verkiezingen": {
-			"tk2023": {
-				"lijstnummer": 30,
-				"woonplaats": "Rotterdam"
-			}
-		}
-	},
-	{
-		"naam": "Aysel Ağirbaş",
-		"verkiezingen": {
-			"tk2023": {
-				"lijstnummer": 31,
-				"woonplaats": "Rotterdam"
-			}
-		}
-	},
-	{
-		"naam": "Ramazan Özcan",
-		"verkiezingen": {
-			"tk2023": {
-				"lijstnummer": 32,
-				"woonplaats": "Tilburg"
-			}
-		}
-	},
-	{
-		"naam": "Juzoef Tangali",
-		"verkiezingen": {
-			"tk2023": {
-				"lijstnummer": 33,
-				"woonplaats": "Leiden"
-			}
-		}
-	},
-	{
-		"naam": "Ramzy Othman",
-		"verkiezingen": {
-			"tk2023": {
-				"lijstnummer": 34,
-				"woonplaats": "Alkmaar"
-			}
-		}
-	},
-	{
-		"naam": "Ahmet Yildirim",
-		"verkiezingen": {
-			"tk2023": {
-				"lijstnummer": 35,
-				"woonplaats": "Rotterdam"
-			}
-		}
-	},
-	{
-		"naam": "Naoufal Akhatab",
-		"verkiezingen": {
-			"tk2023": {
-				"lijstnummer": 36,
-				"woonplaats": "Rotterdam"
-			}
-		}
-	},
-	{
-		"naam": "Mounir Ben Touhami",
-		"verkiezingen": {
-			"tk2023": {
-				"lijstnummer": 37,
-				"woonplaats": "Schiedam"
-			}
-		}
-	},
-	{
-		"naam": "Mustafa Bal",
-		"verkiezingen": {
-			"tk2023": {
-				"lijstnummer": 38,
-				"woonplaats": "Arnhem"
-			}
-		}
-	},
-	{
-		"naam": "Şebnem Pancar",
-		"verkiezingen": {
-			"tk2023": {
-				"lijstnummer": 39,
-				"woonplaats": "Zaandam"
-			}
-		}
-	},
-	{
-		"naam": "Salih Akça",
-		"verkiezingen": {
-			"tk2023": {
-				"lijstnummer": 40,
-				"woonplaats": "Vlaardingen"
-			}
-		}
-	},
-	{
-		"naam": "Şeyda Dokgöz",
-		"verkiezingen": {
-			"tk2023": {
-				"lijstnummer": 41,
-				"woonplaats": "Schiedam"
+				"woonplaats": "Rijswijk"
 			}
 		}
 	},
 	{
 		"naam": "Nur Icar",
+		"geslacht": "man",
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 42,
 				"woonplaats": "Den Haag"
+			},
+			"tk2025": {
+				"lijstnummer": 6,
+				"woonplaats": "'s-Gravenhage"
 			}
 		}
 	},
 	{
-		"naam": "Sheher Khan",
+		"naam": "Elika Rehim Zadeh",
+		"geslacht": "vrouw",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 7,
+				"woonplaats": "Rotterdam"
+			}
+		}
+	},
+	{
+		"naam": "Ibrahim Ghazi",
+		"geslacht": "man",
 		"verkiezingen": {
 			"tk2023": {
-				"lijstnummer": 43,
+				"lijstnummer": 12,
+				"woonplaats": "Amsterdam"
+			},
+			"tk2025": {
+				"lijstnummer": 8,
+				"woonplaats": "Purmerend"
+			}
+		}
+	},
+	{
+		"naam": "Sabina Alieva",
+		"geslacht": "vrouw",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 9,
+				"woonplaats": "Delft"
+			}
+		}
+	},
+	{
+		"naam": "Orlando Hellings",
+		"geslacht": "man",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 10,
+				"woonplaats": "Zaandam"
+			}
+		}
+	},
+	{
+		"naam": "Ayse Tekin",
+		"geslacht": "vrouw",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 11,
 				"woonplaats": "Amsterdam"
 			}
 		}
 	},
 	{
-		"naam": "Mahmut Sungur",
+		"naam": "Ahmet Kaya",
+		"geslacht": "man",
 		"verkiezingen": {
 			"tk2023": {
-				"lijstnummer": 44,
-				"woonplaats": "Utrecht"
+				"lijstnummer": 14,
+				"woonplaats": "Deventer"
+			},
+			"tk2025": {
+				"lijstnummer": 12,
+				"woonplaats": "Deventer"
 			}
 		}
 	},
 	{
-		"naam": "Süleyman Koyuncu",
+		"naam": "Şeyda Kuzey",
+		"geslacht": "vrouw",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 13,
+				"woonplaats": "Dordrecht"
+			}
+		}
+	},
+	{
+		"naam": "Ramazan Özcan",
+		"geslacht": "man",
 		"verkiezingen": {
 			"tk2023": {
+				"lijstnummer": 32,
+				"woonplaats": "Tilburg"
+			},
+			"tk2025": {
+				"lijstnummer": 14,
+				"woonplaats": "Tilburg"
+			}
+		}
+	},
+	{
+		"naam": "Timotheus Tap",
+		"geslacht": "man",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 15,
+				"woonplaats": "Tilburg"
+			}
+		}
+	},
+	{
+		"naam": "Emma Manhoef",
+		"geslacht": "vrouw",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 21,
+				"woonplaats": "Amsterdam"
+			},
+			"tk2025": {
+				"lijstnummer": 16,
+				"woonplaats": "Amsterdam"
+			}
+		}
+	},
+	{
+		"naam": "Sheher Khan",
+		"geslacht": "man",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 43,
+				"woonplaats": "Amsterdam"
+			},
+			"tk2025": {
+				"lijstnummer": 17,
+				"woonplaats": "Amsterdam"
+			}
+		}
+	},
+	{
+		"naam": "Furkan Kondu",
+		"geslacht": "man",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 23,
+				"woonplaats": "Schiedam"
+			},
+			"tk2025": {
+				"lijstnummer": 18,
+				"woonplaats": "Schiedam"
+			}
+		}
+	},
+	{
+		"naam": "Stephan Kuipers",
+		"geslacht": "man",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 19,
+				"woonplaats": "Groningen"
+			}
+		}
+	},
+	{
+		"naam": "Aysel Ağirbaş",
+		"geslacht": "vrouw",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 31,
+				"woonplaats": "Rotterdam"
+			},
+			"tk2025": {
+				"lijstnummer": 20,
+				"woonplaats": "Rotterdam"
+			}
+		}
+	},
+	{
+		"naam": "Melehat Heybeli",
+		"geslacht": "vrouw",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 21,
+				"woonplaats": "Woerden"
+			}
+		}
+	},
+	{
+		"naam": "Adeel Mahmood",
+		"geslacht": "man",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 22,
+				"woonplaats": "'s-Gravenhage"
+			}
+		}
+	},
+	{
+		"naam": "Majda Sakim",
+		"geslacht": "vrouw",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 23,
+				"woonplaats": "Rotterdam"
+			}
+		}
+	},
+	{
+		"naam": "Iliaas Abdoelrahman",
+		"geslacht": "man",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 24,
+				"woonplaats": "Amsterdam"
+			}
+		}
+	},
+	{
+		"naam": "Esra Al Mansoury",
+		"geslacht": "vrouw",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 25,
+				"woonplaats": "Dordrecht"
+			}
+		}
+	},
+	{
+		"naam": "Anissa Amraoui",
+		"geslacht": "vrouw",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 26,
+				"woonplaats": "Amsterdam"
+			}
+		}
+	},
+	{
+		"naam": "Ranim Agha",
+		"geslacht": "vrouw",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 27,
+				"woonplaats": "Helmond"
+			}
+		}
+	},
+	{
+		"naam": "Mustafa Bal",
+		"geslacht": "man",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 38,
+				"woonplaats": "Arnhem"
+			},
+			"tk2025": {
+				"lijstnummer": 28,
+				"woonplaats": "Arnhem"
+			}
+		}
+	},
+	{
+		"naam": "Zainab Abubaker",
+		"geslacht": "vrouw",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 29,
+				"woonplaats": "Roosendaal"
+			}
+		}
+	},
+	{
+		"naam": "Burhan Aydin",
+		"geslacht": "man",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 30,
+				"woonplaats": "Eindhoven"
+			}
+		}
+	},
+	{
+		"naam": "Esraa Aboelkasem",
+		"geslacht": "vrouw",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 31,
+				"woonplaats": "Amsterdam"
+			}
+		}
+	},
+	{
+		"naam": "Emin Ayverdi",
+		"geslacht": "man",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 32,
+				"woonplaats": "Dordrecht"
+			}
+		}
+	},
+	{
+		"naam": "Lamba Neshan",
+		"geslacht": "vrouw",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 33,
+				"woonplaats": "Dordrecht"
+			}
+		}
+	},
+	{
+		"naam": "Gürkan Gökmen",
+		"geslacht": "man",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 34,
+				"woonplaats": "Haarlem"
+			}
+		}
+	},
+	{
+		"naam": "Mohamed El Majjaoui",
+		"geslacht": "man",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 35,
+				"woonplaats": "Rijswijk"
+			}
+		}
+	},
+	{
+		"naam": "Omar Fkihi",
+		"geslacht": "man",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 16,
+				"woonplaats": "Helmond"
+			},
+			"tk2025": {
+				"lijstnummer": 36,
+				"woonplaats": "Helmond"
+			}
+		}
+	},
+	{
+		"naam": "Hakan Ünal",
+		"geslacht": "man",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 37,
+				"woonplaats": "Hoofddorp"
+			}
+		}
+	},
+	{
+		"naam": "Naoufal Akhatab",
+		"geslacht": "man",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 36,
+				"woonplaats": "Rotterdam"
+			},
+			"tk2025": {
+				"lijstnummer": 38,
+				"woonplaats": "Rotterdam"
+			}
+		}
+	},
+	{
+		"naam": "Selim Özçelik",
+		"geslacht": "man",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 13,
+				"woonplaats": "Venlo"
+			},
+			"tk2025": {
+				"lijstnummer": 39,
+				"woonplaats": "Venlo"
+			}
+		}
+	},
+	{
+		"naam": "Can Bayrakci",
+		"geslacht": "man",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 11,
+				"woonplaats": "Tilburg"
+			},
+			"tk2025": {
+				"lijstnummer": 40,
+				"woonplaats": "Tilburg"
+			}
+		}
+	},
+	{
+		"naam": "Mustafa Kocabiyik",
+		"geslacht": "man",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 41,
+				"woonplaats": "Almelo"
+			}
+		}
+	},
+	{
+		"naam": "Achraf El Ghaddari",
+		"geslacht": "man",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 42,
+				"woonplaats": "Almere"
+			}
+		}
+	},
+	{
+		"naam": "Beytullah Çelik",
+		"geslacht": "man",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 43,
+				"woonplaats": "'s-Gravenhage"
+			}
+		}
+	},
+	{
+		"naam": "Beril Tacirlioğlu",
+		"geslacht": "vrouw",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 44,
+				"woonplaats": "Rotterdam"
+			}
+		}
+	},
+	{
+		"naam": "Anouar Yacoubi",
+		"geslacht": "man",
+		"verkiezingen": {
+			"tk2025": {
 				"lijstnummer": 45,
 				"woonplaats": "Amsterdam"
 			}
 		}
 	},
 	{
+		"naam": "Erdoğan Şahin",
+		"geslacht": "man",
+		"verkiezingen": {
+			"tk2023": {
+				"lijstnummer": 18,
+				"woonplaats": "Zaandam"
+			},
+			"tk2025": {
+				"lijstnummer": 46,
+				"woonplaats": "Zaandam"
+			}
+		}
+	},
+	{
+		"naam": "Jamal Moussane",
+		"geslacht": "man",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 47,
+				"woonplaats": "Barendrecht"
+			}
+		}
+	},
+	{
+		"naam": "Yusuf Dağdelen",
+		"geslacht": "man",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 48,
+				"woonplaats": "Bergen op Zoom"
+			}
+		}
+	},
+	{
+		"naam": "Tahsin Bülbül",
+		"geslacht": "man",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 49,
+				"woonplaats": "Amersfoort"
+			}
+		}
+	},
+	{
 		"naam": "Faouzi Achbar",
+		"geslacht": "man",
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 46,
+				"woonplaats": "Rotterdam"
+			},
+			"tk2025": {
+				"lijstnummer": 50,
 				"woonplaats": "Rotterdam"
 			}
 		}

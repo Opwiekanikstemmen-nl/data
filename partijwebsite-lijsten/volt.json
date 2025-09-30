@@ -9,6 +9,11 @@
 				"lijstnummer": 1,
 				"leeftijd": 37,
 				"woonplaats": "Den Haag"
+			},
+			"tk2025": {
+				"lijstnummer": 1,
+				"leeftijd": 39,
+				"woonplaats": "Den Haag"
 			}
 		}
 	},
@@ -21,6 +26,11 @@
 			"tk2023": {
 				"lijstnummer": 2,
 				"leeftijd": 34,
+				"woonplaats": "Utrecht"
+			},
+			"tk2025": {
+				"lijstnummer": 2,
+				"leeftijd": 36,
 				"woonplaats": "Utrecht"
 			}
 		}
@@ -87,6 +97,11 @@
 				"lijstnummer": 7,
 				"leeftijd": 35,
 				"woonplaats": "Amsterdam"
+			},
+			"tk2025": {
+				"lijstnummer": 3,
+				"leeftijd": 36,
+				"woonplaats": "Amsterdam"
 			}
 		}
 	},
@@ -113,6 +128,11 @@
 				"lijstnummer": 9,
 				"leeftijd": 29,
 				"woonplaats": "Den Bosch"
+			},
+			"tk2025": {
+				"lijstnummer": 5,
+				"leeftijd": 31,
+				"woonplaats": "s-Hertogenbosch"
 			}
 		}
 	},
@@ -152,6 +172,11 @@
 				"lijstnummer": 12,
 				"leeftijd": 38,
 				"woonplaats": "Utrecht"
+			},
+			"tk2025": {
+				"lijstnummer": 34,
+				"leeftijd": 40,
+				"woonplaats": "Houten"
 			}
 		}
 	},
@@ -190,6 +215,11 @@
 			"tk2023": {
 				"lijstnummer": 15,
 				"leeftijd": 33,
+				"woonplaats": "Rotterdam"
+			},
+			"tk2025": {
+				"lijstnummer": 17,
+				"leeftijd": 35,
 				"woonplaats": "Rotterdam"
 			}
 		}
@@ -269,6 +299,376 @@
 				"lijstnummer": 21,
 				"leeftijd": 31,
 				"woonplaats": "Den Haag"
+			}
+		}
+	},
+	{
+		"naam": "Simone Ritzer",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 4,
+				"leeftijd": 32,
+				"woonplaats": "Utrecht"
+			}
+		}
+	},
+	{
+		"naam": "Laura Harks",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 6,
+				"leeftijd": 27,
+				"woonplaats": "Den Haag"
+			}
+		}
+	},
+	{
+		"naam": "Jeroen Princen",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 7,
+				"leeftijd": 59,
+				"woonplaats": "Schiedam"
+			}
+		}
+	},
+	{
+		"naam": "Inge Vossen- van Beers",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 8,
+				"leeftijd": 53,
+				"woonplaats": "Rosmalen"
+			}
+		}
+	},
+	{
+		"naam": "Emre Gungor",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 9,
+				"leeftijd": 37,
+				"woonplaats": "Haarlem"
+			}
+		}
+	},
+	{
+		"naam": "Anna Veltkamp",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 10,
+				"leeftijd": 36,
+				"woonplaats": "Den Haag"
+			}
+		}
+	},
+	{
+		"naam": "Erik Kemp",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 11,
+				"leeftijd": 31,
+				"woonplaats": "Enschede"
+			}
+		}
+	},
+	{
+		"naam": "Monique Fikenscher",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 12,
+				"leeftijd": 53,
+				"woonplaats": "Peize"
+			}
+		}
+	},
+	{
+		"naam": "Roel Yska",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 13,
+				"leeftijd": 26,
+				"woonplaats": "Rotterdam"
+			}
+		}
+	},
+	{
+		"naam": "Mette Blom",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 14,
+				"leeftijd": 34,
+				"woonplaats": "Den Haag"
+			}
+		}
+	},
+	{
+		"naam": "Geert van der Veer",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 15,
+				"leeftijd": 34,
+				"woonplaats": "Rotterdam"
+			}
+		}
+	},
+	{
+		"naam": "Anne van den Ende",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 16,
+				"leeftijd": 32,
+				"woonplaats": "Utrecht"
+			}
+		}
+	},
+	{
+		"naam": "Karin Nielsen",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 18,
+				"leeftijd": 40,
+				"woonplaats": "Amsterdam"
+			}
+		}
+	},
+	{
+		"naam": "Jesse van Mulkom",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 19,
+				"leeftijd": 23,
+				"woonplaats": "Groningen"
+			}
+		}
+	},
+	{
+		"naam": "Jefte Erens",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 20,
+				"leeftijd": 50,
+				"woonplaats": "Elsloo (LB)"
+			}
+		}
+	},
+	{
+		"naam": "Wiebe van den Ende",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 21,
+				"leeftijd": 46,
+				"woonplaats": "Amsterdam"
+			}
+		}
+	},
+	{
+		"naam": "Jolijn van der Linden",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 22,
+				"leeftijd": 24,
+				"woonplaats": "Nuenen"
+			}
+		}
+	},
+	{
+		"naam": "Matthijs Nieuwenhuis",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 23,
+				"leeftijd": 49,
+				"woonplaats": "Zwolle"
+			}
+		}
+	},
+	{
+		"naam": "Nova Rasenberg",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 24,
+				"leeftijd": 30,
+				"woonplaats": "Rotterdam"
+			}
+		}
+	},
+	{
+		"naam": "Tim Areago",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 25,
+				"leeftijd": 24,
+				"woonplaats": "Den Haag"
+			}
+		}
+	},
+	{
+		"naam": "Annemieke van der Linden",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 26,
+				"leeftijd": 52,
+				"woonplaats": "Gooise Meren"
+			}
+		}
+	},
+	{
+		"naam": "Leslie Scherbeijn",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 27,
+				"leeftijd": 24,
+				"woonplaats": "Middelburg"
+			}
+		}
+	},
+	{
+		"naam": "Laura van Strien",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 28,
+				"leeftijd": 53,
+				"woonplaats": "Houten"
+			}
+		}
+	},
+	{
+		"naam": "Tom van Doesburg",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 29,
+				"leeftijd": 39,
+				"woonplaats": "Culemborg"
+			}
+		}
+	},
+	{
+		"naam": "Marion van Kampen",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 30,
+				"leeftijd": 57,
+				"woonplaats": "Amsterdam"
+			}
+		}
+	},
+	{
+		"naam": "Sjoerd Wennekes",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 31,
+				"leeftijd": 43,
+				"woonplaats": "Gouda"
+			}
+		}
+	},
+	{
+		"naam": "Lore Eckelmans",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 32,
+				"leeftijd": 19,
+				"woonplaats": "Maastricht"
+			}
+		}
+	},
+	{
+		"naam": "Christiaan Meinsma",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 33,
+				"leeftijd": 31,
+				"woonplaats": "Den Haag"
+			}
+		}
+	},
+	{
+		"naam": "Daan Stokvis",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 35,
+				"leeftijd": 26,
+				"woonplaats": "Santpoort-Zuid"
+			}
+		}
+	},
+	{
+		"naam": "Tris Westerman",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 36,
+				"leeftijd": 19,
+				"woonplaats": "Nijmegen"
+			}
+		}
+	},
+	{
+		"naam": "Quinten Buijs",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 37,
+				"leeftijd": 23,
+				"woonplaats": "De Lier"
+			}
+		}
+	},
+	{
+		"naam": "Iris van der Veldt",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 38,
+				"leeftijd": 27,
+				"woonplaats": "Utrecht"
+			}
+		}
+	},
+	{
+		"naam": "Mark Croes",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 39,
+				"leeftijd": 30,
+				"woonplaats": "Amsterdam"
+			}
+		}
+	},
+	{
+		"naam": "Vivienne van der Veen",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 40,
+				"leeftijd": 50,
+				"woonplaats": "Renkum"
+			}
+		}
+	},
+	{
+		"naam": "Giovanni Hagen",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 41,
+				"leeftijd": 29,
+				"woonplaats": "Almere"
+			}
+		}
+	},
+	{
+		"naam": "Adda van Zanden",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 42,
+				"leeftijd": 63,
+				"woonplaats": "Amsterdam"
+			}
+		}
+	},
+	{
+		"naam": "Bart Klijnsma",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 43,
+				"leeftijd": 53,
+				"woonplaats": "Dodewaard"
 			}
 		}
 	}

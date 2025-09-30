@@ -8,6 +8,10 @@
 			"tk2023": {
 				"lijstnummer": 1,
 				"woonplaats": "Schagen"
+			},
+			"tk2025": {
+				"lijstnummer": 11,
+				"woonplaats": "Schagen"
 			}
 		}
 	},
@@ -19,6 +23,10 @@
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 2,
+				"woonplaats": "Purmerend"
+			},
+			"tk2025": {
+				"lijstnummer": 4,
 				"woonplaats": "Purmerend"
 			}
 		}
@@ -44,6 +52,10 @@
 			"tk2023": {
 				"lijstnummer": 4,
 				"woonplaats": "Amsterdam"
+			},
+			"tk2025": {
+				"lijstnummer": 1,
+				"woonplaats": "Amsterdam"
 			}
 		}
 	},
@@ -54,6 +66,10 @@
 		},
 		"verkiezingen": {
 			"tk2023": {
+				"lijstnummer": 5,
+				"woonplaats": "Burgum"
+			},
+			"tk2025": {
 				"lijstnummer": 5,
 				"woonplaats": "Burgum"
 			}
@@ -68,6 +84,10 @@
 			"tk2023": {
 				"lijstnummer": 6,
 				"woonplaats": "Utrecht"
+			},
+			"tk2025": {
+				"lijstnummer": 34,
+				"woonplaats": "Utrecht"
 			}
 		}
 	},
@@ -79,6 +99,10 @@
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 7,
+				"woonplaats": "Amsterdam"
+			},
+			"tk2025": {
+				"lijstnummer": 2,
 				"woonplaats": "Amsterdam"
 			}
 		}
@@ -92,6 +116,10 @@
 			"tk2023": {
 				"lijstnummer": 8,
 				"woonplaats": "Amsterdam"
+			},
+			"tk2025": {
+				"lijstnummer": 12,
+				"woonplaats": "Amsterdam"
 			}
 		}
 	},
@@ -103,6 +131,10 @@
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 9,
+				"woonplaats": "Amsterdam"
+			},
+			"tk2025": {
+				"lijstnummer": 35,
 				"woonplaats": "Amsterdam"
 			}
 		}
@@ -116,6 +148,10 @@
 			"tk2023": {
 				"lijstnummer": 10,
 				"woonplaats": "Zaandam"
+			},
+			"tk2025": {
+				"lijstnummer": 36,
+				"woonplaats": "Zaandam"
 			}
 		}
 	},
@@ -127,6 +163,10 @@
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 11,
+				"woonplaats": "Den Helder"
+			},
+			"tk2025": {
+				"lijstnummer": 23,
 				"woonplaats": "Den Helder"
 			}
 		}
@@ -140,6 +180,10 @@
 			"tk2023": {
 				"lijstnummer": 12,
 				"woonplaats": "Amsterdam"
+			},
+			"tk2025": {
+				"lijstnummer": 37,
+				"woonplaats": "Amsterdam"
 			}
 		}
 	},
@@ -151,6 +195,10 @@
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 13,
+				"woonplaats": "Eindhoven"
+			},
+			"tk2025": {
+				"lijstnummer": 7,
 				"woonplaats": "Eindhoven"
 			}
 		}
@@ -164,6 +212,10 @@
 			"tk2023": {
 				"lijstnummer": 14,
 				"woonplaats": "Rijnsburg"
+			},
+			"tk2025": {
+				"lijstnummer": 38,
+				"woonplaats": "Rijnsburg"
 			}
 		}
 	},
@@ -174,6 +226,10 @@
 		},
 		"verkiezingen": {
 			"tk2023": {
+				"lijstnummer": 15,
+				"woonplaats": "Den Haag"
+			},
+			"tk2025": {
 				"lijstnummer": 15,
 				"woonplaats": "Den Haag"
 			}
@@ -188,6 +244,10 @@
 			"tk2023": {
 				"lijstnummer": 16,
 				"woonplaats": "Nijmegen"
+			},
+			"tk2025": {
+				"lijstnummer": 3,
+				"woonplaats": "Nijmegen"
 			}
 		}
 	},
@@ -199,6 +259,10 @@
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 17,
+				"woonplaats": "Amsterdam"
+			},
+			"tk2025": {
+				"lijstnummer": 39,
 				"woonplaats": "Amsterdam"
 			}
 		}
@@ -212,6 +276,10 @@
 			"tk2023": {
 				"lijstnummer": 18,
 				"woonplaats": "Waalre"
+			},
+			"tk2025": {
+				"lijstnummer": 40,
+				"woonplaats": "Waalre"
 			}
 		}
 	},
@@ -223,6 +291,10 @@
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 19,
+				"woonplaats": "Utrecht"
+			},
+			"tk2025": {
+				"lijstnummer": 14,
 				"woonplaats": "Utrecht"
 			}
 		}
@@ -236,6 +308,10 @@
 			"tk2023": {
 				"lijstnummer": 20,
 				"woonplaats": "Amsterdam"
+			},
+			"tk2025": {
+				"lijstnummer": 41,
+				"woonplaats": "Amsterdam"
 			}
 		}
 	},
@@ -247,6 +323,10 @@
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 21,
+				"woonplaats": "Amsterdam"
+			},
+			"tk2025": {
+				"lijstnummer": 42,
 				"woonplaats": "Amsterdam"
 			}
 		}
@@ -260,6 +340,10 @@
 			"tk2023": {
 				"lijstnummer": 22,
 				"woonplaats": "Ede"
+			},
+			"tk2025": {
+				"lijstnummer": 24,
+				"woonplaats": "Ede"
 			}
 		}
 	},
@@ -271,6 +355,10 @@
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 23,
+				"woonplaats": "Rotterdam"
+			},
+			"tk2025": {
+				"lijstnummer": 43,
 				"woonplaats": "Rotterdam"
 			}
 		}
@@ -284,6 +372,10 @@
 			"tk2023": {
 				"lijstnummer": 24,
 				"woonplaats": "Roosendaal"
+			},
+			"tk2025": {
+				"lijstnummer": 44,
+				"woonplaats": "Roosendaal"
 			}
 		}
 	},
@@ -295,6 +387,10 @@
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 25,
+				"woonplaats": "Goes"
+			},
+			"tk2025": {
+				"lijstnummer": 20,
 				"woonplaats": "Goes"
 			}
 		}
@@ -308,6 +404,10 @@
 			"tk2023": {
 				"lijstnummer": 26,
 				"woonplaats": "Zaandam"
+			},
+			"tk2025": {
+				"lijstnummer": 30,
+				"woonplaats": "Zaandam"
 			}
 		}
 	},
@@ -319,6 +419,10 @@
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 27,
+				"woonplaats": "Kerkrade"
+			},
+			"tk2025": {
+				"lijstnummer": 18,
 				"woonplaats": "Kerkrade"
 			}
 		}
@@ -332,6 +436,10 @@
 			"tk2023": {
 				"lijstnummer": 28,
 				"woonplaats": "Amsterdam"
+			},
+			"tk2025": {
+				"lijstnummer": 45,
+				"woonplaats": "Amsterdam"
 			}
 		}
 	},
@@ -343,6 +451,10 @@
 		"verkiezingen": {
 			"tk2023": {
 				"lijstnummer": 29,
+				"woonplaats": "Purmerend"
+			},
+			"tk2025": {
+				"lijstnummer": 46,
 				"woonplaats": "Purmerend"
 			}
 		}
@@ -356,6 +468,10 @@
 			"tk2023": {
 				"lijstnummer": 30,
 				"woonplaats": "Amsterdam"
+			},
+			"tk2025": {
+				"lijstnummer": 47,
+				"woonplaats": "Amsterdam"
 			}
 		}
 	},
@@ -368,6 +484,10 @@
 			"tk2023": {
 				"lijstnummer": 31,
 				"woonplaats": "Zeist"
+			},
+			"tk2025": {
+				"lijstnummer": 48,
+				"woonplaats": "Zeist"
 			}
 		}
 	},
@@ -378,6 +498,10 @@
 		},
 		"verkiezingen": {
 			"tk2023": {
+				"lijstnummer": 32,
+				"woonplaats": "Rhenen"
+			},
+			"tk2025": {
 				"lijstnummer": 32,
 				"woonplaats": "Rhenen"
 			}
@@ -392,6 +516,10 @@
 			"tk2023": {
 				"lijstnummer": 33,
 				"woonplaats": "Nijmegen"
+			},
+			"tk2025": {
+				"lijstnummer": 49,
+				"woonplaats": "Nijmegen"
 			}
 		}
 	},
@@ -404,6 +532,154 @@
 			"tk2023": {
 				"lijstnummer": 34,
 				"woonplaats": "Amsterdam"
+			},
+			"tk2025": {
+				"lijstnummer": 33,
+				"woonplaats": "Amsterdam"
+			}
+		}
+	},
+	{
+		"naam": "Goof Pontier",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 6,
+				"woonplaats": "Doetinchem"
+			}
+		}
+	},
+	{
+		"naam": "Sabrina Grossman",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 8,
+				"woonplaats": "Amsterdam"
+			}
+		}
+	},
+	{
+		"naam": "Eskild Wikkeling",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 9,
+				"woonplaats": "Reeuwijk"
+			}
+		}
+	},
+	{
+		"naam": "Fleur Bergman",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 10,
+				"woonplaats": "Rotterdam"
+			}
+		}
+	},
+	{
+		"naam": "Jean-Aimé Musangamfura",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 13,
+				"woonplaats": "Amsterdam"
+			}
+		}
+	},
+	{
+		"naam": "Bianca Lubben",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 16,
+				"woonplaats": "Emmeloord"
+			}
+		}
+	},
+	{
+		"naam": "Kees Valkhof",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 17,
+				"woonplaats": "Rotterdam"
+			}
+		}
+	},
+	{
+		"naam": "Nabille el Hajoui",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 19,
+				"woonplaats": "Amsterdam"
+			}
+		}
+	},
+	{
+		"naam": "Fanni Horvath",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 21,
+				"woonplaats": "Amsterdam"
+			}
+		}
+	},
+	{
+		"naam": "Wouter van Dijke",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 22,
+				"woonplaats": "Leiden"
+			}
+		}
+	},
+	{
+		"naam": "Frank Wijnans",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 25,
+				"woonplaats": "Súdwest-Fryslân"
+			}
+		}
+	},
+	{
+		"naam": "Ron Smit",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 26,
+				"woonplaats": "Amsterdam"
+			}
+		}
+	},
+	{
+		"naam": "Aloy Nauta",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 27,
+				"woonplaats": "Heerlen"
+			}
+		}
+	},
+	{
+		"naam": "Ryszard Matenko",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 28,
+				"woonplaats": "Amsterdam"
+			}
+		}
+	},
+	{
+		"naam": "Roberto Haak",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 29,
+				"woonplaats": "Nijmegen"
+			}
+		}
+	},
+	{
+		"naam": "Vincent van der Velde",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 31,
+				"woonplaats": "Texel"
 			}
 		}
 	}

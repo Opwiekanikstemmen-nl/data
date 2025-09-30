@@ -1,0 +1,122 @@
+[
+	{
+		"naam": "Bart Burggraaf",
+		"geslacht": "man",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 1,
+				"woonplaats": "Voorschoten"
+			}
+		}
+	},
+	{
+		"naam": "Mario Voorbij",
+		"geslacht": "man",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 2,
+				"woonplaats": "Harmelen"
+			}
+		}
+	},
+	{
+		"naam": "Johan Zijlstra",
+		"geslacht": "man",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 3,
+				"woonplaats": "Amersfoort"
+			}
+		}
+	},
+	{
+		"naam": "Carin Tawfik",
+		"geslacht": "vrouw",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 4,
+				"woonplaats": "Katwijk"
+			}
+		}
+	},
+	{
+		"naam": "Nando Jansen",
+		"geslacht": "man",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 5,
+				"woonplaats": "Barendrecht"
+			}
+		}
+	},
+	{
+		"naam": "Wendy Struijk",
+		"geslacht": "vrouw",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 6,
+				"woonplaats": "Someren"
+			}
+		}
+	},
+	{
+		"naam": "Irene van der Marel",
+		"geslacht": "vrouw",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 7,
+				"woonplaats": "Doorn"
+			}
+		}
+	},
+	{
+		"naam": "Antoon Huigens",
+		"geslacht": "man",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 8,
+				"woonplaats": "Apeldoorn"
+			}
+		}
+	},
+	{
+		"naam": "Cees Schaap",
+		"geslacht": "man",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 9,
+				"woonplaats": "Barendrecht"
+			}
+		}
+	},
+	{
+		"naam": "Rik Kleinsmit",
+		"geslacht": "man",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 10,
+				"woonplaats": "Almere"
+			}
+		}
+	},
+	{
+		"naam": "Marc Roodveldt",
+		"geslacht": "man",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 11,
+				"woonplaats": "Lelystad"
+			}
+		}
+	},
+	{
+		"naam": "Pallieter Koopmans",
+		"geslacht": "man",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 12,
+				"woonplaats": "Wassenaar"
+			}
+		}
+	}
+]
