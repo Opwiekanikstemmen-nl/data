@@ -5,7 +5,7 @@ import argparse
 import json
 
 parser = argparse.ArgumentParser(
-	description="Merge two kiesraad lists")
+	description="Add info from party website to candidate list")
 parser.add_argument("-t", "--target", action="store",
 	help="The target JSON")
 parser.add_argument("-p", "--parties", action="store",
