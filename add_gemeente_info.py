@@ -47,12 +47,12 @@ for coupling in gemeente_data:
 		if candidate['iri'] == coupling['kandidaat']:
 			coupled = True
 			try:
-				candidate['verkiezingen']['tk2023']['gemeente'] = combi_data[coupling['gemeente']]
+				candidate['verkiezingen']['tk2025']['gemeente'] = combi_data[coupling['gemeente']]
 			except KeyError:
 				print("that municipality ({0}) probably didn’t exist before 2022?".format(coupling['gemeente']))
 			break
 	if not coupled:
-		print("{0} van {1}".format(candidate['naam'], candidate['verkiezingen']['tk2023']['partij_naam']))
+		print("{0} van {1}".format(candidate['naam'], candidate['verkiezingen']['tk2025']['partij_naam']))
 
 with open(target, 'w', encoding='utf8') as fp:
 	json.dump(target_data, fp, ensure_ascii=False, indent=2)
