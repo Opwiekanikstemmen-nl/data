@@ -48,19 +48,23 @@ for party in parties_data:
 		party_file = open("{0}/{1}.json".format(partyfiles, naam))
 		party_data = json.load(party_file)
 		for party_candidate in party_data:
-			for candidate in target_data:
-				if 'tk2025' in candidate['verkiezingen'] and candidate['verkiezingen']['tk2025']['partij_naam'] == naam:
-					if candidate['verkiezingen']['tk2025']['lijstnummer'] == party_candidate['verkiezingen']['tk2025']['lijstnummer']:
-						if candidate['achternaam'] not in party_candidate['naam']:
-							print("{0} {1} van {2}".format(candidate['naam'], candidate['verkiezingen']['tk2025']['lijstnummer'], candidate['verkiezingen']['tk2025']['partij_naam']))
-						else:
-							break
-						if candidate['voornaam'] == "" and '.' not in party_candidate['naam'].split(' ', 1)[0]:
-							candidate['voornaam'] = party_candidate['naam'].split(' ', 1)[0]
-							candidate['naam'] = "{0} {1}".format(party_candidate['naam'].split(' ', 1)[0], candidate['achternaam'])
-							print("{0} wordt {1}".format(candidate['naam'], party_candidate['naam'].split(' ', 1)[0]))
-						if 'urls' in party_candidate:
-							candidate['urls'] = party_candidate['urls']
+			if 'tk2025' in party_candidate['verkiezingen']:
+				for candidate in target_data:
+					if 'tk2025' in candidate['verkiezingen'] and candidate['verkiezingen']['tk2025']['partij_naam'] == naam:
+						try:
+							if candidate['verkiezingen']['tk2025']['lijstnummer'] == party_candidate['verkiezingen']['tk2025']['lijstnummer']:
+								if candidate['achternaam'] not in party_candidate['naam']:
+									print("{0} {1} van {2}".format(candidate['naam'], candidate['verkiezingen']['tk2025']['lijstnummer'], candidate['verkiezingen']['tk2025']['partij_naam']))
+								else:
+									break
+								if candidate['voornaam'] == "" and '.' not in party_candidate['naam'].split(' ', 1)[0]:
+									candidate['voornaam'] = party_candidate['naam'].split(' ', 1)[0]
+									candidate['naam'] = "{0} {1}".format(party_candidate['naam'].split(' ', 1)[0], candidate['achternaam'])
+									print("{0} wordt {1}".format(candidate['naam'], party_candidate['naam'].split(' ', 1)[0]))
+								if 'urls' in party_candidate:
+									candidate['urls'] = party_candidate['urls']
+						except:
+							print("{0} van {1}".format(candidate['naam'], party['naam']))
 
 with open('kandidaten.json', 'w', encoding='utf8') as fp:
 	json.dump(target_data, fp, ensure_ascii=False, indent=2)
