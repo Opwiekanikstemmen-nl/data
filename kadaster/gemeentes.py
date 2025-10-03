@@ -1,6 +1,6 @@
 #! /usr/bin/env python3
 """
-Find the IRIs for the "gemeente" of each "kandidaat" in procesverbaal2023.json
+Find the IRIs for the "gemeente" of each "kandidaat" in procesverbaal2025.json
 
 No need to specify arguments: I'm smart! (and will make some informed guesses)
 """
@@ -9,15 +9,15 @@ import json
 from sys import stderr
 
 
-def procesverbaal2023_json():
+def procesverbaal2025_json():
     for p in [
-        "./procesverbaal2023.json",
-        "./kiesraad/procesverbaal2023.json",
-        "../kiesraad/procesverbaal2023.json",
+        "./procesverbaal2025.json",
+        "./kiesraad/procesverbaal2025.json",
+        "../kiesraad/procesverbaal2025.json",
     ]:
         if path.exists(p):
             return p
-    raise Exception("I'm too stupid to find procesverbaal2023.json.")
+    raise Exception("I'm too stupid to find procesverbaal2025.json.")
 
 
 def gemeentes_json():
@@ -53,7 +53,7 @@ def prepare_gemeentes(gemeentes):
 
 def kandidaat_gemeente(procesverbaal, gemeentes, woonplaatsen):
     for kandidaat in procesverbaal:
-        wp = kandidaat["verkiezingen"]["tk2023"]["woonplaats"]  # this name is a lie
+        wp = kandidaat["verkiezingen"]["tk2025"]["woonplaats"]  # this name is a lie
         if wp not in gemeentes:
             if wp not in woonplaatsen:
                 print(
@@ -89,7 +89,7 @@ if __name__ == "__main__":
     with open(woonplaats_json()) as fd:
         woonplaatsen = json.load(fd)
 
-    with open(procesverbaal2023_json()) as fd:
+    with open(procesverbaal2025_json()) as fd:
         procesverbaal = json.load(fd)
 
     print(json.dumps(list(kandidaat_gemeente(procesverbaal, gemeentes, woonplaatsen))))

@@ -1,0 +1,6282 @@
+{
+  "kandidaten": {
+    "BBB": [
+      {
+        "plek": 1,
+        "naam": "Caroline van der Plas",
+        "leeftijd": 56,
+        "woonplaats": "Deventer",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 2,
+        "naam": "Mona Keijzer",
+        "leeftijd": 55,
+        "woonplaats": "Volendam",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 3,
+        "naam": "Gijs Tuinman",
+        "leeftijd": 43,
+        "woonplaats": "Oud-Beijerland",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 4,
+        "naam": "Henk Vermeer",
+        "leeftijd": 57,
+        "woonplaats": "Harderwijk",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 5,
+        "naam": "Lilian Helder",
+        "leeftijd": 50,
+        "woonplaats": "Venlo",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 6,
+        "naam": "Cor Pierik",
+        "leeftijd": 58,
+        "woonplaats": "Genemuiden",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 7,
+        "naam": "Claudia van Zanten",
+        "leeftijd": 44,
+        "woonplaats": "Amsterdam",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 8,
+        "naam": "Jean Rummenie",
+        "leeftijd": 70,
+        "woonplaats": "Den Haag",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 9,
+        "naam": "Nicki Pouw-Verweij",
+        "leeftijd": 32,
+        "woonplaats": "Maarssen",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 10,
+        "naam": "Mariska Rikkers-Oosterkamp",
+        "leeftijd": 46,
+        "woonplaats": "Wolvega",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 11,
+        "naam": "Marieke Wijen-Nass",
+        "leeftijd": 30,
+        "woonplaats": "Gulpen",
+        "website": "https://boerburgerbeweging.nl/kandidaten/marieke-wijen/",
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 12,
+        "naam": "Martin Oostenbrink",
+        "leeftijd": 36,
+        "woonplaats": "Voorburg",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 13,
+        "naam": "Jasper Rekers",
+        "leeftijd": 35,
+        "woonplaats": "Enschede",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 14,
+        "naam": "Alexander Hendriks",
+        "leeftijd": 27,
+        "woonplaats": "Leiden",
+        "website": "https://boerburgerbeweging.nl/kandidaten/alexander-hendriks/",
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 15,
+        "naam": "Christine Govaert",
+        "leeftijd": 56,
+        "woonplaats": "Westdorpe",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 16,
+        "naam": "Laurens van Vliet",
+        "leeftijd": 39,
+        "woonplaats": "Dalfsen",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 17,
+        "naam": "Herma Hemmen",
+        "leeftijd": 48,
+        "woonplaats": "Ter Apel",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 18,
+        "naam": "Kees van Vuuren",
+        "leeftijd": 30,
+        "woonplaats": "Baarn",
+        "website": "https://boerburgerbeweging.nl/kandidaten/kees-van-vuuren-2/",
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 19,
+        "naam": "Saskia van der Meer",
+        "leeftijd": 65,
+        "woonplaats": "Meppel",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 20,
+        "naam": "Kitty Stoop",
+        "leeftijd": 36,
+        "woonplaats": "Moerdijk",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 21,
+        "naam": "Andrea van Veen",
+        "leeftijd": 39,
+        "woonplaats": "Urk",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 22,
+        "naam": "Jan-Sebastian van Lissum",
+        "leeftijd": 47,
+        "woonplaats": "Amsterdam",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 23,
+        "naam": "Erik Stegink",
+        "leeftijd": 56,
+        "woonplaats": "Bathmen",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 24,
+        "naam": "Florian Huiskamp",
+        "leeftijd": 46,
+        "woonplaats": "Groenlo",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 25,
+        "naam": "Derk-Jan Eppink",
+        "leeftijd": 64,
+        "woonplaats": "Den Haag",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 26,
+        "naam": "Haidy Hankers",
+        "leeftijd": 48,
+        "woonplaats": "Barneveld",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 27,
+        "naam": "Nils Berghout",
+        "leeftijd": 44,
+        "woonplaats": "Houten",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 28,
+        "naam": "Gerlof Roubos",
+        "leeftijd": 56,
+        "woonplaats": "Boxtel",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 29,
+        "naam": "Jordy Evers",
+        "leeftijd": 30,
+        "woonplaats": "Zwolle",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 30,
+        "naam": "Marcel Sijbolts",
+        "leeftijd": 47,
+        "woonplaats": "Midwolda",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 31,
+        "naam": "Willem Poppe",
+        "leeftijd": 50,
+        "woonplaats": "Goes",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 32,
+        "naam": "Jan Swaag",
+        "leeftijd": 53,
+        "woonplaats": "Barsingerhorn",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 33,
+        "naam": "Derk-Evert Waalkens",
+        "leeftijd": 55,
+        "woonplaats": "Assen",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 34,
+        "naam": "Ines de Ridder",
+        "leeftijd": 56,
+        "woonplaats": "Nieuwkoop",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 35,
+        "naam": "Wim Jaspers",
+        "leeftijd": 62,
+        "woonplaats": "Someren",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 36,
+        "naam": "Eric Floors",
+        "leeftijd": 51,
+        "woonplaats": "Deventer",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 37,
+        "naam": "Joke Luitwieler-Bosma",
+        "leeftijd": 57,
+        "woonplaats": "Giethoorn",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 38,
+        "naam": "Inge Rood",
+        "leeftijd": 59,
+        "woonplaats": "Beverwijk",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 39,
+        "naam": "Madelon van Noort",
+        "leeftijd": 45,
+        "woonplaats": "Lelystad",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 40,
+        "naam": "Koos Cromwijk",
+        "leeftijd": 33,
+        "woonplaats": "Kockengen",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 41,
+        "naam": "Jeroen van Wijk",
+        "leeftijd": 43,
+        "woonplaats": "Odijk",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 42,
+        "naam": "Lianne Bos-Zandstra",
+        "leeftijd": 53,
+        "woonplaats": "Ureterp",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 43,
+        "naam": "Nicole Egelmeers",
+        "leeftijd": 50,
+        "woonplaats": "Rosmalen",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 44,
+        "naam": "Ad Baltus",
+        "leeftijd": 53,
+        "woonplaats": "Zuidschermer",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 45,
+        "naam": "Petra van der Wereld-Verkerk",
+        "leeftijd": 62,
+        "woonplaats": "Roelofarendsveen",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 46,
+        "naam": "Loretta Schoone",
+        "leeftijd": 26,
+        "woonplaats": "Den Haag",
+        "website": "https://boerburgerbeweging.nl/kandidaten/loretta-schoone/",
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 47,
+        "naam": "Jo Spätgens",
+        "leeftijd": 60,
+        "woonplaats": "Sittard",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 48,
+        "naam": "Duncan Zeedzen",
+        "leeftijd": 51,
+        "woonplaats": "Brunssum",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      }
+    ],
+    "BIJ1": [
+      {
+        "plek": 1,
+        "naam": "Edson Olf",
+        "leeftijd": 37,
+        "woonplaats": "Rotterdam",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 2,
+        "naam": "Lisa Mc Cray",
+        "leeftijd": 29,
+        "woonplaats": "Rotterdam",
+        "website": null,
+        "instagram": "https://www.instagram.com/lisamccraybij1/",
+        "linkedin": null
+      },
+      {
+        "plek": 3,
+        "naam": "Latifa Salmi",
+        "leeftijd": 22,
+        "woonplaats": "Rotterdam",
+        "website": null,
+        "instagram": "https://www.instagram.com/latifasalmii/",
+        "linkedin": null
+      },
+      {
+        "plek": 4,
+        "naam": "Grace Courtar",
+        "leeftijd": null,
+        "woonplaats": "Breda",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 5,
+        "naam": "Evita de Miranda",
+        "leeftijd": 47,
+        "woonplaats": "Almere",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 6,
+        "naam": "Liyah Berend",
+        "leeftijd": 30,
+        "woonplaats": "Amsterdam",
+        "website": null,
+        "instagram": "https://www.instagram.com/six.north/",
+        "linkedin": null
+      },
+      {
+        "plek": 7,
+        "naam": "Yvette Luhrs",
+        "leeftijd": 38,
+        "woonplaats": "Niet gevonden",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 8,
+        "naam": "Yuval Gal",
+        "leeftijd": 44,
+        "woonplaats": "Den Haag",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 9,
+        "naam": "Jesse ten Caat",
+        "leeftijd": 18,
+        "woonplaats": "Hollandscheveld",
+        "website": null,
+        "instagram": null,
+        "linkedin": "https://nl.linkedin.com/in/jessetencaat"
+      },
+      {
+        "plek": 10,
+        "naam": "Joana Zandee",
+        "leeftijd": 20,
+        "woonplaats": "Nijmegen",
+        "website": null,
+        "instagram": null,
+        "linkedin": "https://nl.linkedin.com/in/joana-zandee"
+      },
+      {
+        "plek": 11,
+        "naam": "Dylan Bakker",
+        "leeftijd": 30,
+        "woonplaats": "Amserdam",
+        "website": null,
+        "instagram": "https://www.instagram.com/dylanfixtt/",
+        "linkedin": null
+      },
+      {
+        "plek": 12,
+        "naam": "Venus aka Ma'MaQueen Bijleveld",
+        "leeftijd": 33,
+        "woonplaats": "Rotterdam",
+        "website": null,
+        "instagram": "https://www.instagram.com/iammamaqueen/",
+        "linkedin": null
+      },
+      {
+        "plek": 13,
+        "naam": "Romana Vrede",
+        "leeftijd": 50,
+        "woonplaats": null,
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 14,
+        "naam": "Rebekka Timmer",
+        "leeftijd": 23,
+        "woonplaats": null,
+        "website": null,
+        "instagram": "https://www.instagram.com/rubikem/",
+        "linkedin": null
+      }
+    ],
+    "CDA": [
+      {
+        "plek": 1,
+        "naam": "Henri Bontenbal",
+        "leeftijd": 40,
+        "woonplaats": "Rotterdam",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 2,
+        "naam": "Eline Vedder",
+        "leeftijd": 44,
+        "woonplaats": "De Wolden",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 3,
+        "naam": "Derk Boswijk",
+        "leeftijd": 34,
+        "woonplaats": "Knockengen",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 4,
+        "naam": "Inge van Dijk",
+        "leeftijd": 48,
+        "woonplaats": "Gemert-Bakel",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 5,
+        "naam": "Harmen Krul",
+        "leeftijd": 29,
+        "woonplaats": "Den Helder",
+        "website": null,
+        "instagram": "https://www.instagram.com/harmenkrul/",
+        "linkedin": null
+      },
+      {
+        "plek": 6,
+        "naam": "Hilde Palland-Mulder",
+        "leeftijd": 43,
+        "woonplaats": "Kampen",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 7,
+        "naam": "Bart van den Brink",
+        "leeftijd": 44,
+        "woonplaats": "Amersfoort",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 8,
+        "naam": "Marlou Absil",
+        "leeftijd": 49,
+        "woonplaats": "Peel en Maas",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 9,
+        "naam": "Hanneke Steen",
+        "leeftijd": 40,
+        "woonplaats": "Hengelo",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 10,
+        "naam": "Anne Kuik",
+        "leeftijd": 36,
+        "woonplaats": "Ermelo",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 11,
+        "naam": "Jouke Spoelstra",
+        "leeftijd": 33,
+        "woonplaats": "Achtkarspelen",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 12,
+        "naam": "Evert Slootweg",
+        "leeftijd": 54,
+        "woonplaats": "Bennekom",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 13,
+        "naam": "Saida Chaoui-Nhass",
+        "leeftijd": 47,
+        "woonplaats": "Wateringen",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 14,
+        "naam": "Jantine Zwinkels",
+        "leeftijd": 33,
+        "woonplaats": "Utrecht",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 15,
+        "naam": "Ralph Diederen",
+        "leeftijd": 32,
+        "woonplaats": "Beek",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 16,
+        "naam": "Sarath Hamstra",
+        "leeftijd": 36,
+        "woonplaats": "Ermelo",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 17,
+        "naam": "Easther Houmes",
+        "leeftijd": 27,
+        "woonplaats": "Goes",
+        "website": null,
+        "instagram": null,
+        "linkedin": "https://nl.linkedin.com/in/easther-soeminie-houmes"
+      },
+      {
+        "plek": 18,
+        "naam": "Chantal van den Berg",
+        "leeftijd": 46,
+        "woonplaats": "Vijfhuizen",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 19,
+        "naam": "Jalt de Haan",
+        "leeftijd": 32,
+        "woonplaats": "Groningen",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 20,
+        "naam": "Jenny Vermeer",
+        "leeftijd": 55,
+        "woonplaats": "Westland",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 21,
+        "naam": "Liesbeth van der Heide",
+        "leeftijd": 37,
+        "woonplaats": "Leidschendam-voorburg",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 22,
+        "naam": "Johan Goos",
+        "leeftijd": 64,
+        "woonplaats": "Noordoostpolder",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 23,
+        "naam": "Paul Boogaard",
+        "leeftijd": 53,
+        "woonplaats": "Hoeksche Waard",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 24,
+        "naam": "Wieke Goudzwaard-Wiersma",
+        "leeftijd": 44,
+        "woonplaats": "Leeuwarden",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 25,
+        "naam": "René Segers-Hoogendoorn",
+        "leeftijd": 42,
+        "woonplaats": "Rotterdam",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 26,
+        "naam": "Arjen van Gijssel",
+        "leeftijd": 54,
+        "woonplaats": "Berkelland",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 27,
+        "naam": "Lennard Goudriaan",
+        "leeftijd": 47,
+        "woonplaats": "Albrandswaard",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 28,
+        "naam": "Marieke van der Spek",
+        "leeftijd": 39,
+        "woonplaats": "Vijfheerenlanden",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 29,
+        "naam": "Mart van Lagen",
+        "leeftijd": 28,
+        "woonplaats": "Enschede",
+        "website": null,
+        "instagram": "https://www.instagram.com/martvanlagen/",
+        "linkedin": null
+      },
+      {
+        "plek": 30,
+        "naam": "Floris Out",
+        "leeftijd": 26,
+        "woonplaats": "Alphen aan den Rijn",
+        "website": null,
+        "instagram": "https://www.instagram.com/_fout_/",
+        "linkedin": null
+      },
+      {
+        "plek": 31,
+        "naam": "Jacky Silos",
+        "leeftijd": 42,
+        "woonplaats": "Vlaardingen",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 32,
+        "naam": "Yusuf Tuncer",
+        "leeftijd": 33,
+        "woonplaats": "Schiedam",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 33,
+        "naam": "Chantal Broekhuis",
+        "leeftijd": 48,
+        "woonplaats": "Utrechtse Heuvelrug",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 34,
+        "naam": "Antoine van den Oever",
+        "leeftijd": 47,
+        "woonplaats": "Rotterdam",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 35,
+        "naam": "Joba van den Berg",
+        "leeftijd": 65,
+        "woonplaats": "Utrecht",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 36,
+        "naam": "Antje Beers",
+        "leeftijd": 20,
+        "woonplaats": "Breda",
+        "website": null,
+        "instagram": "https://www.instagram.com/antjebeers/",
+        "linkedin": null
+      },
+      {
+        "plek": 37,
+        "naam": "Delano van Luik",
+        "leeftijd": 27,
+        "woonplaats": "Nijmegen",
+        "website": null,
+        "instagram": "https://www.instagram.com/delanovanluik/",
+        "linkedin": null
+      },
+      {
+        "plek": 38,
+        "naam": "Bart van Dekken",
+        "leeftijd": 61,
+        "woonplaats": "De Wolden",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 39,
+        "naam": "Stef Luijten",
+        "leeftijd": 38,
+        "woonplaats": "Bergeijk",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 40,
+        "naam": "Harma Dost",
+        "leeftijd": 50,
+        "woonplaats": "Het Hogeland",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 41,
+        "naam": "Frank Buijs",
+        "leeftijd": 49,
+        "woonplaats": "Veenendaal",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 42,
+        "naam": "Laura van de Giessen",
+        "leeftijd": 28,
+        "woonplaats": "Zwolle",
+        "website": null,
+        "instagram": "https://www.instagram.com/lauravdgiessen/",
+        "linkedin": null
+      },
+      {
+        "plek": 43,
+        "naam": "Nahid Aoulad Bouchata",
+        "leeftijd": 40,
+        "woonplaats": "Uithoorn",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 44,
+        "naam": "Dani Bracke",
+        "leeftijd": 25,
+        "woonplaats": "Hulst",
+        "website": null,
+        "instagram": "https://www.instagram.com/danibracke/",
+        "linkedin": null
+      },
+      {
+        "plek": 45,
+        "naam": "Jan Joosten",
+        "leeftijd": 52,
+        "woonplaats": "Eindhoven",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 46,
+        "naam": "Pien Meppelink",
+        "leeftijd": 42,
+        "woonplaats": "Zuidplas",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 47,
+        "naam": "Robert van Dijk",
+        "leeftijd": 55,
+        "woonplaats": "Maasdriel",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 48,
+        "naam": "Franko van Lankvelt",
+        "leeftijd": 53,
+        "woonplaats": "Maashorst",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 49,
+        "naam": "Lody van de Kamp",
+        "leeftijd": 75,
+        "woonplaats": "Amsterdam",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      }
+    ],
+    "ChristenUnie": [
+      {
+        "plek": 1,
+        "naam": "Mirjam Bikker",
+        "leeftijd": 41,
+        "woonplaats": "Gouda",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 2,
+        "naam": "Pieter Grinwis",
+        "leeftijd": 44,
+        "woonplaats": "Den Haag",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 3,
+        "naam": "Don Ceder",
+        "leeftijd": 34,
+        "woonplaats": "Amsterdam",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 4,
+        "naam": "Alwin te Rietstap",
+        "leeftijd": 44,
+        "woonplaats": "Kloosterhaar",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 5,
+        "naam": "Joëlle Gooijer-Medema",
+        "leeftijd": 47,
+        "woonplaats": "Delft",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 6,
+        "naam": "Nico Drost",
+        "leeftijd": 43,
+        "woonplaats": "Rhenen",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 7,
+        "naam": "Tobias Holtman",
+        "leeftijd": 35,
+        "woonplaats": "Aalten",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 8,
+        "naam": "Cora Otter-van den Bosch",
+        "leeftijd": 54,
+        "woonplaats": "Bennekom",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 9,
+        "naam": "Stieneke van der Graaf",
+        "leeftijd": 39,
+        "woonplaats": "Groningen",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 10,
+        "naam": "Michel Klein",
+        "leeftijd": 50,
+        "woonplaats": "Bussum",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 11,
+        "naam": "Carlijn Niesink",
+        "leeftijd": 37,
+        "woonplaats": "Wirdum",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 12,
+        "naam": "Jerke Setz",
+        "leeftijd": 25,
+        "woonplaats": "Assen",
+        "website": null,
+        "instagram": "https://www.instagram.com/mayorjetskii/",
+        "linkedin": null
+      },
+      {
+        "plek": 13,
+        "naam": "Christian van der Krift",
+        "leeftijd": 31,
+        "woonplaats": "Eindhoven",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 14,
+        "naam": "Arjan Langen",
+        "leeftijd": 53,
+        "woonplaats": "Venlo",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 15,
+        "naam": "Lizo Koppejan",
+        "leeftijd": 52,
+        "woonplaats": "Goes",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 16,
+        "naam": "Elly van Wageningen",
+        "leeftijd": 61,
+        "woonplaats": "Lelystad",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 17,
+        "naam": "Bert Tijhof",
+        "leeftijd": 50,
+        "woonplaats": "Rijssen",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 18,
+        "naam": "Wouter de Reus",
+        "leeftijd": 24,
+        "woonplaats": "Vlaardingen",
+        "website": null,
+        "instagram": "https://www.instagram.com/wouterdereus/",
+        "linkedin": null
+      },
+      {
+        "plek": 19,
+        "naam": "Gaetan Mbwete",
+        "leeftijd": 36,
+        "woonplaats": "Den Haag",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 20,
+        "naam": "Mark Treurniet",
+        "leeftijd": 33,
+        "woonplaats": "Groningen",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 21,
+        "naam": "Arend Palland",
+        "leeftijd": 38,
+        "woonplaats": "Hattem",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 22,
+        "naam": "Bettelies Westerbeek",
+        "leeftijd": 39,
+        "woonplaats": "Den Haag",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 23,
+        "naam": "IJmert Muilwijk",
+        "leeftijd": 39,
+        "woonplaats": "Hoornaar",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 24,
+        "naam": "Judith Westerink-Petersen",
+        "leeftijd": 49,
+        "woonplaats": "Heteren",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 25,
+        "naam": "Ingeborg Dijkstra-Verbeek",
+        "leeftijd": 53,
+        "woonplaats": "Maastricht",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 26,
+        "naam": "Gert van den Berg",
+        "leeftijd": 61,
+        "woonplaats": "Nunspeet",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 27,
+        "naam": "Alma Broekmaat-Hagens",
+        "leeftijd": 38,
+        "woonplaats": "Bunschoten-Spakenburg",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 28,
+        "naam": "Thera de Haan",
+        "leeftijd": 45,
+        "woonplaats": "Gouda",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 29,
+        "naam": "Arjan Koerts",
+        "leeftijd": 47,
+        "woonplaats": "Veenendaal",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 30,
+        "naam": "Annebeth Roor-Wubs",
+        "leeftijd": 29,
+        "woonplaats": "Utrecht",
+        "website": null,
+        "instagram": null,
+        "linkedin": "https://www.linkedin.com/in/annebeth-roor-wubs"
+      },
+      {
+        "plek": 31,
+        "naam": "Jan Verweij",
+        "leeftijd": 42,
+        "woonplaats": "Sliedrecht",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 32,
+        "naam": "Ingrid Paalman-Dijkenga",
+        "leeftijd": 52,
+        "woonplaats": "Biddinghuizen",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 33,
+        "naam": "Anil Kumar",
+        "leeftijd": 32,
+        "woonplaats": "Den Haag",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 34,
+        "naam": "Eva Kerklaan-van der Beek",
+        "leeftijd": 26,
+        "woonplaats": "Wierden",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 35,
+        "naam": "Joël Visser",
+        "leeftijd": 37,
+        "woonplaats": "Utrecht",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 36,
+        "naam": "Lieuwe van der Pol",
+        "leeftijd": 70,
+        "woonplaats": "Woudsend",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 37,
+        "naam": "Antrude Oudman",
+        "leeftijd": 26,
+        "woonplaats": "Groningen",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 38,
+        "naam": "Jarin van der Zande",
+        "leeftijd": 31,
+        "woonplaats": "Apeldoorn",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 39,
+        "naam": "Gilco Grandia",
+        "leeftijd": 51,
+        "woonplaats": "Aalst",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 40,
+        "naam": "Sara van Oordt-Jonckheere",
+        "leeftijd": 42,
+        "woonplaats": "Amersfoort",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 41,
+        "naam": "Bertus Cornelissen",
+        "leeftijd": 48,
+        "woonplaats": "Putten",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 42,
+        "naam": "Nathalie Nede",
+        "leeftijd": 36,
+        "woonplaats": "Arnhem",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 43,
+        "naam": "Jan Schutte",
+        "leeftijd": 55,
+        "woonplaats": "Kampen",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 44,
+        "naam": "Gerben van Dijk",
+        "leeftijd": 48,
+        "woonplaats": "Rotterdam",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 45,
+        "naam": "Piet Adema",
+        "leeftijd": 59,
+        "woonplaats": "De Wilgen",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 46,
+        "naam": "Frank Bosman",
+        "leeftijd": 45,
+        "woonplaats": "Vlijmen",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 47,
+        "naam": "Eline Hoogenboom",
+        "leeftijd": 39,
+        "woonplaats": "Voorthuizen",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 48,
+        "naam": "Henk Stoorvogel",
+        "leeftijd": 46,
+        "woonplaats": "Zwolle",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 49,
+        "naam": "Reinier van den Berg",
+        "leeftijd": 61,
+        "woonplaats": "Wageningen",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 50,
+        "naam": "Beatrice de Graaf",
+        "leeftijd": 47,
+        "woonplaats": "Utrecht",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      }
+    ],
+    "D66": [
+      {
+        "plek": 1,
+        "naam": "Rob Jetten",
+        "leeftijd": 36,
+        "woonplaats": "Ubbergen",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 2,
+        "naam": "Jan Paternotte",
+        "leeftijd": 39,
+        "woonplaats": "Leiderdorp",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 3,
+        "naam": "Hans Vijlbrief",
+        "leeftijd": 60,
+        "woonplaats": "Woubrugge",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 4,
+        "naam": "Anne-Marijke Podt",
+        "leeftijd": 48,
+        "woonplaats": null,
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 5,
+        "naam": "Joost Sneller",
+        "leeftijd": 41,
+        "woonplaats": "Den Haag",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 6,
+        "naam": "Ilana Rooderkerk",
+        "leeftijd": 36,
+        "woonplaats": "Amsterdam",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 7,
+        "naam": "Wieke Paulusma",
+        "leeftijd": 44,
+        "woonplaats": "Groningen",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 8,
+        "naam": "Hanneke van der Werf",
+        "leeftijd": 38,
+        "woonplaats": "Den Haag",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 9,
+        "naam": "Mpanzu Bamenga",
+        "leeftijd": 38,
+        "woonplaats": "Eindhoven",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 10,
+        "naam": "Tjeerd de Groot",
+        "leeftijd": 55,
+        "woonplaats": "Woudsend",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 11,
+        "naam": "Marijke Synhaeve",
+        "leeftijd": 33,
+        "woonplaats": "Nijmegen",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 12,
+        "naam": "Lisa van Ginneken",
+        "leeftijd": 51,
+        "woonplaats": null,
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 13,
+        "naam": "Salima Belhaj",
+        "leeftijd": 44,
+        "woonplaats": "Rotterdam",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 14,
+        "naam": "Faissal Boulakjar",
+        "leeftijd": 44,
+        "woonplaats": "Breda",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 15,
+        "naam": "Fonda Sahla",
+        "leeftijd": 43,
+        "woonplaats": "Den Haag",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 16,
+        "naam": "Felix Klos",
+        "leeftijd": 32,
+        "woonplaats": "Deventer",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 17,
+        "naam": "Hülya Kat",
+        "leeftijd": 40,
+        "woonplaats": "Amsterdam",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 18,
+        "naam": "Sjoerd Warmerdam",
+        "leeftijd": 36,
+        "woonplaats": "Amsterdam",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 19,
+        "naam": "Spencer Alberg",
+        "leeftijd": 22,
+        "woonplaats": "Almere",
+        "website": "https://d66.nl/nieuws/nieuwe-generatie-d66ers-op-kandidatenlijst/",
+        "instagram": "https://www.instagram.com/spenceralberg/",
+        "linkedin": null
+      },
+      {
+        "plek": 20,
+        "naam": "Alexander Hammelburg",
+        "leeftijd": 41,
+        "woonplaats": "Amsterdam",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 21,
+        "naam": "Jieskje Hollander",
+        "leeftijd": 40,
+        "woonplaats": null,
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 22,
+        "naam": "Loes ten Dolle",
+        "leeftijd": 28,
+        "woonplaats": null,
+        "website": "https://d66.nl/nieuws/nieuwe-generatie-d66ers-op-kandidatenlijst/",
+        "instagram": "https://www.instagram.com/loestendolle/",
+        "linkedin": null
+      },
+      {
+        "plek": 23,
+        "naam": "Dorien Blommers",
+        "leeftijd": 33,
+        "woonplaats": null,
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 24,
+        "naam": "Carline van Breugel",
+        "leeftijd": 29,
+        "woonplaats": null,
+        "website": "https://d66.nl/nieuws/nieuwe-generatie-d66ers-op-kandidatenlijst/",
+        "instagram": "https://www.instagram.com/carlinevb/",
+        "linkedin": null
+      },
+      {
+        "plek": 25,
+        "naam": "Hans Teunissen",
+        "leeftijd": 39,
+        "woonplaats": null,
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 26,
+        "naam": "Meryem Çimen",
+        "leeftijd": 36,
+        "woonplaats": null,
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 27,
+        "naam": "Ouafa Oualhadj",
+        "leeftijd": 30,
+        "woonplaats": null,
+        "website": "https://d66.nl/nieuws/nieuwe-generatie-d66ers-op-kandidatenlijst/",
+        "instagram": "https://www.instagram.com/ouafa070/",
+        "linkedin": null
+      },
+      {
+        "plek": 28,
+        "naam": "Marvin Putuhena",
+        "leeftijd": 28,
+        "woonplaats": null,
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 29,
+        "naam": "Eelco Keij",
+        "leeftijd": 45,
+        "woonplaats": null,
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 30,
+        "naam": "Veerle Brink",
+        "leeftijd": 31,
+        "woonplaats": null,
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 31,
+        "naam": "Paul van Dorst",
+        "leeftijd": 35,
+        "woonplaats": null,
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 32,
+        "naam": "Gerben Wijnja",
+        "leeftijd": 51,
+        "woonplaats": null,
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 33,
+        "naam": "Margreet de Vries",
+        "leeftijd": 49,
+        "woonplaats": null,
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 34,
+        "naam": "Frank Schoonbeek",
+        "leeftijd": 53,
+        "woonplaats": null,
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 35,
+        "naam": "Mahjoub Mathlouti",
+        "leeftijd": 32,
+        "woonplaats": null,
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 36,
+        "naam": "Wiebe Ruttenberg",
+        "leeftijd": 56,
+        "woonplaats": null,
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 37,
+        "naam": "Joey Koops",
+        "leeftijd": 30,
+        "woonplaats": null,
+        "website": "https://d66.nl/nieuws/nieuwe-generatie-d66ers-op-kandidatenlijst/",
+        "instagram": "https://www.instagram.com/joey.koops/",
+        "linkedin": null
+      },
+      {
+        "plek": 38,
+        "naam": "Kiki Hagen",
+        "leeftijd": 36,
+        "woonplaats": null,
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 39,
+        "naam": "Gerben Hiemstra",
+        "leeftijd": 34,
+        "woonplaats": null,
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 40,
+        "naam": "Judith Keijmel - den Boer",
+        "leeftijd": 34,
+        "woonplaats": null,
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 41,
+        "naam": "Hilde Tjeerdema",
+        "leeftijd": 39,
+        "woonplaats": null,
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 42,
+        "naam": "Elze Woudstra",
+        "leeftijd": 46,
+        "woonplaats": null,
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 43,
+        "naam": "Anne-Lise Olsthoorn",
+        "leeftijd": 29,
+        "woonplaats": null,
+        "website": "https://d66.nl/nieuws/nieuwe-generatie-d66ers-op-kandidatenlijst/",
+        "instagram": "https://www.instagram.com/analyse_/",
+        "linkedin": null
+      },
+      {
+        "plek": 44,
+        "naam": "Caecilia van Peski",
+        "leeftijd": 53,
+        "woonplaats": null,
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 45,
+        "naam": "Bonne van Hattum",
+        "leeftijd": 45,
+        "woonplaats": null,
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 46,
+        "naam": "Hind Dekker-Abdulaziz",
+        "leeftijd": 42,
+        "woonplaats": null,
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 47,
+        "naam": "Marco van Driel",
+        "leeftijd": 45,
+        "woonplaats": null,
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 48,
+        "naam": "Linda Ruijs",
+        "leeftijd": 21,
+        "woonplaats": null,
+        "website": "https://d66.nl/nieuws/nieuwe-generatie-d66ers-op-kandidatenlijst/",
+        "instagram": "https://www.instagram.com/ruijs.linda/",
+        "linkedin": null
+      },
+      {
+        "plek": 49,
+        "naam": "Pieter van der Gaag",
+        "leeftijd": 54,
+        "woonplaats": null,
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 50,
+        "naam": "Enrico Bosters",
+        "leeftijd": 22,
+        "woonplaats": null,
+        "website": "https://d66.nl/nieuws/nieuwe-generatie-d66ers-op-kandidatenlijst/",
+        "instagram": "https://www.instagram.com/enrico_bosters/",
+        "linkedin": null
+      }
+    ],
+    "DENK": [
+      {
+        "plek": 1,
+        "naam": "Stephan van Baarle",
+        "leeftijd": 32,
+        "woonplaats": "Rotterdam",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 2,
+        "naam": "Doğukan Ergin",
+        "leeftijd": 31,
+        "woonplaats": "Schiedam",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 3,
+        "naam": "Ismail El Abassi",
+        "leeftijd": 40,
+        "woonplaats": "Utrecht",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 4,
+        "naam": "Aalâa Alrubey",
+        "leeftijd": 19,
+        "woonplaats": "Heerhugowaard",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 5,
+        "naam": "Emel Gün",
+        "leeftijd": 35,
+        "woonplaats": "Amsterdam",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 6,
+        "naam": "Yıldırım Usta",
+        "leeftijd": null,
+        "woonplaats": "Arnhem",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 7,
+        "naam": "Nancy Rijssel",
+        "leeftijd": 52,
+        "woonplaats": "Almere",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 8,
+        "naam": "Abdul Maroof",
+        "leeftijd": 36,
+        "woonplaats": "Dordrecht",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 9,
+        "naam": "Yaw Mac Intosch",
+        "leeftijd": null,
+        "woonplaats": "Woerden",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 10,
+        "naam": "Mehmet Safranti",
+        "leeftijd": 53,
+        "woonplaats": "Dordrecht",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 11,
+        "naam": "Can Bayrakci",
+        "leeftijd": null,
+        "woonplaats": "Tilburg",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 12,
+        "naam": "Ibrahim Ghazi",
+        "leeftijd": null,
+        "woonplaats": "Amsterdam",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 13,
+        "naam": "Selim Özçelik",
+        "leeftijd": null,
+        "woonplaats": "Venlo",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 14,
+        "naam": "Ahmet Kaya",
+        "leeftijd": null,
+        "woonplaats": "Deventer",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 15,
+        "naam": "Ayşe Konuksever-Tekin",
+        "leeftijd": null,
+        "woonplaats": "Amsterdam",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 16,
+        "naam": "Omar Fkihi",
+        "leeftijd": null,
+        "woonplaats": "Helmond",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 17,
+        "naam": "Tahsin Çetinkaya",
+        "leeftijd": null,
+        "woonplaats": "Den Haag",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 18,
+        "naam": "Erdoğan Şahin",
+        "leeftijd": null,
+        "woonplaats": "Zaandam",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 19,
+        "naam": "Cemil Kahramanoğlu",
+        "leeftijd": null,
+        "woonplaats": "Schiedam",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 20,
+        "naam": "Çaner Kaplan",
+        "leeftijd": null,
+        "woonplaats": "Enschede",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 21,
+        "naam": "Emma Manhoef",
+        "leeftijd": null,
+        "woonplaats": "Amsterdam",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 22,
+        "naam": "Celil Tan",
+        "leeftijd": null,
+        "woonplaats": "Etten-Leur",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 23,
+        "naam": "Furkan Kondu",
+        "leeftijd": null,
+        "woonplaats": "Schiedam",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 24,
+        "naam": "Iskender Şimşek",
+        "leeftijd": null,
+        "woonplaats": "Utrecht",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 25,
+        "naam": "Funda Ileri",
+        "leeftijd": null,
+        "woonplaats": "Den Haag",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 26,
+        "naam": "Hassan Buyatui",
+        "leeftijd": null,
+        "woonplaats": "Almere",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 27,
+        "naam": "Mila van Burik",
+        "leeftijd": null,
+        "woonplaats": "Utrecht",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 28,
+        "naam": "Nizaam Muradin",
+        "leeftijd": null,
+        "woonplaats": "Den Haag",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 29,
+        "naam": "Ilker Delener",
+        "leeftijd": null,
+        "woonplaats": "Amsterdam",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 30,
+        "naam": "Safa Sodirijo",
+        "leeftijd": null,
+        "woonplaats": "Rotterdam",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 31,
+        "naam": "Aysel Ağirbaş",
+        "leeftijd": null,
+        "woonplaats": "Rotterdam",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 32,
+        "naam": "Ramazan Özcan",
+        "leeftijd": null,
+        "woonplaats": "Tilburg",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 33,
+        "naam": "Juzoef Tangali",
+        "leeftijd": null,
+        "woonplaats": "Leiden",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 34,
+        "naam": "Ramzy Othman",
+        "leeftijd": null,
+        "woonplaats": "Alkmaar",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 35,
+        "naam": "Ahmet Yildirim",
+        "leeftijd": null,
+        "woonplaats": "Rotterdam",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 36,
+        "naam": "Naoufal Akhatab",
+        "leeftijd": null,
+        "woonplaats": "Rotterdam",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 37,
+        "naam": "Mounir Ben Touhami",
+        "leeftijd": null,
+        "woonplaats": "Schiedam",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 38,
+        "naam": "Mustafa Bal",
+        "leeftijd": null,
+        "woonplaats": "Arnhem",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 39,
+        "naam": "Şebnem Pancar",
+        "leeftijd": null,
+        "woonplaats": "Zaandam",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 40,
+        "naam": "Salih Akça",
+        "leeftijd": null,
+        "woonplaats": "Vlaardingen",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 41,
+        "naam": "Şeyda Dokgöz",
+        "leeftijd": null,
+        "woonplaats": "Schiedam",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 42,
+        "naam": "Nur Icar",
+        "leeftijd": null,
+        "woonplaats": "Den Haag",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 43,
+        "naam": "Sheher Khan",
+        "leeftijd": null,
+        "woonplaats": "Amsterdam",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 44,
+        "naam": "Mahmut Sungur",
+        "leeftijd": null,
+        "woonplaats": "Utrecht",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 45,
+        "naam": "Süleyman Koyuncu",
+        "leeftijd": null,
+        "woonplaats": "Amsterdam",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 46,
+        "naam": "Faouzi Achbar",
+        "leeftijd": null,
+        "woonplaats": "Rotterdam",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      }
+    ],
+    "Forum voor Democratie": [
+      {
+        "plek": 1,
+        "naam": "Thierry Baudet",
+        "leeftijd": 40,
+        "woonplaats": null,
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 2,
+        "naam": "Frederik Jansen",
+        "leeftijd": 30,
+        "woonplaats": null,
+        "website": null,
+        "instagram": "https://www.instagram.com/frederikfvd/",
+        "linkedin": null
+      },
+      {
+        "plek": 3,
+        "naam": "Gideon van Meijeren",
+        "leeftijd": 35,
+        "woonplaats": null,
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 4,
+        "naam": "Pepijn van Houwelingen",
+        "leeftijd": 43,
+        "woonplaats": null,
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 5,
+        "naam": "Ralf Dekker",
+        "leeftijd": 66,
+        "woonplaats": null,
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 6,
+        "naam": "Lidewij de Vos",
+        "leeftijd": 26,
+        "woonplaats": null,
+        "website": null,
+        "instagram": "https://www.instagram.com/lidewij_devos/",
+        "linkedin": null
+      },
+      {
+        "plek": 7,
+        "naam": "Tom Russcher",
+        "leeftijd": 30,
+        "woonplaats": null,
+        "website": null,
+        "instagram": "https://www.instagram.com/tomrusscher/",
+        "linkedin": null
+      },
+      {
+        "plek": 8,
+        "naam": "Massimo Etalle",
+        "leeftijd": 25,
+        "woonplaats": null,
+        "website": null,
+        "instagram": "https://www.instagram.com/massimo_etalle/",
+        "linkedin": null
+      },
+      {
+        "plek": 9,
+        "naam": "Andreas Bakir",
+        "leeftijd": 29,
+        "woonplaats": null,
+        "website": null,
+        "instagram": "https://www.instagram.com/andreasbakir/",
+        "linkedin": null
+      },
+      {
+        "plek": 10,
+        "naam": "Johan Dessing",
+        "leeftijd": 58,
+        "woonplaats": null,
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 11,
+        "naam": "Joyce Vastenhouw",
+        "leeftijd": 35,
+        "woonplaats": null,
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 12,
+        "naam": "Iem Al Biyati",
+        "leeftijd": 25,
+        "woonplaats": null,
+        "website": null,
+        "instagram": "https://www.instagram.com/iembutani/",
+        "linkedin": null
+      },
+      {
+        "plek": 13,
+        "naam": "Rebecca de Knegt",
+        "leeftijd": 33,
+        "woonplaats": null,
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 14,
+        "naam": "Peter Verstegen",
+        "leeftijd": 56,
+        "woonplaats": null,
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 15,
+        "naam": "Anton van Schijndel",
+        "leeftijd": 63,
+        "woonplaats": null,
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 16,
+        "naam": "Brigitte Antolini",
+        "leeftijd": 29,
+        "woonplaats": null,
+        "website": null,
+        "instagram": "https://www.instagram.com/brisjiette/",
+        "linkedin": null
+      },
+      {
+        "plek": 17,
+        "naam": "Martin Bos",
+        "leeftijd": 43,
+        "woonplaats": null,
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 18,
+        "naam": "Pelle Koopman",
+        "leeftijd": 21,
+        "woonplaats": null,
+        "website": null,
+        "instagram": "https://www.instagram.com/bollenpelle/",
+        "linkedin": null
+      },
+      {
+        "plek": 19,
+        "naam": "Ramon van Asch",
+        "leeftijd": 25,
+        "woonplaats": null,
+        "website": null,
+        "instagram": "https://www.instagram.com/ramonvanasch/",
+        "linkedin": null
+      },
+      {
+        "plek": 20,
+        "naam": "Marco van den Boomgaard",
+        "leeftijd": 48,
+        "woonplaats": null,
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      }
+    ],
+    "JA21": [
+      {
+        "plek": 1,
+        "naam": "Joost Eerdmans",
+        "leeftijd": 52,
+        "woonplaats": null,
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 2,
+        "naam": "Annabel Nanninga",
+        "leeftijd": 45,
+        "woonplaats": null,
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 3,
+        "naam": "Simon Ceulemans",
+        "leeftijd": 34,
+        "woonplaats": null,
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 4,
+        "naam": "Elrie Bakker-Derks",
+        "leeftijd": 62,
+        "woonplaats": null,
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 5,
+        "naam": "Don van Doorn",
+        "leeftijd": 53,
+        "woonplaats": null,
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 6,
+        "naam": "Maarten Goudzwaard",
+        "leeftijd": 44,
+        "woonplaats": null,
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 7,
+        "naam": "Philippe Schyns",
+        "leeftijd": 28,
+        "woonplaats": null,
+        "website": "https://ja21.nl/kandidaten-tweede-kamerverkiezingen-2023",
+        "instagram": "https://nl.linkedin.com/in/pschyns",
+        "linkedin": null
+      },
+      {
+        "plek": 8,
+        "naam": "Kelly Uiterwijk",
+        "leeftijd": 29,
+        "woonplaats": null,
+        "website": "https://ja21.nl/kandidaten-tweede-kamerverkiezingen-2023",
+        "instagram": "https://www.instagram.com/kellyuiterwijk/",
+        "linkedin": null
+      },
+      {
+        "plek": 9,
+        "naam": "Ronald Dijksterhuis",
+        "leeftijd": 53,
+        "woonplaats": null,
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 10,
+        "naam": "Daniël van den Berg",
+        "leeftijd": 32,
+        "woonplaats": null,
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 11,
+        "naam": "Harry Omlo",
+        "leeftijd": 55,
+        "woonplaats": null,
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 12,
+        "naam": "Stijn Hesselink",
+        "leeftijd": 27,
+        "woonplaats": null,
+        "website": "https://ja21.nl/kandidaten-tweede-kamerverkiezingen-2023",
+        "instagram": "https://www.instagram.com/_hessie_/",
+        "linkedin": null
+      },
+      {
+        "plek": 13,
+        "naam": "Kevin Nuijten",
+        "leeftijd": 24,
+        "woonplaats": null,
+        "website": "https://ja21.nl/kandidaten-tweede-kamerverkiezingen-2023",
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 14,
+        "naam": "Servaas Roos",
+        "leeftijd": 59,
+        "woonplaats": null,
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 15,
+        "naam": "Maryam Soltani",
+        "leeftijd": 48,
+        "woonplaats": null,
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 16,
+        "naam": "Leon Baten",
+        "leeftijd": 20,
+        "woonplaats": null,
+        "website": "https://ja21.nl/kandidaten-tweede-kamerverkiezingen-2023",
+        "instagram": "https://www.instagram.com/leonbaten",
+        "linkedin": null
+      },
+      {
+        "plek": 17,
+        "naam": "Hans Kövi",
+        "leeftijd": 58,
+        "woonplaats": null,
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 18,
+        "naam": "Luuk Wilson",
+        "leeftijd": 58,
+        "woonplaats": null,
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 19,
+        "naam": "Thom van Vugt",
+        "leeftijd": 28,
+        "woonplaats": null,
+        "website": "https://ja21.nl/kandidaten-tweede-kamerverkiezingen-2023",
+        "instagram": "https://www.instagram.com/tvvugt",
+        "linkedin": null
+      },
+      {
+        "plek": 20,
+        "naam": "Annemoon Wanders",
+        "leeftijd": 54,
+        "woonplaats": null,
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 21,
+        "naam": "Ilona Lodders",
+        "leeftijd": 40,
+        "woonplaats": null,
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 22,
+        "naam": "Bart Vos",
+        "leeftijd": 50,
+        "woonplaats": null,
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 23,
+        "naam": "Frank Kauffmann",
+        "leeftijd": 56,
+        "woonplaats": null,
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 24,
+        "naam": "Marco de Rijke",
+        "leeftijd": 51,
+        "woonplaats": null,
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 25,
+        "naam": "Geert Hogendoorn",
+        "leeftijd": 44,
+        "woonplaats": null,
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 26,
+        "naam": "Ronald Buijt",
+        "leeftijd": 55,
+        "woonplaats": null,
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 27,
+        "naam": "Cynthia Gordijn",
+        "leeftijd": 27,
+        "woonplaats": null,
+        "website": "https://ja21.nl/kandidaten-tweede-kamerverkiezingen-2023",
+        "instagram": "https://www.instagram.com/cynthiagordijn",
+        "linkedin": null
+      },
+      {
+        "plek": 28,
+        "naam": "Jorik Bloemenkamp",
+        "leeftijd": 24,
+        "woonplaats": null,
+        "website": "https://ja21.nl/kandidaten-tweede-kamerverkiezingen-2023",
+        "instagram": "https://www.instagram.com/jorikbloemenkamp",
+        "linkedin": null
+      },
+      {
+        "plek": 29,
+        "naam": "Jorik Waitz",
+        "leeftijd": 60,
+        "woonplaats": null,
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 30,
+        "naam": "Alberto Veenvliet",
+        "leeftijd": 24,
+        "woonplaats": null,
+        "website": "https://ja21.nl/kandidaten-tweede-kamerverkiezingen-2023",
+        "instagram": "https://www.instagram.com/aveenvliet",
+        "linkedin": null
+      },
+      {
+        "plek": 31,
+        "naam": "Alberto Koetje",
+        "leeftijd": 35,
+        "woonplaats": null,
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 32,
+        "naam": "Marc Buijs",
+        "leeftijd": 30,
+        "woonplaats": null,
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 33,
+        "naam": "Martin Kersten",
+        "leeftijd": 56,
+        "woonplaats": null,
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 34,
+        "naam": "Gabe de Groot",
+        "leeftijd": 39,
+        "woonplaats": null,
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 35,
+        "naam": "Kishoor Hieralal",
+        "leeftijd": 53,
+        "woonplaats": null,
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 36,
+        "naam": "Marco Pastors",
+        "leeftijd": 58,
+        "woonplaats": null,
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 37,
+        "naam": "Simon Fortuijn",
+        "leeftijd": 68,
+        "woonplaats": null,
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      }
+    ],
+    "Nieuw Sociaal Contract": [
+      {
+        "plek": 1,
+        "naam": "Pieter Omtzigt",
+        "leeftijd": 49,
+        "woonplaats": "Den Haaag",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 2,
+        "naam": "Nicolien van Vroonhoven-Kok",
+        "leeftijd": 52,
+        "woonplaats": null,
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 3,
+        "naam": "Judith Uitermark",
+        "leeftijd": 52,
+        "woonplaats": null,
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 4,
+        "naam": "Caspar Veldkamp",
+        "leeftijd": 59,
+        "woonplaats": null,
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 5,
+        "naam": "Sandra Palmen-Schlangen",
+        "leeftijd": 51,
+        "woonplaats": null,
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 6,
+        "naam": "Eddy van Hijum",
+        "leeftijd": 51,
+        "woonplaats": null,
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 7,
+        "naam": "Aant Soepboer",
+        "leeftijd": 34,
+        "woonplaats": null,
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 8,
+        "naam": "Agnes Joseph",
+        "leeftijd": 43,
+        "woonplaats": null,
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 9,
+        "naam": "Jesse Six Dijkstra",
+        "leeftijd": 29,
+        "woonplaats": null,
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 10,
+        "naam": "Merlien Welzijn",
+        "leeftijd": 50,
+        "woonplaats": null,
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 11,
+        "naam": "Wytske Postma",
+        "leeftijd": 46,
+        "woonplaats": null,
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 12,
+        "naam": "Femke Zeedijk-Raeven",
+        "leeftijd": 49,
+        "woonplaats": null,
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 13,
+        "naam": "Folkert Idsinga",
+        "leeftijd": 52,
+        "woonplaats": null,
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 14,
+        "naam": "Danielle Jansen",
+        "leeftijd": 53,
+        "woonplaats": null,
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 15,
+        "naam": "Tjebbe van Oostenbruggen",
+        "leeftijd": 44,
+        "woonplaats": null,
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 16,
+        "naam": "Isa Kahraman",
+        "leeftijd": 49,
+        "woonplaats": null,
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 17,
+        "naam": "Rosanne Hertzberger",
+        "leeftijd": 39,
+        "woonplaats": null,
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 18,
+        "naam": "Faith Bruyning",
+        "leeftijd": 35,
+        "woonplaats": null,
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 19,
+        "naam": "Olger van Dijk",
+        "leeftijd": 44,
+        "woonplaats": null,
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 20,
+        "naam": "Harm Holman",
+        "leeftijd": 65,
+        "woonplaats": null,
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 21,
+        "naam": "Diederik Boomsma",
+        "leeftijd": 45,
+        "woonplaats": null,
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 22,
+        "naam": "Annemarie Heite",
+        "leeftijd": 53,
+        "woonplaats": null,
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 23,
+        "naam": "Ilse Saris",
+        "leeftijd": 48,
+        "woonplaats": null,
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 24,
+        "naam": "Natascha Wingelaar",
+        "leeftijd": 49,
+        "woonplaats": null,
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 25,
+        "naam": "Willem Koops",
+        "leeftijd": 50,
+        "woonplaats": null,
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 26,
+        "naam": "Nora Achahbar",
+        "leeftijd": 40,
+        "woonplaats": null,
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 27,
+        "naam": "Sander van Waveren",
+        "leeftijd": 43,
+        "woonplaats": null,
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 28,
+        "naam": "Ria de Korte-Verhoef",
+        "leeftijd": 64,
+        "woonplaats": null,
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 29,
+        "naam": "Nathaly Boelhouwer",
+        "leeftijd": 55,
+        "woonplaats": null,
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 30,
+        "naam": "Marco Schouten",
+        "leeftijd": null,
+        "woonplaats": null,
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 31,
+        "naam": "Bram Kouwenhoven",
+        "leeftijd": null,
+        "woonplaats": null,
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 32,
+        "naam": "Vincent Verouden",
+        "leeftijd": null,
+        "woonplaats": null,
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 33,
+        "naam": "Bart-Jan Heine",
+        "leeftijd": null,
+        "woonplaats": null,
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 34,
+        "naam": "Simon Pouwelse",
+        "leeftijd": 25,
+        "woonplaats": null,
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 35,
+        "naam": "Margreet de Leeuw-Jongejans",
+        "leeftijd": 60,
+        "woonplaats": null,
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 36,
+        "naam": "Ingrid Hartog",
+        "leeftijd": null,
+        "woonplaats": null,
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 37,
+        "naam": "Ronald van Bruchem",
+        "leeftijd": null,
+        "woonplaats": null,
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 38,
+        "naam": "Marcel van de Ven",
+        "leeftijd": null,
+        "woonplaats": null,
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 39,
+        "naam": "Esmée de Neijs",
+        "leeftijd": null,
+        "woonplaats": null,
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 40,
+        "naam": "Wahhab Hassoo",
+        "leeftijd": 28,
+        "woonplaats": null,
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 41,
+        "naam": "Annemarie Graafland-van Duijn",
+        "leeftijd": null,
+        "woonplaats": null,
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 42,
+        "naam": "Marinus den Hartogh",
+        "leeftijd": null,
+        "woonplaats": null,
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 43,
+        "naam": "Rob Wessels",
+        "leeftijd": null,
+        "woonplaats": null,
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 44,
+        "naam": "Simon Geleijnse",
+        "leeftijd": 50,
+        "woonplaats": null,
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      }
+    ],
+    "GROENLINKS / Partij van de Arbeid (PvdA)": [
+      {
+        "plek": 1,
+        "naam": "Frans Timmermans",
+        "leeftijd": 62,
+        "woonplaats": null,
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 2,
+        "naam": "Esmah Lahlah",
+        "leeftijd": 44,
+        "woonplaats": "Tilburg",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 3,
+        "naam": "Jesse Klaver",
+        "leeftijd": 37,
+        "woonplaats": "Den Haag",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 4,
+        "naam": "Kati Piri",
+        "leeftijd": 44,
+        "woonplaats": "Den Haag",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 5,
+        "naam": "Lisa Westerveld",
+        "leeftijd": 41,
+        "woonplaats": "Nijmegen",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 6,
+        "naam": "Mariëtte Patijn",
+        "leeftijd": 57,
+        "woonplaats": "Hilversum",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 7,
+        "naam": "Suzanne Kröger",
+        "leeftijd": 47,
+        "woonplaats": "Amsterdam",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 8,
+        "naam": "Julian Bushoff",
+        "leeftijd": 26,
+        "woonplaats": "Groningen",
+        "website": "https://groenlinkspvda.nl/kandidaat/julian-bushoff/",
+        "instagram": "https://www.instagram.com/julianbushoff/",
+        "linkedin": null
+      },
+      {
+        "plek": 9,
+        "naam": "Tom van der Lee",
+        "leeftijd": 59,
+        "woonplaats": "Amsterdam",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 10,
+        "naam": "Songül Mutluer",
+        "leeftijd": 43,
+        "woonplaats": "Zaandam",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 11,
+        "naam": "Laura Bromet",
+        "leeftijd": 53,
+        "woonplaats": "Monnickendam",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 12,
+        "naam": "Habtamu de Hoop",
+        "leeftijd": 25,
+        "woonplaats": "Wommels",
+        "website": "https://groenlinkspvda.nl/kandidaat/habtamu-de-hoop/",
+        "instagram": "https://www.instagram.com/habtamudehoop/",
+        "linkedin": null
+      },
+      {
+        "plek": 13,
+        "naam": "Senna Maatoug",
+        "leeftijd": 34,
+        "woonplaats": "Leiden",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 14,
+        "naam": "Mohamed Mohandis",
+        "leeftijd": 38,
+        "woonplaats": "Gouda",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 15,
+        "naam": "Geert Gabriëls",
+        "leeftijd": 44,
+        "woonplaats": "Weert",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 16,
+        "naam": "Joris Thijssen",
+        "leeftijd": 49,
+        "woonplaats": "Muiderberg",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 17,
+        "naam": "Kauthar Bouchallikh",
+        "leeftijd": 29,
+        "woonplaats": "Amsterdam",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 18,
+        "naam": "Barbara Kathmann",
+        "leeftijd": 45,
+        "woonplaats": "Rotterdam",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 19,
+        "naam": "Elke Slagt-Tichelman",
+        "leeftijd": 46,
+        "woonplaats": "Assen",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 20,
+        "naam": "Mikal Tseggai",
+        "leeftijd": 28,
+        "woonplaats": "Den Haag",
+        "website": "https://groenlinkspvda.nl/kandidaat/mikal-tseggai/",
+        "instagram": "https://www.instagram.com/mikaltseggai/",
+        "linkedin": null
+      },
+      {
+        "plek": 21,
+        "naam": "Raoul White",
+        "leeftijd": 51,
+        "woonplaats": "Purmerend",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 22,
+        "naam": "Anita Pijpelink",
+        "leeftijd": 48,
+        "woonplaats": "Middelburg",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 23,
+        "naam": "Glimina Chakor",
+        "leeftijd": 47,
+        "woonplaats": "Groningen",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 24,
+        "naam": "Jimme Nordkamp",
+        "leeftijd": 26,
+        "woonplaats": "Losser",
+        "website": "https://groenlinkspvda.nl/kandidaat/jimme-nordkamp/",
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 25,
+        "naam": "Luc Stultiens",
+        "leeftijd": 30,
+        "woonplaats": "Den Haag",
+        "website": "https://groenlinkspvda.nl/kandidaat/luc-stultiens/",
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 26,
+        "naam": "Marleen Haage",
+        "leeftijd": 43,
+        "woonplaats": "Rotterdam",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 27,
+        "naam": "Danielle Hirsch",
+        "leeftijd": 55,
+        "woonplaats": "Amsterdam",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 28,
+        "naam": "Hayte de Jong",
+        "leeftijd": 41,
+        "woonplaats": "Amsterdam",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 29,
+        "naam": "Jeroen Postma",
+        "leeftijd": 40,
+        "woonplaats": "Rotterdam",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 30,
+        "naam": "Inge Oosting",
+        "leeftijd": 50,
+        "woonplaats": "Elim",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 31,
+        "naam": "Margreet de Boer",
+        "leeftijd": 58,
+        "woonplaats": "Amsterdam",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 32,
+        "naam": "Jan Daenen",
+        "leeftijd": 27,
+        "woonplaats": "Nijmgen",
+        "website": "https://groenlinkspvda.nl/kandidaat/jan-daenen/",
+        "instagram": "https://www.instagram.com/jan_daenen/",
+        "linkedin": null
+      },
+      {
+        "plek": 33,
+        "naam": "April Ranshuijsen",
+        "leeftijd": 46,
+        "woonplaats": "Nijmegen",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 34,
+        "naam": "Eylem Köseoglu",
+        "leeftijd": null,
+        "woonplaats": "Zaandam",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 35,
+        "naam": "Evelien van Roemburg",
+        "leeftijd": 39,
+        "woonplaats": "Maastricht",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 36,
+        "naam": "Abassin Nessar",
+        "leeftijd": 38,
+        "woonplaats": "Almere",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 37,
+        "naam": "Lyle Muns",
+        "leeftijd": 29,
+        "woonplaats": "Amsterdam",
+        "website": "https://groenlinkspvda.nl/kandidaat/lyle-muns/",
+        "instagram": "https://www.instagram.com/lyle.muns/",
+        "linkedin": null
+      },
+      {
+        "plek": 38,
+        "naam": "Iris Vrolijks",
+        "leeftijd": 24,
+        "woonplaats": "Maassluis",
+        "website": "https://groenlinkspvda.nl/kandidaat/iris-vrolijks/",
+        "instagram": "https://www.instagram.com/irisvrolijks/",
+        "linkedin": null
+      },
+      {
+        "plek": 39,
+        "naam": "Paul Smits",
+        "leeftijd": 32,
+        "woonplaats": "Ede",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 40,
+        "naam": "Mohamed Nabih",
+        "leeftijd": 34,
+        "woonplaats": "Alkmaar",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 41,
+        "naam": "David Rietveld",
+        "leeftijd": 50,
+        "woonplaats": "Den Haag",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 42,
+        "naam": "Yasin Torunoglu",
+        "leeftijd": 41,
+        "woonplaats": "Eindhoven",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 43,
+        "naam": "Eva de Bruijn",
+        "leeftijd": 27,
+        "woonplaats": "Eindhoven",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 44,
+        "naam": "Eline Bosman",
+        "leeftijd": 41,
+        "woonplaats": "Rijswijk",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 45,
+        "naam": "Charda Kuipers",
+        "leeftijd": 40,
+        "woonplaats": "Leeuwarden",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 46,
+        "naam": "Marlieke van Schalkwijk",
+        "leeftijd": 28,
+        "woonplaats": "IJsselstein",
+        "website": "https://groenlinkspvda.nl/kandidaat/marlieke-van-schalkwijk/",
+        "instagram": "https://www.instagram.com/marliekevanschalkwijk/",
+        "linkedin": null
+      }
+    ],
+    "Partij voor de Dieren": [
+      {
+        "plek": 1,
+        "naam": "Esther Ouwehand",
+        "leeftijd": 47,
+        "woonplaats": "Den Haag",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 2,
+        "naam": "Ines Kostić",
+        "leeftijd": 39,
+        "woonplaats": "Hilversum",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 3,
+        "naam": "Christine Teunissen",
+        "leeftijd": 38,
+        "woonplaats": "Den Haag",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 4,
+        "naam": "Frank Wassenberg",
+        "leeftijd": 57,
+        "woonplaats": "Geleen",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 5,
+        "naam": "Eva Akerboom",
+        "leeftijd": 31,
+        "woonplaats": "Lisse",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 6,
+        "naam": "Lammert van Raan",
+        "leeftijd": 61,
+        "woonplaats": "Amsterdam",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 7,
+        "naam": "Martine van Schaik",
+        "leeftijd": 49,
+        "woonplaats": "Leiden",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 8,
+        "naam": "Anna Krijger",
+        "leeftijd": 39,
+        "woonplaats": "Amsterdam",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 9,
+        "naam": "Pascale Plusquin",
+        "leeftijd": 49,
+        "woonplaats": "Heerlen",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 10,
+        "naam": "Pieter Groenewege",
+        "leeftijd": 31,
+        "woonplaats": "Dordrecht",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 11,
+        "naam": "Maarten van Heuven",
+        "leeftijd": 46,
+        "woonplaats": "Utrecht",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 12,
+        "naam": "Falco van Hassel",
+        "leeftijd": 23,
+        "woonplaats": "Wageningen",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 13,
+        "naam": "Rosalie Bunnik",
+        "leeftijd": 32,
+        "woonplaats": "Gouda",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 14,
+        "naam": "Hanneke Schmeets",
+        "leeftijd": 46,
+        "woonplaats": "Den Haag",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 15,
+        "naam": "Kıvılcım Pınar",
+        "leeftijd": 44,
+        "woonplaats": "Alkmaar",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 16,
+        "naam": "Malcolm Jones",
+        "leeftijd": 37,
+        "woonplaats": "Leiden",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 17,
+        "naam": "Janette Bosma",
+        "leeftijd": 26,
+        "woonplaats": "Groningen",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 18,
+        "naam": "Robert Barker",
+        "leeftijd": 36,
+        "woonplaats": "Den Haag",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 19,
+        "naam": "Kjell van Wijlandt",
+        "leeftijd": 29,
+        "woonplaats": "Almere",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 20,
+        "naam": "Jesseka Batteau",
+        "leeftijd": 47,
+        "woonplaats": "Woudenberg",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 21,
+        "naam": "Jaap Hollebeek",
+        "leeftijd": 54,
+        "woonplaats": "Oostzaan",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 22,
+        "naam": "Iris Dicke",
+        "leeftijd": 41,
+        "woonplaats": "Breda",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 23,
+        "naam": "Bart Salemans",
+        "leeftijd": 37,
+        "woonplaats": "Nijmegen",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 24,
+        "naam": "Freek Bersch",
+        "leeftijd": 49,
+        "woonplaats": "Leiden",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 25,
+        "naam": "Frank de Gram",
+        "leeftijd": 39,
+        "woonplaats": "Nijmegen",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 26,
+        "naam": "Lotte Krediet",
+        "leeftijd": 30,
+        "woonplaats": "-",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 27,
+        "naam": "Dave de Vos",
+        "leeftijd": 37,
+        "woonplaats": "Amsterdam",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 28,
+        "naam": "Myra van der Velde",
+        "leeftijd": 36,
+        "woonplaats": "Culemborg",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 29,
+        "naam": "Carla van Viegen",
+        "leeftijd": 64,
+        "woonplaats": "Pijnacker",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 30,
+        "naam": "Leonie Gerritsen",
+        "leeftijd": 37,
+        "woonplaats": "Den Haag",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 31,
+        "naam": "Marjolijn Veenstra",
+        "leeftijd": 44,
+        "woonplaats": "Almere",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 32,
+        "naam": "Anne-Miep Vlasveld",
+        "leeftijd": 37,
+        "woonplaats": "Tilburg",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 33,
+        "naam": "Trees Janssens",
+        "leeftijd": 63,
+        "woonplaats": "Middelburg",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 34,
+        "naam": "Pinar Coşkun",
+        "leeftijd": 57,
+        "woonplaats": "Rotterdam",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 35,
+        "naam": "Lester van der Pluijm",
+        "leeftijd": 36,
+        "woonplaats": "Culemborg",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 36,
+        "naam": "Siska Peeks",
+        "leeftijd": 56,
+        "woonplaats": "Assen",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 37,
+        "naam": "Cynthia Pallandt",
+        "leeftijd": 35,
+        "woonplaats": "Breda",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 38,
+        "naam": "Wesley Pechler",
+        "leeftijd": 30,
+        "woonplaats": "Groningen",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 39,
+        "naam": "Janneke van Lierop",
+        "leeftijd": 34,
+        "woonplaats": "Breda",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 40,
+        "naam": "Vivianne Spruit",
+        "leeftijd": 53,
+        "woonplaats": "Castricum",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 41,
+        "naam": "Bart Kuijer",
+        "leeftijd": 38,
+        "woonplaats": "Beuningen",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 42,
+        "naam": "Gaby Markandu",
+        "leeftijd": 26,
+        "woonplaats": "Zwolle",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 43,
+        "naam": "Joeri Oudshoorn",
+        "leeftijd": 51,
+        "woonplaats": "Den Haag",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 44,
+        "naam": "Radjan Hanoeman",
+        "leeftijd": 39,
+        "woonplaats": "Arnhem",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 45,
+        "naam": "Eileen Samshuijzen",
+        "leeftijd": 29,
+        "woonplaats": "Den Bosch",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 46,
+        "naam": "Menno Brouwer",
+        "leeftijd": 66,
+        "woonplaats": "Burgum",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 47,
+        "naam": "Suzanne Onderdelinden",
+        "leeftijd": 32,
+        "woonplaats": "Delft",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 48,
+        "naam": "Jaap Rozema",
+        "leeftijd": 40,
+        "woonplaats": "Rotterdam",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 49,
+        "naam": "Sabrina van de Peppel",
+        "leeftijd": 42,
+        "woonplaats": "Rotterdam",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 50,
+        "naam": "Xenia Minnaert",
+        "leeftijd": 24,
+        "woonplaats": "Utrecht",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      }
+    ],
+    "PVV (Partij voor de Vrijheid)": [
+      {
+        "plek": 1,
+        "naam": "Geert Wilders",
+        "leeftijd": 60,
+        "woonplaats": "Venlo",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 2,
+        "naam": "Fleur Agema",
+        "leeftijd": 47,
+        "woonplaats": "s-Gravenhage",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 3,
+        "naam": "Ráchel van Meetelen",
+        "leeftijd": 48,
+        "woonplaats": "Bergen op Zoom",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 4,
+        "naam": "Gidi Markuszower",
+        "leeftijd": 46,
+        "woonplaats": "Amsterdam",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 5,
+        "naam": "Martin Bosma",
+        "leeftijd": 59,
+        "woonplaats": "Amsterdam",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 6,
+        "naam": "René Claassen",
+        "leeftijd": 52,
+        "woonplaats": null,
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 7,
+        "naam": "Marjolein Faber",
+        "leeftijd": 62,
+        "woonplaats": null,
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 8,
+        "naam": "Edgar Mulder",
+        "leeftijd": 62,
+        "woonplaats": null,
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 9,
+        "naam": "Vicky Maeijer",
+        "leeftijd": 37,
+        "woonplaats": null,
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 10,
+        "naam": "Tony van Dijck",
+        "leeftijd": 60,
+        "woonplaats": null,
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 11,
+        "naam": "Alexander Kops",
+        "leeftijd": 39,
+        "woonplaats": null,
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 12,
+        "naam": "Barry Madlener",
+        "leeftijd": 54,
+        "woonplaats": null,
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 13,
+        "naam": "Léon de Jong",
+        "leeftijd": 41,
+        "woonplaats": null,
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 14,
+        "naam": "Dion Graus",
+        "leeftijd": 56,
+        "woonplaats": null,
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 15,
+        "naam": "Reinder Blaauw",
+        "leeftijd": 29,
+        "woonplaats": null,
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 16,
+        "naam": "Raymond de Roon",
+        "leeftijd": 71,
+        "woonplaats": null,
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 17,
+        "naam": "Emiel van Dijk",
+        "leeftijd": 38,
+        "woonplaats": null,
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 18,
+        "naam": "Henk de Vree",
+        "leeftijd": 69,
+        "woonplaats": null,
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 19,
+        "naam": "Max Aardema",
+        "leeftijd": 60,
+        "woonplaats": null,
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 20,
+        "naam": "Martine van der Velde",
+        "leeftijd": 34,
+        "woonplaats": null,
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 21,
+        "naam": "Patrick van der Hoeff",
+        "leeftijd": 47,
+        "woonplaats": null,
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 22,
+        "naam": "Marco Deen",
+        "leeftijd": 55,
+        "woonplaats": null,
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 23,
+        "naam": "Jeanet Nijhof-Leeuw",
+        "leeftijd": 60,
+        "woonplaats": null,
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 24,
+        "naam": "Maikel Boon",
+        "leeftijd": 41,
+        "woonplaats": null,
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 25,
+        "naam": "Jeremy Mooiman",
+        "leeftijd": 27,
+        "woonplaats": null,
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 26,
+        "naam": "Dennis Ram",
+        "leeftijd": 47,
+        "woonplaats": null,
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 27,
+        "naam": "Elmar Vlottes",
+        "leeftijd": 33,
+        "woonplaats": null,
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 28,
+        "naam": "Peter Smitskam",
+        "leeftijd": null,
+        "woonplaats": null,
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 29,
+        "naam": "Eric Esser",
+        "leeftijd": 38,
+        "woonplaats": null,
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 30,
+        "naam": "Willem Boutkan",
+        "leeftijd": 67,
+        "woonplaats": null,
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 31,
+        "naam": "Vincent van den Born",
+        "leeftijd": 55,
+        "woonplaats": null,
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 32,
+        "naam": "Patrick Crijns",
+        "leeftijd": 40,
+        "woonplaats": null,
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 33,
+        "naam": "Peter van Haasen",
+        "leeftijd": null,
+        "woonplaats": null,
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 34,
+        "naam": "Marina Vondeling",
+        "leeftijd": null,
+        "woonplaats": null,
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 35,
+        "naam": "Jan Valize",
+        "leeftijd": null,
+        "woonplaats": null,
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 36,
+        "naam": "Hidde Heutink",
+        "leeftijd": 30,
+        "woonplaats": null,
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 37,
+        "naam": "Joeri Pool",
+        "leeftijd": 30,
+        "woonplaats": null,
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 38,
+        "naam": "Chris Faddegon",
+        "leeftijd": null,
+        "woonplaats": null,
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 39,
+        "naam": "Nico Uppelschoten",
+        "leeftijd": 79,
+        "woonplaats": null,
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 40,
+        "naam": "Robert Rep",
+        "leeftijd": 57,
+        "woonplaats": null,
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 41,
+        "naam": "Folkert Thiadens",
+        "leeftijd": null,
+        "woonplaats": null,
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 42,
+        "naam": "Annette Raijer",
+        "leeftijd": 54,
+        "woonplaats": null,
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 43,
+        "naam": "Roel van Bijnen",
+        "leeftijd": 33,
+        "woonplaats": null,
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 44,
+        "naam": "Alexander van Hattem",
+        "leeftijd": 40,
+        "woonplaats": null,
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 45,
+        "naam": "Gom van Strien",
+        "leeftijd": 72,
+        "woonplaats": null,
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      }
+    ],
+    "Staatkundig Gereformeerde Partij (SGP)": [
+      {
+        "plek": 1,
+        "naam": "Chris Stoffer",
+        "leeftijd": 49,
+        "woonplaats": "Elspeet",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 2,
+        "naam": "Diederik van Dijk",
+        "leeftijd": 52,
+        "woonplaats": "Benthuizen",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 3,
+        "naam": "André Flach",
+        "leeftijd": 47,
+        "woonplaats": "Hendrik Ido Ambacht",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 4,
+        "naam": "Nathanaël Middelkoop",
+        "leeftijd": 30,
+        "woonplaats": "Urk",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 5,
+        "naam": "Wouter-Jan Vroegindeweij",
+        "leeftijd": 51,
+        "woonplaats": "Katwijk",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 6,
+        "naam": "Harry van der Maas",
+        "leeftijd": 52,
+        "woonplaats": "Aagtekerke",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 7,
+        "naam": "Henk van der Wind",
+        "leeftijd": 63,
+        "woonplaats": "Maarsbergen",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 8,
+        "naam": "Dick Both",
+        "leeftijd": 46,
+        "woonplaats": "Veenendaal",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 9,
+        "naam": "Jan Kloosterman",
+        "leeftijd": 45,
+        "woonplaats": "Apeldoorn",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 10,
+        "naam": "Rody van Heijst",
+        "leeftijd": 28,
+        "woonplaats": "Bergschenhoek",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 11,
+        "naam": "Adriaan van der Wulp",
+        "leeftijd": 47,
+        "woonplaats": "‘s Gravendeel",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 12,
+        "naam": "Harm Polinder",
+        "leeftijd": 30,
+        "woonplaats": "Nunspeet",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 13,
+        "naam": "Maarten Slingerland",
+        "leeftijd": 41,
+        "woonplaats": "Genemuiden",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 14,
+        "naam": "Wim van Duijn",
+        "leeftijd": 59,
+        "woonplaats": "Katwijk",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 15,
+        "naam": "Leo Barth",
+        "leeftijd": 59,
+        "woonplaats": "Ouderkerk a/d IJssel",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 16,
+        "naam": "Johnny Lukasse",
+        "leeftijd": 48,
+        "woonplaats": "Goes",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 17,
+        "naam": "Hans Tanis",
+        "leeftijd": 62,
+        "woonplaats": "Sliedrecht",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 18,
+        "naam": "Ewart Bosma",
+        "leeftijd": 46,
+        "woonplaats": "Rijssen",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 19,
+        "naam": "Geert Schipaanboord",
+        "leeftijd": 38,
+        "woonplaats": "Leiderdorp",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 20,
+        "naam": "Joost Veldman",
+        "leeftijd": 41,
+        "woonplaats": "Dordrecht",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 21,
+        "naam": "Jan Hartog",
+        "leeftijd": 60,
+        "woonplaats": "Niekerk",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 22,
+        "naam": "Tom Koekoek",
+        "leeftijd": 21,
+        "woonplaats": "Stuifzand",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 23,
+        "naam": "Leendert de Knegt",
+        "leeftijd": 54,
+        "woonplaats": "Barneveld",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 24,
+        "naam": "Gert van Leeuwen",
+        "leeftijd": 55,
+        "woonplaats": "Opheusden",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 25,
+        "naam": "Tom Bakker",
+        "leeftijd": 60,
+        "woonplaats": "Driezum",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 26,
+        "naam": "Wim Kok",
+        "leeftijd": 43,
+        "woonplaats": "Middelburg",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 27,
+        "naam": "Steven van Westreenen",
+        "leeftijd": 55,
+        "woonplaats": "Kesteren",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 28,
+        "naam": "Peter Noordergraaf",
+        "leeftijd": 39,
+        "woonplaats": "Werkendam",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 29,
+        "naam": "Ardjan Boersma",
+        "leeftijd": 30,
+        "woonplaats": "Papendrecht",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 30,
+        "naam": "Lubbert Talen",
+        "leeftijd": 48,
+        "woonplaats": "Staphorst",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 31,
+        "naam": "Rick van de Waerdt",
+        "leeftijd": 30,
+        "woonplaats": "Ridderkerk",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 32,
+        "naam": "Henk Bulten",
+        "leeftijd": 53,
+        "woonplaats": "Doetinchem",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 33,
+        "naam": "Arnold Versteeg",
+        "leeftijd": 51,
+        "woonplaats": "Wekerom",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 34,
+        "naam": "Lambert Kisteman",
+        "leeftijd": 65,
+        "woonplaats": "De Klomp",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 35,
+        "naam": "Lourens van Bruchem",
+        "leeftijd": 55,
+        "woonplaats": "Tricht",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 36,
+        "naam": "Bertrick van den Dikkenberg",
+        "leeftijd": 34,
+        "woonplaats": "Elst (UT)",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 37,
+        "naam": "Hendrik Herweijer",
+        "leeftijd": 36,
+        "woonplaats": "Dirksland",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 38,
+        "naam": "Gert van Laar",
+        "leeftijd": 41,
+        "woonplaats": "Rhenen",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 39,
+        "naam": "André Scheppink",
+        "leeftijd": 47,
+        "woonplaats": "Rijssen",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 40,
+        "naam": "Ruben van Heteren",
+        "leeftijd": 28,
+        "woonplaats": "Barendrecht",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 41,
+        "naam": "Bernard van den Belt",
+        "leeftijd": 34,
+        "woonplaats": "IJsselmuiden",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 42,
+        "naam": "Daniël van Iwaarden",
+        "leeftijd": 30,
+        "woonplaats": "Yerseke",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 43,
+        "naam": "Leendert van Tuijl",
+        "leeftijd": 25,
+        "woonplaats": "Nieuwaal",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 44,
+        "naam": "Arnoud Proos",
+        "leeftijd": 38,
+        "woonplaats": "Barendrecht",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      }
+    ],
+    "SP (Socialistische Partij)": [
+      {
+        "plek": 1,
+        "naam": "Lilian Marijnissen",
+        "leeftijd": 38,
+        "woonplaats": "Oss",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 2,
+        "naam": "Sandra Beckerman",
+        "leeftijd": 40,
+        "woonplaats": "Groningen",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 3,
+        "naam": "Bart van Kent",
+        "leeftijd": 40,
+        "woonplaats": "Den Haag",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 4,
+        "naam": "Jimmy Dijk",
+        "leeftijd": 38,
+        "woonplaats": "Groningen",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 5,
+        "naam": "Michiel van Nispen",
+        "leeftijd": 41,
+        "woonplaats": "Breda",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 6,
+        "naam": "Sarah Dobbe",
+        "leeftijd": 44,
+        "woonplaats": "Arnhem",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 7,
+        "naam": "Nicole Temmink",
+        "leeftijd": 36,
+        "woonplaats": "Zwolle",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 8,
+        "naam": "Mathijs ten Broeke",
+        "leeftijd": 33,
+        "woonplaats": "Zutphen",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 9,
+        "naam": "Jasper van Dijk",
+        "leeftijd": 52,
+        "woonplaats": "Utrecht",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 10,
+        "naam": "Bastiaan Meijer",
+        "leeftijd": 26,
+        "woonplaats": "Den Haag",
+        "website": null,
+        "instagram": "https://www.instagram.com/bastiaan_meijer/",
+        "linkedin": null
+      },
+      {
+        "plek": 11,
+        "naam": "Gerrie Elfrink",
+        "leeftijd": 49,
+        "woonplaats": "Arnhem",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 12,
+        "naam": "Jorge Wolters Gregório",
+        "leeftijd": 41,
+        "woonplaats": "Roermond",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 13,
+        "naam": "Hans Boerwinkel",
+        "leeftijd": 58,
+        "woonplaats": "Doetinchem",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 14,
+        "naam": "Remine Alberts",
+        "leeftijd": 69,
+        "woonplaats": "Amsterdam",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 15,
+        "naam": "Harre van der Nat",
+        "leeftijd": 47,
+        "woonplaats": "Leiderdorp",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 16,
+        "naam": "Murat Memiş",
+        "leeftijd": 35,
+        "woonplaats": "Eindhoven",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 17,
+        "naam": "Debbie van Dijk",
+        "leeftijd": 35,
+        "woonplaats": "Zutphen",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 18,
+        "naam": "Nina de Ridder",
+        "leeftijd": 36,
+        "woonplaats": "Beverwijk",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 19,
+        "naam": "Jamila Yahyaoui",
+        "leeftijd": 40,
+        "woonplaats": "Utrecht",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 20,
+        "naam": "Bram van Boven",
+        "leeftijd": 39,
+        "woonplaats": "Rosmalen",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 21,
+        "naam": "Thijs Coppus",
+        "leeftijd": 42,
+        "woonplaats": "Leiden",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 22,
+        "naam": "Xander Topma",
+        "leeftijd": 33,
+        "woonplaats": "Meppel",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 23,
+        "naam": "Tijmen van Wijngaarden",
+        "leeftijd": 23,
+        "woonplaats": "Den Haag",
+        "website": null,
+        "instagram": "https://www.instagram.com/tijmenv.w/",
+        "linkedin": null
+      },
+      {
+        "plek": 24,
+        "naam": "Theo Coşkun",
+        "leeftijd": 73,
+        "woonplaats": "Rotterdam",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 25,
+        "naam": "Sebastiaan van den Hout",
+        "leeftijd": 30,
+        "woonplaats": "Den Haag",
+        "website": null,
+        "instagram": null,
+        "linkedin": "https://nl.linkedin.com/in/sebastiaan-van-den-hout"
+      },
+      {
+        "plek": 26,
+        "naam": "Niels van der Wijk",
+        "leeftijd": 37,
+        "woonplaats": "Ten Boer",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 27,
+        "naam": "Inge Verdaasdonk",
+        "leeftijd": 48,
+        "woonplaats": "Breda",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 28,
+        "naam": "Lieke van Rossum",
+        "leeftijd": 41,
+        "woonplaats": "Delft",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 29,
+        "naam": "Kristie Rongen",
+        "leeftijd": 48,
+        "woonplaats": "Lelystad",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 30,
+        "naam": "Hans van Hooft",
+        "leeftijd": 57,
+        "woonplaats": "Nijmegen",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 31,
+        "naam": "Anne Cramer",
+        "leeftijd": 25,
+        "woonplaats": "den haag",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 32,
+        "naam": "Eduard van Scheltinga",
+        "leeftijd": 32,
+        "woonplaats": "Zwolle",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 33,
+        "naam": "Ger van Unen",
+        "leeftijd": 64,
+        "woonplaats": "Kloosterzande",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 34,
+        "naam": "Ruud Kuin",
+        "leeftijd": 62,
+        "woonplaats": "Haarlem",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 35,
+        "naam": "Dane Harris",
+        "leeftijd": 28,
+        "woonplaats": "Utrecht",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 36,
+        "naam": "Jan van der Veen",
+        "leeftijd": 59,
+        "woonplaats": "Jubbega",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 37,
+        "naam": "Simon Zandvliet",
+        "leeftijd": 30,
+        "woonplaats": "Beilen",
+        "website": null,
+        "instagram": null,
+        "linkedin": "https://nl.linkedin.com/in/simon-zandvliet"
+      },
+      {
+        "plek": 38,
+        "naam": "Alexandra Spanner",
+        "leeftijd": 34,
+        "woonplaats": "Alkmaar",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 39,
+        "naam": "Madeleine Boer",
+        "leeftijd": 50,
+        "woonplaats": "lelystad",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 40,
+        "naam": "Janet Ramesar",
+        "leeftijd": 38,
+        "woonplaats": "Den Haag",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 41,
+        "naam": "Mariska ten Heuw",
+        "leeftijd": 52,
+        "woonplaats": "Hengelo",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 42,
+        "naam": "Joost van der Sluis",
+        "leeftijd": 45,
+        "woonplaats": "Delft",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 43,
+        "naam": "Aldo Schelvis",
+        "leeftijd": 33,
+        "woonplaats": "Leeuwarden",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 44,
+        "naam": "Willem de Man",
+        "leeftijd": 54,
+        "woonplaats": "Vlaardingen",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 45,
+        "naam": "Anita Hendriks-Berg",
+        "leeftijd": 62,
+        "woonplaats": "Heerlen",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 46,
+        "naam": "Erik de Vries",
+        "leeftijd": 44,
+        "woonplaats": "Helmond",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 47,
+        "naam": "Eelco Eikenaar",
+        "leeftijd": 44,
+        "woonplaats": "Haren",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 48,
+        "naam": "Jordy Clemens",
+        "leeftijd": 37,
+        "woonplaats": "Heerlen",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 49,
+        "naam": "Pierre Courbois",
+        "leeftijd": 83,
+        "woonplaats": "Arnhem",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 50,
+        "naam": "Renske Leijten",
+        "leeftijd": 44,
+        "woonplaats": "Haarlem",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      }
+    ],
+    "Volt": [
+      {
+        "plek": 1,
+        "naam": "Laurens Dassen",
+        "leeftijd": 37,
+        "woonplaats": "Den Haag",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 2,
+        "naam": "Marieke Koekkoek",
+        "leeftijd": 34,
+        "woonplaats": "Utrecht",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 3,
+        "naam": "Ernst Boutkan",
+        "leeftijd": 27,
+        "woonplaats": "Leiden",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 4,
+        "naam": "Imane Elfilali",
+        "leeftijd": 42,
+        "woonplaats": "Rotterdam",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 5,
+        "naam": "Martijn Hagoort",
+        "leeftijd": 32,
+        "woonplaats": "Den Haag",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 6,
+        "naam": "Romy Frijters",
+        "leeftijd": 25,
+        "woonplaats": "Maastricht",
+        "website": null,
+        "instagram": "https://www.instagram.com/romy.frijters/",
+        "linkedin": "https://nl.linkedin.com/in/romy-frijters"
+      },
+      {
+        "plek": 7,
+        "naam": "Rens de Boer",
+        "leeftijd": 35,
+        "woonplaats": "Amsterdam",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 8,
+        "naam": "Sanne van der Lugt",
+        "leeftijd": 39,
+        "woonplaats": "Utrecht",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 9,
+        "naam": "Bjorn Beijnon",
+        "leeftijd": 29,
+        "woonplaats": "Den Bosch",
+        "website": null,
+        "instagram": null,
+        "linkedin": "https://nl.linkedin.com/in/bjorn-beijnon"
+      },
+      {
+        "plek": 10,
+        "naam": "Robin Twickler",
+        "leeftijd": 27,
+        "woonplaats": "Groningen",
+        "website": null,
+        "instagram": "https://www.instagram.com/robintwickler/",
+        "linkedin": null
+      },
+      {
+        "plek": 11,
+        "naam": "Cankut Ercan",
+        "leeftijd": 35,
+        "woonplaats": "Zwolle",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 12,
+        "naam": "Julia Hamel",
+        "leeftijd": 38,
+        "woonplaats": "Utrecht",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 13,
+        "naam": "Willem van Ewijk",
+        "leeftijd": 36,
+        "woonplaats": "Den Bosch",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 14,
+        "naam": "Sylvia van Laar",
+        "leeftijd": 29,
+        "woonplaats": "Den Haag",
+        "website": null,
+        "instagram": "https://www.instagram.com/sylviavanlaar/",
+        "linkedin": null
+      },
+      {
+        "plek": 15,
+        "naam": "Michael Tai",
+        "leeftijd": 33,
+        "woonplaats": "Rotterdam",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 16,
+        "naam": "Valérie Pajak",
+        "leeftijd": 30,
+        "woonplaats": "Eindhoven",
+        "website": null,
+        "instagram": null,
+        "linkedin": "https://nl.linkedin.com/in/valerie-pajak"
+      },
+      {
+        "plek": 17,
+        "naam": "Floris Eigenhuis",
+        "leeftijd": 33,
+        "woonplaats": "Amersfoort",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 18,
+        "naam": "Eveline Verbeek",
+        "leeftijd": 32,
+        "woonplaats": "Amsterdam",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 19,
+        "naam": "Bart Hemmes",
+        "leeftijd": 23,
+        "woonplaats": "Den Haag",
+        "website": null,
+        "instagram": null,
+        "linkedin": "https://nl.linkedin.com/in/bart-hemmes"
+      },
+      {
+        "plek": 20,
+        "naam": "Dianne Elsinga",
+        "leeftijd": 46,
+        "woonplaats": "Delft",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 21,
+        "naam": "Sjoerd Dreteler",
+        "leeftijd": 31,
+        "woonplaats": "Den Haag",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      }
+    ],
+    "VVD": [
+      {
+        "plek": 1,
+        "naam": "Dilan Yeşilgöz",
+        "leeftijd": 46,
+        "woonplaats": "Amsterdam",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 2,
+        "naam": "Sophie Hermans",
+        "leeftijd": 42,
+        "woonplaats": "Vreeland",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 3,
+        "naam": "Bente Becker",
+        "leeftijd": 38,
+        "woonplaats": "Wassenaar",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 4,
+        "naam": "Eric van der Burg",
+        "leeftijd": 58,
+        "woonplaats": "Amsterdam",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 5,
+        "naam": "Christianne van der Wal-Zeggelink",
+        "leeftijd": 50,
+        "woonplaats": "Harderwijk",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 6,
+        "naam": "Ruben Brekelmans",
+        "leeftijd": 37,
+        "woonplaats": "Oisterwijk",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 7,
+        "naam": "Eelco Heinen",
+        "leeftijd": 42,
+        "woonplaats": "Den Haag",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 8,
+        "naam": "Aukje de Vries",
+        "leeftijd": 59,
+        "woonplaats": "Leeuwarden",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 9,
+        "naam": "Roelien Kamminga",
+        "leeftijd": 45,
+        "woonplaats": "Zuidbroek",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 10,
+        "naam": "Mariëlle Paul",
+        "leeftijd": 57,
+        "woonplaats": "Amsterdam",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 11,
+        "naam": "Silvio Erkens",
+        "leeftijd": 33,
+        "woonplaats": "Kerkrade",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 12,
+        "naam": "Queeny Rajkowski",
+        "leeftijd": 35,
+        "woonplaats": "Utrecht",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 13,
+        "naam": "Thierry Aartsen",
+        "leeftijd": 34,
+        "woonplaats": "Terheijden",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 14,
+        "naam": "Thom van Campen",
+        "leeftijd": 33,
+        "woonplaats": "Zwolle",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 15,
+        "naam": "Judith Tielen",
+        "leeftijd": 51,
+        "woonplaats": "Utrecht",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 16,
+        "naam": "Hester Veltman-Kamp",
+        "leeftijd": 49,
+        "woonplaats": "Otterlo",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 17,
+        "naam": "Wendy van Eijk-Nagel",
+        "leeftijd": 50,
+        "woonplaats": "Weert",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 18,
+        "naam": "Ulysse Ellian",
+        "leeftijd": 35,
+        "woonplaats": "Almere",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 19,
+        "naam": "Ingrid Michon-Derkzen",
+        "leeftijd": 47,
+        "woonplaats": "Den Haag",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 20,
+        "naam": "Claire Martens-America",
+        "leeftijd": 36,
+        "woonplaats": "Amsterdam",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 21,
+        "naam": "Wim Meulenkamp",
+        "leeftijd": 48,
+        "woonplaats": "Ambt-Delden",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 22,
+        "naam": "Peter de Groot",
+        "leeftijd": 43,
+        "woonplaats": "Harderwijk",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 23,
+        "naam": "Arend Kisteman",
+        "leeftijd": 39,
+        "woonplaats": "Zwolle",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 24,
+        "naam": "Daan de Kort",
+        "leeftijd": 31,
+        "woonplaats": "Veldhoven",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 25,
+        "naam": "Jacqueline van den Hil",
+        "leeftijd": 55,
+        "woonplaats": "Goes",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 26,
+        "naam": "Peter Valstar",
+        "leeftijd": 38,
+        "woonplaats": "s- Gravenzande",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 27,
+        "naam": "Harry Bevers",
+        "leeftijd": 58,
+        "woonplaats": "Leeuwarden",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 28,
+        "naam": "Martijn Buijsse",
+        "leeftijd": 41,
+        "woonplaats": "Boekel",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 29,
+        "naam": "Rosemarijn Dral",
+        "leeftijd": 38,
+        "woonplaats": "Oostzaan",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 30,
+        "naam": "Bart Bikkers",
+        "leeftijd": 39,
+        "woonplaats": "Vlaardingen",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 31,
+        "naam": "Ruud Verkuijlen",
+        "leeftijd": 63,
+        "woonplaats": "Hilversum",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 32,
+        "naam": "Simone Richardson",
+        "leeftijd": 51,
+        "woonplaats": "Lijnden",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 33,
+        "naam": "Martin de Beer",
+        "leeftijd": 43,
+        "woonplaats": "Heerlen",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 34,
+        "naam": "Pim van Strien",
+        "leeftijd": 46,
+        "woonplaats": "Haarlem",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 35,
+        "naam": "Jeroen Hartsuiker",
+        "leeftijd": 39,
+        "woonplaats": "Klazienaveen",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 36,
+        "naam": "Hester Klein Lankhorst",
+        "leeftijd": 50,
+        "woonplaats": "Bilthoven",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 37,
+        "naam": "Erik Haverkort",
+        "leeftijd": 51,
+        "woonplaats": "Eefde",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 38,
+        "naam": "Chris Simons",
+        "leeftijd": 58,
+        "woonplaats": "Middelburg",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 39,
+        "naam": "Yvonne Bijenhof",
+        "leeftijd": 57,
+        "woonplaats": "Almelo",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 40,
+        "naam": "Dieke van Groningen",
+        "leeftijd": 43,
+        "woonplaats": "Rotterdam",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 41,
+        "naam": "Ellis Zeeuw van der Laan",
+        "leeftijd": 65,
+        "woonplaats": "Hilversum",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 42,
+        "naam": "Youri Volkman",
+        "leeftijd": 30,
+        "woonplaats": "Schiedam",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 43,
+        "naam": "Peter van Kessel",
+        "leeftijd": 40,
+        "woonplaats": "Haarlem",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 44,
+        "naam": "Hawre Rahimi",
+        "leeftijd": 45,
+        "woonplaats": "Weesp",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 45,
+        "naam": "Bart Omlo",
+        "leeftijd": 48,
+        "woonplaats": "Ede",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 46,
+        "naam": "Remco Yizhak Cooremans",
+        "leeftijd": null,
+        "woonplaats": "Amsterdam",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 47,
+        "naam": "Mirjam Nelisse",
+        "leeftijd": 46,
+        "woonplaats": "Dirksland",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 48,
+        "naam": "Bas de Wit",
+        "leeftijd": 29,
+        "woonplaats": "Andijk",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 49,
+        "naam": "Miriam van Meerten-Kok",
+        "leeftijd": 55,
+        "woonplaats": "Naarden",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 50,
+        "naam": "Barry Hoogezand",
+        "leeftijd": 50,
+        "woonplaats": "Dronten",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 51,
+        "naam": "Mark Achterbergh",
+        "leeftijd": 36,
+        "woonplaats": "Haarlemmermeer",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 52,
+        "naam": "Hilde Wendel",
+        "leeftijd": 27,
+        "woonplaats": "Groningen",
+        "website": "https://www.vvd.nl/profielen/hilde-wendel/",
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 53,
+        "naam": "Nupur Kohli",
+        "leeftijd": 33,
+        "woonplaats": "Badhoevedorp",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 54,
+        "naam": "Ilona Klerks",
+        "leeftijd": 34,
+        "woonplaats": "Waalwijk",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 55,
+        "naam": "Herre Dijkema",
+        "leeftijd": 48,
+        "woonplaats": "Arnhe,",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 56,
+        "naam": "Anna Elkerbout",
+        "leeftijd": 30,
+        "woonplaats": "Utrecht",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 57,
+        "naam": "Dimitri van Rijn",
+        "leeftijd": null,
+        "woonplaats": "Delft",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 58,
+        "naam": "Berend Aptroot",
+        "leeftijd": 46,
+        "woonplaats": "Zoetermeer",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 59,
+        "naam": "Lilianne de Regt",
+        "leeftijd": null,
+        "woonplaats": "Weesp",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 60,
+        "naam": "Jaap van Veen",
+        "leeftijd": 40,
+        "woonplaats": "Lelystad",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 61,
+        "naam": "Marjolein Vulpes",
+        "leeftijd": null,
+        "woonplaats": "Hellum",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 62,
+        "naam": "Jasper van Os",
+        "leeftijd": 36,
+        "woonplaats": "Emmeloord",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 63,
+        "naam": "Roland van der Klauw",
+        "leeftijd": null,
+        "woonplaats": "Leerdam",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 64,
+        "naam": "Arash Rahmani",
+        "leeftijd": null,
+        "woonplaats": "Den Haag",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 65,
+        "naam": "Rick Bouma",
+        "leeftijd": null,
+        "woonplaats": "Morra",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 66,
+        "naam": "Anne van Berlo",
+        "leeftijd": null,
+        "woonplaats": "Gemert",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 67,
+        "naam": "Irma Talens",
+        "leeftijd": null,
+        "woonplaats": "Coevorden",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 68,
+        "naam": "Rogier Bruin",
+        "leeftijd": null,
+        "woonplaats": "Den Helder",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 69,
+        "naam": "Trudie van 't Hull-Bettink",
+        "leeftijd": null,
+        "woonplaats": "Nieuw-Vennep",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 70,
+        "naam": "Johan Gadella",
+        "leeftijd": 60,
+        "woonplaats": "Nieuwegein",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 71,
+        "naam": "Daan Vermeulen",
+        "leeftijd": 33,
+        "woonplaats": "Houten",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 72,
+        "naam": "Marijke van Noort-Cnossen",
+        "leeftijd": null,
+        "woonplaats": "Noorden",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 73,
+        "naam": "Monique Van der Sanden",
+        "leeftijd": 52,
+        "woonplaats": "De Meern",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 74,
+        "naam": "Holger Rodoe",
+        "leeftijd": 31,
+        "woonplaats": "Gennep",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 75,
+        "naam": "Cas Schollink",
+        "leeftijd": 27,
+        "woonplaats": "Santpoort- Noord",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 76,
+        "naam": "Ivo de Wolff",
+        "leeftijd": 31,
+        "woonplaats": "Lemmer",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 77,
+        "naam": "Yldau de Boer",
+        "leeftijd": 29,
+        "woonplaats": "Terwispel",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 78,
+        "naam": "Murat Yildirim",
+        "leeftijd": 44,
+        "woonplaats": "Den Haag",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 79,
+        "naam": "Hilda Mulder",
+        "leeftijd": 45,
+        "woonplaats": "Koekange",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      },
+      {
+        "plek": 80,
+        "naam": "Maarten van der Weijden",
+        "leeftijd": 42,
+        "woonplaats": "Vught",
+        "website": null,
+        "instagram": null,
+        "linkedin": null
+      }
+    ]
+  }
+}
