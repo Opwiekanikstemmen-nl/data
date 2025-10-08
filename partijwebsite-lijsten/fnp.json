@@ -108,7 +108,7 @@
         }
     },
     {
-        "naam": "Sita Land Dotinga",
+        "naam": "Sita Land-Dotinga",
         "verkiezingen": {
             "tk2025": {
                 "lijstnummer": 13,
@@ -225,19 +225,10 @@
         }
     },
     {
-        "naam": "Maria le Roy",
-        "verkiezingen": {
-            "tk2025": {
-                "lijstnummer": 26,
-                "woonplaats": "Drachten"
-            }
-        }
-    },
-    {
         "naam": "Dave Herms",
         "verkiezingen": {
             "tk2025": {
-                "lijstnummer": 27,
+                "lijstnummer": 26,
                 "woonplaats": "Wijchen"
             }
         }
@@ -246,7 +237,7 @@
         "naam": "Andries de Boer",
         "verkiezingen": {
             "tk2025": {
-                "lijstnummer": 28,
+                "lijstnummer": 27,
                 "woonplaats": "Delft"
             }
         }
@@ -255,7 +246,7 @@
         "naam": "Astrid de Deugd",
         "verkiezingen": {
             "tk2025": {
-                "lijstnummer": 29,
+                "lijstnummer": 28,
                 "woonplaats": "Vinkeveen"
             }
         }
@@ -264,7 +255,7 @@
         "naam": "Pieter van Althuis",
         "verkiezingen": {
             "tk2025": {
-                "lijstnummer": 30,
+                "lijstnummer": 29,
                 "woonplaats": "Deinum"
             }
         }
@@ -273,7 +264,7 @@
         "naam": "Age de Jong",
         "verkiezingen": {
             "tk2025": {
-                "lijstnummer": 31,
+                "lijstnummer": 30,
                 "woonplaats": "Skearnegoutum"
             }
         }
@@ -282,7 +273,7 @@
         "naam": "Lambert Jan Vollema",
         "verkiezingen": {
             "tk2025": {
-                "lijstnummer": 32,
+                "lijstnummer": 31,
                 "woonplaats": "Tsjom"
             }
         }
@@ -291,7 +282,7 @@
         "naam": "Nynke-Hinke Rintjema",
         "verkiezingen": {
             "tk2025": {
-                "lijstnummer": 33,
+                "lijstnummer": 32,
                 "woonplaats": "Burgum"
             }
         }
@@ -300,7 +291,7 @@
         "naam": "Dieke Marije van der Pol",
         "verkiezingen": {
             "tk2025": {
-                "lijstnummer": 34,
+                "lijstnummer": 33,
                 "woonplaats": "Frjentsjer"
             }
         }
@@ -309,7 +300,7 @@
         "naam": "Alette Kleefstra",
         "verkiezingen": {
             "tk2025": {
-                "lijstnummer": 35,
+                "lijstnummer": 34,
                 "woonplaats": "Nijhoarne"
             }
         }
@@ -318,7 +309,7 @@
         "naam": "Tryntsje Albada",
         "verkiezingen": {
             "tk2025": {
-                "lijstnummer": 36,
+                "lijstnummer": 35,
                 "woonplaats": "Murns"
             }
         }
@@ -327,7 +318,7 @@
         "naam": "Ultsje Geart Hosper",
         "verkiezingen": {
             "tk2025": {
-                "lijstnummer": 37,
+                "lijstnummer": 36,
                 "woonplaats": "Oerterp"
             }
         }
@@ -336,7 +327,7 @@
         "naam": "Corrie Bergstra-Veldhuis",
         "verkiezingen": {
             "tk2025": {
-                "lijstnummer": 38,
+                "lijstnummer": 37,
                 "woonplaats": "Snits"
             }
         }
@@ -345,7 +336,7 @@
         "naam": "Sannah Debreczeni",
         "verkiezingen": {
             "tk2025": {
-                "lijstnummer": 39,
+                "lijstnummer": 38,
                 "woonplaats": "Harns"
             }
         }
@@ -354,7 +345,7 @@
         "naam": "Bouwina van Dellen",
         "verkiezingen": {
             "tk2025": {
-                "lijstnummer": 40,
+                "lijstnummer": 39,
                 "woonplaats": "Eanjum"
             }
         }
@@ -363,7 +354,7 @@
         "naam": "Frank de Boer",
         "verkiezingen": {
             "tk2025": {
-                "lijstnummer": 41,
+                "lijstnummer": 40,
                 "woonplaats": "Ljouwert"
             }
         }
@@ -372,7 +363,7 @@
         "naam": "Henk de Boer",
         "verkiezingen": {
             "tk2025": {
-                "lijstnummer": 42,
+                "lijstnummer": 41,
                 "woonplaats": "De Hommerts"
             }
         }
@@ -381,7 +372,7 @@
         "naam": "Tjibbe Oene Brinkman",
         "verkiezingen": {
             "tk2025": {
-                "lijstnummer": 43,
+                "lijstnummer": 42,
                 "woonplaats": "Twizel"
             }
         }
@@ -390,7 +381,7 @@
         "naam": "Jan Dijkstra",
         "verkiezingen": {
             "tk2025": {
-                "lijstnummer": 44,
+                "lijstnummer": 43,
                 "woonplaats": "Hitzum"
             }
         }
@@ -399,7 +390,7 @@
         "naam": "Durk Durksz",
         "verkiezingen": {
             "tk2025": {
-                "lijstnummer": 45,
+                "lijstnummer": 44,
                 "woonplaats": "Vegelinsoard"
             }
         }
@@ -408,7 +399,7 @@
         "naam": "Sytze Brouwer",
         "verkiezingen": {
             "tk2025": {
-                "lijstnummer": 46,
+                "lijstnummer": 45,
                 "woonplaats": "Oranjewâld"
             }
         }
@@ -417,7 +408,7 @@
         "naam": "Harmen Brouwer",
         "verkiezingen": {
             "tk2025": {
-                "lijstnummer": 47,
+                "lijstnummer": 46,
                 "woonplaats": "De Knipe"
             }
         }
@@ -426,7 +417,7 @@
         "naam": "Hindrik van der Meer",
         "verkiezingen": {
             "tk2025": {
-                "lijstnummer": 48,
+                "lijstnummer": 47,
                 "woonplaats": "Jorwert"
             }
         }
@@ -435,7 +426,7 @@
         "naam": "Sijbe Knol",
         "verkiezingen": {
             "tk2025": {
-                "lijstnummer": 49,
+                "lijstnummer": 48,
                 "woonplaats": "Berltsum"
             }
         }

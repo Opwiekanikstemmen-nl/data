@@ -159,16 +159,16 @@
 		}
 	},
 	{
-		"naam": "Marchiano van Campenhout",
+		"naam": "Precious Sadhoe",
 		"verkiezingen": {
 			"tk2025": {
 				"lijstnummer": 4,
-				"voornaamwoorden": "hij/hem"
+				"voornaamwoorden": "zij/haar"
 			}
 		}
 	},
 	{
-		"naam": "Mika Beau Dalderop",
+		"naam": "Marchiano van Campenhout",
 		"verkiezingen": {
 			"tk2025": {
 				"lijstnummer": 5,
@@ -177,16 +177,16 @@
 		}
 	},
 	{
-		"naam": "Noura Oul Fakir",
+		"naam": "Mika Beau Dalderop",
 		"verkiezingen": {
 			"tk2025": {
 				"lijstnummer": 6,
-				"voornaamwoorden": "zij/haar"
+				"voornaamwoorden": "hij/hem"
 			}
 		}
 	},
 	{
-		"naam": "Precious Sadhoe",
+		"naam": "Noura Oul Fakir",
 		"verkiezingen": {
 			"tk2025": {
 				"lijstnummer": 7,
@@ -240,16 +240,15 @@
 		}
 	},
 	{
-		"naam": "Bianca Grootfaam",
+		"naam": "Gül Streutker",
 		"verkiezingen": {
 			"tk2025": {
-				"lijstnummer": 14,
-				"voornaamwoorden": "zij/haar"
+				"lijstnummer": 14
 			}
 		}
 	},
 	{
-		"naam": "Joanna RD",
+		"naam": "Joanna Rijsdam",
 		"verkiezingen": {
 			"tk2025": {
 				"lijstnummer": 17,
@@ -258,7 +257,7 @@
 		}
 	},
 	{
-		"naam": "Chihiro Geuzebroek",
+		"naam": "Andre Damian",
 		"verkiezingen": {
 			"tk2025": {
 				"lijstnummer": 18,
@@ -267,7 +266,7 @@
 		}
 	},
 	{
-		"naam": "Stevie Nolten",
+		"naam": "Chihiro Geuzebroek",
 		"verkiezingen": {
 			"tk2025": {
 				"lijstnummer": 19,
@@ -276,11 +275,28 @@
 		}
 	},
 	{
-		"naam": "Vayhishta Miskin",
+		"naam": "Stevie Nolten",
 		"verkiezingen": {
 			"tk2025": {
 				"lijstnummer": 20,
 				"voornaamwoorden": "zij/haar"
+			}
+		}
+	},
+	{
+		"naam": "Vayhishta Miskin",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 21,
+				"voornaamwoorden": "zij/haar"
+			}
+		}
+	},
+	{
+		"naam": "Glenn Helberg",
+		"verkiezingen": {
+			"tk2025": {
+				"lijstnummer": 22
 			}
 		}
 	}
