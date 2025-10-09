@@ -27,12 +27,14 @@ with open(source, 'r') as f:
 	for person in it:
 		person_found = False
 		for kandidaat in kandidaten:
-			if kandidaat['verkiezingen']['tk2023']['partij_naam'] == person[0] and kandidaat['achternaam'] == person[2]:
+			if kandidaat['verkiezingen']['tk2025']['partij_naam'] == person[0] and kandidaat['verkiezingen']['tk2025']['lijstnummer'] == int(person[1]):
 				if kandidaat['geslacht'] == None:
-					if person[3] == 'Man':
+					if person[3] == 'M':
 						kandidaat['geslacht'] = 'm'
-					elif person[3] == 'Vrouw':
+					elif person[3] == 'V':
 						kandidaat['geslacht'] = 'v'
+					elif person[3] == 'X':
+						kandidaat['geslacht'] = 'x'
 					else:
 						print(person[3])
 					
@@ -64,11 +66,11 @@ with open(source, 'r') as f:
 							kandidaat['urls']['Facebook'] = person[8]
 					except:
 						kandidaat['urls'] = { 'Facebook': person[8] }
-					
-				# try:
-				# 	kandidaat['urls']['Vind de bèta op de lijst'] = person_url
-				# except KeyError:
-				# 	kandidaat['urls'] = {'Vind de bèta op de lijst': person_url}
+					try:
+						if person[9] and 'BlueSky' not in kandidaat['urls']:
+							kandidaat['urls']['BlueSky'] = person[9]
+					except:
+						kandidaat['urls'] = { 'BlueSky': person[9] }
 				person_found = True
 
 		if not person_found:
