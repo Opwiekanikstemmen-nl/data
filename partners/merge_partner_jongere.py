@@ -27,9 +27,25 @@ for key, party in source['kandidaten'].items():
 	for person in party:
 		found = False
 		for kandidaat in kandidaten:
-			if kandidaat['naam'] == person['naam'] and kandidaat['verkiezingen']['tk2023']['partij_naam'] == key:
+			if kandidaat['verkiezingen']['tk2025']['partij_naam'] == key and kandidaat['verkiezingen']['tk2025']['lijstnummer'] == int(person['plek']):
 				kandidaat['leeftijd'] = person['leeftijd']
+				try:
+					if person['website'] and 'partijwebsite' not in kandidaat['urls']:
+						kandidaat['urls']['partijwebsite'] = person['website']
+				except:
+					kandidaat['urls'] = { 'partijwebsite': person['website'] }
+				try:
+					if person['linkedin'] and 'LinkedIn' not in kandidaat['urls']:
+						kandidaat['urls']['LinkedIn'] = person['linkedin']
+				except:
+					kandidaat['urls'] = { 'LinkedIn': person['linkedin'] }
+				try:
+					if person['instagram'] and 'Instagram' not in kandidaat['urls']:
+						kandidaat['urls']['Instagram'] = person['instagram']
+				except:
+					kandidaat['urls'] = { 'Instagram': person['instagram'] }
 				found = True
+
 		if not found:
 			print("{0} van {1}".format(person['naam'], key))
 
