@@ -43,7 +43,8 @@
           "adressendichtheid": "725"
         }
       }
-    }
+    },
+    "leeftijd": null
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Gidi_G._Markuszower",
@@ -143,7 +144,8 @@
         "woonplaats": "Amsterdam",
         "partij_naam": "PVV (Partij voor de Vrijheid)"
       }
-    }
+    },
+    "leeftijd": null
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Martin_M._Bosma",
@@ -243,7 +245,8 @@
         "woonplaats": "Amsterdam",
         "partij_naam": "PVV (Partij voor de Vrijheid)"
       }
-    }
+    },
+    "leeftijd": null
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/René_R.A.B._Claassen",
@@ -343,7 +346,8 @@
         "woonplaats": "Landgraaf",
         "partij_naam": "PVV (Partij voor de Vrijheid)"
       }
-    }
+    },
+    "leeftijd": null
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Tony_A.P.C._Dijck",
@@ -416,7 +420,8 @@
         "woonplaats": "'s-Gravenhage",
         "partij_naam": "PVV (Partij voor de Vrijheid)"
       }
-    }
+    },
+    "leeftijd": null
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Marjolein_M.H.M._Faber",
@@ -516,7 +521,8 @@
         "woonplaats": "Hoevelaken",
         "partij_naam": "PVV (Partij voor de Vrijheid)"
       }
-    }
+    },
+    "leeftijd": null
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Vicky_V._Maeijer",
@@ -616,7 +622,8 @@
         "woonplaats": "Krimpen aan den IJssel",
         "partij_naam": "PVV (Partij voor de Vrijheid)"
       }
-    }
+    },
+    "leeftijd": null
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Edgar_E._Mulder",
@@ -716,7 +723,8 @@
         "woonplaats": "Zwolle",
         "partij_naam": "PVV (Partij voor de Vrijheid)"
       }
-    }
+    },
+    "leeftijd": null
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Alexander_A._Kops",
@@ -816,7 +824,8 @@
         "woonplaats": "Overasselt",
         "partij_naam": "PVV (Partij voor de Vrijheid)"
       }
-    }
+    },
+    "leeftijd": null
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Elmar_E._Vlottes",
@@ -916,7 +925,8 @@
         "woonplaats": "Apeldoorn",
         "partij_naam": "PVV (Partij voor de Vrijheid)"
       }
-    }
+    },
+    "leeftijd": null
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Marina_M._Vondeling",
@@ -989,7 +999,8 @@
         "woonplaats": "Rhoon",
         "partij_naam": "PVV (Partij voor de Vrijheid)"
       }
-    }
+    },
+    "leeftijd": null
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Hidde_H.D._Heutink",
@@ -1089,7 +1100,8 @@
         "woonplaats": "Enschede",
         "partij_naam": "PVV (Partij voor de Vrijheid)"
       }
-    }
+    },
+    "leeftijd": null
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Jeremy_J._Mooiman",
@@ -1162,6 +1174,10 @@
         "woonplaats": "Zoetermeer",
         "partij_naam": "PVV (Partij voor de Vrijheid)"
       }
+    },
+    "leeftijd": "29",
+    "urls": {
+      "LinkedIn": "https://www.linkedin.com/in/jeremy-mooiman/"
     }
   },
   {
@@ -1235,7 +1251,8 @@
         "woonplaats": "Purmerend",
         "partij_naam": "PVV (Partij voor de Vrijheid)"
       }
-    }
+    },
+    "leeftijd": null
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Dion_D.J.G._Graus",
@@ -1335,7 +1352,8 @@
         "woonplaats": "Heerlen",
         "partij_naam": "PVV (Partij voor de Vrijheid)"
       }
-    }
+    },
+    "leeftijd": null
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Emiel_E._Dijk",
@@ -1408,7 +1426,8 @@
         "woonplaats": "'s-Gravenhage",
         "partij_naam": "PVV (Partij voor de Vrijheid)"
       }
-    }
+    },
+    "leeftijd": null
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Tamara_T._Hove",
@@ -1454,7 +1473,8 @@
           "adressendichtheid": "745"
         }
       }
-    }
+    },
+    "leeftijd": null
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Erwin_E.C._Prickaertz",
@@ -1500,7 +1520,8 @@
           "adressendichtheid": "2523"
         }
       }
-    }
+    },
+    "leeftijd": null
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Raymond_R._Roon",
@@ -1573,7 +1594,8 @@
         "woonplaats": "Beek",
         "partij_naam": "PVV (Partij voor de Vrijheid)"
       }
-    }
+    },
+    "leeftijd": null
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Maikel_M.C.H._Boon",
@@ -1673,7 +1695,8 @@
         "woonplaats": "Bergen op Zoom",
         "partij_naam": "PVV (Partij voor de Vrijheid)"
       }
-    }
+    },
+    "leeftijd": null
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Annette_A.J._Raijer",
@@ -1746,7 +1769,8 @@
         "woonplaats": "Almere",
         "partij_naam": "PVV (Partij voor de Vrijheid)"
       }
-    }
+    },
+    "leeftijd": null
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Rachel_R.F._Meetelen",
@@ -1792,7 +1816,8 @@
           "adressendichtheid": "1855"
         }
       }
-    }
+    },
+    "leeftijd": null
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Chris_C.A._Jansen",
@@ -1865,7 +1890,8 @@
         "woonplaats": "Almere",
         "partij_naam": "PVV (Partij voor de Vrijheid)"
       }
-    }
+    },
+    "leeftijd": null
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Max_M._Aardema",
@@ -1965,7 +1991,8 @@
         "woonplaats": "Drachten",
         "partij_naam": "PVV (Partij voor de Vrijheid)"
       }
-    }
+    },
+    "leeftijd": null
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Marco_M._Deen",
@@ -2065,7 +2092,8 @@
         "woonplaats": "Zandvoort",
         "partij_naam": "PVV (Partij voor de Vrijheid)"
       }
-    }
+    },
+    "leeftijd": null
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Jeanet_J.M._Nijhof-Leeuw",
@@ -2138,7 +2166,8 @@
         "woonplaats": "Hengelo (O)",
         "partij_naam": "PVV (Partij voor de Vrijheid)"
       }
-    }
+    },
+    "leeftijd": null
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Henk_J.H._Vree",
@@ -2211,7 +2240,8 @@
         "woonplaats": "Hardinxveld-Giessendam",
         "partij_naam": "PVV (Partij voor de Vrijheid)"
       }
-    }
+    },
+    "leeftijd": null
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Joeri_J._Pool",
@@ -2311,7 +2341,8 @@
         "woonplaats": "Kampen",
         "partij_naam": "PVV (Partij voor de Vrijheid)"
       }
-    }
+    },
+    "leeftijd": null
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Patrick_P.H._Hoeff",
@@ -2357,7 +2388,8 @@
           "adressendichtheid": "876"
         }
       }
-    }
+    },
+    "leeftijd": null
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Dennis_D._Ram",
@@ -2430,7 +2462,8 @@
         "woonplaats": "Groningen",
         "partij_naam": "PVV (Partij voor de Vrijheid)"
       }
-    }
+    },
+    "leeftijd": null
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Patrick_P.P._Crijns",
@@ -2503,7 +2536,8 @@
         "woonplaats": "Landgraaf",
         "partij_naam": "PVV (Partij voor de Vrijheid)"
       }
-    }
+    },
+    "leeftijd": null
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Peter_P._Smitskam",
@@ -2603,7 +2637,8 @@
         "woonplaats": "Zoetermeer",
         "partij_naam": "PVV (Partij voor de Vrijheid)"
       }
-    }
+    },
+    "leeftijd": null
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Willem_W._Boutkan",
@@ -2676,7 +2711,8 @@
         "woonplaats": "Almere",
         "partij_naam": "PVV (Partij voor de Vrijheid)"
       }
-    }
+    },
+    "leeftijd": null
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Folkert_F.M._Thiadens",
@@ -2776,7 +2812,8 @@
         "woonplaats": "Zevenhuizen",
         "partij_naam": "PVV (Partij voor de Vrijheid)"
       }
-    }
+    },
+    "leeftijd": null
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Reinder_R.B._Blaauw",
@@ -2849,7 +2886,8 @@
         "woonplaats": "Winschoten",
         "partij_naam": "PVV (Partij voor de Vrijheid)"
       }
-    }
+    },
+    "leeftijd": null
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Jan_J.J.T.M._Valize",
@@ -2922,7 +2960,8 @@
         "woonplaats": "Venlo",
         "partij_naam": "PVV (Partij voor de Vrijheid)"
       }
-    }
+    },
+    "leeftijd": null
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Chris_C.J._Faddegon",
@@ -2995,7 +3034,8 @@
         "woonplaats": "'s-Gravenhage",
         "partij_naam": "PVV (Partij voor de Vrijheid)"
       }
-    }
+    },
+    "leeftijd": null
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Canice_C.N.L._Clermonts",
@@ -3041,7 +3081,8 @@
           "adressendichtheid": "4994"
         }
       }
-    }
+    },
+    "leeftijd": null
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Nico_N.A._Uppelschoten",
@@ -3114,7 +3155,8 @@
         "woonplaats": "Eelde",
         "partij_naam": "PVV (Partij voor de Vrijheid)"
       }
-    }
+    },
+    "leeftijd": null
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Peter_J.P._Haasen",
@@ -3160,7 +3202,8 @@
           "adressendichtheid": "2053"
         }
       }
-    }
+    },
+    "leeftijd": null
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Eric_E.R.F._Esser",
@@ -3233,7 +3276,8 @@
         "woonplaats": "'s-Hertogenbosch",
         "partij_naam": "PVV (Partij voor de Vrijheid)"
       }
-    }
+    },
+    "leeftijd": null
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Robert_R.J.H.H._Rep",
@@ -3306,7 +3350,8 @@
         "woonplaats": "Ter Apel",
         "partij_naam": "PVV (Partij voor de Vrijheid)"
       }
-    }
+    },
+    "leeftijd": null
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Cees_C.H._Riezebos",
@@ -3352,7 +3397,8 @@
           "adressendichtheid": "846"
         }
       }
-    }
+    },
+    "leeftijd": null
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Sylvia_S.M._Grobben",
@@ -3398,7 +3444,8 @@
           "adressendichtheid": "3562"
         }
       }
-    }
+    },
+    "leeftijd": null
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Bart_B.J.M.H._Megens",
@@ -3437,7 +3484,8 @@
         "woonplaats": "Bergen (L)",
         "partij_naam": "PVV (Partij voor de Vrijheid)"
       }
-    }
+    },
+    "leeftijd": null
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Wim_W.J._Ubaghs",
@@ -3483,7 +3531,8 @@
           "adressendichtheid": "1194"
         }
       }
-    }
+    },
+    "leeftijd": null
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Alberto_A.G.A._Blömer",
@@ -3529,7 +3578,8 @@
           "adressendichtheid": "2187"
         }
       }
-    }
+    },
+    "leeftijd": null
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Anita_M._Verbaarschot-Hendriks",
@@ -3575,7 +3625,8 @@
           "adressendichtheid": "506"
         }
       }
-    }
+    },
+    "leeftijd": null
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Job_J.L._Graaf",
@@ -3621,6 +3672,10 @@
           "adressendichtheid": "2187"
         }
       }
+    },
+    "leeftijd": "29",
+    "urls": {
+      "LinkedIn": "https://nl.linkedin.com/in/job-de-graaf-63abb114a"
     }
   },
   {
@@ -3667,7 +3722,8 @@
           "adressendichtheid": "1696"
         }
       }
-    }
+    },
+    "leeftijd": null
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Serge_S.A.G._Ritzen",
@@ -3713,7 +3769,8 @@
           "adressendichtheid": "1457"
         }
       }
-    }
+    },
+    "leeftijd": null
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Daniël_D._Moel",
@@ -3759,7 +3816,8 @@
           "adressendichtheid": "1532"
         }
       }
-    }
+    },
+    "leeftijd": null
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Pieter_P._Boer",
@@ -3805,7 +3863,8 @@
           "adressendichtheid": "1076"
         }
       }
-    }
+    },
+    "leeftijd": null
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Jeroen_J._Ahrens",
@@ -3851,6 +3910,11 @@
           "adressendichtheid": "596"
         }
       }
+    },
+    "leeftijd": "29",
+    "urls": {
+      "LinkedIn": "https://www.linkedin.com/in/jeroen-ahrens-424153152",
+      "Instagram": "https://www.instagram.com/jeroen.ahrens/"
     }
   },
   {
@@ -3897,7 +3961,8 @@
           "adressendichtheid": "1523"
         }
       }
-    }
+    },
+    "leeftijd": null
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Stefan_S._Smits",
@@ -3943,7 +4008,8 @@
           "adressendichtheid": "2513"
         }
       }
-    }
+    },
+    "leeftijd": null
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Alexander_A.A.A._Casteleijn",
@@ -3989,6 +4055,10 @@
           "adressendichtheid": "2163"
         }
       }
+    },
+    "leeftijd": "21",
+    "urls": {
+      "LinkedIn": "https://nl.linkedin.com/in/alexander-casteleijn"
     }
   },
   {
@@ -4035,7 +4105,8 @@
           "adressendichtheid": "616"
         }
       }
-    }
+    },
+    "leeftijd": null
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Peter_P._Valderen",
@@ -4081,7 +4152,8 @@
           "adressendichtheid": "876"
         }
       }
-    }
+    },
+    "leeftijd": null
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Menno_M._Vries",
@@ -4127,6 +4199,10 @@
           "adressendichtheid": "846"
         }
       }
+    },
+    "leeftijd": "27",
+    "urls": {
+      "LinkedIn": "https://nl.linkedin.com/in/menno-de-vries-98610b164"
     }
   },
   {
@@ -4200,7 +4276,8 @@
         "woonplaats": "Buchten",
         "partij_naam": "PVV (Partij voor de Vrijheid)"
       }
-    }
+    },
+    "leeftijd": null
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Jorrit_J._Griesen",
@@ -4246,7 +4323,8 @@
           "adressendichtheid": "1845"
         }
       }
-    }
+    },
+    "leeftijd": null
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/India_I.F._Zandman",
@@ -4292,7 +4370,8 @@
           "adressendichtheid": "876"
         }
       }
-    }
+    },
+    "leeftijd": null
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Saskia_S.A.M._Alberts",
@@ -4338,7 +4417,8 @@
           "adressendichtheid": "2523"
         }
       }
-    }
+    },
+    "leeftijd": null
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Kelly_K.A._Blauw",
@@ -4384,7 +4464,8 @@
           "adressendichtheid": "3312"
         }
       }
-    }
+    },
+    "leeftijd": null
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Thijs_M.H.J._Klaassen",
@@ -4457,7 +4538,8 @@
         "woonplaats": "Geleen",
         "partij_naam": "PVV (Partij voor de Vrijheid)"
       }
-    }
+    },
+    "leeftijd": null
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Christian_C.B.G._Benerink",
@@ -4503,7 +4585,8 @@
           "adressendichtheid": "1845"
         }
       }
-    }
+    },
+    "leeftijd": null
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Ashwin_A._Stormbroek",
@@ -4549,7 +4632,8 @@
           "adressendichtheid": "1382"
         }
       }
-    }
+    },
+    "leeftijd": null
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Natasja_N._Cornelisse",
@@ -4595,7 +4679,8 @@
           "adressendichtheid": "2053"
         }
       }
-    }
+    },
+    "leeftijd": null
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Serena_S._Liesveld",
@@ -4641,7 +4726,8 @@
           "adressendichtheid": "882"
         }
       }
-    }
+    },
+    "leeftijd": null
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Nathalie_N.A._Choenni",
@@ -4680,7 +4766,8 @@
         "woonplaats": "Kaatsheuvel",
         "partij_naam": "PVV (Partij voor de Vrijheid)"
       }
-    }
+    },
+    "leeftijd": null
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Ton_A.J.M._Kesteren",
@@ -4726,7 +4813,8 @@
           "adressendichtheid": "3312"
         }
       }
-    }
+    },
+    "leeftijd": null
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Ilse_I.A._Bezaan",
@@ -4772,7 +4860,8 @@
           "adressendichtheid": "1081"
         }
       }
-    }
+    },
+    "leeftijd": null
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Rachel_R.M._Blom",
@@ -4818,7 +4907,8 @@
           "adressendichtheid": "1038"
         }
       }
-    }
+    },
+    "leeftijd": null
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Marieke_M._Ehlers",
@@ -4857,7 +4947,8 @@
         "woonplaats": "Overijse (BE)",
         "partij_naam": "PVV (Partij voor de Vrijheid)"
       }
-    }
+    },
+    "leeftijd": null
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Alexander_A.W.J.A._Hattem",
@@ -4903,7 +4994,8 @@
           "adressendichtheid": "686"
         }
       }
-    }
+    },
+    "leeftijd": null
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Barry_B._Madlener",
@@ -4996,7 +5088,8 @@
         "woonplaats": "Rockanje",
         "partij_naam": "PVV (Partij voor de Vrijheid)"
       }
-    }
+    },
+    "leeftijd": null
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Frans_F.C.G.M._Timmermans",
@@ -5069,7 +5162,8 @@
         "woonplaats": "Maastricht",
         "partij_naam": "GROENLINKS / Partij van de Arbeid (PvdA)"
       }
-    }
+    },
+    "leeftijd": "64"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Esmah_A._Lahlah",
@@ -5142,7 +5236,8 @@
         "woonplaats": "Tilburg",
         "partij_naam": "GROENLINKS / Partij van de Arbeid (PvdA)"
       }
-    }
+    },
+    "leeftijd": "45"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Jesse_J.F._Klaver",
@@ -5242,7 +5337,8 @@
         "woonplaats": "'s-Gravenhage",
         "partij_naam": "GROENLINKS"
       }
-    }
+    },
+    "leeftijd": "39"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Kati_K.P._Piri",
@@ -5342,7 +5438,8 @@
         "woonplaats": "'s-Gravenhage",
         "partij_naam": "Partij van de Arbeid (P.v.d.A.)"
       }
-    }
+    },
+    "leeftijd": "46"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Lisa_E.M._Westerveld",
@@ -5442,7 +5539,8 @@
         "woonplaats": "Nijmegen",
         "partij_naam": "GROENLINKS"
       }
-    }
+    },
+    "leeftijd": "43"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Marjolein_M._Moorman",
@@ -5498,7 +5596,8 @@
         "woonplaats": "Amsterdam",
         "partij_naam": "GROENLINKS / Partij van de Arbeid (PvdA)"
       }
-    }
+    },
+    "leeftijd": "51"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Luc_L.C.J._Stultiens",
@@ -5571,7 +5670,8 @@
         "woonplaats": "'s-Gravenhage",
         "partij_naam": "GROENLINKS / Partij van de Arbeid (PvdA)"
       }
-    }
+    },
+    "leeftijd": "32"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Habtamu_H.E._Hoop",
@@ -5644,6 +5744,12 @@
         "woonplaats": "Easterein",
         "partij_naam": "Partij van de Arbeid (P.v.d.A.)"
       }
+    },
+    "leeftijd": "27",
+    "urls": {
+      "partijwebsite": "https://groenlinkspvda.nl/onze-mensen/kandidaten-tk25/habtamu-de-hoop-2/",
+      "LinkedIn": "https://www.linkedin.com/in/habtamu-de-hoop-49649214b/",
+      "Instagram": "https://www.instagram.com/habtamudehoop/"
     }
   },
   {
@@ -5744,7 +5850,8 @@
         "woonplaats": "Monnickendam",
         "partij_naam": "GROENLINKS"
       }
-    }
+    },
+    "leeftijd": "55"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Sjoukje_A.S._Oosterhout",
@@ -5790,7 +5897,8 @@
           "adressendichtheid": "6096"
         }
       }
-    }
+    },
+    "leeftijd": "32"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Julian_T.J._Bushoff",
@@ -5890,6 +5998,12 @@
         "woonplaats": "Groningen",
         "partij_naam": "Partij van de Arbeid (P.v.d.A.)"
       }
+    },
+    "leeftijd": "28",
+    "urls": {
+      "partijwebsite": "https://groenlinkspvda.nl/onze-mensen/kandidaten-tk25/julian-bushoff-2/",
+      "LinkedIn": "https://www.linkedin.com/in/julianbushoff/",
+      "Instagram": "https://www.instagram.com/julianbushoff/"
     }
   },
   {
@@ -5990,7 +6104,8 @@
         "woonplaats": "Amsterdam",
         "partij_naam": "GROENLINKS"
       }
-    }
+    },
+    "leeftijd": "49"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Mohammed_M._Mohandis",
@@ -6063,7 +6178,8 @@
         "woonplaats": "Gouda",
         "partij_naam": "Partij van de Arbeid (P.v.d.A.)"
       }
-    }
+    },
+    "leeftijd": "40"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Mariëtte_M.H._Patijn",
@@ -6136,7 +6252,8 @@
         "woonplaats": "Hilversum",
         "partij_naam": "GROENLINKS / Partij van de Arbeid (PvdA)"
       }
-    }
+    },
+    "leeftijd": "58"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Ani_A._Zalinyan",
@@ -6182,7 +6299,8 @@
           "adressendichtheid": "1532"
         }
       }
-    }
+    },
+    "leeftijd": "31"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Tom_T.M.T._Lee",
@@ -6255,7 +6373,8 @@
         "woonplaats": "Amsterdam",
         "partij_naam": "GROENLINKS"
       }
-    }
+    },
+    "leeftijd": "61"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Songül_S._Mutluer",
@@ -6355,7 +6474,8 @@
         "woonplaats": "Zaandam",
         "partij_naam": "Partij van de Arbeid (P.v.d.A.)"
       }
-    }
+    },
+    "leeftijd": "45"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Wimar_W.D._Bolhuis",
@@ -6401,7 +6521,8 @@
           "adressendichtheid": "4994"
         }
       }
-    }
+    },
+    "leeftijd": "39"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Geert_G.J.W._Gabriëls",
@@ -6501,7 +6622,8 @@
         "woonplaats": "Weert",
         "partij_naam": "GROENLINKS"
       }
-    }
+    },
+    "leeftijd": "45"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Jimme_J._Nordkamp",
@@ -6574,6 +6696,11 @@
         "woonplaats": "Losser",
         "partij_naam": "GROENLINKS / Partij van de Arbeid (PvdA)"
       }
+    },
+    "leeftijd": "29",
+    "urls": {
+      "partijwebsite": "https://groenlinkspvda.nl/onze-mensen/kandidaten-tk25/jimme-nordkamp-2/",
+      "LinkedIn": "https://www.linkedin.com/in/jimme-nordkamp-345569161/"
     }
   },
   {
@@ -6620,6 +6747,12 @@
           "adressendichtheid": "1401"
         }
       }
+    },
+    "leeftijd": "28",
+    "urls": {
+      "partijwebsite": "https://groenlinkspvda.nl/onze-mensen/kandidaten-tk25/jade-van-der-linden/",
+      "LinkedIn": "https://www.linkedin.com/in/jade-van-der-linden/",
+      "Instagram": "https://www.instagram.com/jade.vd.linden/"
     }
   },
   {
@@ -6666,7 +6799,8 @@
           "adressendichtheid": "3591"
         }
       }
-    }
+    },
+    "leeftijd": "44"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Daniëlle_D.H._Hirsch",
@@ -6739,7 +6873,8 @@
         "woonplaats": "Amsterdam",
         "partij_naam": "GROENLINKS"
       }
-    }
+    },
+    "leeftijd": "57"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Fatihya_F._Abdi",
@@ -6812,7 +6947,8 @@
         "woonplaats": "Amsterdam",
         "partij_naam": "Partij van de Arbeid (P.v.d.A.)"
       }
-    }
+    },
+    "leeftijd": "34"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Mikal_M._Tseggai",
@@ -6912,6 +7048,12 @@
         "woonplaats": "'s-Gravenhage",
         "partij_naam": "Partij van de Arbeid (P.v.d.A.)"
       }
+    },
+    "leeftijd": "30",
+    "urls": {
+      "partijwebsite": "https://groenlinkspvda.nl/onze-mensen/tweede-kamer/mikal-tseggai/",
+      "LinkedIn": "https://www.linkedin.com/in/mikaltseggai/",
+      "Instagram": "https://www.instagram.com/mikaltseggai/"
     }
   },
   {
@@ -6985,7 +7127,8 @@
         "woonplaats": "Middelburg",
         "partij_naam": "GROENLINKS / Partij van de Arbeid (PvdA)"
       }
-    }
+    },
+    "leeftijd": "50"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Lisa_L._Vliegenthart",
@@ -7031,7 +7174,8 @@
           "adressendichtheid": "3165"
         }
       }
-    }
+    },
+    "leeftijd": "31"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Marco_M.J.W._Esser",
@@ -7077,7 +7221,8 @@
           "adressendichtheid": "4994"
         }
       }
-    }
+    },
+    "leeftijd": "53"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Marleen_M.W._Haage",
@@ -7150,7 +7295,8 @@
         "woonplaats": "Rotterdam",
         "partij_naam": "GROENLINKS / Partij van de Arbeid (PvdA)"
       }
-    }
+    },
+    "leeftijd": "45"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Raoul_R.J._White",
@@ -7223,7 +7369,8 @@
         "woonplaats": "Purmerend",
         "partij_naam": "GROENLINKS / Partij van de Arbeid (PvdA)"
       }
-    }
+    },
+    "leeftijd": "53"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Iris_I.L._Vrolijks",
@@ -7323,6 +7470,12 @@
         "woonplaats": "Maassluis",
         "partij_naam": "Partij van de Arbeid (P.v.d.A.)"
       }
+    },
+    "leeftijd": "26",
+    "urls": {
+      "partijwebsite": "https://groenlinkspvda.nl/onze-mensen/kandidaten-tk25/iris-vrolijks/",
+      "LinkedIn": "https://www.linkedin.com/in/iris-vrolijks-a96522128/",
+      "Instagram": "https://www.instagram.com/irisvrolijks/"
     }
   },
   {
@@ -7423,7 +7576,8 @@
         "woonplaats": "Rotterdam",
         "partij_naam": "Partij van de Arbeid (P.v.d.A.)"
       }
-    }
+    },
+    "leeftijd": "47"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Lyle_L._Muns",
@@ -7496,7 +7650,8 @@
         "woonplaats": "Amsterdam",
         "partij_naam": "GROENLINKS / Partij van de Arbeid (PvdA)"
       }
-    }
+    },
+    "leeftijd": "31"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Hayte_H.A._Jong",
@@ -7542,7 +7697,8 @@
           "adressendichtheid": "6096"
         }
       }
-    }
+    },
+    "leeftijd": "43"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Glimina_G._Chakor",
@@ -7642,7 +7798,8 @@
         "woonplaats": "Groningen",
         "partij_naam": "GROENLINKS"
       }
-    }
+    },
+    "leeftijd": "49"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Marcel_M._Vonk",
@@ -7688,7 +7845,8 @@
           "adressendichtheid": "1390"
         }
       }
-    }
+    },
+    "leeftijd": "31"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Rick_R._Zweth",
@@ -7734,7 +7892,8 @@
           "adressendichtheid": "3479"
         }
       }
-    }
+    },
+    "leeftijd": "34"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Annerijn_J.C._Vink",
@@ -7780,7 +7939,8 @@
           "adressendichtheid": "4994"
         }
       }
-    }
+    },
+    "leeftijd": "31"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Dennis_D.P.A._Tak",
@@ -7826,7 +7986,8 @@
           "adressendichtheid": "4012"
         }
       }
-    }
+    },
+    "leeftijd": "40"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Shadi_S._Nikshomar",
@@ -7872,6 +8033,12 @@
           "adressendichtheid": "1616"
         }
       }
+    },
+    "leeftijd": "22",
+    "urls": {
+      "partijwebsite": "https://groenlinkspvda.nl/onze-mensen/kandidaten-tk25/shadi-nikshomar/",
+      "LinkedIn": "https://www.linkedin.com/in/shadi-nikshomar-1029b2210/",
+      "Instagram": "https://www.instagram.com/shadinikshomar/"
     }
   },
   {
@@ -7945,7 +8112,8 @@
         "woonplaats": "Leiden",
         "partij_naam": "GROENLINKS"
       }
-    }
+    },
+    "leeftijd": "32"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Lara_L.V._Sibbing",
@@ -7991,7 +8159,8 @@
           "adressendichtheid": "2764"
         }
       }
-    }
+    },
+    "leeftijd": "34"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Naomi_N.M._Woltring",
@@ -8037,7 +8206,8 @@
           "adressendichtheid": "2711"
         }
       }
-    }
+    },
+    "leeftijd": "41"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Daan_D._Olivier",
@@ -8083,7 +8253,8 @@
           "adressendichtheid": "1092"
         }
       }
-    }
+    },
+    "leeftijd": "32"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Tim_T.A._Kroon",
@@ -8129,7 +8300,8 @@
           "adressendichtheid": "1479"
         }
       }
-    }
+    },
+    "leeftijd": "36"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Margreet_M.M._Boer",
@@ -8175,7 +8347,8 @@
           "adressendichtheid": "6096"
         }
       }
-    }
+    },
+    "leeftijd": "60"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Ruben_R._Boomsma",
@@ -8221,7 +8394,8 @@
           "adressendichtheid": "2283"
         }
       }
-    }
+    },
+    "leeftijd": "42"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Tanja_T.F._Jonge",
@@ -8267,7 +8441,8 @@
           "adressendichtheid": "2523"
         }
       }
-    }
+    },
+    "leeftijd": "51"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Ruchama_R.I._Bwefar",
@@ -8313,7 +8488,8 @@
           "adressendichtheid": "6096"
         }
       }
-    }
+    },
+    "leeftijd": "45"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Lotte_L.B._Jeursen",
@@ -8359,7 +8535,8 @@
           "adressendichtheid": "6096"
         }
       }
-    }
+    },
+    "leeftijd": "36"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Jan_J.W.B._Daenen",
@@ -8432,6 +8609,12 @@
         "woonplaats": "Nijmegen",
         "partij_naam": "GROENLINKS / Partij van de Arbeid (PvdA)"
       }
+    },
+    "leeftijd": "29",
+    "urls": {
+      "partijwebsite": "https://groenlinkspvda.nl/onze-mensen/kandidaten-tk25/jan-daenen/",
+      "LinkedIn": "https://www.linkedin.com/in/jan-daenen-6a6197134/",
+      "Instagram": "https://www.instagram.com/jan_daenen/"
     }
   },
   {
@@ -8478,7 +8661,8 @@
           "adressendichtheid": "401"
         }
       }
-    }
+    },
+    "leeftijd": "67"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Tamim_T._Mehdi",
@@ -8524,6 +8708,12 @@
           "adressendichtheid": "1658"
         }
       }
+    },
+    "leeftijd": "30",
+    "urls": {
+      "partijwebsite": "https://groenlinkspvda.nl/onze-mensen/kandidaten-tk25/tamim-mehdi/",
+      "LinkedIn": "https://www.linkedin.com/in/tamimpvda/?originalSubdomain=nl",
+      "Instagram": "https://www.instagram.com/tamim_glpvda/"
     }
   },
   {
@@ -8570,7 +8760,8 @@
           "adressendichtheid": "3591"
         }
       }
-    }
+    },
+    "leeftijd": "39"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Giovanni_G._Visser",
@@ -8616,6 +8807,12 @@
           "adressendichtheid": "2239"
         }
       }
+    },
+    "leeftijd": "27",
+    "urls": {
+      "partijwebsite": "https://groenlinkspvda.nl/onze-mensen/kandidaten-tk25/giovanni-visser/",
+      "LinkedIn": "https://www.linkedin.com/in/giovannivisser/",
+      "Instagram": "https://www.instagram.com/giovanni_visser/"
     }
   },
   {
@@ -8662,7 +8859,8 @@
           "adressendichtheid": "2520"
         }
       }
-    }
+    },
+    "leeftijd": "46"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Milan_M._Bijl",
@@ -8708,7 +8906,8 @@
           "adressendichtheid": "1358"
         }
       }
-    }
+    },
+    "leeftijd": "35"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Ron_R.J.A._Piepers",
@@ -8754,6 +8953,12 @@
           "adressendichtheid": "1509"
         }
       }
+    },
+    "leeftijd": "30",
+    "urls": {
+      "partijwebsite": "https://groenlinkspvda.nl/onze-mensen/kandidaten-tk25/ron-piepers/",
+      "LinkedIn": "https://nl.linkedin.com/in/ron-piepers-677586141",
+      "Instagram": "https://www.instagram.com/ronpiepers/"
     }
   },
   {
@@ -8800,6 +9005,12 @@
           "adressendichtheid": "6096"
         }
       }
+    },
+    "leeftijd": "30",
+    "urls": {
+      "partijwebsite": "https://groenlinkspvda.nl/onze-mensen/kandidaten-tk25/ties-ammerlaan/",
+      "LinkedIn": "https://www.linkedin.com/in/ties-ammerlaan/",
+      "Instagram": "https://www.instagram.com/tiesammerlaan/"
     }
   },
   {
@@ -8846,7 +9057,8 @@
           "adressendichtheid": "2187"
         }
       }
-    }
+    },
+    "leeftijd": "36"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Hanneke_H._Groenteman",
@@ -14896,7 +15108,8 @@
           "adressendichtheid": "665"
         }
       }
-    }
+    },
+    "leeftijd": "53"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Judith_J.J.M._Uitermark",
@@ -14969,7 +15182,8 @@
         "woonplaats": "Vijfhuizen",
         "partij_naam": "Nieuw Sociaal Contract"
       }
-    }
+    },
+    "leeftijd": "53"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Merlien_R.M._Welzijn",
@@ -15042,7 +15256,8 @@
         "woonplaats": "Rotterdam",
         "partij_naam": "Nieuw Sociaal Contract"
       }
-    }
+    },
+    "leeftijd": "51"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Tjebbe_T._Oostenbruggen",
@@ -15088,7 +15303,8 @@
           "adressendichtheid": "3479"
         }
       }
-    }
+    },
+    "leeftijd": "46"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Natascha_N.T.P._Wingelaar",
@@ -15161,7 +15377,8 @@
         "woonplaats": "Stein",
         "partij_naam": "Nieuw Sociaal Contract"
       }
-    }
+    },
+    "leeftijd": "51"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Ilse_I.G._Saris",
@@ -15242,7 +15459,8 @@
         "woonplaats": "Winterswijk",
         "partij_naam": "CDA"
       }
-    }
+    },
+    "leeftijd": "50"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Jurr_J.A._Dalen",
@@ -15288,7 +15506,8 @@
           "adressendichtheid": "311"
         }
       }
-    }
+    },
+    "leeftijd": "70"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Faith_F.H._Bruyning",
@@ -15361,7 +15580,8 @@
         "woonplaats": "Almere",
         "partij_naam": "Nieuw Sociaal Contract"
       }
-    }
+    },
+    "leeftijd": "37"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Thomas_T.P._Beukema",
@@ -15407,6 +15627,12 @@
           "adressendichtheid": "3479"
         }
       }
+    },
+    "leeftijd": "24",
+    "urls": {
+      "partijwebsite": "https://partijnieuwsociaalcontract.nl/kandidaten/9-thomas-beukema",
+      "LinkedIn": "https://www.linkedin.com/in/thomasbeukema/",
+      "Instagram": "https://www.instagram.com/thomasbeukema_/"
     }
   },
   {
@@ -15480,7 +15706,8 @@
         "woonplaats": "Rijswijk",
         "partij_naam": "Nieuw Sociaal Contract"
       }
-    }
+    },
+    "leeftijd": "51"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Willem_W.J._Koops",
@@ -15553,7 +15780,8 @@
         "woonplaats": "'s-Gravenhage",
         "partij_naam": "Nieuw Sociaal Contract"
       }
-    }
+    },
+    "leeftijd": "51"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Vincent_V.C.H.M._Verouden",
@@ -15619,7 +15847,8 @@
         "woonplaats": "Brussel (BE)",
         "partij_naam": "Nieuw Sociaal Contract"
       }
-    }
+    },
+    "leeftijd": "54"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Bram_A.J._Kouwenhoven",
@@ -15692,7 +15921,8 @@
         "woonplaats": "'s-Gravenhage",
         "partij_naam": "Nieuw Sociaal Contract"
       }
-    }
+    },
+    "leeftijd": "36"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Rob_R._Wessels",
@@ -15765,7 +15995,8 @@
         "woonplaats": "Zoetermeer",
         "partij_naam": "Nieuw Sociaal Contract"
       }
-    }
+    },
+    "leeftijd": "64"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Jan_J.P._Vredenburg",
@@ -15811,7 +16042,8 @@
           "adressendichtheid": "592"
         }
       }
-    }
+    },
+    "leeftijd": "66"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Jamilja_J.A.J._Meulen",
@@ -15857,7 +16089,8 @@
           "adressendichtheid": "501"
         }
       }
-    }
+    },
+    "leeftijd": "54"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Ria_M.C._Korte_-_Verhoef",
@@ -15903,7 +16136,8 @@
           "adressendichtheid": "882"
         }
       }
-    }
+    },
+    "leeftijd": "66"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Rinke_R.D._Duim",
@@ -15949,6 +16183,12 @@
           "adressendichtheid": "556"
         }
       }
+    },
+    "leeftijd": "22",
+    "urls": {
+      "partijwebsite": "https://partijnieuwsociaalcontract.nl/kandidaten/18-rinke-van-der-duim",
+      "LinkedIn": "https://www.linkedin.com/in/rinke-van-der-duim/",
+      "Instagram": "https://www.instagram.com/rinkevanderduim/"
     }
   },
   {
@@ -15995,7 +16235,8 @@
           "adressendichtheid": "834"
         }
       }
-    }
+    },
+    "leeftijd": "62"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Quintijn_Q._Mauer",
@@ -16041,7 +16282,8 @@
           "adressendichtheid": "2239"
         }
       }
-    }
+    },
+    "leeftijd": "36"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Inge_I._Mol",
@@ -16087,7 +16329,8 @@
           "adressendichtheid": "891"
         }
       }
-    }
+    },
+    "leeftijd": "33"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Patrick_P.H.J._Goorhuis",
@@ -16133,6 +16376,11 @@
           "adressendichtheid": "608"
         }
       }
+    },
+    "leeftijd": "30",
+    "urls": {
+      "partijwebsite": "https://partijnieuwsociaalcontract.nl/kandidaten/22-patrick-goorhuis",
+      "LinkedIn": "https://www.linkedin.com/in/patrickgoorhuis/"
     }
   },
   {
@@ -16179,6 +16427,11 @@
           "adressendichtheid": "4994"
         }
       }
+    },
+    "leeftijd": "21",
+    "urls": {
+      "partijwebsite": "https://partijnieuwsociaalcontract.nl/kandidaten/23-kristan-ijkema",
+      "LinkedIn": "https://www.linkedin.com/in/kristan-ijkema-ab7ab9218/"
     }
   },
   {
@@ -16225,6 +16478,11 @@
           "adressendichtheid": "3797"
         }
       }
+    },
+    "leeftijd": "22",
+    "urls": {
+      "partijwebsite": "https://partijnieuwsociaalcontract.nl/kandidaten/24-luka-bootsma",
+      "LinkedIn": "https://www.linkedin.com/in/luka-bootsma/"
     }
   },
   {
@@ -16271,7 +16529,8 @@
           "adressendichtheid": "1770"
         }
       }
-    }
+    },
+    "leeftijd": "61"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Kevin_K._Hermse",
@@ -16317,6 +16576,12 @@
           "adressendichtheid": "2523"
         }
       }
+    },
+    "leeftijd": "28",
+    "urls": {
+      "partijwebsite": "https://partijnieuwsociaalcontract.nl/kandidaten/26-kevin-hermse",
+      "LinkedIn": "https://www.linkedin.com/in/kevin-hermse-17835116a",
+      "Instagram": "https://www.instagram.com/kevin.hermse"
     }
   },
   {
@@ -16356,7 +16621,8 @@
         "woonplaats": "Berlijn (DE)",
         "partij_naam": "Nieuw Sociaal Contract (NSC)"
       }
-    }
+    },
+    "leeftijd": "75"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Jos_J._Roelofs",
@@ -16402,7 +16668,8 @@
           "adressendichtheid": "891"
         }
       }
-    }
+    },
+    "leeftijd": "70"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Jos_J.C.A._Ginneken",
@@ -16456,6 +16723,11 @@
         "woonplaats": "Terneuzen",
         "partij_naam": "CDA"
       }
+    },
+    "leeftijd": "29",
+    "urls": {
+      "partijwebsite": "https://partijnieuwsociaalcontract.nl/kandidaten/29-jos-van-ginneken",
+      "LinkedIn": "https://linkedin.com/in/jos-van-ginneken-6b777521b"
     }
   },
   {
@@ -16495,7 +16767,8 @@
         "woonplaats": "Brussel (BE)",
         "partij_naam": "Nieuw Sociaal Contract (NSC)"
       }
-    }
+    },
+    "leeftijd": "44"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Jet_T.H._Jonkman",
@@ -16541,7 +16814,8 @@
           "adressendichtheid": "595"
         }
       }
-    }
+    },
+    "leeftijd": "51"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Colette_H.J._Kersten",
@@ -16587,7 +16861,8 @@
           "adressendichtheid": "1670"
         }
       }
-    }
+    },
+    "leeftijd": "56"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Rob_R.A.A._Jetten",
@@ -25607,7 +25882,8 @@
         "woonplaats": "Groningen",
         "partij_naam": "SP (Socialistische Partij)"
       }
-    }
+    },
+    "leeftijd": "39"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Sandra_S.M._Beckerman",
@@ -25707,7 +25983,8 @@
         "woonplaats": "Groningen",
         "partij_naam": "SP (Socialistische Partij)"
       }
-    }
+    },
+    "leeftijd": "42"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Sarah_S.E.M._Dobbe",
@@ -25807,7 +26084,8 @@
         "woonplaats": "Arnhem",
         "partij_naam": "SP (Socialistische Partij)"
       }
-    }
+    },
+    "leeftijd": "46"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Bastiaan_B.W.V._Meijer",
@@ -25880,6 +26158,12 @@
         "woonplaats": "'s-Gravenhage",
         "partij_naam": "SP (Socialistische Partij)"
       }
+    },
+    "leeftijd": "27",
+    "urls": {
+      "partijwebsite": "https://www.sp.nl/onze-mensen/bastiaan-meijer",
+      "LinkedIn": "https://www.linkedin.com/in/bastiaan-meijer-5b7a4260",
+      "Instagram": "https://www.instagram.com/bastiaan_meijer"
     }
   },
   {
@@ -25926,6 +26210,11 @@
           "adressendichtheid": "4012"
         }
       }
+    },
+    "leeftijd": "27",
+    "urls": {
+      "LinkedIn": "https://www.linkedin.com/in/maurits-hondmann/",
+      "Instagram": "https://www.instagram.com/mauritshondmann/"
     }
   },
   {
@@ -26026,7 +26315,8 @@
         "woonplaats": "Arnhem",
         "partij_naam": "SP (Socialistische Partij)"
       }
-    }
+    },
+    "leeftijd": "50"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Sebastiaan_S.G._Hout",
@@ -26099,7 +26389,8 @@
         "woonplaats": "Rijswijk",
         "partij_naam": "SP (Socialistische Partij)"
       }
-    }
+    },
+    "leeftijd": "31"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Sunita_S._Biharie",
@@ -26172,7 +26463,8 @@
         "woonplaats": "Apeldoorn",
         "partij_naam": "SP (Socialistische Partij)"
       }
-    }
+    },
+    "leeftijd": "45"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Stephanie_S._Blom",
@@ -26218,7 +26510,8 @@
           "adressendichtheid": "2520"
         }
       }
-    }
+    },
+    "leeftijd": "36"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Ruud_R.M._Kuin",
@@ -26301,7 +26594,8 @@
         "woonplaats": "Haarlem",
         "partij_naam": "SP (Socialistische Partij)"
       }
-    }
+    },
+    "leeftijd": "64"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Leroy_L.J.A.M._Vossenberg",
@@ -26347,7 +26641,8 @@
           "adressendichtheid": "1401"
         }
       }
-    }
+    },
+    "leeftijd": "31"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Anne_A._Cramer",
@@ -26420,6 +26715,10 @@
         "woonplaats": "'s-Gravenhage",
         "partij_naam": "SP (Socialistische Partij)"
       }
+    },
+    "leeftijd": "27",
+    "urls": {
+      "Instagram": "https://www.instagram.com/cramermeteenc/"
     }
   },
   {
@@ -26466,7 +26765,8 @@
           "adressendichtheid": "1701"
         }
       }
-    }
+    },
+    "leeftijd": "32"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Erica_E.N._Wever",
@@ -26505,7 +26805,8 @@
         "woonplaats": "Willemstad (CW)",
         "partij_naam": "SP (Socialistische Partij)"
       }
-    }
+    },
+    "leeftijd": "53"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Mathijs_M.J._Broeke",
@@ -26562,7 +26863,8 @@
         "woonplaats": "Zutphen",
         "partij_naam": "SP (Socialistische Partij)"
       }
-    }
+    },
+    "leeftijd": "35"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Thomas_T._Halm",
@@ -26635,7 +26937,8 @@
         "woonplaats": "Leiden",
         "partij_naam": "SP (Socialistische Partij)"
       }
-    }
+    },
+    "leeftijd": "31"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Steven_S.L.M.J._Peltenburg",
@@ -26681,6 +26984,11 @@
           "adressendichtheid": "784"
         }
       }
+    },
+    "leeftijd": "19",
+    "urls": {
+      "LinkedIn": "https://www.linkedin.com/in/steven-peltenburg-0b864929a/",
+      "Instagram": "https://www.instagram.com/stevenpeltenburg/"
     }
   },
   {
@@ -26754,7 +27062,8 @@
         "woonplaats": "Delft",
         "partij_naam": "SP (Socialistische Partij)"
       }
-    }
+    },
+    "leeftijd": "42"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Madeleine_M.I._Boer",
@@ -26827,7 +27136,8 @@
         "woonplaats": "Lelystad",
         "partij_naam": "SP (Socialistische Partij)"
       }
-    }
+    },
+    "leeftijd": "52"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Mustapha_M._Eaisaouiyen",
@@ -26873,7 +27183,8 @@
           "adressendichtheid": "4012"
         }
       }
-    }
+    },
+    "leeftijd": "50"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Joost_J.H.A._Sluis",
@@ -26919,7 +27230,8 @@
           "adressendichtheid": "3562"
         }
       }
-    }
+    },
+    "leeftijd": "47"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Sandra_S.N._Drost",
@@ -26965,7 +27277,8 @@
           "adressendichtheid": "2081"
         }
       }
-    }
+    },
+    "leeftijd": "46"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Sam_S._Schwarz",
@@ -27011,7 +27324,8 @@
           "adressendichtheid": "6096"
         }
       }
-    }
+    },
+    "leeftijd": "29"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Ruud_R.C.M._Merks",
@@ -27057,7 +27371,8 @@
           "adressendichtheid": "997"
         }
       }
-    }
+    },
+    "leeftijd": "57"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Michel_M.W.J._Winden",
@@ -27103,7 +27418,8 @@
           "adressendichtheid": "4994"
         }
       }
-    }
+    },
+    "leeftijd": "58"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Inge_I._Verdaasdonk",
@@ -27176,7 +27492,8 @@
         "woonplaats": "Breda",
         "partij_naam": "SP (Socialistische Partij)"
       }
-    }
+    },
+    "leeftijd": "50"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Dane_D.C._Harris",
@@ -27249,6 +27566,10 @@
         "woonplaats": "Utrecht",
         "partij_naam": "SP (Socialistische Partij)"
       }
+    },
+    "leeftijd": "29",
+    "urls": {
+      "LinkedIn": "https://www.linkedin.com/in/dane-harris-a059a82b7"
     }
   },
   {
@@ -27295,6 +27616,10 @@
           "adressendichtheid": "1160"
         }
       }
+    },
+    "leeftijd": "27",
+    "urls": {
+      "LinkedIn": "https://www.linkedin.com/in/dani-smith-576300164/"
     }
   },
   {
@@ -27341,7 +27666,8 @@
           "adressendichtheid": "876"
         }
       }
-    }
+    },
+    "leeftijd": "53"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Hanneke_J.F._Goede",
@@ -27387,7 +27713,8 @@
           "adressendichtheid": "846"
         }
       }
-    }
+    },
+    "leeftijd": "43"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Erik_E.M._Schapendonk",
@@ -27433,7 +27760,8 @@
           "adressendichtheid": "2807"
         }
       }
-    }
+    },
+    "leeftijd": "31"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Xander_X.M._Topma",
@@ -27506,7 +27834,8 @@
         "woonplaats": "Meppel",
         "partij_naam": "SP (Socialistische Partij)"
       }
-    }
+    },
+    "leeftijd": "35"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Jorge_J._Wolters_Gregorio",
@@ -27552,7 +27881,8 @@
           "adressendichtheid": "1509"
         }
       }
-    }
+    },
+    "leeftijd": "43"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Anna_A.P._Moriarty_Linthorst",
@@ -27598,7 +27928,8 @@
           "adressendichtheid": "2520"
         }
       }
-    }
+    },
+    "leeftijd": "24"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Angelo_A.A._Delsen",
@@ -27644,6 +27975,10 @@
           "adressendichtheid": "6096"
         }
       }
+    },
+    "leeftijd": "30",
+    "urls": {
+      "Instagram": "https://www.instagram.com/vegangelodelsen/"
     }
   },
   {
@@ -27690,7 +28025,8 @@
           "adressendichtheid": "4012"
         }
       }
-    }
+    },
+    "leeftijd": "34"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Ruth_R.C._Kleijn",
@@ -27736,7 +28072,8 @@
           "adressendichtheid": "885"
         }
       }
-    }
+    },
+    "leeftijd": "57"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Anne-Marie_A.C._Mineur",
@@ -27793,7 +28130,8 @@
         "woonplaats": "De Bilt",
         "partij_naam": "SP (Socialistische Partij)"
       }
-    }
+    },
+    "leeftijd": "58"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Yurre_Y._Wieken",
@@ -27839,7 +28177,8 @@
           "adressendichtheid": "2409"
         }
       }
-    }
+    },
+    "leeftijd": "35"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Jaswinder_J._Singh",
@@ -27885,7 +28224,8 @@
           "adressendichtheid": "3479"
         }
       }
-    }
+    },
+    "leeftijd": "46"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Jente_J.J.A.W._Eck",
@@ -27931,7 +28271,8 @@
           "adressendichtheid": "1992"
         }
       }
-    }
+    },
+    "leeftijd": "47"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Lisanne_L._Zandvliet-Oldenkamp",
@@ -27977,6 +28318,11 @@
           "adressendichtheid": "401"
         }
       }
+    },
+    "leeftijd": "29",
+    "urls": {
+      "LinkedIn": "https://www.linkedin.com/in/lisanne-zandvliet-oldenkamp-888b2b183/",
+      "Instagram": "https://www.instagram.com/lisannezandvlietoldenkamp/"
     }
   },
   {
@@ -28033,7 +28379,8 @@
         "woonplaats": "Enkhuizen",
         "partij_naam": "SP (Socialistische Partij)"
       }
-    }
+    },
+    "leeftijd": "58"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Iris_I.A.H._Kolk",
@@ -28106,7 +28453,8 @@
         "woonplaats": "Alphen aan den Rijn",
         "partij_naam": "SP (Socialistische Partij)"
       }
-    }
+    },
+    "leeftijd": "31"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Thom_T._Smit",
@@ -28152,7 +28500,8 @@
           "adressendichtheid": "1086"
         }
       }
-    }
+    },
+    "leeftijd": "28"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Erik_E.A._Flentge",
@@ -28225,7 +28574,8 @@
         "woonplaats": "Amsterdam",
         "partij_naam": "SP (Socialistische Partij)"
       }
-    }
+    },
+    "leeftijd": "58"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Robert_R.F.A._Bos",
@@ -28282,7 +28632,8 @@
         "woonplaats": "Zwolle",
         "partij_naam": "SP (Socialistische Partij)"
       }
-    }
+    },
+    "leeftijd": "42"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Theo_T.S.J._Coşkun",
@@ -28367,7 +28718,8 @@
         "woonplaats": "Rotterdam",
         "partij_naam": "SP (Socialistische Partij)"
       }
-    }
+    },
+    "leeftijd": "74"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Remine_R._Alberts-Oosterbaan",
@@ -28413,7 +28765,8 @@
           "adressendichtheid": "6096"
         }
       }
-    }
+    },
+    "leeftijd": "70"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Remi_R.J.L._Poppe",
@@ -28471,7 +28824,8 @@
         "woonplaats": "Vlaardingen",
         "partij_naam": "SP (Socialistische Partij)"
       }
-    }
+    },
+    "leeftijd": "87"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Stephan_S.R.T._Baarle",
@@ -31597,7 +31951,8 @@
         "woonplaats": "Leiden",
         "partij_naam": "Partij voor de Dieren"
       }
-    }
+    },
+    "leeftijd": "49"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Ines_I._Kostić",
@@ -31697,7 +32052,8 @@
         "woonplaats": "Hilversum",
         "partij_naam": "Partij voor de Dieren"
       }
-    }
+    },
+    "leeftijd": "41"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Christine_C._Teunissen",
@@ -31797,7 +32153,8 @@
         "woonplaats": "'s-Gravenhage",
         "partij_naam": "Partij voor de Dieren"
       }
-    }
+    },
+    "leeftijd": "40"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Falco_F._Hassel",
@@ -31870,6 +32227,12 @@
         "woonplaats": "Wageningen",
         "partij_naam": "Partij voor de Dieren"
       }
+    },
+    "leeftijd": "25",
+    "urls": {
+      "partijwebsite": "https://www.partijvoordedieren.nl/personen/falco-van-hassel",
+      "LinkedIn": "https://nl.linkedin.com/in/falco-van-hassel",
+      "Instagram": "https://www.instagram.com/falco_van_hassel/"
     }
   },
   {
@@ -31916,7 +32279,8 @@
           "adressendichtheid": "2081"
         }
       }
-    }
+    },
+    "leeftijd": "42"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Kjell_K._Wijlandt",
@@ -31962,7 +32326,8 @@
           "adressendichtheid": "1616"
         }
       }
-    }
+    },
+    "leeftijd": "31"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Anna_A.L._Krijger",
@@ -32035,7 +32400,8 @@
         "woonplaats": "Amsterdam",
         "partij_naam": "Partij voor de Dieren"
       }
-    }
+    },
+    "leeftijd": "41"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Martine_M._Schaik-Gerritsen",
@@ -32084,7 +32450,8 @@
     },
     "urls": {
       "partijwebsite": "https://www.partijvoordedieren.nl/kandidatenlijst-tk23#7.-martine-van-schaik"
-    }
+    },
+    "leeftijd": "51"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Willemijn_W.E.R._Stoffels",
@@ -32130,7 +32497,8 @@
           "adressendichtheid": "6096"
         }
       }
-    }
+    },
+    "leeftijd": "42"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Pinar_Z.P._Coşkun",
@@ -32203,7 +32571,8 @@
         "woonplaats": "Rotterdam",
         "partij_naam": "Partij voor de Dieren"
       }
-    }
+    },
+    "leeftijd": "59"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Anjo_A._Travaille",
@@ -32276,7 +32645,8 @@
         "woonplaats": "Utrecht",
         "partij_naam": "Partij voor de Dieren"
       }
-    }
+    },
+    "leeftijd": "55"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Freek_F._Bersch",
@@ -32349,7 +32719,8 @@
         "woonplaats": "Utrecht",
         "partij_naam": "Partij voor de Dieren"
       }
-    }
+    },
+    "leeftijd": "45"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Ronan_R.J._Langen",
@@ -32395,6 +32766,12 @@
           "adressendichtheid": "3312"
         }
       }
+    },
+    "leeftijd": "27",
+    "urls": {
+      "partijwebsite": "https://www.partijvoordedieren.nl/personen/ronan-van-langen",
+      "LinkedIn": "http://linkedin.com/in/ronan-van-langen-870666168/",
+      "Instagram": "http://instagram.com/ronanvanlangen/"
     }
   },
   {
@@ -32468,7 +32845,8 @@
         "woonplaats": "Dordrecht",
         "partij_naam": "Partij voor de Dieren"
       }
-    }
+    },
+    "leeftijd": "33"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Merel_M._Muller",
@@ -32514,6 +32892,12 @@
           "adressendichtheid": "1830"
         }
       }
+    },
+    "leeftijd": "23",
+    "urls": {
+      "partijwebsite": "https://www.partijvoordedieren.nl/personen/merel-muller",
+      "LinkedIn": "https://www.linkedin.com/in/merel-muller-840a18236",
+      "Instagram": "https://instagram.com/merel_muller"
     }
   },
   {
@@ -32614,7 +32998,8 @@
         "woonplaats": "'s-Gravenhage",
         "partij_naam": "Partij voor de Dieren"
       }
-    }
+    },
+    "leeftijd": "38"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Olivia_O.S._Butterman",
@@ -32660,7 +33045,8 @@
           "adressendichtheid": "2341"
         }
       }
-    }
+    },
+    "leeftijd": "42"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Yuri_Y.X._Zandwijken",
@@ -32706,7 +33092,8 @@
           "adressendichtheid": "3591"
         }
       }
-    }
+    },
+    "leeftijd": "34"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Jildert_J._Huitema",
@@ -32752,7 +33139,8 @@
           "adressendichtheid": "1348"
         }
       }
-    }
+    },
+    "leeftijd": "45"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Cynthia_C.M.J._Pallandt",
@@ -32852,7 +33240,8 @@
         "woonplaats": "Breda",
         "partij_naam": "Partij voor de Dieren"
       }
-    }
+    },
+    "leeftijd": "37"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Stella_S._Pieterson",
@@ -32898,7 +33287,8 @@
           "adressendichtheid": "2053"
         }
       }
-    }
+    },
+    "leeftijd": "50"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Ana_A._Karadarević",
@@ -32944,7 +33334,8 @@
           "adressendichtheid": "6096"
         }
       }
-    }
+    },
+    "leeftijd": "46"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Nayra_N.M._Lubek",
@@ -32990,6 +33381,12 @@
           "adressendichtheid": "2341"
         }
       }
+    },
+    "leeftijd": "25",
+    "urls": {
+      "partijwebsite": "https://www.partijvoordedieren.nl/personen/nayra-van-lubek",
+      "LinkedIn": "http://www.linkedin.com/in/nayra-van-lubek",
+      "Instagram": "https://www.instagram.com/nayravanlubek?igsh=Z2VhYXlrMDhnbGRl"
     }
   },
   {
@@ -33036,7 +33433,8 @@
           "adressendichtheid": "3591"
         }
       }
-    }
+    },
+    "leeftijd": "47"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Danielle_D.M._Weerd",
@@ -33082,7 +33480,8 @@
           "adressendichtheid": "378"
         }
       }
-    }
+    },
+    "leeftijd": "56"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Gaby_G._Markandu",
@@ -33155,6 +33554,12 @@
         "woonplaats": "Zwolle",
         "partij_naam": "Partij voor de Dieren"
       }
+    },
+    "leeftijd": "28",
+    "urls": {
+      "partijwebsite": "https://www.partijvoordedieren.nl/personen/gaby-markandu",
+      "LinkedIn": "https://nl.linkedin.com/in/gaby-markandu",
+      "Instagram": "https://www.instagram.com/gabymarkandu/"
     }
   },
   {
@@ -33201,7 +33606,8 @@
           "adressendichtheid": "1873"
         }
       }
-    }
+    },
+    "leeftijd": "45"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Eline_E.A.H._Lauret",
@@ -33247,7 +33653,8 @@
           "adressendichtheid": "2409"
         }
       }
-    }
+    },
+    "leeftijd": "61"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Anne-Miep_A.I._Vlasveld",
@@ -33320,7 +33727,8 @@
         "woonplaats": "Tilburg",
         "partij_naam": "Partij voor de Dieren"
       }
-    }
+    },
+    "leeftijd": "39"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Noï_N._Mondfrans",
@@ -33366,6 +33774,12 @@
           "adressendichtheid": "2764"
         }
       }
+    },
+    "leeftijd": "27",
+    "urls": {
+      "partijwebsite": "https://www.partijvoordedieren.nl/personen/no%C3%AF-van-mondfrans",
+      "LinkedIn": "https://www.linkedin.com/in/no%C3%AF-van-mondfrans-7ab751270/",
+      "Instagram": "https://www.instagram.com/annoiiyed/"
     }
   },
   {
@@ -33412,7 +33826,8 @@
           "adressendichtheid": "4994"
         }
       }
-    }
+    },
+    "leeftijd": "52"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Pam_P._Wijnans",
@@ -33458,7 +33873,8 @@
           "adressendichtheid": "2807"
         }
       }
-    }
+    },
+    "leeftijd": "31"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Yeattem_Y._Wong",
@@ -33504,7 +33920,8 @@
           "adressendichtheid": "1479"
         }
       }
-    }
+    },
+    "leeftijd": "41"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Janneke_J._Lierop",
@@ -33550,7 +33967,8 @@
           "adressendichtheid": "2202"
         }
       }
-    }
+    },
+    "leeftijd": "35"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Arjan_R.A._Groters",
@@ -33596,7 +34014,8 @@
           "adressendichtheid": "1770"
         }
       }
-    }
+    },
+    "leeftijd": "42"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Anne_Johan_A.J._Woudstra",
@@ -33642,7 +34061,8 @@
           "adressendichtheid": "1092"
         }
       }
-    }
+    },
+    "leeftijd": "60"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Vania_V.P._Nasroen",
@@ -33688,6 +34108,11 @@
           "adressendichtheid": "2078"
         }
       }
+    },
+    "leeftijd": "25",
+    "urls": {
+      "partijwebsite": "https://www.partijvoordedieren.nl/personen/vania-nasroen",
+      "LinkedIn": "https://www.linkedin.com/in/vaniapn/"
     }
   },
   {
@@ -33734,6 +34159,12 @@
           "adressendichtheid": "2202"
         }
       }
+    },
+    "leeftijd": "26",
+    "urls": {
+      "partijwebsite": "https://www.partijvoordedieren.nl/personen/jasper-van-loo",
+      "LinkedIn": "https://nl.linkedin.com/in/jasper-van-loo/en",
+      "Instagram": "https://www.instagram.com/jaspervloo/"
     }
   },
   {
@@ -33780,6 +34211,12 @@
           "adressendichtheid": "4012"
         }
       }
+    },
+    "leeftijd": "25",
+    "urls": {
+      "partijwebsite": "https://www.partijvoordedieren.nl/personen/tim-van-der-toorn",
+      "LinkedIn": "https://www.linkedin.com/in/timvdtoorn/",
+      "Instagram": "https://www.instagram.com/tim.vdtoorn/"
     }
   },
   {
@@ -33826,7 +34263,8 @@
           "adressendichtheid": "2711"
         }
       }
-    }
+    },
+    "leeftijd": "49"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Peter_P.J._Lievense",
@@ -33872,7 +34310,8 @@
           "adressendichtheid": "1751"
         }
       }
-    }
+    },
+    "leeftijd": "60"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Ceyhun_C._Eroğlu",
@@ -33918,7 +34357,8 @@
           "adressendichtheid": "4994"
         }
       }
-    }
+    },
+    "leeftijd": "42"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Angélique_A.T._Voskamp",
@@ -33964,7 +34404,8 @@
           "adressendichtheid": "213"
         }
       }
-    }
+    },
+    "leeftijd": "50"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Virginia_G.V.A.A.D._Jonkers",
@@ -34010,7 +34451,8 @@
           "adressendichtheid": "2711"
         }
       }
-    }
+    },
+    "leeftijd": "45"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Janneke_J.M._Schotveld",
@@ -34056,7 +34498,8 @@
           "adressendichtheid": "785"
         }
       }
-    }
+    },
+    "leeftijd": "51"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Jesse_J._Luijendijk",
@@ -34102,7 +34545,8 @@
           "adressendichtheid": "1616"
         }
       }
-    }
+    },
+    "leeftijd": "48"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Eva_E.M._Esch",
@@ -34175,7 +34619,8 @@
         "woonplaats": "Utrecht",
         "partij_naam": "Partij voor de Dieren"
       }
-    }
+    },
+    "leeftijd": "39"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Frank_F.P._Wassenberg",
@@ -34275,7 +34720,8 @@
         "woonplaats": "Geleen",
         "partij_naam": "Partij voor de Dieren"
       }
-    }
+    },
+    "leeftijd": "59"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Ria_M.C.G._Strik",
@@ -34321,7 +34767,8 @@
           "adressendichtheid": "2520"
         }
       }
-    }
+    },
+    "leeftijd": "34"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Lizzy_E.M._Coeverden",
@@ -34367,7 +34814,8 @@
           "adressendichtheid": "667"
         }
       }
-    }
+    },
+    "leeftijd": "33"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Lidewij_L.G._Vos",
@@ -34413,6 +34861,11 @@
           "adressendichtheid": "4994"
         }
       }
+    },
+    "leeftijd": "28",
+    "urls": {
+      "LinkedIn": "https://www.linkedin.com/in/lidewij-de-vos-59279b157",
+      "Instagram": "https://www.instagram.com/lidewij_devos/"
     }
   },
   {
@@ -34459,7 +34912,8 @@
           "adressendichtheid": "6096"
         }
       }
-    }
+    },
+    "leeftijd": "42"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Gideon_G.F.C._Meijeren",
@@ -34505,7 +34959,8 @@
           "adressendichtheid": "665"
         }
       }
-    }
+    },
+    "leeftijd": "37"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Freek_F.J.H._Jansen",
@@ -34551,7 +35006,8 @@
           "adressendichtheid": "6096"
         }
       }
-    }
+    },
+    "leeftijd": "32"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Ralf_R.J._Dekker",
@@ -34597,7 +35053,8 @@
           "adressendichtheid": "6096"
         }
       }
-    }
+    },
+    "leeftijd": "68"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Pepijn_P._Houwelingen",
@@ -34643,7 +35100,8 @@
           "adressendichtheid": "4994"
         }
       }
-    }
+    },
+    "leeftijd": "45"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Peter_P._Duijvenvoorde",
@@ -34689,7 +35147,8 @@
           "adressendichtheid": "6096"
         }
       }
-    }
+    },
+    "leeftijd": "37"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Tom_T.K._Russcher",
@@ -34735,7 +35194,8 @@
           "adressendichtheid": "1551"
         }
       }
-    }
+    },
+    "leeftijd": "32"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Massimo_M.J.S._Etalle",
@@ -34781,6 +35241,10 @@
           "adressendichtheid": "4994"
         }
       }
+    },
+    "leeftijd": "27",
+    "urls": {
+      "LinkedIn": "https://www.linkedin.com/in/massimo-etalle-11b765148/"
     }
   },
   {
@@ -34827,6 +35291,11 @@
           "adressendichtheid": "1408"
         }
       }
+    },
+    "leeftijd": "25",
+    "urls": {
+      "LinkedIn": "https://www.linkedin.com/in/milan-schenk-937739174/",
+      "Instagram": "https://www.instagram.com/milan.schenk/"
     }
   },
   {
@@ -34873,6 +35342,10 @@
           "adressendichtheid": "435"
         }
       }
+    },
+    "leeftijd": "27",
+    "urls": {
+      "Instagram": "https://www.instagram.com/biemyati/"
     }
   },
   {
@@ -34919,7 +35392,8 @@
           "adressendichtheid": "2187"
         }
       }
-    }
+    },
+    "leeftijd": "31"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Ramon_R.W.G.T._Asch",
@@ -34965,6 +35439,10 @@
           "adressendichtheid": "1992"
         }
       }
+    },
+    "leeftijd": "27",
+    "urls": {
+      "LinkedIn": "https://nl.linkedin.com/in/ramonvanasch"
     }
   },
   {
@@ -35011,6 +35489,12 @@
           "adressendichtheid": "2711"
         }
       }
+    },
+    "leeftijd": "22",
+    "urls": {
+      "partijwebsite": "https://nicolas-knoester.nl/",
+      "LinkedIn": "https://www.linkedin.com/in/nicolas-knoester/",
+      "Instagram": "https://www.instagram.com/nicolasknoester/"
     }
   },
   {
@@ -35057,6 +35541,10 @@
           "adressendichtheid": "435"
         }
       }
+    },
+    "leeftijd": "23",
+    "urls": {
+      "LinkedIn": "https://nl.linkedin.com/in/pelle-koopman-bb85a91b9"
     }
   },
   {
@@ -35103,7 +35591,8 @@
           "adressendichtheid": "1532"
         }
       }
-    }
+    },
+    "leeftijd": "31"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Esther_E.R.M._Hendriksen-Mauriks",
@@ -35149,7 +35638,8 @@
           "adressendichtheid": "1860"
         }
       }
-    }
+    },
+    "leeftijd": "46"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Brent_B.S.T._Hadderingh",
@@ -35195,6 +35685,11 @@
           "adressendichtheid": "1616"
         }
       }
+    },
+    "leeftijd": "27",
+    "urls": {
+      "LinkedIn": "https://www.linkedin.com/in/brent-hadderingh/",
+      "Instagram": "https://www.instagram.com/brenthadderingh/"
     }
   },
   {
@@ -35241,7 +35736,8 @@
           "adressendichtheid": "1865"
         }
       }
-    }
+    },
+    "leeftijd": "31"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Vincent_A.V.B._Vos",
@@ -35287,7 +35783,8 @@
           "adressendichtheid": "1214"
         }
       }
-    }
+    },
+    "leeftijd": "27"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Fouad_F._Masoudi",
@@ -35333,6 +35830,10 @@
           "adressendichtheid": "1214"
         }
       }
+    },
+    "leeftijd": "26",
+    "urls": {
+      "LinkedIn": "https://www.linkedin.com/in/fouad-el-masoudi-9a4bb114a/"
     }
   },
   {
@@ -35405,7 +35906,8 @@
         "woonplaats": "Zoetermeer",
         "partij_naam": "Lijst Henk Krol"
       }
-    }
+    },
+    "leeftijd": "50"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Marianne_M.W.J._Akkermans-Linssen",
@@ -35444,7 +35946,8 @@
         "woonplaats": "Maashees",
         "partij_naam": "Forum voor Democratie"
       }
-    }
+    },
+    "leeftijd": "46"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Luca_L._Clippelaar",
@@ -35490,6 +35993,10 @@
           "adressendichtheid": "2711"
         }
       }
+    },
+    "leeftijd": "24",
+    "urls": {
+      "Instagram": "https://www.instagram.com/luca_.dc/"
     }
   },
   {
@@ -35536,6 +36043,10 @@
           "adressendichtheid": "3591"
         }
       }
+    },
+    "leeftijd": "25",
+    "urls": {
+      "Instagram": "https://www.instagram.com/moriahhartman/"
     }
   },
   {
@@ -35582,7 +36093,8 @@
           "adressendichtheid": "2283"
         }
       }
-    }
+    },
+    "leeftijd": "40"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Jasper_J.A._Voort",
@@ -35628,7 +36140,8 @@
           "adressendichtheid": "1443"
         }
       }
-    }
+    },
+    "leeftijd": "35"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Peter_P.C._Vermaas",
@@ -35674,7 +36187,8 @@
           "adressendichtheid": "745"
         }
       }
-    }
+    },
+    "leeftijd": "38"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Yvonne_Y.W._Graaff",
@@ -35720,7 +36234,8 @@
           "adressendichtheid": "785"
         }
       }
-    }
+    },
+    "leeftijd": "65"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Maxime_M._Lange",
@@ -35766,7 +36281,8 @@
           "adressendichtheid": "1382"
         }
       }
-    }
+    },
+    "leeftijd": "29"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Kay_K._Burgemeester",
@@ -35812,7 +36328,8 @@
           "adressendichtheid": "744"
         }
       }
-    }
+    },
+    "leeftijd": "26"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Patty_P._Spoek-van_Dinther",
@@ -35858,7 +36375,8 @@
           "adressendichtheid": "1784"
         }
       }
-    }
+    },
+    "leeftijd": "44"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Cirano_C.R.O._Haarlem",
@@ -35904,6 +36422,10 @@
           "adressendichtheid": "6096"
         }
       }
+    },
+    "leeftijd": "27",
+    "urls": {
+      "LinkedIn": "https://www.linkedin.com/in/cirano-van-haarlem-5a7588197"
     }
   },
   {
@@ -35950,7 +36472,8 @@
           "adressendichtheid": "1161"
         }
       }
-    }
+    },
+    "leeftijd": "66"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Claire_M.C._Middelkoop",
@@ -35996,7 +36519,8 @@
           "adressendichtheid": "1214"
         }
       }
-    }
+    },
+    "leeftijd": "23"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Jelena_J.V._Postuma",
@@ -36042,6 +36566,10 @@
           "adressendichtheid": "1616"
         }
       }
+    },
+    "leeftijd": "27",
+    "urls": {
+      "LinkedIn": "https://www.linkedin.com/in/jelenavictoriapostuma/"
     }
   },
   {
@@ -36088,7 +36616,8 @@
           "adressendichtheid": "2523"
         }
       }
-    }
+    },
+    "leeftijd": "76"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Remco_R.H.J._Roelofs",
@@ -36134,7 +36663,8 @@
           "adressendichtheid": "608"
         }
       }
-    }
+    },
+    "leeftijd": "56"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Theo_T.H.G._Heller",
@@ -36180,7 +36710,8 @@
           "adressendichtheid": "1784"
         }
       }
-    }
+    },
+    "leeftijd": "63"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Tibor_T.T.C._Wouda",
@@ -36226,7 +36757,8 @@
           "adressendichtheid": "1527"
         }
       }
-    }
+    },
+    "leeftijd": "31"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Peter_P.J.T._Verstegen",
@@ -36265,7 +36797,8 @@
         "woonplaats": "Vierlingsbeek",
         "partij_naam": "Forum voor Democratie"
       }
-    }
+    },
+    "leeftijd": "60"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Johan_J._Dessing",
@@ -36311,7 +36844,8 @@
           "adressendichtheid": "6096"
         }
       }
-    }
+    },
+    "leeftijd": "60"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Machiel_M._Graaf",
@@ -36384,7 +36918,8 @@
         "woonplaats": "'s-Gravenhage",
         "partij_naam": "PVV (Partij voor de Vrijheid)"
       }
-    }
+    },
+    "leeftijd": "56"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Chris_C.T._Meijdam",
@@ -36430,7 +36965,8 @@
           "adressendichtheid": "592"
         }
       }
-    }
+    },
+    "leeftijd": "53"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Pim_P._Rijswijk",
@@ -36476,7 +37012,8 @@
           "adressendichtheid": "3479"
         }
       }
-    }
+    },
+    "leeftijd": "48"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Hans_J.O._Breevaart",
@@ -36522,7 +37059,8 @@
           "adressendichtheid": "1826"
         }
       }
-    }
+    },
+    "leeftijd": "54"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Bas_L.T.C._Filippini",
@@ -36608,7 +37146,8 @@
         "woonplaats": "Ouderkerk aan de Amstel",
         "partij_naam": "Vrij en Sociaal Nederland"
       }
-    }
+    },
+    "leeftijd": "59"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Anton_A.H.J.W._Schijndel",
@@ -36654,7 +37193,8 @@
           "adressendichtheid": "6096"
         }
       }
-    }
+    },
+    "leeftijd": "65"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Leroy_L.Y._Alberts",
@@ -36700,7 +37240,8 @@
           "adressendichtheid": "3591"
         }
       }
-    }
+    },
+    "leeftijd": "36"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Joris_J.C.M._Oetelaar",
@@ -36746,7 +37287,8 @@
           "adressendichtheid": "997"
         }
       }
-    }
+    },
+    "leeftijd": "41"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Chris_C._Stoffer",
@@ -36846,7 +37388,8 @@
         "woonplaats": "Elspeet",
         "partij_naam": "Staatkundig Gereformeerde Partij (SGP)"
       }
-    }
+    },
+    "leeftijd": "51"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Diederik_D.J.H._Dijk",
@@ -36919,7 +37462,8 @@
         "woonplaats": "Benthuizen",
         "partij_naam": "Staatkundig Gereformeerde Partij (SGP)"
       }
-    }
+    },
+    "leeftijd": "54"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/André_A.J._Flach",
@@ -37019,7 +37563,8 @@
         "woonplaats": "Hendrik-Ido-Ambacht",
         "partij_naam": "Staatkundig Gereformeerde Partij (SGP)"
       }
-    }
+    },
+    "leeftijd": "49"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Nathanaël_P.N._Middelkoop",
@@ -37119,7 +37664,8 @@
         "woonplaats": "Urk",
         "partij_naam": "Staatkundig Gereformeerde Partij (SGP)"
       }
-    }
+    },
+    "leeftijd": "32"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Wouter-Jan_W.J._Vroegindeweij",
@@ -37165,7 +37711,8 @@
           "adressendichtheid": "2163"
         }
       }
-    }
+    },
+    "leeftijd": "53"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Harry_A.J._Maas",
@@ -37238,7 +37785,8 @@
         "woonplaats": "Aagtekerke",
         "partij_naam": "Staatkundig Gereformeerde Partij (SGP)"
       }
-    }
+    },
+    "leeftijd": "54"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Henk_H.J._Wind",
@@ -37311,7 +37859,8 @@
         "woonplaats": "Maarsbergen",
         "partij_naam": "Staatkundig Gereformeerde Partij (SGP)"
       }
-    }
+    },
+    "leeftijd": "65"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Dick_D.D._Both",
@@ -37411,7 +37960,8 @@
         "woonplaats": "Veenendaal",
         "partij_naam": "Staatkundig Gereformeerde Partij (SGP)"
       }
-    }
+    },
+    "leeftijd": "48"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Jan_J._Kloosterman",
@@ -37511,7 +38061,8 @@
         "woonplaats": "Apeldoorn",
         "partij_naam": "Staatkundig Gereformeerde Partij (SGP)"
       }
-    }
+    },
+    "leeftijd": "47"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Johan_T.J._Roodnat",
@@ -37557,6 +38108,11 @@
           "adressendichtheid": "973"
         }
       }
+    },
+    "leeftijd": "23",
+    "urls": {
+      "partijwebsite": "https://sgp.nl/partij/onze-mensen/johan-roodnat",
+      "LinkedIn": "https://www.linkedin.com/in/johanroodnat/"
     }
   },
   {
@@ -37603,7 +38159,8 @@
           "adressendichtheid": "834"
         }
       }
-    }
+    },
+    "leeftijd": "49"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Harm_Jan_H.J._Polinder",
@@ -37649,7 +38206,8 @@
           "adressendichtheid": "807"
         }
       }
-    }
+    },
+    "leeftijd": "32"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Maarten_M._Slingerland",
@@ -37749,7 +38307,8 @@
         "woonplaats": "Genemuiden",
         "partij_naam": "Staatkundig Gereformeerde Partij (SGP)"
       }
-    }
+    },
+    "leeftijd": "43"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Wim_W.J._Duijn",
@@ -37822,7 +38381,8 @@
         "woonplaats": "Katwijk",
         "partij_naam": "Staatkundig Gereformeerde Partij (SGP)"
       }
-    }
+    },
+    "leeftijd": "61"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Leo_L.G.I._Barth",
@@ -37895,7 +38455,8 @@
         "woonplaats": "Ouderkerk aan den IJssel",
         "partij_naam": "Staatkundig Gereformeerde Partij (SGP)"
       }
-    }
+    },
+    "leeftijd": "61"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Johnny_J._Lukasse",
@@ -37995,7 +38556,8 @@
         "woonplaats": "Goes",
         "partij_naam": "Staatkundig Gereformeerde Partij (SGP)"
       }
-    }
+    },
+    "leeftijd": "50"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Hans_J.P._Tanis",
@@ -38095,7 +38657,8 @@
         "woonplaats": "Sliedrecht",
         "partij_naam": "Staatkundig Gereformeerde Partij (SGP)"
       }
-    }
+    },
+    "leeftijd": "64"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Ewart_E.G._Bosma",
@@ -38195,7 +38758,8 @@
         "woonplaats": "Rijssen",
         "partij_naam": "Staatkundig Gereformeerde Partij (SGP)"
       }
-    }
+    },
+    "leeftijd": "48"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Geert_G.P._Schipaanboord",
@@ -38295,7 +38859,8 @@
         "woonplaats": "Leiderdorp",
         "partij_naam": "Staatkundig Gereformeerde Partij (SGP)"
       }
-    }
+    },
+    "leeftijd": "40"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Arnold_A._Versteeg",
@@ -38395,7 +38960,8 @@
         "woonplaats": "Wekerom",
         "partij_naam": "Staatkundig Gereformeerde Partij (SGP)"
       }
-    }
+    },
+    "leeftijd": "53"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Jan_J._Hartog",
@@ -38468,7 +39034,8 @@
         "woonplaats": "Niekerk",
         "partij_naam": "Staatkundig Gereformeerde Partij (SGP)"
       }
-    }
+    },
+    "leeftijd": "62"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Tom_J.T._Koekoek",
@@ -38541,6 +39108,11 @@
         "woonplaats": "Stuifzand",
         "partij_naam": "Staatkundig Gereformeerde Partij (SGP)"
       }
+    },
+    "leeftijd": "23",
+    "urls": {
+      "partijwebsite": "https://sgp.nl/partij/onze-mensen/tom-koekoek-tk25",
+      "LinkedIn": "https://www.linkedin.com/in/tom-koekoek-930b20194"
     }
   },
   {
@@ -38614,7 +39186,8 @@
         "woonplaats": "Barneveld",
         "partij_naam": "Staatkundig Gereformeerde Partij (SGP)"
       }
-    }
+    },
+    "leeftijd": "56"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Gert_G.R._Leeuwen",
@@ -38687,7 +39260,8 @@
         "woonplaats": "Opheusden",
         "partij_naam": "Staatkundig Gereformeerde Partij (SGP)"
       }
-    }
+    },
+    "leeftijd": "57"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Berend_B._Boer",
@@ -38733,7 +39307,8 @@
           "adressendichtheid": "1341"
         }
       }
-    }
+    },
+    "leeftijd": "53"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Wim_W.H._Kok",
@@ -38833,7 +39408,8 @@
         "woonplaats": "Middelburg",
         "partij_naam": "Staatkundig Gereformeerde Partij (SGP)"
       }
-    }
+    },
+    "leeftijd": "45"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Jan_J._Kuijers",
@@ -38906,7 +39482,8 @@
         "woonplaats": "Staphorst",
         "partij_naam": "Staatkundig Gereformeerde Partij (SGP)"
       }
-    }
+    },
+    "leeftijd": "57"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Henk_H.J._Zelst",
@@ -38952,7 +39529,8 @@
           "adressendichtheid": "1311"
         }
       }
-    }
+    },
+    "leeftijd": "62"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Rob_R.J.C._Bource",
@@ -38998,7 +39576,8 @@
           "adressendichtheid": "2040"
         }
       }
-    }
+    },
+    "leeftijd": "66"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Lubbert_L._Talen",
@@ -39071,7 +39650,8 @@
         "woonplaats": "Staphorst",
         "partij_naam": "Staatkundig Gereformeerde Partij (SGP)"
       }
-    }
+    },
+    "leeftijd": "50"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Jan_J._Baijense",
@@ -39117,7 +39697,8 @@
           "adressendichtheid": "1754"
         }
       }
-    }
+    },
+    "leeftijd": "62"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Henk_H.G._Bulten",
@@ -39217,7 +39798,8 @@
         "woonplaats": "Doetinchem",
         "partij_naam": "Staatkundig Gereformeerde Partij (SGP)"
       }
-    }
+    },
+    "leeftijd": "55"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Jan_J._Top",
@@ -39263,7 +39845,8 @@
           "adressendichtheid": "885"
         }
       }
-    }
+    },
+    "leeftijd": "61"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Lambert_L._Kisteman",
@@ -39363,7 +39946,8 @@
         "woonplaats": "De Klomp",
         "partij_naam": "Staatkundig Gereformeerde Partij (SGP)"
       }
-    }
+    },
+    "leeftijd": "67"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Lourens_L._Bruchem",
@@ -39409,7 +39993,8 @@
           "adressendichtheid": "458"
         }
       }
-    }
+    },
+    "leeftijd": "57"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Bertrick_L.C._Dikkenberg",
@@ -39455,7 +40040,8 @@
           "adressendichtheid": "932"
         }
       }
-    }
+    },
+    "leeftijd": "36"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Hendrik_H._Herweijer",
@@ -39528,7 +40114,8 @@
         "woonplaats": "Dirksland",
         "partij_naam": "Staatkundig Gereformeerde Partij (SGP)"
       }
-    }
+    },
+    "leeftijd": "38"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Gert_G.J._Laar",
@@ -39574,7 +40161,8 @@
           "adressendichtheid": "932"
         }
       }
-    }
+    },
+    "leeftijd": "43"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/André_A.J._Scheppink",
@@ -39647,7 +40235,8 @@
         "woonplaats": "Rijssen",
         "partij_naam": "Staatkundig Gereformeerde Partij (SGP)"
       }
-    }
+    },
+    "leeftijd": "49"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Ruben_R._Heteren",
@@ -39693,6 +40282,11 @@
           "adressendichtheid": "1670"
         }
       }
+    },
+    "leeftijd": "30",
+    "urls": {
+      "partijwebsite": "https://sgp.nl/partij/onze-mensen/ruben-van-heteren",
+      "LinkedIn": "https://www.linkedin.com/in/ruben-van-heteren/"
     }
   },
   {
@@ -39739,7 +40333,8 @@
           "adressendichtheid": "1476"
         }
       }
-    }
+    },
+    "leeftijd": "36"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Daniël_D._Iwaarden",
@@ -39785,7 +40380,8 @@
           "adressendichtheid": "518"
         }
       }
-    }
+    },
+    "leeftijd": "32"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Jan-Bert_J.B._Heinen",
@@ -39831,7 +40427,8 @@
           "adressendichtheid": "1184"
         }
       }
-    }
+    },
+    "leeftijd": "54"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Willem-Jan_W.J._Verdoes",
@@ -39877,6 +40474,11 @@
           "adressendichtheid": "1191"
         }
       }
+    },
+    "leeftijd": "28",
+    "urls": {
+      "partijwebsite": "https://sgp.nl/partij/onze-mensen/willem-jan-verdoes",
+      "LinkedIn": "https://www.linkedin.com/in/willemjanverdoes/"
     }
   },
   {
@@ -39923,7 +40525,8 @@
           "adressendichtheid": "393"
         }
       }
-    }
+    },
+    "leeftijd": "69"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Joan_J.J._Burg",
@@ -39969,7 +40572,8 @@
           "adressendichtheid": "876"
         }
       }
-    }
+    },
+    "leeftijd": "44"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Kees_C.T._Vermaat",
@@ -40015,7 +40619,8 @@
           "adressendichtheid": "900"
         }
       }
-    }
+    },
+    "leeftijd": "35"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Leendert_L.O._Tuijl",
@@ -40061,6 +40666,11 @@
           "adressendichtheid": "700"
         }
       }
+    },
+    "leeftijd": "27",
+    "urls": {
+      "partijwebsite": "https://sgp.nl/partij/onze-mensen/leendert-van-tuijl-tk25",
+      "LinkedIn": "https://www.linkedin.com/in/leendert-van-tuijl-4907ab191/"
     }
   },
   {
@@ -40107,6 +40717,11 @@
           "adressendichtheid": "4012"
         }
       }
+    },
+    "leeftijd": "24",
+    "urls": {
+      "partijwebsite": "https://sgp.nl/partij/onze-mensen/gerbrand-van-hoef",
+      "LinkedIn": "https://www.linkedin.com/in/gerbrand-van-hoef-84a082159/"
     }
   },
   {
@@ -40153,6 +40768,12 @@
           "adressendichtheid": "1627"
         }
       }
+    },
+    "leeftijd": "25",
+    "urls": {
+      "partijwebsite": "https://www.sgpj.nl/artikelen/even-voorstellen-florian-pronk",
+      "LinkedIn": "https://www.linkedin.com/in/florianpronk/",
+      "Instagram": "https://www.instagram.com/florissantgesprek/"
     }
   },
   {
@@ -52315,7 +52936,8 @@
         "woonplaats": "Amsterdam",
         "partij_naam": "GROENLINKS"
       }
-    }
+    },
+    "leeftijd": "44"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Naomi_N._Tuininga",
@@ -52361,6 +52983,12 @@
           "adressendichtheid": "4012"
         }
       }
+    },
+    "leeftijd": "25",
+    "urls": {
+      "partijwebsite": "https://bij1.org/team/naomi-tuininga/",
+      "LinkedIn": "https://www.linkedin.com/in/naomi-tuininga-14629b1b7/",
+      "Instagram": "https://www.instagram.com/naomituininga"
     }
   },
   {
@@ -52407,6 +53035,11 @@
           "adressendichtheid": "6096"
         }
       }
+    },
+    "leeftijd": "22",
+    "urls": {
+      "partijwebsite": "https://bij1.org/team/teun-otte/",
+      "Instagram": "https://www.instagram.com/rodeschrik"
     }
   },
   {
@@ -52453,6 +53086,12 @@
           "adressendichtheid": "4012"
         }
       }
+    },
+    "leeftijd": "25",
+    "urls": {
+      "partijwebsite": "https://bij1.org/team/precious-sadhoe/",
+      "LinkedIn": "https://www.linkedin.com/in/precious-sadhoe-99b0b922b/",
+      "Instagram": "https://www.instagram.com/awesome_as_always"
     }
   },
   {
@@ -52499,7 +53138,8 @@
           "adressendichtheid": "4012"
         }
       }
-    }
+    },
+    "leeftijd": "43"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Mika_Beau_M.B._Dalderop",
@@ -52545,6 +53185,12 @@
           "adressendichtheid": "4012"
         }
       }
+    },
+    "leeftijd": "22",
+    "urls": {
+      "partijwebsite": "https://bij1.org/team/mika-beau-alderop/",
+      "LinkedIn": "https://www.linkedin.com/in/mika-dalderop-44988b2b8/",
+      "Instagram": "https://www.instagram.com/mikadeax4"
     }
   },
   {
@@ -52591,6 +53237,12 @@
           "adressendichtheid": "3479"
         }
       }
+    },
+    "leeftijd": "29",
+    "urls": {
+      "partijwebsite": "https://bij1.org/team/noura-oul-fakir-2/",
+      "LinkedIn": "https://www.linkedin.com/in/nouraoulfakir/",
+      "Instagram": "https://www.instagram.com/het_norakel"
     }
   },
   {
@@ -52637,7 +53289,8 @@
           "adressendichtheid": "6096"
         }
       }
-    }
+    },
+    "leeftijd": "68"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Carolien_C._Nieuweboer",
@@ -52683,7 +53336,8 @@
           "adressendichtheid": "1532"
         }
       }
-    }
+    },
+    "leeftijd": "36"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Venus_V._Bijleveld",
@@ -52729,7 +53383,8 @@
           "adressendichtheid": "4012"
         }
       }
-    }
+    },
+    "leeftijd": "35"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Nathan_N._Miango",
@@ -52775,6 +53430,12 @@
           "adressendichtheid": "4012"
         }
       }
+    },
+    "leeftijd": "25",
+    "urls": {
+      "partijwebsite": "https://bij1.org/team/nathan-miango/",
+      "LinkedIn": "https://www.linkedin.com/in/nathan-miango/",
+      "Instagram": "https://www.instagram.com/nathanaelmiango"
     }
   },
   {
@@ -52821,6 +53482,12 @@
           "adressendichtheid": "4012"
         }
       }
+    },
+    "leeftijd": "26",
+    "urls": {
+      "partijwebsite": "https://bij1.org/team/marie-louise-beekmans/",
+      "LinkedIn": "https://www.linkedin.com/in/marie-louise-beekmans-b0a5a7170/",
+      "Instagram": "https://www.instagram.com/_marielouisee"
     }
   },
   {
@@ -52867,6 +53534,12 @@
           "adressendichtheid": "4012"
         }
       }
+    },
+    "leeftijd": "25",
+    "urls": {
+      "partijwebsite": "https://bij1.org/team/tikhoe-isaack/",
+      "LinkedIn": "https://www.linkedin.com/in/tikhoe-isaack-6ba297160/",
+      "Instagram": "https://www.instagram.com/tikhoe_____"
     }
   },
   {
@@ -52913,6 +53586,12 @@
           "adressendichtheid": "3479"
         }
       }
+    },
+    "leeftijd": "25",
+    "urls": {
+      "partijwebsite": "https://bij1.org/team/14-gul-streutker/",
+      "LinkedIn": "https://www.linkedin.com/in/g%C3%BCl-streutker-b79685198/",
+      "Instagram": "https://www.instagram.com/gulstreutker"
     }
   },
   {
@@ -53013,7 +53692,8 @@
         "woonplaats": "'s-Gravenhage",
         "partij_naam": "BIJ1"
       }
-    }
+    },
+    "leeftijd": "46"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Yvette_Y._Luhrs",
@@ -53113,7 +53793,8 @@
         "woonplaats": "Amsterdam",
         "partij_naam": "BIJ1"
       }
-    }
+    },
+    "leeftijd": "40"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Joanna_A.T.P.J._Rijsdam",
@@ -53159,7 +53840,8 @@
           "adressendichtheid": "1445"
         }
       }
-    }
+    },
+    "leeftijd": "48"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Andre_A.R._Damian",
@@ -53205,6 +53887,12 @@
           "adressendichtheid": "6096"
         }
       }
+    },
+    "leeftijd": "29",
+    "urls": {
+      "partijwebsite": "https://bij1.org/team/18-andre-damian/",
+      "LinkedIn": "https://www.linkedin.com/in/andredamian/",
+      "Instagram": "https://www.instagram.com/andre.gbv"
     }
   },
   {
@@ -53251,7 +53939,8 @@
           "adressendichtheid": "6096"
         }
       }
-    }
+    },
+    "leeftijd": "42"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Stevie_S.J._Nolten",
@@ -53297,7 +53986,8 @@
           "adressendichtheid": "3479"
         }
       }
-    }
+    },
+    "leeftijd": "33"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Vayhishta_V.R._Miskin",
@@ -53370,7 +54060,8 @@
         "woonplaats": "Amsterdam",
         "partij_naam": "BIJ1"
       }
-    }
+    },
+    "leeftijd": "39"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Glenn_G.O._Helberg",
@@ -53416,7 +54107,8 @@
           "adressendichtheid": "6096"
         }
       }
-    }
+    },
+    "leeftijd": "70"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Tom_T.J._Lamoen",
@@ -61445,7 +62137,8 @@
         "woonplaats": "'s-Gravenhage",
         "partij_naam": "PVV (Partij voor de Vrijheid)"
       }
-    }
+    },
+    "leeftijd": null
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Sebastiaan_T.S.M._Stöteler",
@@ -61517,7 +62210,8 @@
         "woonplaats": "Almelo",
         "partij_naam": "PVV (Partij voor de Vrijheid)"
       }
-    }
+    },
+    "leeftijd": null
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Shanna_J.M.M._Schilder",
@@ -61562,7 +62256,8 @@
           "adressendichtheid": "1318"
         }
       }
-    }
+    },
+    "leeftijd": null
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Maikel_M.B._Rose",
