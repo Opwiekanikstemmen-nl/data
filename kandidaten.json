@@ -416,6 +416,13 @@
         "woonplaats": "'s-Gravenhage",
         "partij_naam": "PVV (Partij voor de Vrijheid)"
       }
+    },
+    "vinddebeta": true,
+    "study": "Technische Bedrijfskunde",
+    "university": "Technische Universiteit Eindhoven",
+    "urls": {
+      "partijwebsite": "https://www.pvv.nl/tweede-kamerfractie.html#:~:text=Teun%20van%20Dijck",
+      "LinkedIn": "https://www.linkedin.com/in/antoine-van-dijck-6b7343131"
     }
   },
   {
@@ -2922,6 +2929,13 @@
         "woonplaats": "Venlo",
         "partij_naam": "PVV (Partij voor de Vrijheid)"
       }
+    },
+    "vinddebeta": true,
+    "study": "Bedrijfskundige informatica en logistiek en technische vervoerskunde",
+    "university": "Fontys Hogeschool Venlo",
+    "urls": {
+      "partijwebsite": "https://www.pvv.nl/tweede-kamerfractie.html#:~:text=Jan%20Valize",
+      "LinkedIn": "https://www.linkedin.com/in/jan-valize-a4a07977/"
     }
   },
   {
@@ -2995,6 +3009,13 @@
         "woonplaats": "'s-Gravenhage",
         "partij_naam": "PVV (Partij voor de Vrijheid)"
       }
+    },
+    "vinddebeta": true,
+    "study": "Werktuigbouwkunde",
+    "university": "Technische Hogeschool Delft",
+    "urls": {
+      "partijwebsite": "https://www.pvv.nl/tweede-kamerfractie.html#:~:text=Chris%20Faddegon",
+      "LinkedIn": "https://www.linkedin.com/in/chris-faddegon-86a4661/"
     }
   },
   {
@@ -3114,6 +3135,12 @@
         "woonplaats": "Eelde",
         "partij_naam": "PVV (Partij voor de Vrijheid)"
       }
+    },
+    "vinddebeta": true,
+    "study": "Theoretische scheikunde",
+    "university": "Universiteit Utrecht",
+    "urls": {
+      "partijwebsite": "https://www.pvv.nl/tweede-kamerfractie.html#:~:text=Nico%20Uppelschoten"
     }
   },
   {
@@ -5571,6 +5598,13 @@
         "woonplaats": "'s-Gravenhage",
         "partij_naam": "GROENLINKS / Partij van de Arbeid (PvdA)"
       }
+    },
+    "vinddebeta": true,
+    "study": "Mathematics & Foundations of Computer Science",
+    "university": "University of Oxford",
+    "urls": {
+      "partijwebsite": "https://groenlinkspvda.nl/onze-mensen/kandidaten-tk25/luc-stultiens-2/",
+      "LinkedIn": "https://www.linkedin.com/in/lucstultiens/"
     }
   },
   {
@@ -6501,6 +6535,13 @@
         "woonplaats": "Weert",
         "partij_naam": "GROENLINKS"
       }
+    },
+    "vinddebeta": true,
+    "study": "Aardwetenschappen",
+    "university": "Universiteit Utrecht",
+    "urls": {
+      "partijwebsite": "https://groenlinkspvda.nl/onze-mensen/kandidaten-tk25/geert-gabriels-2/",
+      "LinkedIn": "https://www.linkedin.com/in/geert-gabri%C3%ABls-364780335/"
     }
   },
   {
@@ -6620,6 +6661,13 @@
           "adressendichtheid": "1401"
         }
       }
+    },
+    "vinddebeta": true,
+    "study": "Technische Bedrijfskunde",
+    "university": "TU Eindhoven",
+    "urls": {
+      "partijwebsite": "https://groenlinkspvda.nl/onze-mensen/kandidaten-tk25/jade-van-der-linden/",
+      "LinkedIn": "https://www.linkedin.com/in/jade-van-der-linden/"
     }
   },
   {
@@ -6666,6 +6714,13 @@
           "adressendichtheid": "3591"
         }
       }
+    },
+    "vinddebeta": true,
+    "study": "Sterrenkunde",
+    "university": "Universiteit Leiden",
+    "urls": {
+      "partijwebsite": "https://groenlinkspvda.nl/onze-mensen/kandidaten-tk25/floor-roduner/",
+      "LinkedIn": "https://www.linkedin.com/in/floor-roduner-0763534/"
     }
   },
   {
@@ -7991,6 +8046,13 @@
           "adressendichtheid": "2764"
         }
       }
+    },
+    "vinddebeta": true,
+    "study": "Sustainable food & agriculture",
+    "university": "Universiteit Wageningen",
+    "urls": {
+      "partijwebsite": "https://groenlinkspvda.nl/onze-mensen/kandidaten-tk25/lara-sibbing/",
+      "LinkedIn": "https://www.linkedin.com/in/larasibbing/details/education/"
     }
   },
   {
@@ -8432,6 +8494,13 @@
         "woonplaats": "Nijmegen",
         "partij_naam": "GROENLINKS / Partij van de Arbeid (PvdA)"
       }
+    },
+    "vinddebeta": true,
+    "study": "Econometrics & Data Science",
+    "university": "Vrije Universiteit Amsterdam",
+    "urls": {
+      "partijwebsite": "https://groenlinkspvda.nl/onze-mensen/kandidaten-tk25/jan-daenen/",
+      "LinkedIn": "https://www.linkedin.com/in/jan-daenen-6a6197134/"
     }
   },
   {
@@ -11060,6 +11129,13 @@
         "woonplaats": "Harderwijk",
         "partij_naam": "VVD"
       }
+    },
+    "vinddebeta": true,
+    "study": "Engineering en beleidsanalyse ",
+    "university": "TU Delft",
+    "urls": {
+      "partijwebsite": "https://www.vvd.nl/profielen/peter-de-groot-2/",
+      "LinkedIn": "https://www.linkedin.com/in/peterdegroot"
     }
   },
   {
@@ -12120,6 +12196,13 @@
         "woonplaats": "Lijnden",
         "partij_naam": "VVD"
       }
+    },
+    "vinddebeta": true,
+    "study": "Bewegingswetenschappen",
+    "university": "Rijksuniversiteit Groningen",
+    "urls": {
+      "partijwebsite": "https://www.vvd.nl/profielen/simone-richardson-3/",
+      "LinkedIn": "https://www.linkedin.com/in/richardsonsimone"
     }
   },
   {
@@ -12266,6 +12349,13 @@
         "woonplaats": "Boekel",
         "partij_naam": "VVD"
       }
+    },
+    "vinddebeta": true,
+    "study": "Werktuigbouwkunde",
+    "university": "TU Eindhoven",
+    "urls": {
+      "partijwebsite": "https://www.vvd.nl/profielen/martijn-buijsse-2/",
+      "LinkedIn": "https://www.linkedin.com/in/martijnbuijsse"
     }
   },
   {
@@ -12980,6 +13070,13 @@
         "woonplaats": "Dirksland",
         "partij_naam": "VVD"
       }
+    },
+    "vinddebeta": true,
+    "study": "Technische Bestuurskunde/Systems Engineering, Policy Analysis and management",
+    "university": "TU Delft",
+    "urls": {
+      "partijwebsite": "https://www.vvd.nl/profielen/mirjam-nelisse-3/",
+      "LinkedIn": "https://www.linkedin.com/in/mirjamnelisse/"
     }
   },
   {
@@ -15317,6 +15414,13 @@
           "adressendichtheid": "3479"
         }
       }
+    },
+    "vinddebeta": true,
+    "study": "Informatiekunde",
+    "university": "Universiteit Utrecht",
+    "urls": {
+      "partijwebsite": "https://partijnieuwsociaalcontract.nl/kandidaten/9-thomas-beukema",
+      "LinkedIn": "https://www.linkedin.com/in/thomasbeukema/"
     }
   },
   {
@@ -16870,6 +16974,13 @@
         "woonplaats": "Utrecht",
         "partij_naam": "D66"
       }
+    },
+    "vinddebeta": true,
+    "study": "Industrieel Ontwerpen",
+    "university": "TU Delft",
+    "urls": {
+      "partijwebsite": "https://d66.nl/mensen/anne-marijke-podt/",
+      "LinkedIn": "https://www.linkedin.com/in/annemarijkepodt/"
     }
   },
   {
@@ -18101,6 +18212,13 @@
           "adressendichtheid": "1660"
         }
       }
+    },
+    "vinddebeta": true,
+    "study": "Biomedical Engineering",
+    "university": "TU Eindhoven",
+    "urls": {
+      "partijwebsite": "https://d66.nl/venlo/mensen/marc-vervuurt/",
+      "LinkedIn": "https://www.linkedin.com/in/marcvervuurt/details/education/"
     }
   },
   {
@@ -18312,6 +18430,13 @@
           "adressendichtheid": "1860"
         }
       }
+    },
+    "vinddebeta": true,
+    "study": "Luchtvaart- en Ruimtevaartechniek",
+    "university": "TU Delft",
+    "urls": {
+      "partijwebsite": "https://d66.nl/nieuws/advieslijst-tweede-kamerverkiezing-2025/",
+      "LinkedIn": "https://www.linkedin.com/in/michellejagtenberg/"
     }
   },
   {
@@ -18727,6 +18852,13 @@
           "adressendichtheid": "1932"
         }
       }
+    },
+    "vinddebeta": true,
+    "study": "Delta Management",
+    "university": "HZ University of Applied Sciences",
+    "urls": {
+      "partijwebsite": "https://d66.nl/nieuws/advieslijst-tweede-kamerverkiezing-2025/",
+      "LinkedIn": "https://www.linkedin.com/in/ockerghering/"
     }
   },
   {
@@ -19076,6 +19208,13 @@
           "adressendichtheid": "836"
         }
       }
+    },
+    "vinddebeta": true,
+    "study": "Bouwkunde / Structural Engineering",
+    "university": "Hanze / Amsterdam University of Applied Sciences",
+    "urls": {
+      "partijwebsite": "https://d66.nl/nieuws/advieslijst-tweede-kamerverkiezing-2025/",
+      "LinkedIn": "https://www.linkedin.com/in/thom-berends-5a214188/"
     }
   },
   {
@@ -19449,6 +19588,13 @@
         "woonplaats": "Roermond",
         "partij_naam": "D66"
       }
+    },
+    "vinddebeta": true,
+    "study": "Natuurkunde",
+    "university": "Universiteit Utrecht",
+    "urls": {
+      "partijwebsite": "https://d66.nl/mensen/robbert-dijkgraaf/",
+      "LinkedIn": "https://www.linkedin.com/in/robbertdijkgraaf/"
     }
   },
   {
@@ -19766,6 +19912,12 @@
         "woonplaats": "Harderwijk",
         "partij_naam": "BBB"
       }
+    },
+    "vinddebeta": true,
+    "study": "Ingenieur Veehouderij",
+    "university": "Niet bekend",
+    "urls": {
+      "partijwebsite": "https://boerburgerbeweging.nl/kandidaten/henk-vermeer/"
     }
   },
   {
@@ -20368,6 +20520,13 @@
           "adressendichtheid": "4012"
         }
       }
+    },
+    "vinddebeta": true,
+    "study": "Marine and Navigation Engineer",
+    "university": "Hogeschool van Amsterdam",
+    "urls": {
+      "partijwebsite": "https://boerburgerbeweging.nl/kandidaten/robert-tieman/",
+      "LinkedIn": "https://www.linkedin.com/in/robert-tieman/"
     }
   },
   {
@@ -20441,6 +20600,13 @@
         "woonplaats": "'s-Gravenhage",
         "partij_naam": "BBB"
       }
+    },
+    "vinddebeta": true,
+    "study": "Agricultural ingenieur",
+    "university": "Wageningen University & Research",
+    "urls": {
+      "partijwebsite": "https://boerburgerbeweging.nl/kandidaten/jean-rummenie/",
+      "LinkedIn": "https://www.linkedin.com/in/jean-rummenie-6a753b4/"
     }
   },
   {
@@ -20744,6 +20910,13 @@
         "woonplaats": "Barneveld",
         "partij_naam": "BBB"
       }
+    },
+    "vinddebeta": true,
+    "study": "Tropisch Landgebruik & Facility Management",
+    "university": "Wageningen University & Research",
+    "urls": {
+      "partijwebsite": "https://boerburgerbeweging.nl/kandidaten/haidy-hankers/",
+      "LinkedIn": "https://www.linkedin.com/in/haidy-hankers-a89695107/"
     }
   },
   {
@@ -22443,6 +22616,13 @@
         "woonplaats": "Rotterdam",
         "partij_naam": "CDA"
       }
+    },
+    "vinddebeta": true,
+    "study": "Natuurkunde",
+    "university": "Leiden Universiteit",
+    "urls": {
+      "partijwebsite": "https://www.cda.nl/campagne/henri-bontenbal/",
+      "LinkedIn": "https://www.linkedin.com/in/henribontenbal/"
     }
   },
   {
@@ -22616,6 +22796,13 @@
         "woonplaats": "Kockengen",
         "partij_naam": "CDA"
       }
+    },
+    "vinddebeta": true,
+    "study": "Bouwtechnische bedrijfskunde etc.",
+    "university": "Hogeschool Utrecht",
+    "urls": {
+      "partijwebsite": "https://www.cda.nl/mensen/derk-boswijk/",
+      "LinkedIn": "https://www.linkedin.com/in/derk-boswijk-b8279111/"
     }
   },
   {
@@ -23299,6 +23486,13 @@
           "adressendichtheid": "556"
         }
       }
+    },
+    "vinddebeta": true,
+    "study": "Landbouw",
+    "university": "Aeres hogeschool Dronten",
+    "urls": {
+      "partijwebsite": "https://www.cda.nl/mensen/kandidaat-lucienne-boelsma/",
+      "LinkedIn": "https://www.linkedin.com/in/lucienne-boelsma-hoekstra"
     }
   },
   {
@@ -23345,6 +23539,13 @@
           "adressendichtheid": "393"
         }
       }
+    },
+    "vinddebeta": true,
+    "study": "Veehouderij",
+    "university": "Christelijke Agrarische hogeschool Dronten",
+    "urls": {
+      "partijwebsite": "https://www.cda.nl/mensen/kandidaat-jan-arie-koorevaar/",
+      "LinkedIn": "https://www.linkedin.com/in/jan-arie-koorevaar-8042058"
     }
   },
   {
@@ -23895,6 +24096,13 @@
         "woonplaats": "Aalten",
         "partij_naam": "CDA"
       }
+    },
+    "vinddebeta": true,
+    "study": "Bachelor of Agraric",
+    "university": "Christelijke Agrarische hogeschool Dronten",
+    "urls": {
+      "partijwebsite": "https://www.cda.nl/mensen/kandidaat-arjan-tolkamp/",
+      "LinkedIn": "https://www.linkedin.com/in/arjan-tolkamp-b2865554/?originalSubdomain=nl"
     }
   },
   {
@@ -24517,6 +24725,13 @@
         "woonplaats": "Schiedam",
         "partij_naam": "CDA"
       }
+    },
+    "vinddebeta": true,
+    "study": "Bouwkunde",
+    "university": "Hogeschool Rotterdam",
+    "urls": {
+      "partijwebsite": "https://www.cda.nl/mensen/kandidaat-yusuf-tuncer/",
+      "LinkedIn": "https://www.linkedin.com/in/yusuftuncer/?originalSubdomain=nl"
     }
   },
   {
@@ -26033,6 +26248,13 @@
           "adressendichtheid": "1401"
         }
       }
+    },
+    "vinddebeta": true,
+    "study": "Werktuigbouwkunde",
+    "university": "Fontys University of Applied Sciences",
+    "urls": {
+      "partijwebsite": "https://www.sp.nl/nieuws/sp-kandidatenlijst-voor-supersociaal-nederland",
+      "LinkedIn": "https://www.linkedin.com/in/leroy-vossenberg-8235031ab/"
     }
   },
   {
@@ -26440,6 +26662,13 @@
         "woonplaats": "Delft",
         "partij_naam": "SP (Socialistische Partij)"
       }
+    },
+    "vinddebeta": true,
+    "study": "Industrieel Ontwerpen",
+    "university": "TU Delft",
+    "urls": {
+      "partijwebsite": "https://www.sp.nl/nieuws/sp-kandidatenlijst-voor-supersociaal-nederland",
+      "LinkedIn": "https://www.linkedin.com/in/lieke-van-rossum-7b23464/"
     }
   },
   {
@@ -26513,6 +26742,13 @@
         "woonplaats": "Lelystad",
         "partij_naam": "SP (Socialistische Partij)"
       }
+    },
+    "vinddebeta": true,
+    "study": "Laboratoriumtechniek",
+    "university": "Rotterdam University of Applied Sciences",
+    "urls": {
+      "partijwebsite": "https://www.sp.nl/nieuws/sp-kandidatenlijst-voor-supersociaal-nederland",
+      "LinkedIn": "https://www.linkedin.com/in/madeleine-boer-0680a882/"
     }
   },
   {
@@ -26605,6 +26841,13 @@
           "adressendichtheid": "3562"
         }
       }
+    },
+    "vinddebeta": true,
+    "study": "Applied Physics",
+    "university": "TU Delft",
+    "urls": {
+      "partijwebsite": "https://www.sp.nl/nieuws/sp-kandidatenlijst-voor-supersociaal-nederland",
+      "LinkedIn": "https://www.linkedin.com/in/joost-van-der-sluis/"
     }
   },
   {
@@ -26651,6 +26894,13 @@
           "adressendichtheid": "2081"
         }
       }
+    },
+    "vinddebeta": true,
+    "study": "Biologie en Medisch laboratoriumonderzoek",
+    "university": "Saxion University of Applied Sciences",
+    "urls": {
+      "partijwebsite": "https://www.sp.nl/nieuws/sp-kandidatenlijst-voor-supersociaal-nederland",
+      "LinkedIn": "https://www.linkedin.com/in/sandra-drost-58820467/"
     }
   },
   {
@@ -28053,6 +28303,13 @@
         "woonplaats": "Rotterdam",
         "partij_naam": "SP (Socialistische Partij)"
       }
+    },
+    "vinddebeta": true,
+    "study": "Biology Biochemistry",
+    "university": "Radboud University",
+    "urls": {
+      "partijwebsite": "https://www.sp.nl/nieuws/sp-kandidatenlijst-voor-supersociaal-nederland",
+      "LinkedIn": "https://www.linkedin.com/in/theo-coşkun-292a20a/"
     }
   },
   {
@@ -30299,6 +30556,13 @@
         "woonplaats": "Helmond",
         "partij_naam": "DENK"
       }
+    },
+    "vinddebeta": true,
+    "study": "Technische Bedrijfskunde",
+    "university": "Fontys Hogeschool",
+    "urls": {
+      "partijwebsite": "https://www.bewegingdenk.nl/tweede-kamerverkiezingen-2025/#:~:text=Omar%20Fkihi",
+      "LinkedIn": "https://www.linkedin.com/in/omarfkihi/"
     }
   },
   {
@@ -31451,6 +31715,13 @@
         "woonplaats": "Wageningen",
         "partij_naam": "Partij voor de Dieren"
       }
+    },
+    "vinddebeta": true,
+    "study": "Animal Sciences",
+    "university": "Universiteit Wageningen",
+    "urls": {
+      "partijwebsite": "https://www.partijvoordedieren.nl/personen/falco-van-hassel",
+      "LinkedIn": "https://www.linkedin.com/in/falco-van-hassel/"
     }
   },
   {
@@ -31711,6 +31982,13 @@
           "adressendichtheid": "6096"
         }
       }
+    },
+    "vinddebeta": true,
+    "study": "Natuurwetenschap & Innovatiemanagement",
+    "university": "Universiteit Utrecht",
+    "urls": {
+      "partijwebsite": "https://www.partijvoordedieren.nl/personen/willemijn-stoffels",
+      "LinkedIn": "https://www.linkedin.com/in/willemijnstoffels/"
     }
   },
   {
@@ -31857,6 +32135,13 @@
         "woonplaats": "Utrecht",
         "partij_naam": "Partij voor de Dieren"
       }
+    },
+    "vinddebeta": true,
+    "study": "Milieutechnologie",
+    "university": "Van Hall Larenstein",
+    "urls": {
+      "partijwebsite": "https://www.partijvoordedieren.nl/personen/anjo-travaille",
+      "LinkedIn": "https://www.linkedin.com/in/anjotravaillebovenkamers/"
     }
   },
   {
@@ -33269,6 +33554,13 @@
           "adressendichtheid": "2078"
         }
       }
+    },
+    "vinddebeta": true,
+    "study": "Biotechnologie",
+    "university": "Universiteit Wageningen",
+    "urls": {
+      "partijwebsite": "https://www.partijvoordedieren.nl/personen/vania-nasroen",
+      "LinkedIn": "https://www.linkedin.com/in/vaniapn/"
     }
   },
   {
@@ -33407,6 +33699,13 @@
           "adressendichtheid": "2711"
         }
       }
+    },
+    "vinddebeta": true,
+    "study": "Econometrie",
+    "university": "Universiteit Tilburg",
+    "urls": {
+      "partijwebsite": "https://www.partijvoordedieren.nl/personen/judith-lammers",
+      "LinkedIn": "https://www.linkedin.com/in/judithlammers/"
     }
   },
   {
@@ -33994,6 +34293,13 @@
           "adressendichtheid": "4994"
         }
       }
+    },
+    "vinddebeta": true,
+    "study": "Scheikunde",
+    "university": "Utrecht University",
+    "urls": {
+      "partijwebsite": "https://fvd.nl/kandidatenlijst",
+      "LinkedIn": "https://www.linkedin.com/in/lidewij-de-vos-59279b157/"
     }
   },
   {
@@ -34178,6 +34484,13 @@
           "adressendichtheid": "6096"
         }
       }
+    },
+    "vinddebeta": true,
+    "study": "Geologie",
+    "university": "Universiteit Leiden",
+    "urls": {
+      "partijwebsite": "https://fvd.nl/kandidatenlijst",
+      "LinkedIn": "https://www.linkedin.com/in/ralf-dekker-27153a148/"
     }
   },
   {
@@ -34224,6 +34537,12 @@
           "adressendichtheid": "4994"
         }
       }
+    },
+    "vinddebeta": true,
+    "study": "Technische bedrijfskunde",
+    "university": "Universiteit Twente",
+    "urls": {
+      "partijwebsite": "https://fvd.nl/kandidatenlijst"
     }
   },
   {
@@ -34362,6 +34681,13 @@
           "adressendichtheid": "4994"
         }
       }
+    },
+    "vinddebeta": true,
+    "study": "Werktuigbouwkunde",
+    "university": "Avans Hogeschool",
+    "urls": {
+      "partijwebsite": "https://fvd.nl/kandidatenlijst",
+      "LinkedIn": "https://nl.linkedin.com/in/massimo-etalle-11b765148"
     }
   },
   {
@@ -35255,6 +35581,13 @@
           "adressendichtheid": "745"
         }
       }
+    },
+    "vinddebeta": true,
+    "study": "Applied Mathematics",
+    "university": "Universiteit van Twente",
+    "urls": {
+      "partijwebsite": "https://fvd.nl/kandidatenlijst",
+      "LinkedIn": "https://www.linkedin.com/in/peter-vermaas-682005a7/?originalSubdomain=nl"
     }
   },
   {
@@ -36427,6 +36760,13 @@
         "woonplaats": "Elspeet",
         "partij_naam": "Staatkundig Gereformeerde Partij (SGP)"
       }
+    },
+    "vinddebeta": true,
+    "study": "Civil Engineering",
+    "university": "Universiteit Twente",
+    "urls": {
+      "partijwebsite": "https://sgp.nl/partij/onze-mensen/chris-stoffer-tk25",
+      "LinkedIn": "https://www.linkedin.com/in/chris-stoffer-b9692011/"
     }
   },
   {
@@ -37330,6 +37670,13 @@
         "woonplaats": "Genemuiden",
         "partij_naam": "Staatkundig Gereformeerde Partij (SGP)"
       }
+    },
+    "vinddebeta": true,
+    "study": "Werktuigbouwkunde",
+    "university": "Hoornbeeck College",
+    "urls": {
+      "partijwebsite": "https://sgp.nl/partij/onze-mensen/maarten-slingerland-tk25",
+      "LinkedIn": "https://www.linkedin.com/in/maarten-slingerland-39b29747/"
     }
   },
   {
@@ -37976,6 +38323,13 @@
         "woonplaats": "Wekerom",
         "partij_naam": "Staatkundig Gereformeerde Partij (SGP)"
       }
+    },
+    "vinddebeta": true,
+    "study": "Physics & Business",
+    "university": "Hogeschool Saxion",
+    "urls": {
+      "partijwebsite": "https://sgp.nl/partij/onze-mensen/arnold-versteeg",
+      "LinkedIn": "https://www.linkedin.com/in/arnoldversteeg/"
     }
   },
   {
@@ -38195,6 +38549,13 @@
         "woonplaats": "Barneveld",
         "partij_naam": "Staatkundig Gereformeerde Partij (SGP)"
       }
+    },
+    "vinddebeta": true,
+    "study": "Veeteelt",
+    "university": "Universiteit Wageningen",
+    "urls": {
+      "partijwebsite": "https://sgp.nl/partij/onze-mensen/leendert-de-knegt-tk25",
+      "LinkedIn": "https://www.linkedin.com/in/leendert-de-knegt-7b907012/"
     }
   },
   {
@@ -38652,6 +39013,13 @@
         "woonplaats": "Staphorst",
         "partij_naam": "Staatkundig Gereformeerde Partij (SGP)"
       }
+    },
+    "vinddebeta": true,
+    "study": "Werktuigbouwkunde",
+    "university": "Universiteit Twente",
+    "urls": {
+      "partijwebsite": "https://sgp.nl/partij/onze-mensen/lubbert-talen-tk25",
+      "LinkedIn": "https://www.linkedin.com/in/lubberttalen/"
     }
   },
   {
@@ -38798,6 +39166,13 @@
         "woonplaats": "Doetinchem",
         "partij_naam": "Staatkundig Gereformeerde Partij (SGP)"
       }
+    },
+    "vinddebeta": true,
+    "study": "Gebouw Gebonden Installatietechniek",
+    "university": "Hogeschool van Arnhem en Nijmegen",
+    "urls": {
+      "partijwebsite": "https://sgp.nl/partij/onze-mensen/henk-bulten",
+      "LinkedIn": "https://www.linkedin.com/in/henk-bulten-718a948b/"
     }
   },
   {
@@ -38844,6 +39219,13 @@
           "adressendichtheid": "885"
         }
       }
+    },
+    "vinddebeta": true,
+    "study": "Civil Engineering",
+    "university": "HAN University of Applied Sciences",
+    "urls": {
+      "partijwebsite": "https://sgp.nl/partij/onze-mensen/jan-top-tk25",
+      "LinkedIn": "https://www.linkedin.com/in/jan-top-b99a646/"
     }
   },
   {
@@ -38990,6 +39372,13 @@
           "adressendichtheid": "458"
         }
       }
+    },
+    "vinddebeta": true,
+    "study": "Operationele Technologie",
+    "university": "Hogeschool Utrecht",
+    "urls": {
+      "partijwebsite": "https://sgp.nl/partij/onze-mensen/lourens-van-bruchem-tk25",
+      "LinkedIn": "https://www.linkedin.com/in/lourens-van-bruchem-41aaab14/"
     }
   },
   {
@@ -39036,6 +39425,13 @@
           "adressendichtheid": "932"
         }
       }
+    },
+    "vinddebeta": true,
+    "study": "Land en Watermanagement",
+    "university": "Van Hall Larenstein University of Applied Sciences",
+    "urls": {
+      "partijwebsite": "https://sgp.nl/partij/onze-mensen/bertrick-van-den-dikkenberg-tk25",
+      "LinkedIn": "https://www.linkedin.com/in/bertrickvandendikkenberg/"
     }
   },
   {
@@ -39155,6 +39551,13 @@
           "adressendichtheid": "932"
         }
       }
+    },
+    "vinddebeta": true,
+    "study": "Civil Engineering",
+    "university": "Van Hall Larenstein University of Applied Sciences",
+    "urls": {
+      "partijwebsite": "https://sgp.nl/partij/onze-mensen/gert-van-laar-tk25",
+      "LinkedIn": "https://www.linkedin.com/in/gert-van-laar-a7b39082/"
     }
   },
   {
@@ -39504,6 +39907,13 @@
           "adressendichtheid": "393"
         }
       }
+    },
+    "vinddebeta": true,
+    "study": "Horticultral Technology",
+    "university": "Rijks Hogere Tuinbouwschool Utrecht & Wageningen Universiteir",
+    "urls": {
+      "partijwebsite": "https://sgp.nl/partij/onze-mensen/jan-lock-tk25",
+      "LinkedIn": "https://www.linkedin.com/in/jan-lock-95519217/"
     }
   },
   {
@@ -39550,6 +39960,13 @@
           "adressendichtheid": "876"
         }
       }
+    },
+    "vinddebeta": true,
+    "study": "Civil Engineering",
+    "university": "Hogeschool Zeeland",
+    "urls": {
+      "partijwebsite": "https://sgp.nl/partij/onze-mensen/joan-van-burg-tk25",
+      "LinkedIn": "https://www.linkedin.com/in/joan-van-burg-b7a29557/"
     }
   },
   {
@@ -39596,6 +40013,13 @@
           "adressendichtheid": "900"
         }
       }
+    },
+    "vinddebeta": true,
+    "study": "Wiskunde en Toepassingen",
+    "university": "Utrecht University",
+    "urls": {
+      "partijwebsite": "https://sgp.nl/partij/onze-mensen/kees-vermaat-tk25",
+      "LinkedIn": "https://www.linkedin.com/in/kees-vermaat-742927b6/"
     }
   },
   {
@@ -39688,6 +40112,13 @@
           "adressendichtheid": "4012"
         }
       }
+    },
+    "vinddebeta": true,
+    "study": "Bouwkunde",
+    "university": "Windesheim",
+    "urls": {
+      "partijwebsite": "https://sgp.nl/partij/onze-mensen/gerbrand-van-hoef",
+      "LinkedIn": "https://www.linkedin.com/in/gerbrand-van-hoef-84a082159/"
     }
   },
   {
@@ -40107,6 +40538,13 @@
         "woonplaats": "Bergentheim",
         "partij_naam": "ChristenUnie"
       }
+    },
+    "vinddebeta": true,
+    "study": "Land- and watermanagement",
+    "university": "Van Hall Larenstein University of Applied Sciences",
+    "urls": {
+      "partijwebsite": "https://www.christenunie.nl/mensen/alwin-te-rietstap",
+      "LinkedIn": "https://www.linkedin.com/in/alwin-te-rietstap-15bb2b28/"
     }
   },
   {
@@ -40810,6 +41248,13 @@
           "adressendichtheid": "2711"
         }
       }
+    },
+    "vinddebeta": true,
+    "study": "Technische bedrijfskunde / bouwkunde",
+    "university": "Technische Universiteit Eindhoven",
+    "urls": {
+      "partijwebsite": "https://www.christenunie.nl/mensen/christian-van-der-krift",
+      "LinkedIn": "https://www.linkedin.com/in/christian-van-der-krift-phd/"
     }
   },
   {
@@ -40883,6 +41328,13 @@
         "woonplaats": "Heteren",
         "partij_naam": "ChristenUnie"
       }
+    },
+    "vinddebeta": true,
+    "study": "Tropical forestry",
+    "university": "Wageningen University & Research",
+    "urls": {
+      "partijwebsite": "https://www.christenunie.nl/mensen/judith-westerink-petersen",
+      "LinkedIn": "https://www.linkedin.com/in/judith-westerink-61869525/"
     }
   },
   {
@@ -41160,6 +41612,13 @@
         "woonplaats": "Groningen",
         "partij_naam": "ChristenUnie"
       }
+    },
+    "vinddebeta": true,
+    "study": "Econometrie",
+    "university": "Erasmus Universiteit Rotterdam",
+    "urls": {
+      "partijwebsite": "https://www.christenunie.nl/mensen/mark-treurniet",
+      "LinkedIn": "https://www.linkedin.com/in/mark-treurniet"
     }
   },
   {
@@ -41701,6 +42160,13 @@
           "adressendichtheid": "1443"
         }
       }
+    },
+    "vinddebeta": true,
+    "study": "Technische Bedrijfskunde",
+    "university": "Haagse Hogeschool",
+    "urls": {
+      "partijwebsite": "https://www.christenunie.nl/mensen/wim-voskamp",
+      "LinkedIn": "https://www.linkedin.com/in/wimvoskamp"
     }
   },
   {
@@ -42478,6 +42944,13 @@
           "adressendichtheid": "4994"
         }
       }
+    },
+    "vinddebeta": true,
+    "study": "Natuur- en sterrenkunde",
+    "university": "Universiteit Utrecht",
+    "urls": {
+      "partijwebsite": "https://www.christenunie.nl/mensen/cees-dekker",
+      "LinkedIn": "https://www.linkedin.com/in/cees-dekker-604642302"
     }
   },
   {
@@ -42524,6 +42997,13 @@
           "adressendichtheid": "6096"
         }
       }
+    },
+    "vinddebeta": true,
+    "study": "Tropisch Landgebruik",
+    "university": "Wageningen University & Research",
+    "urls": {
+      "partijwebsite": "https://www.christenunie.nl/mensen/jurjen-ten-brinke",
+      "LinkedIn": "https://www.linkedin.com/in/jurjen-ten-brinke-8378a827b"
     }
   },
   {
@@ -43211,6 +43691,13 @@
           "adressendichtheid": "2187"
         }
       }
+    },
+    "vinddebeta": true,
+    "study": "Computer Science",
+    "university": "TU Twente",
+    "urls": {
+      "partijwebsite": "https://voltnederland.org/mensen/11-erik-kemp",
+      "LinkedIn": "https://www.linkedin.com/in/erikkemp/"
     }
   },
   {
@@ -43967,6 +44454,13 @@
           "adressendichtheid": "1751"
         }
       }
+    },
+    "vinddebeta": true,
+    "study": "Business Informatics",
+    "university": "HZ University of Applied Sciences",
+    "urls": {
+      "partijwebsite": "https://voltnederland.org/mensen/27-leslie-scherbeijn",
+      "LinkedIn": "https://www.linkedin.com/in/lesliescherbeijn/"
     }
   },
   {
@@ -44546,6 +45040,13 @@
           "adressendichtheid": "6096"
         }
       }
+    },
+    "vinddebeta": true,
+    "study": "Informatica & Econometrie",
+    "university": "UvA & VU Amsterdam",
+    "urls": {
+      "partijwebsite": "https://voltnederland.org/mensen/39-mark-croes",
+      "LinkedIn": "https://www.linkedin.com/in/markcroes/"
     }
   },
   {
@@ -44638,6 +45139,13 @@
           "adressendichtheid": "1616"
         }
       }
+    },
+    "vinddebeta": true,
+    "study": "Biomedische wetenschappen",
+    "university": "Leiden University",
+    "urls": {
+      "partijwebsite": "https://voltnederland.org/mensen/41-giovanni-hagen",
+      "LinkedIn": "https://www.linkedin.com/in/giovannihagen/"
     }
   },
   {
@@ -45222,6 +45730,13 @@
         "woonplaats": "Amsterdam",
         "partij_naam": "Nieuw Sociaal Contract"
       }
+    },
+    "vinddebeta": true,
+    "study": "Milieuwetenschappen, Ecologie en Natuurbescherming",
+    "university": "University of Durham, University College London",
+    "urls": {
+      "partijwebsite": "https://ja21.nl/onze-mensen",
+      "LinkedIn": "https://www.linkedin.com/in/diederik-boomsma-0494b31"
     }
   },
   {
@@ -46878,6 +47393,13 @@
         "woonplaats": "Bilthoven",
         "partij_naam": "JA21"
       }
+    },
+    "vinddebeta": true,
+    "study": "Biochemistry, Molecular Biology",
+    "university": "Universiteit Wageningen",
+    "urls": {
+      "partijwebsite": "https://ja21.nl/onze-mensen",
+      "LinkedIn": "https://www.linkedin.com/in/hanskovi/?locale=nl"
     }
   },
   {
@@ -54255,6 +54777,12 @@
         "woonplaats": "Maastricht",
         "partij_naam": "50PLUS"
       }
+    },
+    "vinddebeta": true,
+    "study": "Bestuurlijke informatiekunde",
+    "university": "Katholieke Universiteit Brabant",
+    "urls": {
+      "LinkedIn": "https://www.linkedin.com/in/bennie-van-est-58ba8a104/"
     }
   },
   {
@@ -60947,6 +61475,13 @@
           "adressendichtheid": "900"
         }
       }
+    },
+    "vinddebeta": true,
+    "study": "Bouwtechniek",
+    "university": "Hogeschool van Rotterdam",
+    "urls": {
+      "partijwebsite": "https://www.christenunie.nl/mensen/elizabeth-bronkhorst-van-poortvliet",
+      "LinkedIn": "https://www.linkedin.com/in/elizabeth-bronkhorst-van-poortvliet-48968819"
     }
   },
   {
