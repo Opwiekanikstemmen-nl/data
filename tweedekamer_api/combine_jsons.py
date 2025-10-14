@@ -135,7 +135,7 @@ fractie_json = pd.read_json('source_jsons/fractie.json')
 # Merge 'fractiezetel_persoon_json' and 'fractiezetel_json' on 'FractieZetel_Id'
 merged_df = pd.merge(fractiezetel_persoon_json, fractiezetel_json, left_on='FractieZetel_Id', right_on='Id')
 
-    # Merge 'merged_df' and 'fractie_json' on 'Fractie_Id'
+# Merge 'merged_df' and 'fractie_json' on 'Fractie_Id'
 merged_df = pd.merge(merged_df, fractie_json, left_on='Fractie_Id', right_on='Id')
 
 # Save the original 'Van' values
