@@ -15,8 +15,9 @@
 # "https://gegevensmagazijn.tweedekamer.nl/OData/v4/2.0/CommissieZetel?$skip="
 # "https://gegevensmagazijn.tweedekamer.nl/OData/v4/2.0/Commissie?$skip="
 
-import urllib, json
+import json
 import os
+from urllib import request
 from random import randint
 from time import sleep
 
@@ -31,7 +32,7 @@ n = 0
 while entries_n >= 250:
     url = "https://gegevensmagazijn.tweedekamer.nl/OData/v4/2.0/Commissie?$skip=" + str(n);
     print(url)
-    with urllib.request.urlopen(url) as response:
+    with request.urlopen(url) as response:
         s = response.read()
     data = json.loads(s)["value"]
     entries_n = len(data)
@@ -41,7 +42,7 @@ while entries_n >= 250:
 
 data_json = json.dumps(data_list)
 
-with open("commissie.json", "w") as outfile:
+with open("source_jsons/commissie.json", "w") as outfile:
     outfile.write(data_json)
     
 print("Success!")
