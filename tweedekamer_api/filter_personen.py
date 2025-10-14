@@ -9,7 +9,7 @@ abspath = os.path.abspath(__file__)
 dname = os.path.dirname(abspath)
 os.chdir(dname)
 
-f = open('personen.json')
+f = open('source_jsons/personen.json')
 personen_json = json.load(f)
 
 personen_filtered = []
