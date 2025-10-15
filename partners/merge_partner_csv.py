@@ -30,8 +30,10 @@ with open(source, 'r') as f:
 		for kandidaat in kandidaten:
 			if kandidaat['verkiezingen']['tk2025']['lijstnummer'] == int(person[2]) and kandidaat['naam'] == person[1]:
 				kandidaat['vinddebeta'] = True
-				kandidaat['study'] = person[3]
-				kandidaat['university'] = person[4]
+				kandidaat['studies'] = [{
+					'study': person[3],
+					'university': person[4]
+				}]
 
 				try:
 					if person[5] and 'partijwebsite' not in kandidaat['urls']:

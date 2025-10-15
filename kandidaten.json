@@ -418,12 +418,16 @@
       }
     },
     "vinddebeta": true,
-    "study": "Technische Bedrijfskunde",
-    "university": "Technische Universiteit Eindhoven",
     "urls": {
       "partijwebsite": "https://www.pvv.nl/tweede-kamerfractie.html#:~:text=Teun%20van%20Dijck",
       "LinkedIn": "https://www.linkedin.com/in/antoine-van-dijck-6b7343131"
-    }
+    },
+    "studies": [
+      {
+        "study": "Technische Bedrijfskunde",
+        "university": "Technische Universiteit Eindhoven"
+      }
+    ]
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Marjolein_M.H.M._Faber",
@@ -2941,8 +2945,12 @@
       "LinkedIn": "https://www.linkedin.com/in/jan-valize-a4a07977/"
     },
     "vinddebeta": true,
-    "study": "Bedrijfskundige informatica en logistiek en technische vervoerskunde",
-    "university": "Fontys Hogeschool Venlo"
+    "studies": [
+      {
+        "study": "Bedrijfskundige informatica en logistiek en technische vervoerskunde",
+        "university": "Fontys Hogeschool Venlo"
+      }
+    ]
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Chris_C.J._Faddegon",
@@ -3017,12 +3025,16 @@
       }
     },
     "vinddebeta": true,
-    "study": "Werktuigbouwkunde",
-    "university": "Technische Hogeschool Delft",
     "urls": {
       "partijwebsite": "https://www.pvv.nl/tweede-kamerfractie.html#:~:text=Chris%20Faddegon",
       "LinkedIn": "https://www.linkedin.com/in/chris-faddegon-86a4661/"
-    }
+    },
+    "studies": [
+      {
+        "study": "Werktuigbouwkunde",
+        "university": "Technische Hogeschool Delft"
+      }
+    ]
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Canice_C.N.L._Clermonts",
@@ -3143,11 +3155,15 @@
       }
     },
     "vinddebeta": true,
-    "study": "Theoretische scheikunde",
-    "university": "Universiteit Utrecht",
     "urls": {
       "partijwebsite": "https://www.pvv.nl/tweede-kamerfractie.html#:~:text=Nico%20Uppelschoten"
-    }
+    },
+    "studies": [
+      {
+        "study": "Theoretische scheikunde",
+        "university": "Universiteit Utrecht"
+      }
+    ]
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Peter_J.P._Haasen",
@@ -5633,13 +5649,17 @@
       }
     },
     "vinddebeta": true,
-    "study": "Mathematics & Foundations of Computer Science",
-    "university": "University of Oxford",
     "urls": {
       "partijwebsite": "https://groenlinkspvda.nl/onze-mensen/kandidaten-tk25/luc-stultiens-2/",
       "LinkedIn": "https://www.linkedin.com/in/lucstultiens/"
     },
-    "leeftijd": "32"
+    "leeftijd": "32",
+    "studies": [
+      {
+        "study": "Mathematics & Foundations of Computer Science",
+        "university": "University of Oxford"
+      }
+    ]
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Habtamu_H.E._Hoop",
@@ -6602,9 +6622,13 @@
       "LinkedIn": "https://www.linkedin.com/in/geert-gabri%C3%ABls-364780335/"
     },
     "vinddebeta": true,
-    "study": "Aardwetenschappen",
-    "university": "Universiteit Utrecht",
-    "leeftijd": "45"
+    "leeftijd": "45",
+    "studies": [
+      {
+        "study": "Aardwetenschappen",
+        "university": "Universiteit Utrecht"
+      }
+    ]
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Jimme_J._Nordkamp",
@@ -6730,14 +6754,18 @@
       }
     },
     "vinddebeta": true,
-    "study": "Technische Bedrijfskunde",
-    "university": "TU Eindhoven",
     "urls": {
       "partijwebsite": "https://groenlinkspvda.nl/onze-mensen/kandidaten-tk25/jade-van-der-linden/",
       "LinkedIn": "https://www.linkedin.com/in/jade-van-der-linden/",
       "Instagram": "https://www.instagram.com/jade.vd.linden/"
     },
-    "leeftijd": "28"
+    "leeftijd": "28",
+    "studies": [
+      {
+        "study": "Technische Bedrijfskunde",
+        "university": "TU Eindhoven"
+      }
+    ]
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Floor_F.J._Roduner",
@@ -6785,13 +6813,17 @@
       }
     },
     "vinddebeta": true,
-    "study": "Sterrenkunde",
-    "university": "Universiteit Leiden",
     "urls": {
       "partijwebsite": "https://groenlinkspvda.nl/onze-mensen/kandidaten-tk25/floor-roduner/",
       "LinkedIn": "https://www.linkedin.com/in/floor-roduner-0763534/"
     },
-    "leeftijd": "44"
+    "leeftijd": "44",
+    "studies": [
+      {
+        "study": "Sterrenkunde",
+        "university": "Universiteit Leiden"
+      }
+    ]
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Daniëlle_D.H._Hirsch",
@@ -8168,13 +8200,17 @@
       }
     },
     "vinddebeta": true,
-    "study": "Sustainable food & agriculture",
-    "university": "Universiteit Wageningen",
     "urls": {
       "partijwebsite": "https://groenlinkspvda.nl/onze-mensen/kandidaten-tk25/lara-sibbing/",
       "LinkedIn": "https://www.linkedin.com/in/larasibbing/details/education/"
     },
-    "leeftijd": "34"
+    "leeftijd": "34",
+    "studies": [
+      {
+        "study": "Sustainable food & agriculture",
+        "university": "Universiteit Wageningen"
+      }
+    ]
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Naomi_N.M._Woltring",
@@ -8633,14 +8669,18 @@
       }
     },
     "vinddebeta": true,
-    "study": "Econometrics & Data Science",
-    "university": "Vrije Universiteit Amsterdam",
     "urls": {
       "partijwebsite": "https://groenlinkspvda.nl/onze-mensen/kandidaten-tk25/jan-daenen/",
       "LinkedIn": "https://www.linkedin.com/in/jan-daenen-6a6197134/",
       "Instagram": "https://www.instagram.com/jan_daenen/"
     },
-    "leeftijd": "29"
+    "leeftijd": "29",
+    "studies": [
+      {
+        "study": "Econometrics & Data Science",
+        "university": "Vrije Universiteit Amsterdam"
+      }
+    ]
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Fenna_F._Bolding",
@@ -11326,13 +11366,17 @@
       }
     },
     "vinddebeta": true,
-    "study": "Engineering en beleidsanalyse ",
-    "university": "TU Delft",
     "urls": {
       "partijwebsite": "https://www.vvd.nl/profielen/peter-de-groot-2/",
       "LinkedIn": "https://www.linkedin.com/in/peterdegroot"
     },
-    "leeftijd": "45"
+    "leeftijd": "45",
+    "studies": [
+      {
+        "study": "Engineering en beleidsanalyse ",
+        "university": "TU Delft"
+      }
+    ]
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Harry_H._Bevers",
@@ -12418,13 +12462,17 @@
       }
     },
     "vinddebeta": true,
-    "study": "Bewegingswetenschappen",
-    "university": "Rijksuniversiteit Groningen",
     "urls": {
       "partijwebsite": "https://www.vvd.nl/profielen/simone-richardson-3/",
       "LinkedIn": "https://www.linkedin.com/in/richardsonsimone"
     },
-    "leeftijd": "53"
+    "leeftijd": "53",
+    "studies": [
+      {
+        "study": "Bewegingswetenschappen",
+        "university": "Rijksuniversiteit Groningen"
+      }
+    ]
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Joost_J._Hoebink",
@@ -12583,9 +12631,13 @@
       "LinkedIn": "https://www.linkedin.com/in/martijnbuijsse"
     },
     "vinddebeta": true,
-    "study": "Werktuigbouwkunde",
-    "university": "TU Eindhoven",
-    "leeftijd": "44"
+    "leeftijd": "44",
+    "studies": [
+      {
+        "study": "Werktuigbouwkunde",
+        "university": "TU Eindhoven"
+      }
+    ]
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Peter_P.W._Kessel",
@@ -13324,13 +13376,17 @@
       }
     },
     "vinddebeta": true,
-    "study": "Technische Bestuurskunde/Systems Engineering, Policy Analysis and management",
-    "university": "TU Delft",
     "urls": {
       "partijwebsite": "https://www.vvd.nl/profielen/mirjam-nelisse-3/",
       "LinkedIn": "https://www.linkedin.com/in/mirjamnelisse/"
     },
-    "leeftijd": "48"
+    "leeftijd": "48",
+    "studies": [
+      {
+        "study": "Technische Bestuurskunde/Systems Engineering, Policy Analysis and management",
+        "university": "TU Delft"
+      }
+    ]
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Jeroen_R.J._Verwoort",
@@ -15720,14 +15776,18 @@
       }
     },
     "vinddebeta": true,
-    "study": "Informatiekunde",
-    "university": "Universiteit Utrecht",
     "urls": {
       "partijwebsite": "https://partijnieuwsociaalcontract.nl/kandidaten/9-thomas-beukema",
       "LinkedIn": "https://www.linkedin.com/in/thomasbeukema/",
       "Instagram": "https://www.instagram.com/thomasbeukema_/"
     },
-    "leeftijd": "24"
+    "leeftijd": "24",
+    "studies": [
+      {
+        "study": "Informatiekunde",
+        "university": "Universiteit Utrecht"
+      }
+    ]
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Simon_S._Geleijnse",
@@ -17338,13 +17398,17 @@
       }
     },
     "vinddebeta": true,
-    "study": "Industrieel Ontwerpen",
-    "university": "TU Delft",
     "urls": {
       "partijwebsite": "https://d66.nl/mensen/anne-marijke-podt/",
       "LinkedIn": "https://www.linkedin.com/in/annemarijkepodt/"
     },
-    "leeftijd": "50"
+    "leeftijd": "50",
+    "studies": [
+      {
+        "study": "Industrieel Ontwerpen",
+        "university": "TU Delft"
+      }
+    ]
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Joost_J.C._Sneller",
@@ -18623,13 +18687,17 @@
       }
     },
     "vinddebeta": true,
-    "study": "Biomedical Engineering",
-    "university": "TU Eindhoven",
     "urls": {
       "partijwebsite": "https://d66.nl/venlo/mensen/marc-vervuurt/",
       "LinkedIn": "https://www.linkedin.com/in/marcvervuurt/details/education/"
     },
-    "leeftijd": "31"
+    "leeftijd": "31",
+    "studies": [
+      {
+        "study": "Biomedical Engineering",
+        "university": "TU Eindhoven"
+      }
+    ]
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Dion_D.J._Huidekooper",
@@ -18845,13 +18913,17 @@
       }
     },
     "vinddebeta": true,
-    "study": "Luchtvaart- en Ruimtevaartechniek",
-    "university": "TU Delft",
     "urls": {
       "partijwebsite": "https://d66.nl/nieuws/advieslijst-tweede-kamerverkiezing-2025/",
       "LinkedIn": "https://www.linkedin.com/in/michellejagtenberg/"
     },
-    "leeftijd": "32"
+    "leeftijd": "32",
+    "studies": [
+      {
+        "study": "Luchtvaart- en Ruimtevaartechniek",
+        "university": "TU Delft"
+      }
+    ]
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Mahjoub_M._Mathlouti",
@@ -19279,14 +19351,18 @@
       }
     },
     "vinddebeta": true,
-    "study": "Delta Management",
-    "university": "HZ University of Applied Sciences",
     "urls": {
       "partijwebsite": "https://d66.nl/nieuws/advieslijst-tweede-kamerverkiezing-2025/",
       "LinkedIn": "https://www.linkedin.com/in/ockerghering/",
       "Instagram": "https://www.instagram.com/ockerghering/"
     },
-    "leeftijd": "27"
+    "leeftijd": "27",
+    "studies": [
+      {
+        "study": "Delta Management",
+        "university": "HZ University of Applied Sciences"
+      }
+    ]
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Elze_E._Woudstra",
@@ -19647,13 +19723,17 @@
       }
     },
     "vinddebeta": true,
-    "study": "Bouwkunde / Structural Engineering",
-    "university": "Hanze / Amsterdam University of Applied Sciences",
     "urls": {
       "partijwebsite": "https://d66.nl/nieuws/advieslijst-tweede-kamerverkiezing-2025/",
       "LinkedIn": "https://www.linkedin.com/in/thom-berends-5a214188/"
     },
-    "leeftijd": "31"
+    "leeftijd": "31",
+    "studies": [
+      {
+        "study": "Bouwkunde / Structural Engineering",
+        "university": "Hanze / Amsterdam University of Applied Sciences"
+      }
+    ]
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Remy_R.J.M._Maessen",
@@ -20032,13 +20112,17 @@
       }
     },
     "vinddebeta": true,
-    "study": "Natuurkunde",
-    "university": "Universiteit Utrecht",
     "urls": {
       "partijwebsite": "https://d66.nl/mensen/robbert-dijkgraaf/",
       "LinkedIn": "https://www.linkedin.com/in/robbertdijkgraaf/"
     },
-    "leeftijd": "65"
+    "leeftijd": "65",
+    "studies": [
+      {
+        "study": "Natuurkunde",
+        "university": "Universiteit Utrecht"
+      }
+    ]
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Sandra_S.M.W._Phlippen",
@@ -20360,12 +20444,16 @@
       }
     },
     "vinddebeta": true,
-    "study": "Ingenieur Veehouderij",
-    "university": "Niet bekend",
     "urls": {
       "partijwebsite": "https://boerburgerbeweging.nl/kandidaten/henk-vermeer/"
     },
-    "leeftijd": "59"
+    "leeftijd": "59",
+    "studies": [
+      {
+        "study": "Ingenieur Veehouderij",
+        "university": "Niet bekend"
+      }
+    ]
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Femke_F.M._Wiersma",
@@ -20981,13 +21069,17 @@
       }
     },
     "vinddebeta": true,
-    "study": "Marine and Navigation Engineer",
-    "university": "Hogeschool van Amsterdam",
     "urls": {
       "partijwebsite": "https://boerburgerbeweging.nl/kandidaten/robert-tieman/",
       "LinkedIn": "https://www.linkedin.com/in/robert-tieman/"
     },
-    "leeftijd": "49"
+    "leeftijd": "49",
+    "studies": [
+      {
+        "study": "Marine and Navigation Engineer",
+        "university": "Hogeschool van Amsterdam"
+      }
+    ]
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Jean_J.F._Rummenie",
@@ -21062,13 +21154,17 @@
       }
     },
     "vinddebeta": true,
-    "study": "Agricultural ingenieur",
-    "university": "Wageningen University & Research",
     "urls": {
       "partijwebsite": "https://boerburgerbeweging.nl/kandidaten/jean-rummenie/",
       "LinkedIn": "https://www.linkedin.com/in/jean-rummenie-6a753b4/"
     },
-    "leeftijd": "72"
+    "leeftijd": "72",
+    "studies": [
+      {
+        "study": "Agricultural ingenieur",
+        "university": "Wageningen University & Research"
+      }
+    ]
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Eddie_E._Marum",
@@ -21378,13 +21474,17 @@
       }
     },
     "vinddebeta": true,
-    "study": "Tropisch Landgebruik & Facility Management",
-    "university": "Wageningen University & Research",
     "urls": {
       "partijwebsite": "https://boerburgerbeweging.nl/kandidaten/haidy-hankers/",
       "LinkedIn": "https://www.linkedin.com/in/haidy-hankers-a89695107/"
     },
-    "leeftijd": "49"
+    "leeftijd": "49",
+    "studies": [
+      {
+        "study": "Tropisch Landgebruik & Facility Management",
+        "university": "Wageningen University & Research"
+      }
+    ]
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Marc_H.C._Sprik",
@@ -23152,13 +23252,17 @@
       }
     },
     "vinddebeta": true,
-    "study": "Natuurkunde",
-    "university": "Leiden Universiteit",
     "urls": {
       "partijwebsite": "https://www.cda.nl/campagne/henri-bontenbal/",
       "LinkedIn": "https://www.linkedin.com/in/henribontenbal/"
     },
-    "leeftijd": "42"
+    "leeftijd": "42",
+    "studies": [
+      {
+        "study": "Natuurkunde",
+        "university": "Leiden Universiteit"
+      }
+    ]
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Hanneke_H.S._Steen",
@@ -23338,13 +23442,17 @@
       }
     },
     "vinddebeta": true,
-    "study": "Bouwtechnische bedrijfskunde etc.",
-    "university": "Hogeschool Utrecht",
     "urls": {
       "partijwebsite": "https://www.cda.nl/mensen/derk-boswijk/",
       "LinkedIn": "https://www.linkedin.com/in/derk-boswijk-b8279111/"
     },
-    "leeftijd": "36"
+    "leeftijd": "36",
+    "studies": [
+      {
+        "study": "Bouwtechnische bedrijfskunde etc.",
+        "university": "Hogeschool Utrecht"
+      }
+    ]
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Inge_I._Dijk",
@@ -23694,10 +23802,10 @@
     },
     "urls": {
       "partijwebsite": "https://www.cda.nl/mensen/kandidaat-judith-buhler",
-      "linkedin": "https://www.linkedin.com/in/judithbuhler/",
-      "facebook": "https://www.facebook.com/judith.buhler.90",
-      "instagram": "https://www.instagram.com/judithbuhler/",
-      "x": "https://x.com/judithbuhlerCDA"
+      "LinkedIn": "https://www.linkedin.com/in/judithbuhler/",
+      "Facebook": "https://www.facebook.com/judith.buhler.90",
+      "Instagram": "https://www.instagram.com/judithbuhler/",
+      "X": "https://x.com/judithbuhlerCDA"
     },
     "leeftijd": "53"
   },
@@ -24044,13 +24152,17 @@
       }
     },
     "vinddebeta": true,
-    "study": "Landbouw",
-    "university": "Aeres hogeschool Dronten",
     "urls": {
       "partijwebsite": "https://www.cda.nl/mensen/kandidaat-lucienne-boelsma/",
       "LinkedIn": "https://www.linkedin.com/in/lucienne-boelsma-hoekstra"
     },
-    "leeftijd": "53"
+    "leeftijd": "53",
+    "studies": [
+      {
+        "study": "Landbouw",
+        "university": "Aeres hogeschool Dronten"
+      }
+    ]
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Jan_Arie_J.C._Koorevaar",
@@ -24098,13 +24210,17 @@
       }
     },
     "vinddebeta": true,
-    "study": "Veehouderij",
-    "university": "Christelijke Agrarische hogeschool Dronten",
     "urls": {
       "partijwebsite": "https://www.cda.nl/mensen/kandidaat-jan-arie-koorevaar/",
       "LinkedIn": "https://www.linkedin.com/in/jan-arie-koorevaar-8042058"
     },
-    "leeftijd": "46"
+    "leeftijd": "46",
+    "studies": [
+      {
+        "study": "Veehouderij",
+        "university": "Christelijke Agrarische hogeschool Dronten"
+      }
+    ]
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Eveline_E.S._Tijmstra",
@@ -24670,13 +24786,17 @@
       }
     },
     "vinddebeta": true,
-    "study": "Bachelor of Agraric",
-    "university": "Christelijke Agrarische hogeschool Dronten",
     "urls": {
       "partijwebsite": "https://www.cda.nl/mensen/kandidaat-arjan-tolkamp/",
       "LinkedIn": "https://www.linkedin.com/in/arjan-tolkamp-b2865554/?originalSubdomain=nl"
     },
-    "leeftijd": "47"
+    "leeftijd": "47",
+    "studies": [
+      {
+        "study": "Bachelor of Agraric",
+        "university": "Christelijke Agrarische hogeschool Dronten"
+      }
+    ]
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Hemin_H._Hawezy",
@@ -25320,13 +25440,17 @@
       }
     },
     "vinddebeta": true,
-    "study": "Bouwkunde",
-    "university": "Hogeschool Rotterdam",
     "urls": {
       "partijwebsite": "https://www.cda.nl/mensen/kandidaat-yusuf-tuncer/",
       "LinkedIn": "https://www.linkedin.com/in/yusuftuncer/?originalSubdomain=nl"
     },
-    "leeftijd": "35"
+    "leeftijd": "35",
+    "studies": [
+      {
+        "study": "Bouwkunde",
+        "university": "Hogeschool Rotterdam"
+      }
+    ]
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/René_R._Vrugt",
@@ -26889,13 +27013,17 @@
       }
     },
     "vinddebeta": true,
-    "study": "Werktuigbouwkunde",
-    "university": "Fontys University of Applied Sciences",
     "urls": {
       "partijwebsite": "https://www.sp.nl/nieuws/sp-kandidatenlijst-voor-supersociaal-nederland",
       "LinkedIn": "https://www.linkedin.com/in/leroy-vossenberg-8235031ab/"
     },
-    "leeftijd": "31"
+    "leeftijd": "31",
+    "studies": [
+      {
+        "study": "Werktuigbouwkunde",
+        "university": "Fontys University of Applied Sciences"
+      }
+    ]
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Anne_A._Cramer",
@@ -27321,13 +27449,17 @@
       }
     },
     "vinddebeta": true,
-    "study": "Industrieel Ontwerpen",
-    "university": "TU Delft",
     "urls": {
       "partijwebsite": "https://www.sp.nl/nieuws/sp-kandidatenlijst-voor-supersociaal-nederland",
       "LinkedIn": "https://www.linkedin.com/in/lieke-van-rossum-7b23464/"
     },
-    "leeftijd": "42"
+    "leeftijd": "42",
+    "studies": [
+      {
+        "study": "Industrieel Ontwerpen",
+        "university": "TU Delft"
+      }
+    ]
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Madeleine_M.I._Boer",
@@ -27402,13 +27534,17 @@
       }
     },
     "vinddebeta": true,
-    "study": "Laboratoriumtechniek",
-    "university": "Rotterdam University of Applied Sciences",
     "urls": {
       "partijwebsite": "https://www.sp.nl/nieuws/sp-kandidatenlijst-voor-supersociaal-nederland",
       "LinkedIn": "https://www.linkedin.com/in/madeleine-boer-0680a882/"
     },
-    "leeftijd": "52"
+    "leeftijd": "52",
+    "studies": [
+      {
+        "study": "Laboratoriumtechniek",
+        "university": "Rotterdam University of Applied Sciences"
+      }
+    ]
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Mustapha_M._Eaisaouiyen",
@@ -27503,13 +27639,17 @@
       }
     },
     "vinddebeta": true,
-    "study": "Applied Physics",
-    "university": "TU Delft",
     "urls": {
       "partijwebsite": "https://www.sp.nl/nieuws/sp-kandidatenlijst-voor-supersociaal-nederland",
       "LinkedIn": "https://www.linkedin.com/in/joost-van-der-sluis/"
     },
-    "leeftijd": "47"
+    "leeftijd": "47",
+    "studies": [
+      {
+        "study": "Applied Physics",
+        "university": "TU Delft"
+      }
+    ]
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Sandra_S.N._Drost",
@@ -27557,13 +27697,17 @@
       }
     },
     "vinddebeta": true,
-    "study": "Biologie en Medisch laboratoriumonderzoek",
-    "university": "Saxion University of Applied Sciences",
     "urls": {
       "partijwebsite": "https://www.sp.nl/nieuws/sp-kandidatenlijst-voor-supersociaal-nederland",
       "LinkedIn": "https://www.linkedin.com/in/sandra-drost-58820467/"
     },
-    "leeftijd": "46"
+    "leeftijd": "46",
+    "studies": [
+      {
+        "study": "Biologie en Medisch laboratoriumonderzoek",
+        "university": "Saxion University of Applied Sciences"
+      }
+    ]
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Sam_S._Schwarz",
@@ -29005,13 +29149,17 @@
       }
     },
     "vinddebeta": true,
-    "study": "Biology Biochemistry",
-    "university": "Radboud University",
     "urls": {
       "partijwebsite": "https://www.sp.nl/nieuws/sp-kandidatenlijst-voor-supersociaal-nederland",
       "LinkedIn": "https://www.linkedin.com/in/theo-coşkun-292a20a/"
     },
-    "leeftijd": "74"
+    "leeftijd": "74",
+    "studies": [
+      {
+        "study": "Biology Biochemistry",
+        "university": "Radboud University"
+      }
+    ]
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Remine_R._Alberts-Oosterbaan",
@@ -31330,13 +31478,17 @@
       }
     },
     "vinddebeta": true,
-    "study": "Technische Bedrijfskunde",
-    "university": "Fontys Hogeschool",
     "urls": {
       "partijwebsite": "https://www.bewegingdenk.nl/tweede-kamerverkiezingen-2025/#:~:text=Omar%20Fkihi",
       "LinkedIn": "https://www.linkedin.com/in/omarfkihi/"
     },
-    "leeftijd": "45"
+    "leeftijd": "45",
+    "studies": [
+      {
+        "study": "Technische Bedrijfskunde",
+        "university": "Fontys Hogeschool"
+      }
+    ]
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Hakan_H._Ünal",
@@ -32543,9 +32695,13 @@
       "Instagram": "https://www.instagram.com/falco_van_hassel/"
     },
     "vinddebeta": true,
-    "study": "Animal Sciences",
-    "university": "Universiteit Wageningen",
-    "leeftijd": "25"
+    "leeftijd": "25",
+    "studies": [
+      {
+        "study": "Animal Sciences",
+        "university": "Universiteit Wageningen"
+      }
+    ]
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Debbie_D.D._Mathijsen",
@@ -32813,13 +32969,17 @@
       }
     },
     "vinddebeta": true,
-    "study": "Natuurwetenschap & Innovatiemanagement",
-    "university": "Universiteit Utrecht",
     "urls": {
       "partijwebsite": "https://www.partijvoordedieren.nl/personen/willemijn-stoffels",
       "LinkedIn": "https://www.linkedin.com/in/willemijnstoffels/"
     },
-    "leeftijd": "42"
+    "leeftijd": "42",
+    "studies": [
+      {
+        "study": "Natuurwetenschap & Innovatiemanagement",
+        "university": "Universiteit Utrecht"
+      }
+    ]
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Pinar_Z.P._Coşkun",
@@ -32968,13 +33128,17 @@
       }
     },
     "vinddebeta": true,
-    "study": "Milieutechnologie",
-    "university": "Van Hall Larenstein",
     "urls": {
       "partijwebsite": "https://www.partijvoordedieren.nl/personen/anjo-travaille",
       "LinkedIn": "https://www.linkedin.com/in/anjotravaillebovenkamers/"
     },
-    "leeftijd": "55"
+    "leeftijd": "55",
+    "studies": [
+      {
+        "study": "Milieutechnologie",
+        "university": "Van Hall Larenstein"
+      }
+    ]
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Freek_F._Bersch",
@@ -34476,9 +34640,13 @@
       "LinkedIn": "https://www.linkedin.com/in/vaniapn/"
     },
     "vinddebeta": true,
-    "study": "Biotechnologie",
-    "university": "Universiteit Wageningen",
-    "leeftijd": "25"
+    "leeftijd": "25",
+    "studies": [
+      {
+        "study": "Biotechnologie",
+        "university": "Universiteit Wageningen"
+      }
+    ]
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Jasper_J.M._Loo",
@@ -34632,13 +34800,17 @@
       }
     },
     "vinddebeta": true,
-    "study": "Econometrie",
-    "university": "Universiteit Tilburg",
     "urls": {
       "partijwebsite": "https://www.partijvoordedieren.nl/personen/judith-lammers",
       "LinkedIn": "https://www.linkedin.com/in/judithlammers/"
     },
-    "leeftijd": "49"
+    "leeftijd": "49",
+    "studies": [
+      {
+        "study": "Econometrie",
+        "university": "Universiteit Tilburg"
+      }
+    ]
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Peter_P.J._Lievense",
@@ -35237,14 +35409,18 @@
       }
     },
     "vinddebeta": true,
-    "study": "Scheikunde",
-    "university": "Utrecht University",
     "urls": {
       "partijwebsite": "https://fvd.nl/kandidatenlijst",
       "LinkedIn": "https://www.linkedin.com/in/lidewij-de-vos-59279b157/",
       "Instagram": "https://www.instagram.com/lidewij_devos/"
     },
-    "leeftijd": "28"
+    "leeftijd": "28",
+    "studies": [
+      {
+        "study": "Scheikunde",
+        "university": "Utrecht University"
+      }
+    ]
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Thierry_T.H.P._Baudet",
@@ -35433,13 +35609,17 @@
       }
     },
     "vinddebeta": true,
-    "study": "Geologie",
-    "university": "Universiteit Leiden",
     "urls": {
       "partijwebsite": "https://fvd.nl/kandidatenlijst",
       "LinkedIn": "https://www.linkedin.com/in/ralf-dekker-27153a148/"
     },
-    "leeftijd": "68"
+    "leeftijd": "68",
+    "studies": [
+      {
+        "study": "Geologie",
+        "university": "Universiteit Leiden"
+      }
+    ]
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Pepijn_P._Houwelingen",
@@ -35487,12 +35667,16 @@
       }
     },
     "vinddebeta": true,
-    "study": "Technische bedrijfskunde",
-    "university": "Universiteit Twente",
     "urls": {
       "partijwebsite": "https://fvd.nl/kandidatenlijst"
     },
-    "leeftijd": "45"
+    "leeftijd": "45",
+    "studies": [
+      {
+        "study": "Technische bedrijfskunde",
+        "university": "Universiteit Twente"
+      }
+    ]
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Peter_P._Duijvenvoorde",
@@ -35634,13 +35818,17 @@
       }
     },
     "vinddebeta": true,
-    "study": "Werktuigbouwkunde",
-    "university": "Avans Hogeschool",
     "urls": {
       "partijwebsite": "https://fvd.nl/kandidatenlijst",
       "LinkedIn": "https://nl.linkedin.com/in/massimo-etalle-11b765148"
     },
-    "leeftijd": "27"
+    "leeftijd": "27",
+    "studies": [
+      {
+        "study": "Werktuigbouwkunde",
+        "university": "Avans Hogeschool"
+      }
+    ]
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Milan_M._Schenk",
@@ -36584,13 +36772,17 @@
       }
     },
     "vinddebeta": true,
-    "study": "Applied Mathematics",
-    "university": "Universiteit van Twente",
     "urls": {
       "partijwebsite": "https://fvd.nl/kandidatenlijst",
       "LinkedIn": "https://www.linkedin.com/in/peter-vermaas-682005a7/?originalSubdomain=nl"
     },
-    "leeftijd": "38"
+    "leeftijd": "38",
+    "studies": [
+      {
+        "study": "Applied Mathematics",
+        "university": "Universiteit van Twente"
+      }
+    ]
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Yvonne_Y.W._Graaff",
@@ -37792,13 +37984,17 @@
       }
     },
     "vinddebeta": true,
-    "study": "Civil Engineering",
-    "university": "Universiteit Twente",
     "urls": {
       "partijwebsite": "https://sgp.nl/partij/onze-mensen/chris-stoffer-tk25",
       "LinkedIn": "https://www.linkedin.com/in/chris-stoffer-b9692011/"
     },
-    "leeftijd": "51"
+    "leeftijd": "51",
+    "studies": [
+      {
+        "study": "Civil Engineering",
+        "university": "Universiteit Twente"
+      }
+    ]
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Diederik_D.J.H._Dijk",
@@ -38718,13 +38914,17 @@
       }
     },
     "vinddebeta": true,
-    "study": "Werktuigbouwkunde",
-    "university": "Hoornbeeck College",
     "urls": {
       "partijwebsite": "https://sgp.nl/partij/onze-mensen/maarten-slingerland-tk25",
       "LinkedIn": "https://www.linkedin.com/in/maarten-slingerland-39b29747/"
     },
-    "leeftijd": "43"
+    "leeftijd": "43",
+    "studies": [
+      {
+        "study": "Werktuigbouwkunde",
+        "university": "Hoornbeeck College"
+      }
+    ]
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Wim_W.J._Duijn",
@@ -39378,13 +39578,17 @@
       }
     },
     "vinddebeta": true,
-    "study": "Physics & Business",
-    "university": "Hogeschool Saxion",
     "urls": {
       "partijwebsite": "https://sgp.nl/partij/onze-mensen/arnold-versteeg",
       "LinkedIn": "https://www.linkedin.com/in/arnoldversteeg/"
     },
-    "leeftijd": "53"
+    "leeftijd": "53",
+    "studies": [
+      {
+        "study": "Physics & Business",
+        "university": "Hogeschool Saxion"
+      }
+    ]
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Jan_J._Hartog",
@@ -39611,13 +39815,17 @@
       }
     },
     "vinddebeta": true,
-    "study": "Veeteelt",
-    "university": "Universiteit Wageningen",
     "urls": {
       "partijwebsite": "https://sgp.nl/partij/onze-mensen/leendert-de-knegt-tk25",
       "LinkedIn": "https://www.linkedin.com/in/leendert-de-knegt-7b907012/"
     },
-    "leeftijd": "56"
+    "leeftijd": "56",
+    "studies": [
+      {
+        "study": "Veeteelt",
+        "university": "Universiteit Wageningen"
+      }
+    ]
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Gert_G.R._Leeuwen",
@@ -40082,13 +40290,17 @@
       }
     },
     "vinddebeta": true,
-    "study": "Werktuigbouwkunde",
-    "university": "Universiteit Twente",
     "urls": {
       "partijwebsite": "https://sgp.nl/partij/onze-mensen/lubbert-talen-tk25",
       "LinkedIn": "https://www.linkedin.com/in/lubberttalen/"
     },
-    "leeftijd": "50"
+    "leeftijd": "50",
+    "studies": [
+      {
+        "study": "Werktuigbouwkunde",
+        "university": "Universiteit Twente"
+      }
+    ]
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Jan_J._Baijense",
@@ -40237,13 +40449,17 @@
       }
     },
     "vinddebeta": true,
-    "study": "Gebouw Gebonden Installatietechniek",
-    "university": "Hogeschool van Arnhem en Nijmegen",
     "urls": {
       "partijwebsite": "https://sgp.nl/partij/onze-mensen/henk-bulten",
       "LinkedIn": "https://www.linkedin.com/in/henk-bulten-718a948b/"
     },
-    "leeftijd": "55"
+    "leeftijd": "55",
+    "studies": [
+      {
+        "study": "Gebouw Gebonden Installatietechniek",
+        "university": "Hogeschool van Arnhem en Nijmegen"
+      }
+    ]
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Jan_J._Top",
@@ -40291,13 +40507,17 @@
       }
     },
     "vinddebeta": true,
-    "study": "Civil Engineering",
-    "university": "HAN University of Applied Sciences",
     "urls": {
       "partijwebsite": "https://sgp.nl/partij/onze-mensen/jan-top-tk25",
       "LinkedIn": "https://www.linkedin.com/in/jan-top-b99a646/"
     },
-    "leeftijd": "61"
+    "leeftijd": "61",
+    "studies": [
+      {
+        "study": "Civil Engineering",
+        "university": "HAN University of Applied Sciences"
+      }
+    ]
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Lambert_L._Kisteman",
@@ -40446,13 +40666,17 @@
       }
     },
     "vinddebeta": true,
-    "study": "Operationele Technologie",
-    "university": "Hogeschool Utrecht",
     "urls": {
       "partijwebsite": "https://sgp.nl/partij/onze-mensen/lourens-van-bruchem-tk25",
       "LinkedIn": "https://www.linkedin.com/in/lourens-van-bruchem-41aaab14/"
     },
-    "leeftijd": "57"
+    "leeftijd": "57",
+    "studies": [
+      {
+        "study": "Operationele Technologie",
+        "university": "Hogeschool Utrecht"
+      }
+    ]
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Bertrick_L.C._Dikkenberg",
@@ -40500,13 +40724,17 @@
       }
     },
     "vinddebeta": true,
-    "study": "Land en Watermanagement",
-    "university": "Van Hall Larenstein University of Applied Sciences",
     "urls": {
       "partijwebsite": "https://sgp.nl/partij/onze-mensen/bertrick-van-den-dikkenberg-tk25",
       "LinkedIn": "https://www.linkedin.com/in/bertrickvandendikkenberg/"
     },
-    "leeftijd": "36"
+    "leeftijd": "36",
+    "studies": [
+      {
+        "study": "Land en Watermanagement",
+        "university": "Van Hall Larenstein University of Applied Sciences"
+      }
+    ]
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Hendrik_H._Herweijer",
@@ -40628,13 +40856,17 @@
       }
     },
     "vinddebeta": true,
-    "study": "Civil Engineering",
-    "university": "Van Hall Larenstein University of Applied Sciences",
     "urls": {
       "partijwebsite": "https://sgp.nl/partij/onze-mensen/gert-van-laar-tk25",
       "LinkedIn": "https://www.linkedin.com/in/gert-van-laar-a7b39082/"
     },
-    "leeftijd": "43"
+    "leeftijd": "43",
+    "studies": [
+      {
+        "study": "Civil Engineering",
+        "university": "Van Hall Larenstein University of Applied Sciences"
+      }
+    ]
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/André_A.J._Scheppink",
@@ -40999,13 +41231,17 @@
       }
     },
     "vinddebeta": true,
-    "study": "Horticultral Technology",
-    "university": "Rijks Hogere Tuinbouwschool Utrecht & Wageningen Universiteir",
     "urls": {
       "partijwebsite": "https://sgp.nl/partij/onze-mensen/jan-lock-tk25",
       "LinkedIn": "https://www.linkedin.com/in/jan-lock-95519217/"
     },
-    "leeftijd": "69"
+    "leeftijd": "69",
+    "studies": [
+      {
+        "study": "Horticultral Technology",
+        "university": "Rijks Hogere Tuinbouwschool Utrecht & Wageningen Universiteir"
+      }
+    ]
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Joan_J.J._Burg",
@@ -41053,13 +41289,17 @@
       }
     },
     "vinddebeta": true,
-    "study": "Civil Engineering",
-    "university": "Hogeschool Zeeland",
     "urls": {
       "partijwebsite": "https://sgp.nl/partij/onze-mensen/joan-van-burg-tk25",
       "LinkedIn": "https://www.linkedin.com/in/joan-van-burg-b7a29557/"
     },
-    "leeftijd": "44"
+    "leeftijd": "44",
+    "studies": [
+      {
+        "study": "Civil Engineering",
+        "university": "Hogeschool Zeeland"
+      }
+    ]
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Kees_C.T._Vermaat",
@@ -41107,13 +41347,17 @@
       }
     },
     "vinddebeta": true,
-    "study": "Wiskunde en Toepassingen",
-    "university": "Utrecht University",
     "urls": {
       "partijwebsite": "https://sgp.nl/partij/onze-mensen/kees-vermaat-tk25",
       "LinkedIn": "https://www.linkedin.com/in/kees-vermaat-742927b6/"
     },
-    "leeftijd": "35"
+    "leeftijd": "35",
+    "studies": [
+      {
+        "study": "Wiskunde en Toepassingen",
+        "university": "Utrecht University"
+      }
+    ]
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Leendert_L.O._Tuijl",
@@ -41212,13 +41456,17 @@
       }
     },
     "vinddebeta": true,
-    "study": "Bouwkunde",
-    "university": "Windesheim",
     "urls": {
       "partijwebsite": "https://sgp.nl/partij/onze-mensen/gerbrand-van-hoef",
       "LinkedIn": "https://www.linkedin.com/in/gerbrand-van-hoef-84a082159/"
     },
-    "leeftijd": "24"
+    "leeftijd": "24",
+    "studies": [
+      {
+        "study": "Bouwkunde",
+        "university": "Windesheim"
+      }
+    ]
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Florian_F.G._Pronk",
@@ -41648,13 +41896,17 @@
       }
     },
     "vinddebeta": true,
-    "study": "Land- and watermanagement",
-    "university": "Van Hall Larenstein University of Applied Sciences",
     "urls": {
       "partijwebsite": "https://www.christenunie.nl/mensen/alwin-te-rietstap",
       "LinkedIn": "https://www.linkedin.com/in/alwin-te-rietstap-15bb2b28/"
     },
-    "leeftijd": "46"
+    "leeftijd": "46",
+    "studies": [
+      {
+        "study": "Land- and watermanagement",
+        "university": "Van Hall Larenstein University of Applied Sciences"
+      }
+    ]
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Joëlle_J.K._Gooijer-Medema",
@@ -42372,13 +42624,17 @@
       }
     },
     "vinddebeta": true,
-    "study": "Technische bedrijfskunde / bouwkunde",
-    "university": "Technische Universiteit Eindhoven",
     "urls": {
       "partijwebsite": "https://www.christenunie.nl/mensen/christian-van-der-krift",
       "LinkedIn": "https://www.linkedin.com/in/christian-van-der-krift-phd/"
     },
-    "leeftijd": "33"
+    "leeftijd": "33",
+    "studies": [
+      {
+        "study": "Technische bedrijfskunde / bouwkunde",
+        "university": "Technische Universiteit Eindhoven"
+      }
+    ]
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Judith_J._Westerink-Petersen",
@@ -42453,13 +42709,17 @@
       }
     },
     "vinddebeta": true,
-    "study": "Tropical forestry",
-    "university": "Wageningen University & Research",
     "urls": {
       "partijwebsite": "https://www.christenunie.nl/mensen/judith-westerink-petersen",
       "LinkedIn": "https://www.linkedin.com/in/judith-westerink-61869525/"
     },
-    "leeftijd": "51"
+    "leeftijd": "51",
+    "studies": [
+      {
+        "study": "Tropical forestry",
+        "university": "Wageningen University & Research"
+      }
+    ]
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Hetty_H.C._Egger-van_Oppen",
@@ -42747,13 +43007,17 @@
       }
     },
     "vinddebeta": true,
-    "study": "Econometrie",
-    "university": "Erasmus Universiteit Rotterdam",
     "urls": {
       "partijwebsite": "https://www.christenunie.nl/mensen/mark-treurniet",
       "LinkedIn": "https://www.linkedin.com/in/mark-treurniet"
     },
-    "leeftijd": "35"
+    "leeftijd": "35",
+    "studies": [
+      {
+        "study": "Econometrie",
+        "university": "Erasmus Universiteit Rotterdam"
+      }
+    ]
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Willemien_W.A._Treurniet-Klapwijk",
@@ -43305,13 +43569,17 @@
       }
     },
     "vinddebeta": true,
-    "study": "Technische Bedrijfskunde",
-    "university": "Haagse Hogeschool",
     "urls": {
       "partijwebsite": "https://www.christenunie.nl/mensen/wim-voskamp",
       "LinkedIn": "https://www.linkedin.com/in/wimvoskamp"
     },
-    "leeftijd": "54"
+    "leeftijd": "54",
+    "studies": [
+      {
+        "study": "Technische Bedrijfskunde",
+        "university": "Haagse Hogeschool"
+      }
+    ]
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Jaco_J._Hoorn",
@@ -44119,13 +44387,17 @@
       }
     },
     "vinddebeta": true,
-    "study": "Natuur- en sterrenkunde",
-    "university": "Universiteit Utrecht",
     "urls": {
       "partijwebsite": "https://www.christenunie.nl/mensen/cees-dekker",
       "LinkedIn": "https://www.linkedin.com/in/cees-dekker-604642302"
     },
-    "leeftijd": "66"
+    "leeftijd": "66",
+    "studies": [
+      {
+        "study": "Natuur- en sterrenkunde",
+        "university": "Universiteit Utrecht"
+      }
+    ]
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Jurjen_J.M._Brinke",
@@ -44173,13 +44445,17 @@
       }
     },
     "vinddebeta": true,
-    "study": "Tropisch Landgebruik",
-    "university": "Wageningen University & Research",
     "urls": {
       "partijwebsite": "https://www.christenunie.nl/mensen/jurjen-ten-brinke",
       "LinkedIn": "https://www.linkedin.com/in/jurjen-ten-brinke-8378a827b"
     },
-    "leeftijd": "47"
+    "leeftijd": "47",
+    "studies": [
+      {
+        "study": "Tropisch Landgebruik",
+        "university": "Wageningen University & Research"
+      }
+    ]
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Beatrice_B.A._Graaf",
@@ -44898,9 +45174,13 @@
       "LinkedIn": "https://www.linkedin.com/in/erikkemp/"
     },
     "vinddebeta": true,
-    "study": "Computer Science",
-    "university": "TU Twente",
-    "leeftijd": "31"
+    "leeftijd": "31",
+    "studies": [
+      {
+        "study": "Computer Science",
+        "university": "TU Twente"
+      }
+    ]
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Monique_H.M._Fikenscher",
@@ -45702,14 +45982,18 @@
       }
     },
     "vinddebeta": true,
-    "study": "Business Informatics",
-    "university": "HZ University of Applied Sciences",
     "urls": {
       "partijwebsite": "https://voltnederland.org/mensen/27-leslie-scherbeijn",
       "LinkedIn": "https://www.linkedin.com/in/lesliescherbeijn/",
       "Instagram": "https://www.instagram.com/leslie.scherbeijn"
     },
-    "leeftijd": "24"
+    "leeftijd": "24",
+    "studies": [
+      {
+        "study": "Business Informatics",
+        "university": "HZ University of Applied Sciences"
+      }
+    ]
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Laura_L._Strien",
@@ -46334,13 +46618,17 @@
       }
     },
     "vinddebeta": true,
-    "study": "Informatica & Econometrie",
-    "university": "UvA & VU Amsterdam",
     "urls": {
       "partijwebsite": "https://voltnederland.org/mensen/39-mark-croes",
       "LinkedIn": "https://www.linkedin.com/in/markcroes/"
     },
-    "leeftijd": "30"
+    "leeftijd": "30",
+    "studies": [
+      {
+        "study": "Informatica & Econometrie",
+        "university": "UvA & VU Amsterdam"
+      }
+    ]
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Vivienne_V.G.E._Veen",
@@ -46435,14 +46723,18 @@
       }
     },
     "vinddebeta": true,
-    "study": "Biomedische wetenschappen",
-    "university": "Leiden University",
     "urls": {
       "partijwebsite": "https://voltnederland.org/mensen/41-giovanni-hagen",
       "LinkedIn": "https://www.linkedin.com/in/giovannihagen/",
       "Instagram": "https://www.instagram.com/giovanni.hagen/"
     },
-    "leeftijd": "29"
+    "leeftijd": "29",
+    "studies": [
+      {
+        "study": "Biomedische wetenschappen",
+        "university": "Leiden University"
+      }
+    ]
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Adda_A.A._Engelen",
@@ -47035,13 +47327,17 @@
       }
     },
     "vinddebeta": true,
-    "study": "Milieuwetenschappen, Ecologie en Natuurbescherming",
-    "university": "University of Durham, University College London",
     "urls": {
       "partijwebsite": "https://ja21.nl/onze-mensen",
       "LinkedIn": "https://www.linkedin.com/in/diederik-boomsma-0494b31"
     },
-    "leeftijd": "47"
+    "leeftijd": "47",
+    "studies": [
+      {
+        "study": "Milieuwetenschappen, Ecologie en Natuurbescherming",
+        "university": "University of Durham, University College London"
+      }
+    ]
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Daniël_D.J._Berg",
@@ -48766,13 +49062,17 @@
       }
     },
     "vinddebeta": true,
-    "study": "Biochemistry, Molecular Biology",
-    "university": "Universiteit Wageningen",
     "urls": {
       "partijwebsite": "https://ja21.nl/onze-mensen",
       "LinkedIn": "https://www.linkedin.com/in/hanskovi/?locale=nl"
     },
-    "leeftijd": "60"
+    "leeftijd": "60",
+    "studies": [
+      {
+        "study": "Biochemistry, Molecular Biology",
+        "university": "Universiteit Wageningen"
+      }
+    ]
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Mees_M._Uijens",
@@ -56242,11 +56542,15 @@
       }
     },
     "vinddebeta": true,
-    "study": "Bestuurlijke informatiekunde",
-    "university": "Katholieke Universiteit Brabant",
     "urls": {
       "LinkedIn": "https://www.linkedin.com/in/bennie-van-est-58ba8a104/"
-    }
+    },
+    "studies": [
+      {
+        "study": "Bestuurlijke informatiekunde",
+        "university": "Katholieke Universiteit Brabant"
+      }
+    ]
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Alfons_A.G.M._Leerkes",
@@ -62941,13 +63245,17 @@
       }
     },
     "vinddebeta": true,
-    "study": "Bouwtechniek",
-    "university": "Hogeschool van Rotterdam",
     "urls": {
       "partijwebsite": "https://www.christenunie.nl/mensen/elizabeth-bronkhorst-van-poortvliet",
       "LinkedIn": "https://www.linkedin.com/in/elizabeth-bronkhorst-van-poortvliet-48968819"
     },
-    "leeftijd": "42"
+    "leeftijd": "42",
+    "studies": [
+      {
+        "study": "Bouwtechniek",
+        "university": "Hogeschool van Rotterdam"
+      }
+    ]
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Lysbeth_E._Vellinga-Zeilstra",
