@@ -5518,9 +5518,11 @@
       "Twitter": "https://x.com/lisawesterveld",
       "Instagram": "https://www.instagram.com/lisa_westerveld/",
       "Facebook": "https://www.facebook.com/LisaWesterveldGroenLinks/",
-      "BlueSky": "https://bsky.app/profile/lisawesterveld.bsky.social"
+      "BlueSky": "https://bsky.app/profile/lisawesterveld.bsky.social",
+      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamerverkiezingen-2025/partijen-2025/groenlinks-pvda/lisa-westerveld/"
     },
-    "leeftijd": "43"
+    "leeftijd": "43",
+    "rainbowvote": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Marjolein_M._Moorman",
@@ -6509,9 +6511,11 @@
       "LinkedIn": "https://nl.linkedin.com/in/song%C3%BCl-mutluer-221119b",
       "Twitter": "https://x.com/songulmutluer?lang=en",
       "Instagram": "https://www.instagram.com/songulmutluer/?hl=en",
-      "BlueSky": "https://bsky.app/profile/jadevdlinden.bsky.social"
+      "BlueSky": "https://bsky.app/profile/jadevdlinden.bsky.social",
+      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamerverkiezingen-2025/partijen-2025/groenlinks-pvda/songul-mutluer/"
     },
-    "leeftijd": "45"
+    "leeftijd": "45",
+    "rainbowvote": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Wimar_W.D._Bolhuis",
@@ -6664,9 +6668,11 @@
     "university": "Universiteit Utrecht",
     "urls": {
       "partijwebsite": "https://groenlinkspvda.nl/onze-mensen/kandidaten-tk25/geert-gabriels-2/",
-      "LinkedIn": "https://www.linkedin.com/in/geert-gabri%C3%ABls-364780335/"
+      "LinkedIn": "https://www.linkedin.com/in/geert-gabri%C3%ABls-364780335/",
+      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamerverkiezingen-2025/partijen-2025/groenlinks-pvda/geert-gabriels/"
     },
-    "leeftijd": "45"
+    "leeftijd": "45",
+    "rainbowvote": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Jimme_J._Nordkamp",
@@ -7257,9 +7263,11 @@
     "urls": {
       "partijwebsite": "https://groenlinkspvda.nl/onze-mensen/kandidaten-tk25/lisa-vliegenthart/",
       "LinkedIn": "https://nl.linkedin.com/in/lisa-vliegenthart-03b6659a",
-      "Instagram": "https://www.instagram.com/lisavliegenthart/"
+      "Instagram": "https://www.instagram.com/lisavliegenthart/",
+      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamerverkiezingen-2025/partijen-2025/groenlinks-pvda/lisa-vliegenthart/"
     },
-    "leeftijd": "31"
+    "leeftijd": "31",
+    "rainbowvote": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Marco_M.J.W._Esser",
@@ -7753,7 +7761,11 @@
         "partij_naam": "GROENLINKS / Partij van de Arbeid (PvdA)"
       }
     },
-    "leeftijd": "31"
+    "leeftijd": "31",
+    "rainbowvote": true,
+    "urls": {
+      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamerverkiezingen-2025/partijen-2025/groenlinks-pvda/lyle-muns/"
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Hayte_H.A._Jong",
@@ -7906,9 +7918,11 @@
       "LinkedIn": "https://nl.linkedin.com/in/glimina-chakor-41004a5a",
       "Twitter": "https://x.com/gliminachakor?lang=en",
       "Instagram": "https://www.instagram.com/glimina_/?hl=en",
-      "BlueSky": "https://bsky.app/profile/gliminachakor.bsky.social"
+      "BlueSky": "https://bsky.app/profile/gliminachakor.bsky.social",
+      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamerverkiezingen-2025/partijen-2025/groenlinks-pvda/glimina-chakor/"
     },
-    "leeftijd": "49"
+    "leeftijd": "49",
+    "rainbowvote": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Marcel_M._Vonk",
@@ -8382,7 +8396,11 @@
         }
       }
     },
-    "leeftijd": "32"
+    "leeftijd": "32",
+    "rainbowvote": true,
+    "urls": {
+      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamerverkiezingen-2025/partijen-2025/groenlinks-pvda/daan-olivier/"
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Tim_T.A._Kroon",
@@ -8629,9 +8647,11 @@
     },
     "urls": {
       "partijwebsite": "https://groenlinkspvda.nl/onze-mensen/kandidaten-tk25/ruchama-bwefar/",
-      "LinkedIn": "https://nl.linkedin.com/in/ruchamaimana"
+      "LinkedIn": "https://nl.linkedin.com/in/ruchamaimana",
+      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamerverkiezingen-2025/partijen-2025/groenlinks-pvda/ruchama-bwefar/"
     },
-    "leeftijd": "45"
+    "leeftijd": "45",
+    "rainbowvote": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Lotte_L.B._Jeursen",
@@ -8972,8 +8992,10 @@
     "urls": {
       "partijwebsite": "https://groenlinkspvda.nl/onze-mensen/kandidaten-tk25/giovanni-visser/",
       "LinkedIn": "https://www.linkedin.com/in/giovannivisser/",
-      "Instagram": "https://www.instagram.com/giovanni_visser/"
-    }
+      "Instagram": "https://www.instagram.com/giovanni_visser/",
+      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamerverkiezingen-2025/partijen-2025/groenlinks-pvda/giovanni-visser/"
+    },
+    "rainbowvote": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Margriet_J.M._Schreuders",
@@ -9174,8 +9196,10 @@
     "urls": {
       "partijwebsite": "https://groenlinkspvda.nl/onze-mensen/kandidaten-tk25/ties-ammerlaan/",
       "LinkedIn": "https://www.linkedin.com/in/ties-ammerlaan/",
-      "Instagram": "https://www.instagram.com/tiesammerlaan/"
-    }
+      "Instagram": "https://www.instagram.com/tiesammerlaan/",
+      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamerverkiezingen-2025/partijen-2025/groenlinks-pvda/ties-ammerlaan/"
+    },
+    "rainbowvote": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Willemijn_W.S._Punte-Zwart",
@@ -9226,9 +9250,11 @@
       "partijwebsite": "https://groenlinkspvda.nl/onze-mensen/kandidaten-tk25/willemijn-punte-zwart/",
       "LinkedIn": "https://nl.linkedin.com/in/willemijnzwart",
       "Instagram": "https://www.instagram.com/willemijnpuntezwart/",
-      "BlueSky": "https://bsky.app/profile/willemijn053.bsky.social"
+      "BlueSky": "https://bsky.app/profile/willemijn053.bsky.social",
+      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamerverkiezingen-2025/partijen-2025/groenlinks-pvda/willemijn-punte-zwart/"
     },
-    "leeftijd": "36"
+    "leeftijd": "36",
+    "rainbowvote": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Hanneke_H._Groenteman",
@@ -11675,7 +11701,11 @@
         }
       }
     },
-    "leeftijd": "48"
+    "leeftijd": "48",
+    "rainbowvote": true,
+    "urls": {
+      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamerverkiezingen-2025/partijen-2025/vvd/renate-den-hollander/"
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Arend_A._Kisteman",
@@ -12917,7 +12947,11 @@
         }
       }
     },
-    "leeftijd": "53"
+    "leeftijd": "53",
+    "rainbowvote": true,
+    "urls": {
+      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamerverkiezingen-2025/partijen-2025/vvd/denise-eikelenboom/"
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Stijn_S.C._Nijssen",
@@ -13186,7 +13220,11 @@
         "partij_naam": "VVD"
       }
     },
-    "leeftijd": "46"
+    "leeftijd": "46",
+    "rainbowvote": true,
+    "urls": {
+      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamerverkiezingen-2025/partijen-2025/vvd/remco-yizhak-cooremans/"
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Thomas_T.C._Melisse",
@@ -13401,7 +13439,11 @@
         }
       }
     },
-    "leeftijd": "41"
+    "leeftijd": "41",
+    "rainbowvote": true,
+    "urls": {
+      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamerverkiezingen-2025/partijen-2025/vvd/jeroen-van-dijken/"
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Mirjam_R.M.L._Nelisse",
@@ -14759,7 +14801,11 @@
         }
       }
     },
-    "leeftijd": "50"
+    "leeftijd": "50",
+    "rainbowvote": true,
+    "urls": {
+      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamerverkiezingen-2025/partijen-2025/vvd/eddie-altenburg-collin/"
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Daan_D.G._Kruijf",
@@ -17232,7 +17278,11 @@
         "partij_naam": "D66"
       }
     },
-    "leeftijd": "36"
+    "leeftijd": "36",
+    "rainbowvote": true,
+    "urls": {
+      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamerverkiezingen-2025/partijen-2025/d66/rob-jetten/"
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Jan_J.M._Paternotte",
@@ -17781,9 +17831,11 @@
       "Twitter": "https://x.com/wiepau?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
       "Instagram": "https://www.instagram.com/wiekepaulusma/",
       "Facebook": "https://www.facebook.com/wpaulusma/?locale=nl_NL",
-      "BlueSky": "https://bsky.app/profile/ilanarooderkerk.bsky.social"
+      "BlueSky": "https://bsky.app/profile/ilanarooderkerk.bsky.social",
+      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamerverkiezingen-2025/partijen-2025/d66/wieke-paulusma/"
     },
-    "leeftijd": "46"
+    "leeftijd": "46",
+    "rainbowvote": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Fatimazhra_F._Belhirch",
@@ -17991,7 +18043,11 @@
         "partij_naam": "D66"
       }
     },
-    "leeftijd": "40"
+    "leeftijd": "40",
+    "rainbowvote": true,
+    "urls": {
+      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamerverkiezingen-2025/partijen-2025/d66/mpanzu-bamenga/"
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Felix_F.C.O._Klos",
@@ -18136,9 +18192,11 @@
       "partijwebsite": "https://d66.nl/nijmegen/mensen/marijke-synheave/",
       "LinkedIn": "https://www.linkedin.com/in/marijkesynhaeve/?originalSubdomain=nl",
       "Twitter": "https://x.com/MarijkeSynhaeve?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
-      "Instagram": "https://www.instagram.com/marijke.synhaeve/"
+      "Instagram": "https://www.instagram.com/marijke.synhaeve/",
+      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamerverkiezingen-2025/partijen-2025/d66/marijke-synhaeve/"
     },
-    "leeftijd": "35"
+    "leeftijd": "35",
+    "rainbowvote": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Ilana_I._Rooderkerk",
@@ -18266,7 +18324,11 @@
         }
       }
     },
-    "leeftijd": "46"
+    "leeftijd": "46",
+    "rainbowvote": true,
+    "urls": {
+      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamerverkiezingen-2025/partijen-2025/d66/robert-van-asten/"
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Ouafa_A._Oualhadj",
@@ -23618,7 +23680,11 @@
         "partij_naam": "CDA"
       }
     },
-    "leeftijd": "42"
+    "leeftijd": "42",
+    "rainbowvote": true,
+    "urls": {
+      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamerverkiezingen-2025/partijen-2025/cda/hanneke-steen/"
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Derk_D.G._Boswijk",
@@ -26717,9 +26783,11 @@
       "LinkedIn": "https://nl.linkedin.com/in/sarah-dobbe-0a84a821",
       "Twitter": "https://x.com/sarahdobbe",
       "Instagram": "https://www.instagram.com/dobbesarah/?hl=en",
-      "Facebook": "https://www.facebook.com/SarahDobbeSP (Socialistische Partij)/"
+      "Facebook": "https://www.facebook.com/SarahDobbeSP (Socialistische Partij)/",
+      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamerverkiezingen-2025/partijen-2025/sp/sarah-dobbe/"
     },
-    "leeftijd": "46"
+    "leeftijd": "46",
+    "rainbowvote": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Bastiaan_B.W.V._Meijer",
@@ -26797,8 +26865,10 @@
     "urls": {
       "partijwebsite": "https://www.sp.nl/onze-mensen/bastiaan-meijer",
       "LinkedIn": "https://www.linkedin.com/in/bastiaan-meijer-5b7a4260",
-      "Instagram": "https://www.instagram.com/bastiaan_meijer"
-    }
+      "Instagram": "https://www.instagram.com/bastiaan_meijer",
+      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamerverkiezingen-2025/partijen-2025/sp/bastiaan-meijer/"
+    },
+    "rainbowvote": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Maurits_M.M._Hondmann",
@@ -26848,8 +26918,10 @@
     "leeftijd": "27",
     "urls": {
       "LinkedIn": "https://www.linkedin.com/in/maurits-hondmann/",
-      "Instagram": "https://www.instagram.com/mauritshondmann/"
-    }
+      "Instagram": "https://www.instagram.com/mauritshondmann/",
+      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamerverkiezingen-2025/partijen-2025/sp/maurits-hondmann/"
+    },
+    "rainbowvote": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Gerrie_G.E._Elfrink",
@@ -27421,9 +27493,11 @@
       }
     },
     "urls": {
-      "LinkedIn": "https://nl.linkedin.com/in/amber-witsenburg-615754108"
+      "LinkedIn": "https://nl.linkedin.com/in/amber-witsenburg-615754108",
+      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamerverkiezingen-2025/partijen-2025/sp/amber-witsenburg-die-hen-diens/"
     },
-    "leeftijd": "32"
+    "leeftijd": "32",
+    "rainbowvote": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Erica_E.N._Wever",
@@ -32706,9 +32780,11 @@
       "Twitter": "https://x.com/estherouwehand?lang=en",
       "Instagram": "https://www.instagram.com/estherouwehandpvdd/?hl=en",
       "Facebook": "https://www.facebook.com/EstherOuwehand.PvdD/",
-      "BlueSky": "https://bsky.app/profile/estherouwehand.bsky.social"
+      "BlueSky": "https://bsky.app/profile/estherouwehand.bsky.social",
+      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamerverkiezingen-2025/partijen-2025/partij-voor-de-dieren/esther-ouwehand/"
     },
-    "leeftijd": "49"
+    "leeftijd": "49",
+    "rainbowvote": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Ines_I._Kostić",
@@ -32814,9 +32890,11 @@
       "LinkedIn": "https://nl.linkedin.com/in/ines-kosti%C4%87",
       "Twitter": "https://x.com/ineskostic?lang=en",
       "Instagram": "https://www.instagram.com/ineskostic/?hl=en",
-      "BlueSky": "https://bsky.app/profile/ineskostic.bsky.social"
+      "BlueSky": "https://bsky.app/profile/ineskostic.bsky.social",
+      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamerverkiezingen-2025/partijen-2025/partij-voor-de-dieren/ines-kostic/"
     },
-    "leeftijd": "41"
+    "leeftijd": "41",
+    "rainbowvote": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Christine_C._Teunissen",
@@ -33005,9 +33083,11 @@
     "urls": {
       "partijwebsite": "https://www.partijvoordedieren.nl/personen/falco-van-hassel",
       "LinkedIn": "https://www.linkedin.com/in/falco-van-hassel/",
-      "Instagram": "https://www.instagram.com/falco_van_hassel/"
+      "Instagram": "https://www.instagram.com/falco_van_hassel/",
+      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamerverkiezingen-2025/partijen-2025/partij-voor-de-dieren/falco-van-hassel/"
     },
-    "leeftijd": "25"
+    "leeftijd": "25",
+    "rainbowvote": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Debbie_D.D._Mathijsen",
@@ -33239,9 +33319,11 @@
     "urls": {
       "partijwebsite": "https://www.partijvoordedieren.nl/kandidatenlijst-tk23#7.-martine-van-schaik",
       "LinkedIn": "https://nl.linkedin.com/in/martine-van-schaik-6457645",
-      "Instagram": "https://www.instagram.com/martinevschaik/"
+      "Instagram": "https://www.instagram.com/martinevschaik/",
+      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamerverkiezingen-2025/partijen-2025/partij-voor-de-dieren/martine-van-schaik/"
     },
-    "leeftijd": "51"
+    "leeftijd": "51",
+    "rainbowvote": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Willemijn_W.E.R._Stoffels",
@@ -33580,9 +33662,11 @@
     "urls": {
       "partijwebsite": "https://www.partijvoordedieren.nl/personen/ronan-van-langen",
       "LinkedIn": "https://nl.linkedin.com/in/ronan-van-langen-870666168",
-      "Instagram": "https://www.instagram.com/ronanvanlangen/?hl=en"
+      "Instagram": "https://www.instagram.com/ronanvanlangen/?hl=en",
+      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamerverkiezingen-2025/partijen-2025/partij-voor-de-dieren/ronan-van-langen/"
     },
-    "leeftijd": "27"
+    "leeftijd": "27",
+    "rainbowvote": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Pieter_P.J.L._Groenewege",
@@ -33707,9 +33791,11 @@
       "partijwebsite": "https://www.merelmuller.nl/",
       "LinkedIn": "https://nl.linkedin.com/in/merel-muller-840a18236",
       "Twitter": "https://x.com/merel__muller",
-      "Instagram": "https://www.instagram.com/merel_muller/"
+      "Instagram": "https://www.instagram.com/merel_muller/",
+      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamerverkiezingen-2025/partijen-2025/partij-voor-de-dieren/merel-muller/"
     },
-    "leeftijd": "23"
+    "leeftijd": "23",
+    "rainbowvote": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Robert_R.N._Barker",
@@ -33861,9 +33947,11 @@
       "partijwebsite": "https://www.partijvoordedieren.nl/personen/olivia-butterman",
       "LinkedIn": "https://nl.linkedin.com/in/olivia-butterman-904674b",
       "Instagram": "https://www.instagram.com/oliviabutterman/?hl=en",
-      "BlueSky": "https://bsky.app/profile/oliviapvdd.bsky.social"
+      "BlueSky": "https://bsky.app/profile/oliviapvdd.bsky.social",
+      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamerverkiezingen-2025/partijen-2025/partij-voor-de-dieren/olivia-butterman/"
     },
-    "leeftijd": "42"
+    "leeftijd": "42",
+    "rainbowvote": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Yuri_Y.X._Zandwijken",
@@ -34062,9 +34150,11 @@
       "partijwebsite": "https://www.partijvoordedieren.nl/personen/cynthia-pallandt",
       "LinkedIn": "https://www.linkedin.com/in/cynthia-pallandt/?locale=en_US",
       "Instagram": "https://www.instagram.com/cynthiapallandt/",
-      "BlueSky": "https://bsky.app/profile/cynthiapallandt.bsky.social"
+      "BlueSky": "https://bsky.app/profile/cynthiapallandt.bsky.social",
+      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamerverkiezingen-2025/partijen-2025/partij-voor-de-dieren/cynthia-pallandt/"
     },
-    "leeftijd": "37"
+    "leeftijd": "37",
+    "rainbowvote": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Stella_S._Pieterson",
@@ -34115,9 +34205,11 @@
       "partijwebsite": "https://www.partijvoordedieren.nl/personen/stella-pieterson",
       "LinkedIn": "https://nl.linkedin.com/in/destellaipsa",
       "Twitter": "https://x.com/stellapieterson",
-      "Instagram": "https://www.instagram.com/probably_awake/?hl=en"
+      "Instagram": "https://www.instagram.com/probably_awake/?hl=en",
+      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamerverkiezingen-2025/partijen-2025/partij-voor-de-dieren/stella-marijn-pieterson/"
     },
-    "leeftijd": "50"
+    "leeftijd": "50",
+    "rainbowvote": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Ana_A._Karadarević",
@@ -34168,9 +34260,11 @@
       "partijwebsite": "https://www.partijvoordedieren.nl/personen/ana-karadarevi%C4%87",
       "LinkedIn": "https://nl.linkedin.com/in/ana-karadarevi%C4%87-5035193",
       "Instagram": "https://www.instagram.com/anakaradarevic/?hl=en",
-      "BlueSky": "https://bsky.app/profile/anakaradarevic.bsky.social"
+      "BlueSky": "https://bsky.app/profile/anakaradarevic.bsky.social",
+      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamerverkiezingen-2025/partijen-2025/partij-voor-de-dieren/ana-karadarevic/"
     },
-    "leeftijd": "46"
+    "leeftijd": "46",
+    "rainbowvote": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Nayra_N.M._Lubek",
@@ -34220,9 +34314,11 @@
     "urls": {
       "partijwebsite": "https://www.partijvoordedieren.nl/personen/nayra-van-lubek",
       "LinkedIn": "https://www.linkedin.com/in/nayra-van-lubek/?originalSubdomain=nl",
-      "Instagram": "https://www.instagram.com/nayravanlubek?igsh=Z2VhYXlrMDhnbGRl"
+      "Instagram": "https://www.instagram.com/nayravanlubek?igsh=Z2VhYXlrMDhnbGRl",
+      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamerverkiezingen-2025/partijen-2025/partij-voor-de-dieren/nayra-van-lubek/"
     },
-    "leeftijd": "25"
+    "leeftijd": "25",
+    "rainbowvote": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Jacqueline_J.M._Broek",
@@ -34458,9 +34554,11 @@
       }
     },
     "urls": {
-      "partijwebsite": "https://www.partijvoordedieren.nl/personen/win-scheijde"
+      "partijwebsite": "https://www.partijvoordedieren.nl/personen/win-scheijde",
+      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamerverkiezingen-2025/partijen-2025/partij-voor-de-dieren/win-scheijde/"
     },
-    "leeftijd": "45"
+    "leeftijd": "45",
+    "rainbowvote": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Eline_E.A.H._Lauret",
@@ -34645,9 +34743,11 @@
       "partijwebsite": "https://www.partijvoordedieren.nl/personen/no%C3%AF-van-mondfrans",
       "LinkedIn": "https://nl.linkedin.com/in/no%C3%AF-van-mondfrans-7ab751270",
       "Instagram": "https://www.instagram.com/annoiiyed/?hl=en",
-      "BlueSky": "https://bsky.app/profile/annoiiyed.bsky.social"
+      "BlueSky": "https://bsky.app/profile/annoiiyed.bsky.social",
+      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamerverkiezingen-2025/partijen-2025/partij-voor-de-dieren/noi-van-mondfrans/"
     },
-    "leeftijd": "27"
+    "leeftijd": "27",
+    "rainbowvote": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Navid_S.N._Madani",
@@ -34897,7 +34997,11 @@
         }
       }
     },
-    "leeftijd": "42"
+    "leeftijd": "42",
+    "rainbowvote": true,
+    "urls": {
+      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamerverkiezingen-2025/partijen-2025/partij-voor-de-dieren/arjan-groters/"
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Anne_Johan_A.J._Woudstra",
@@ -34993,12 +35097,14 @@
     },
     "urls": {
       "partijwebsite": "https://www.partijvoordedieren.nl/personen/vania-nasroen",
-      "LinkedIn": "https://www.linkedin.com/in/vaniapn/"
+      "LinkedIn": "https://www.linkedin.com/in/vaniapn/",
+      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamerverkiezingen-2025/partijen-2025/partij-voor-de-dieren/vania-nasroen/"
     },
     "vinddebeta": true,
     "study": "Biotechnologie",
     "university": "Universiteit Wageningen",
-    "leeftijd": "25"
+    "leeftijd": "25",
+    "rainbowvote": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Jasper_J.M._Loo",
@@ -35101,8 +35207,10 @@
     "urls": {
       "partijwebsite": "https://www.partijvoordedieren.nl/personen/tim-van-der-toorn",
       "LinkedIn": "https://www.linkedin.com/in/timvdtoorn/",
-      "Instagram": "https://www.instagram.com/tim.vdtoorn/"
-    }
+      "Instagram": "https://www.instagram.com/tim.vdtoorn/",
+      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamerverkiezingen-2025/partijen-2025/partij-voor-de-dieren/tim-van-der-toorn/"
+    },
+    "rainbowvote": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Judith_J._Lammers",
@@ -45165,7 +45273,11 @@
         "partij_naam": "Volt"
       }
     },
-    "leeftijd": "31"
+    "leeftijd": "31",
+    "rainbowvote": true,
+    "urls": {
+      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamerverkiezingen-2025/partijen-2025/volt/bjorn-beijnon/"
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Laura_L.C.G._Harks",
@@ -46149,9 +46261,11 @@
       "partijwebsite": "https://voltnederland.org/mensen/24-novella-rasenberg",
       "LinkedIn": "https://www.linkedin.com/in/nova-rasenberg-8a6005213/",
       "Instagram": "https://www.instagram.com/novalinskii/",
-      "BlueSky": "https://bsky.app/profile/nova-political.bsky.social"
+      "BlueSky": "https://bsky.app/profile/nova-political.bsky.social",
+      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamerverkiezingen-2025/partijen-2025/volt/nova-rasenberg/"
     },
-    "leeftijd": "30"
+    "leeftijd": "30",
+    "rainbowvote": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Tim_T.L.A._Areago",
@@ -46202,8 +46316,10 @@
     "urls": {
       "partijwebsite": "https://voltnederland.org/mensen/25-tim-areago",
       "LinkedIn": "https://www.linkedin.com/in/temitope-tim-areago-9b595b188",
-      "Instagram": "https://www.instagram.com/tim.a_volt?"
-    }
+      "Instagram": "https://www.instagram.com/tim.a_volt?",
+      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamerverkiezingen-2025/partijen-2025/volt/temitope-areago/"
+    },
+    "rainbowvote": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Annemieke_A._Linden",
@@ -46409,7 +46525,11 @@
         }
       }
     },
-    "leeftijd": "39"
+    "leeftijd": "39",
+    "rainbowvote": true,
+    "urls": {
+      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamerverkiezingen-2025/partijen-2025/volt/tom-van-doesburg/"
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Marion_M.H.F._Kampen",
@@ -46509,7 +46629,11 @@
         }
       }
     },
-    "leeftijd": "43"
+    "leeftijd": "43",
+    "rainbowvote": true,
+    "urls": {
+      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamerverkiezingen-2025/partijen-2025/volt/sjoerd-wennekes/"
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Lore_L.A.E._Eckelmans",
