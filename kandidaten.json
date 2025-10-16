@@ -5072,7 +5072,7 @@
     "achternaam": "Timmermans",
     "voorletters": "F.C.G.M.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 1,
@@ -5146,7 +5146,7 @@
     "achternaam": "Lahlah",
     "voorletters": "A.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 2,
@@ -5210,7 +5210,14 @@
         "partij_naam": "GROENLINKS / Partij van de Arbeid (PvdA)"
       }
     },
-    "leeftijd": "45"
+    "leeftijd": "45",
+    "urls": {
+      "partijwebsite": "https://groenlinkspvda.nl/onze-mensen/tweede-kamer/esmah-lahlah/",
+      "LinkedIn": "https://nl.linkedin.com/in/esmah-lahlah-2b136212",
+      "Twitter": "https://x.com/a_lahlah?lang=en",
+      "Instagram": "https://www.instagram.com/esmah_lahlah/",
+      "BlueSky": "https://bsky.app/profile/esmahlahlah.bsky.social"
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Jesse_J.F._Klaver",
@@ -5220,7 +5227,7 @@
     "achternaam": "Klaver",
     "voorletters": "J.F.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 3,
@@ -5321,7 +5328,7 @@
     "achternaam": "Piri",
     "voorletters": "K.P.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 4,
@@ -5412,7 +5419,15 @@
         "partij_naam": "Partij van de Arbeid (P.v.d.A.)"
       }
     },
-    "leeftijd": "46"
+    "leeftijd": "46",
+    "urls": {
+      "partijwebsite": "https://groenlinkspvda.nl/onze-mensen/tweede-kamer/kati-piri/",
+      "LinkedIn": "https://nl.linkedin.com/in/kati-piri-4ab3a02",
+      "Twitter": "https://x.com/katipiri?lang=en",
+      "Instagram": "https://www.instagram.com/katipiri/?hl=en",
+      "Facebook": "https://www.facebook.com/KatiPiriMEP/",
+      "BlueSky": "https://bsky.app/profile/katipiri.bsky.social"
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Lisa_E.M._Westerveld",
@@ -5422,7 +5437,7 @@
     "achternaam": "Westerveld",
     "voorletters": "E.M.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 5,
@@ -5515,7 +5530,13 @@
     },
     "rainbowvote": true,
     "urls": {
-      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamerverkiezingen-2025/partijen-2025/groenlinks-pvda/lisa-westerveld/"
+      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamerverkiezingen-2025/partijen-2025/groenlinks-pvda/lisa-westerveld/",
+      "partijwebsite": "https://groenlinkspvda.nl/onze-mensen/tweede-kamer/lisa-westerveld/",
+      "LinkedIn": "https://nl.linkedin.com/in/lisawesterveld",
+      "Twitter": "https://x.com/lisawesterveld",
+      "Instagram": "https://www.instagram.com/lisa_westerveld/",
+      "Facebook": "https://www.facebook.com/LisaWesterveldGroenLinks/",
+      "BlueSky": "https://bsky.app/profile/lisawesterveld.bsky.social"
     },
     "leeftijd": "43"
   },
@@ -5527,7 +5548,7 @@
     "achternaam": "Moorman",
     "voorletters": "M.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 6,
@@ -5574,7 +5595,15 @@
         "partij_naam": "GROENLINKS / Partij van de Arbeid (PvdA)"
       }
     },
-    "leeftijd": "51"
+    "leeftijd": "51",
+    "urls": {
+      "partijwebsite": "https://groenlinkspvda.nl/onze-mensen/kandidaten-tk25/marjolein-moorman/",
+      "LinkedIn": "https://nl.linkedin.com/in/marjoleinmoorman",
+      "Twitter": "https://x.com/marjoleinmoor?lang=en",
+      "Instagram": "https://www.instagram.com/marjolein_moorman/?hl=en",
+      "Facebook": "https://www.facebook.com/marjoleinpvda/",
+      "BlueSky": "https://bsky.app/profile/marjoleinmoorman.bsky.social"
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Luc_L.C.J._Stultiens",
@@ -5584,7 +5613,7 @@
     "achternaam": "Stultiens",
     "voorletters": "L.C.J.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 7,
@@ -5669,7 +5698,7 @@
     "achternaam": "Hoop",
     "voorletters": "H.E.",
     "tussenvoegsel": "de",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 8,
@@ -5748,7 +5777,7 @@
     "achternaam": "Bromet",
     "voorletters": "L.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 9,
@@ -5839,7 +5868,14 @@
         "partij_naam": "GROENLINKS"
       }
     },
-    "leeftijd": "55"
+    "leeftijd": "55",
+    "urls": {
+      "partijwebsite": "https://groenlinkspvda.nl/onze-mensen/tweede-kamer/laura-bromet/",
+      "LinkedIn": "https://nl.linkedin.com/in/laura-bromet-b980aaa",
+      "Twitter": "https://x.com/laurabromet?lang=en",
+      "Instagram": "https://www.instagram.com/laurabromet/?hl=en",
+      "BlueSky": "https://bsky.app/profile/laurabromet.bsky.social"
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Sjoukje_A.S._Oosterhout",
@@ -5849,7 +5885,7 @@
     "achternaam": "Oosterhout",
     "voorletters": "A.S.",
     "tussenvoegsel": "van",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 10,
@@ -5886,7 +5922,14 @@
         }
       }
     },
-    "leeftijd": "32"
+    "leeftijd": "32",
+    "urls": {
+      "partijwebsite": "https://groenlinkspvda.nl/onze-mensen/kandidaten-tk25/sjoukje-van-oosterhout/",
+      "LinkedIn": "https://www.linkedin.com/in/sjoukjevanoosterhout/",
+      "Twitter": "https://x.com/annasjoukjevo?lang=en",
+      "Instagram": "https://www.instagram.com/sjoukjevanoosterhout/?hl=en",
+      "BlueSky": "https://bsky.app/profile/svanoosterhout.bsky.social"
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Julian_T.J._Bushoff",
@@ -5896,7 +5939,7 @@
     "achternaam": "Bushoff",
     "voorletters": "T.J.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 11,
@@ -6002,7 +6045,7 @@
     "achternaam": "Kröger",
     "voorletters": "S.C.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 12,
@@ -6093,7 +6136,15 @@
         "partij_naam": "GROENLINKS"
       }
     },
-    "leeftijd": "49"
+    "leeftijd": "49",
+    "urls": {
+      "partijwebsite": "https://groenlinkspvda.nl/onze-mensen/tweede-kamer/suzanne-kroger/",
+      "LinkedIn": "https://nl.linkedin.com/in/suzannekroger",
+      "Twitter": "https://x.com/suzanne_gl?lang=en",
+      "Instagram": "https://www.instagram.com/suzannekroger_gl/?hl=en",
+      "Facebook": "https://www.facebook.com/suzannegroenlinks/",
+      "BlueSky": "https://bsky.app/profile/suzannekroger.bsky.social"
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Mohammed_M._Mohandis",
@@ -6103,7 +6154,7 @@
     "achternaam": "Mohandis",
     "voorletters": "M.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 13,
@@ -6177,7 +6228,7 @@
     "achternaam": "Patijn",
     "voorletters": "M.H.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 14,
@@ -6241,7 +6292,14 @@
         "partij_naam": "GROENLINKS / Partij van de Arbeid (PvdA)"
       }
     },
-    "leeftijd": "58"
+    "leeftijd": "58",
+    "urls": {
+      "partijwebsite": "https://groenlinkspvda.nl/onze-mensen/tweede-kamer/mariette-patijn/",
+      "LinkedIn": "https://www.linkedin.com/in/mariettepatijn/?originalSubdomain=nl",
+      "Twitter": "https://x.com/mpatijn?lang=en",
+      "Instagram": "https://www.instagram.com/mariettepatijn/?hl=en",
+      "BlueSky": "https://bsky.app/profile/patijn.bsky.social"
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Ani_A._Zalinyan",
@@ -6251,7 +6309,7 @@
     "achternaam": "Zalinyan",
     "voorletters": "A.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 15,
@@ -6288,7 +6346,12 @@
         }
       }
     },
-    "leeftijd": "31"
+    "leeftijd": "31",
+    "urls": {
+      "partijwebsite": "https://groenlinkspvda.nl/onze-mensen/kandidaten-tk25/ani-zalinyan/",
+      "LinkedIn": "https://nl.linkedin.com/in/anizalinyan",
+      "Instagram": "https://www.instagram.com/ani.zalinyan/?hl=en"
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Tom_T.M.T._Lee",
@@ -6298,7 +6361,7 @@
     "achternaam": "Lee",
     "voorletters": "T.M.T.",
     "tussenvoegsel": "van der",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 16,
@@ -6372,7 +6435,7 @@
     "achternaam": "Mutluer",
     "voorletters": "S.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 17,
@@ -6465,7 +6528,12 @@
     },
     "rainbowvote": true,
     "urls": {
-      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamerverkiezingen-2025/partijen-2025/groenlinks-pvda/songul-mutluer/"
+      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamerverkiezingen-2025/partijen-2025/groenlinks-pvda/songul-mutluer/",
+      "partijwebsite": "https://groenlinkspvda.nl/onze-mensen/tweede-kamer/songul-mutluer/",
+      "LinkedIn": "https://nl.linkedin.com/in/song%C3%BCl-mutluer-221119b",
+      "Twitter": "https://x.com/songulmutluer?lang=en",
+      "Instagram": "https://www.instagram.com/songulmutluer/?hl=en",
+      "BlueSky": "https://bsky.app/profile/jadevdlinden.bsky.social"
     },
     "leeftijd": "45"
   },
@@ -6477,7 +6545,7 @@
     "achternaam": "Bolhuis",
     "voorletters": "W.D.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 18,
@@ -6524,7 +6592,7 @@
     "achternaam": "Gabriëls",
     "voorletters": "G.J.W.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 19,
@@ -6638,7 +6706,7 @@
     "achternaam": "Nordkamp",
     "voorletters": "J.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 20,
@@ -6716,7 +6784,7 @@
     "achternaam": "Linden",
     "voorletters": "J.J.",
     "tussenvoegsel": "van der",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 21,
@@ -6757,7 +6825,8 @@
     "urls": {
       "partijwebsite": "https://groenlinkspvda.nl/onze-mensen/kandidaten-tk25/jade-van-der-linden/",
       "LinkedIn": "https://www.linkedin.com/in/jade-van-der-linden/",
-      "Instagram": "https://www.instagram.com/jade.vd.linden/"
+      "Instagram": "https://www.instagram.com/jade.vd.linden/",
+      "BlueSky": "https://bsky.app/profile/jadevdlinden.bsky.social"
     },
     "leeftijd": "28",
     "studies": [
@@ -6775,7 +6844,7 @@
     "achternaam": "Roduner",
     "voorletters": "F.J.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 22,
@@ -6833,7 +6902,7 @@
     "achternaam": "Hirsch",
     "voorletters": "D.H.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 23,
@@ -6897,7 +6966,15 @@
         "partij_naam": "GROENLINKS"
       }
     },
-    "leeftijd": "57"
+    "leeftijd": "57",
+    "urls": {
+      "partijwebsite": "https://groenlinkspvda.nl/onze-mensen/tweede-kamer/danielle-hirsch/",
+      "LinkedIn": "https://nl.linkedin.com/in/danielle-h-hirsch",
+      "Twitter": "https://x.com/danielle_h_be?lang=en",
+      "Instagram": "https://www.instagram.com/danielle__hirsch/",
+      "Facebook": "https://www.facebook.com/DanielleHirschGL/",
+      "BlueSky": "https://bsky.app/profile/daniellehirsch.bsky.social"
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Fatihya_F._Abdi",
@@ -6907,7 +6984,7 @@
     "achternaam": "Abdi",
     "voorletters": "F.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 24,
@@ -6971,7 +7048,13 @@
         "partij_naam": "Partij van de Arbeid (P.v.d.A.)"
       }
     },
-    "leeftijd": "34"
+    "leeftijd": "34",
+    "urls": {
+      "partijwebsite": "https://groenlinkspvda.nl/onze-mensen/kandidaten-tk25/fatihya-abdi/",
+      "LinkedIn": "https://nl.linkedin.com/in/fatihyaabdi",
+      "Instagram": "https://www.instagram.com/fatihya_abdi/?hl=en",
+      "BlueSky": "https://bsky.app/profile/fatihyaabdi.bsky.social"
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Mikal_M._Tseggai",
@@ -6981,7 +7064,7 @@
     "achternaam": "Tseggai",
     "voorletters": "M.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 25,
@@ -7076,7 +7159,10 @@
     "urls": {
       "partijwebsite": "https://groenlinkspvda.nl/onze-mensen/tweede-kamer/mikal-tseggai/",
       "LinkedIn": "https://www.linkedin.com/in/mikaltseggai/",
-      "Instagram": "https://www.instagram.com/mikaltseggai/"
+      "Instagram": "https://www.instagram.com/mikaltseggai/",
+      "Twitter": "https://x.com/mikaltseggai?lang=en",
+      "Facebook": "https://www.facebook.com/MikalTseggai/",
+      "BlueSky": "https://bsky.app/profile/mikaltseggai.bsky.social"
     }
   },
   {
@@ -7087,7 +7173,7 @@
     "achternaam": "Pijpelink",
     "voorletters": "A.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 26,
@@ -7151,7 +7237,15 @@
         "partij_naam": "GROENLINKS / Partij van de Arbeid (PvdA)"
       }
     },
-    "leeftijd": "50"
+    "leeftijd": "50",
+    "urls": {
+      "partijwebsite": "https://groenlinkspvda.nl/onze-mensen/tweede-kamer/anita-pijpelink/",
+      "LinkedIn": "https://nl.linkedin.com/in/anita-pijpelink-b3544415",
+      "Twitter": "https://x.com/apijpelink?lang=en",
+      "Instagram": "https://www.instagram.com/anitapijpelink/",
+      "Facebook": "https://www.facebook.com/p/Anita-Pijpelink-61552649270541/",
+      "BlueSky": "https://bsky.app/profile/anitapijpelink.bsky.social/post/3lihz3sfh2s2e"
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Lisa_L._Vliegenthart",
@@ -7161,7 +7255,7 @@
     "achternaam": "Vliegenthart",
     "voorletters": "L.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 27,
@@ -7200,7 +7294,10 @@
     },
     "rainbowvote": true,
     "urls": {
-      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamerverkiezingen-2025/partijen-2025/groenlinks-pvda/lisa-vliegenthart/"
+      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamerverkiezingen-2025/partijen-2025/groenlinks-pvda/lisa-vliegenthart/",
+      "partijwebsite": "https://groenlinkspvda.nl/onze-mensen/kandidaten-tk25/lisa-vliegenthart/",
+      "LinkedIn": "https://nl.linkedin.com/in/lisa-vliegenthart-03b6659a",
+      "Instagram": "https://www.instagram.com/lisavliegenthart/"
     },
     "leeftijd": "31"
   },
@@ -7212,7 +7309,7 @@
     "achternaam": "Esser",
     "voorletters": "M.J.W.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 28,
@@ -7259,7 +7356,7 @@
     "achternaam": "Haage",
     "voorletters": "M.W.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 29,
@@ -7323,7 +7420,14 @@
         "partij_naam": "GROENLINKS / Partij van de Arbeid (PvdA)"
       }
     },
-    "leeftijd": "45"
+    "leeftijd": "45",
+    "urls": {
+      "partijwebsite": "https://groenlinkspvda.nl/onze-mensen/kandidaten-tk25/marleen-haage-2/",
+      "LinkedIn": "https://nl.linkedin.com/in/marleenhaage",
+      "Twitter": "https://x.com/marleenhaage?lang=en",
+      "Instagram": "https://www.instagram.com/metmarleen/?hl=en",
+      "BlueSky": "https://bsky.app/profile/metmarleen.bsky.social"
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Raoul_R.J._White",
@@ -7333,7 +7437,7 @@
     "achternaam": "White",
     "voorletters": "R.J.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 30,
@@ -7407,7 +7511,7 @@
     "achternaam": "Vrolijks",
     "voorletters": "I.L.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 31,
@@ -7502,7 +7606,9 @@
     "urls": {
       "partijwebsite": "https://groenlinkspvda.nl/onze-mensen/kandidaten-tk25/iris-vrolijks/",
       "LinkedIn": "https://www.linkedin.com/in/iris-vrolijks-a96522128/",
-      "Instagram": "https://www.instagram.com/irisvrolijks/"
+      "Instagram": "https://www.instagram.com/irisvrolijks/",
+      "Twitter": "https://x.com/ivrolijks?lang=en",
+      "Facebook": "https://www.facebook.com/iris.vrolijks/"
     }
   },
   {
@@ -7513,7 +7619,7 @@
     "achternaam": "Kathmann",
     "voorletters": "B.C.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 32,
@@ -7606,7 +7712,12 @@
     },
     "nerdvote": true,
     "urls": {
-      "nerdvote.nl": "https://nerdvote.nl/#:~:text=Barbara%20Kathmann"
+      "nerdvote.nl": "https://nerdvote.nl/#:~:text=Barbara%20Kathmann",
+      "partijwebsite": "https://groenlinkspvda.nl/onze-mensen/tweede-kamer/barbara-kathmann/",
+      "LinkedIn": "https://nl.linkedin.com/in/barbara-kathmann-3a825738",
+      "Instagram": "https://www.instagram.com/barbarakathmann/?hl=en",
+      "Facebook": "https://www.facebook.com/KathmannBarbara/",
+      "BlueSky": "https://bsky.app/profile/did:plc:hu4k2wttrtyfyy2ylq4xqlcr"
     },
     "leeftijd": "47"
   },
@@ -7618,7 +7729,7 @@
     "achternaam": "Muns",
     "voorletters": "L.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 33,
@@ -7696,7 +7807,7 @@
     "achternaam": "Jong",
     "voorletters": "H.A.",
     "tussenvoegsel": "de",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 34,
@@ -7743,7 +7854,7 @@
     "achternaam": "Chakor",
     "voorletters": "G.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 35,
@@ -7836,7 +7947,12 @@
     },
     "rainbowvote": true,
     "urls": {
-      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamerverkiezingen-2025/partijen-2025/groenlinks-pvda/glimina-chakor/"
+      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamerverkiezingen-2025/partijen-2025/groenlinks-pvda/glimina-chakor/",
+      "partijwebsite": "https://groenlinkspvda.nl/onze-mensen/tweede-kamer/glimina-chakor/",
+      "LinkedIn": "https://nl.linkedin.com/in/glimina-chakor-41004a5a",
+      "Twitter": "https://x.com/gliminachakor?lang=en",
+      "Instagram": "https://www.instagram.com/glimina_/?hl=en",
+      "BlueSky": "https://bsky.app/profile/gliminachakor.bsky.social"
     },
     "leeftijd": "49"
   },
@@ -7848,7 +7964,7 @@
     "achternaam": "Vonk",
     "voorletters": "M.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 36,
@@ -7895,7 +8011,7 @@
     "achternaam": "Zweth",
     "voorletters": "R.",
     "tussenvoegsel": "van der",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 37,
@@ -7942,7 +8058,7 @@
     "achternaam": "Vink",
     "voorletters": "J.C.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 38,
@@ -7979,7 +8095,13 @@
         }
       }
     },
-    "leeftijd": "31"
+    "leeftijd": "31",
+    "urls": {
+      "partijwebsite": "https://groenlinkspvda.nl/onze-mensen/kandidaten-tk25/annerijn-vink/",
+      "LinkedIn": "https://nl.linkedin.com/in/annerijn-vink",
+      "Instagram": "https://www.instagram.com/annerijnvink",
+      "BlueSky": "https://bsky.app/profile/annerijn.bsky.social"
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Dennis_D.P.A._Tak",
@@ -7989,7 +8111,7 @@
     "achternaam": "Tak",
     "voorletters": "D.P.A.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 39,
@@ -8036,7 +8158,7 @@
     "achternaam": "Nikshomar",
     "voorletters": "S.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 40,
@@ -8088,7 +8210,7 @@
     "achternaam": "Hyder",
     "voorletters": "I.F.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 41,
@@ -8162,7 +8284,7 @@
     "achternaam": "Sibbing",
     "voorletters": "L.V.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 42,
@@ -8202,7 +8324,8 @@
     "vinddebeta": true,
     "urls": {
       "partijwebsite": "https://groenlinkspvda.nl/onze-mensen/kandidaten-tk25/lara-sibbing/",
-      "LinkedIn": "https://www.linkedin.com/in/larasibbing/details/education/"
+      "LinkedIn": "https://www.linkedin.com/in/larasibbing/details/education/",
+      "Instagram": "https://www.instagram.com/larasibbing/"
     },
     "leeftijd": "34",
     "studies": [
@@ -8220,7 +8343,7 @@
     "achternaam": "Woltring",
     "voorletters": "N.M.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 43,
@@ -8257,7 +8380,12 @@
         }
       }
     },
-    "leeftijd": "41"
+    "leeftijd": "41",
+    "urls": {
+      "partijwebsite": "https://groenlinkspvda.nl/onze-mensen/kandidaten-tk25/naomi-woltring/",
+      "LinkedIn": "https://nl.linkedin.com/in/naomiwoltring",
+      "Facebook": "https://www.facebook.com/naomi.woltring/"
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Daan_D._Olivier",
@@ -8267,7 +8395,7 @@
     "achternaam": "Olivier",
     "voorletters": "D.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 44,
@@ -8318,7 +8446,7 @@
     "achternaam": "Kroon",
     "voorletters": "T.A.",
     "tussenvoegsel": "de",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 45,
@@ -8365,7 +8493,7 @@
     "achternaam": "Boer",
     "voorletters": "M.M.",
     "tussenvoegsel": "de",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 46,
@@ -8402,7 +8530,12 @@
         }
       }
     },
-    "leeftijd": "60"
+    "leeftijd": "60",
+    "urls": {
+      "partijwebsite": "https://groenlinkspvda.nl/onze-mensen/kandidaten-tk25/margreet-de-boer/",
+      "LinkedIn": "https://nl.linkedin.com/in/margreet-de-boer",
+      "BlueSky": "https://bsky.app/profile/margreetdeboer.bsky.social"
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Ruben_R._Boomsma",
@@ -8412,7 +8545,7 @@
     "achternaam": "Boomsma",
     "voorletters": "R.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 47,
@@ -8459,7 +8592,7 @@
     "achternaam": "Jonge",
     "voorletters": "T.F.",
     "tussenvoegsel": "de",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 48,
@@ -8496,7 +8629,12 @@
         }
       }
     },
-    "leeftijd": "51"
+    "leeftijd": "51",
+    "urls": {
+      "partijwebsite": "https://groenlinkspvda.nl/onze-mensen/kandidaten-tk25/tanja-de-jonge/",
+      "LinkedIn": "https://nl.linkedin.com/in/tdejonge",
+      "BlueSky": "https://bsky.app/profile/tanjadejonge.bsky.social"
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Ruchama_R.I._Bwefar",
@@ -8506,7 +8644,7 @@
     "achternaam": "Bwefar",
     "voorletters": "R.I.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 49,
@@ -8545,7 +8683,9 @@
     },
     "rainbowvote": true,
     "urls": {
-      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamerverkiezingen-2025/partijen-2025/groenlinks-pvda/ruchama-bwefar/"
+      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamerverkiezingen-2025/partijen-2025/groenlinks-pvda/ruchama-bwefar/",
+      "partijwebsite": "https://groenlinkspvda.nl/onze-mensen/kandidaten-tk25/ruchama-bwefar/",
+      "LinkedIn": "https://nl.linkedin.com/in/ruchamaimana"
     },
     "leeftijd": "45"
   },
@@ -8557,7 +8697,7 @@
     "achternaam": "Jeursen",
     "voorletters": "L.B.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 50,
@@ -8594,7 +8734,11 @@
         }
       }
     },
-    "leeftijd": "36"
+    "leeftijd": "36",
+    "urls": {
+      "partijwebsite": "https://groenlinkspvda.nl/onze-mensen/kandidaten-tk25/lotte-jeursen/",
+      "LinkedIn": "https://nl.linkedin.com/in/lotte-jeursen-6510b366"
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Jan_J.W.B._Daenen",
@@ -8604,7 +8748,7 @@
     "achternaam": "Daenen",
     "voorletters": "J.W.B.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 51,
@@ -8690,7 +8834,7 @@
     "achternaam": "Bolding",
     "voorletters": "F.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 52,
@@ -8727,7 +8871,11 @@
         }
       }
     },
-    "leeftijd": "67"
+    "leeftijd": "67",
+    "urls": {
+      "partijwebsite": "https://groenlinkspvda.nl/onze-mensen/kandidaten-tk25/fenna-bolding/",
+      "LinkedIn": "https://nl.linkedin.com/in/fenna-bolding-3b5ab42a"
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Tamim_T._Mehdi",
@@ -8737,7 +8885,7 @@
     "achternaam": "Mehdi",
     "voorletters": "T.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 53,
@@ -8789,7 +8937,7 @@
     "achternaam": "Hamzad",
     "voorletters": "P.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 54,
@@ -8826,7 +8974,14 @@
         }
       }
     },
-    "leeftijd": "39"
+    "leeftijd": "39",
+    "urls": {
+      "partijwebsite": "https://groenlinkspvda.nl/onze-mensen/kandidaten-tk25/palwasha-hamzad/",
+      "LinkedIn": "https://nl.linkedin.com/in/palwasha-hamzad-8b61a07a",
+      "Instagram": "https://www.instagram.com/palwashahamzad?igsh=bXB3YnBrZGV2dWYx",
+      "Facebook": "https://www.facebook.com/palwashahamzad/",
+      "BlueSky": "https://bsky.app/profile/palwashahamzad.bsky.social"
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Giovanni_G._Visser",
@@ -8836,7 +8991,7 @@
     "achternaam": "Visser",
     "voorletters": "G.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 55,
@@ -8890,7 +9045,7 @@
     "achternaam": "Schreuders",
     "voorletters": "J.M.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 56,
@@ -8927,7 +9082,11 @@
         }
       }
     },
-    "leeftijd": "46"
+    "leeftijd": "46",
+    "urls": {
+      "partijwebsite": "https://groenlinkspvda.nl/onze-mensen/kandidaten-tk25/margriet-schreuders/",
+      "LinkedIn": "https://nl.linkedin.com/in/margriet-schreuders-b5467ab"
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Milan_M._Bijl",
@@ -8937,7 +9096,7 @@
     "achternaam": "Bijl",
     "voorletters": "M.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 57,
@@ -8984,7 +9143,7 @@
     "achternaam": "Piepers",
     "voorletters": "R.J.A.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 58,
@@ -9036,7 +9195,7 @@
     "achternaam": "Ammerlaan",
     "voorletters": "T.B.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 59,
@@ -9090,7 +9249,7 @@
     "achternaam": "Punte-Zwart",
     "voorletters": "W.S.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 60,
@@ -9129,7 +9288,11 @@
     },
     "rainbowvote": true,
     "urls": {
-      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamerverkiezingen-2025/partijen-2025/groenlinks-pvda/willemijn-punte-zwart/"
+      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamerverkiezingen-2025/partijen-2025/groenlinks-pvda/willemijn-punte-zwart/",
+      "partijwebsite": "https://groenlinkspvda.nl/onze-mensen/kandidaten-tk25/willemijn-punte-zwart/",
+      "LinkedIn": "https://nl.linkedin.com/in/willemijnzwart",
+      "Instagram": "https://www.instagram.com/willemijnpuntezwart/",
+      "BlueSky": "https://bsky.app/profile/willemijn053.bsky.social"
     },
     "leeftijd": "36"
   },
@@ -9141,7 +9304,7 @@
     "achternaam": "Groenteman",
     "voorletters": "H.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 61,
@@ -9177,6 +9340,10 @@
           "adressendichtheid": "6096"
         }
       }
+    },
+    "urls": {
+      "partijwebsite": "https://groenlinkspvda.nl/onze-mensen/kandidaten-tk25/hanneke-groenteman/",
+      "LinkedIn": "https://www.linkedin.com/in/hanneke-groenteman/?original_referer=https%3A%2F%2Fwww%2Egoogle%2Ecom%2F&originalSubdomain=nl"
     }
   },
   {
@@ -9187,7 +9354,7 @@
     "achternaam": "Muiswinkel",
     "voorletters": "F.L.",
     "tussenvoegsel": "van",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 62,
@@ -9233,7 +9400,7 @@
     "achternaam": "Romeijn",
     "voorletters": "A.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 63,
@@ -9269,6 +9436,12 @@
           "adressendichtheid": "3479"
         }
       }
+    },
+    "urls": {
+      "partijwebsite": "https://groenlinkspvda.nl/onze-mensen/kandidaten-tk25/aafke-romeijn/",
+      "LinkedIn": "https://www.linkedin.com/in/aafkeromeijn/?originalSubdomain=nl",
+      "Instagram": "https://www.instagram.com/aafkeromeijn/",
+      "BlueSky": "https://bsky.app/profile/aafkeromeijn.bsky.social"
     }
   },
   {
@@ -9279,7 +9452,7 @@
     "achternaam": "Bijlo",
     "voorletters": "V.R.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 64,
@@ -9325,7 +9498,7 @@
     "achternaam": "Jansen",
     "voorletters": "L.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 65,
@@ -9388,6 +9561,13 @@
         "woonplaats": "Westbeemster",
         "partij_naam": "GROENLINKS"
       }
+    },
+    "urls": {
+      "partijwebsite": "https://groenlinkspvda.nl/onze-mensen/kandidaten-tk25/leoni-jansen/",
+      "Twitter": "https://x.com/leonijansen?lang=en",
+      "Instagram": "https://www.instagram.com/leonijansenofficial/?hl=en",
+      "Facebook": "https://www.facebook.com/p/Leoni-Jansen-100038725792895/",
+      "BlueSky": "https://bsky.app/profile/leonijansen.bsky.social"
     }
   },
   {
@@ -9398,7 +9578,7 @@
     "achternaam": "Chalgoum",
     "voorletters": "A.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 66,
@@ -9444,7 +9624,7 @@
     "achternaam": "Jong",
     "voorletters": "N.S.",
     "tussenvoegsel": "de",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 67,
@@ -9480,6 +9660,12 @@
           "adressendichtheid": "2081"
         }
       }
+    },
+    "urls": {
+      "partijwebsite": "https://groenlinkspvda.nl/onze-mensen/kandidaten-tk25/nynke-de-jong/",
+      "LinkedIn": "https://nl.linkedin.com/posts/hayte-de-jong-59908010_nynke-de-jong-groenlinks-pvda-activity-7371856538195398656-88DT",
+      "Twitter": "https://x.com/nynkedejong83?lang=ar",
+      "BlueSky": "https://bsky.app/profile/nynkedejong.bsky.social"
     }
   },
   {
@@ -9490,7 +9676,7 @@
     "achternaam": "Wattimena",
     "voorletters": "M.B.D.J.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 68,
@@ -9536,7 +9722,7 @@
     "achternaam": "Uğur",
     "voorletters": "E.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 69,
@@ -9572,6 +9758,12 @@
           "adressendichtheid": "1873"
         }
       }
+    },
+    "urls": {
+      "partijwebsite": "https://groenlinkspvda.nl/onze-mensen/kandidaten-tk25/emine-ugur/",
+      "Twitter": "https://x.com/overlistener",
+      "Instagram": "https://www.instagram.com/overlistener/?hl=en",
+      "BlueSky": "https://bsky.app/profile/overlistener.bsky.social"
     }
   },
   {
@@ -9582,7 +9774,7 @@
     "achternaam": "Smeets",
     "voorletters": "J.A.P.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 70,
@@ -9636,7 +9828,7 @@
     "achternaam": "Bas",
     "voorletters": "L.A.J.L.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 71,
@@ -9672,6 +9864,11 @@
           "adressendichtheid": "2053"
         }
       }
+    },
+    "urls": {
+      "partijwebsite": "https://groenlinkspvda.nl/onze-mensen/kandidaten-tk25/laura-bas/",
+      "LinkedIn": "https://nl.linkedin.com/in/laura-bas-6624b1139",
+      "Instagram": "https://www.instagram.com/delaurabasboost/?hl=en"
     }
   },
   {
@@ -9682,7 +9879,7 @@
     "achternaam": "Karbache",
     "voorletters": "A.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 72,
@@ -9728,7 +9925,7 @@
     "achternaam": "Blom",
     "voorletters": "P.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 73,
@@ -9774,7 +9971,7 @@
     "achternaam": "Gesthuizen",
     "voorletters": "S.M.J.G.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 74,
@@ -9810,6 +10007,12 @@
           "adressendichtheid": "4994"
         }
       }
+    },
+    "urls": {
+      "partijwebsite": "https://groenlinkspvda.nl/onze-mensen/kandidaten-tk25/sharon-gesthuizen/",
+      "LinkedIn": "https://www.linkedin.com/in/sharon-gesthuizen-35b90614/",
+      "Instagram": "https://www.instagram.com/sharon_gesthuizen/",
+      "Facebook": "https://www.facebook.com/sharon.gesthuizen/"
     }
   },
   {
@@ -9820,7 +10023,7 @@
     "achternaam": "Roovers",
     "voorletters": "T.T.A.J.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 75,
@@ -9866,7 +10069,7 @@
     "achternaam": "Jongerius",
     "voorletters": "A.M.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 76,
@@ -9902,6 +10105,13 @@
           "adressendichtheid": "3479"
         }
       }
+    },
+    "urls": {
+      "partijwebsite": "https://agnesjongerius.nl/",
+      "LinkedIn": "https://nl.linkedin.com/in/agnes-jongerius-62a20b64",
+      "Twitter": "https://x.com/a_jongerius?lang=en",
+      "Instagram": "https://www.instagram.com/agnesjongerius/",
+      "Facebook": "https://www.facebook.com/AgnesJongeriusMEP/"
     }
   },
   {
@@ -9912,7 +10122,7 @@
     "achternaam": "Gent",
     "voorletters": "W.",
     "tussenvoegsel": "van",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 77,
@@ -9948,6 +10158,11 @@
           "adressendichtheid": "317"
         }
       }
+    },
+    "urls": {
+      "partijwebsite": "https://groenlinkspvda.nl/onze-mensen/kandidaten-tk25/ineke-van-gent/",
+      "Twitter": "https://x.com/inekevangent",
+      "BlueSky": "https://bsky.app/profile/inekevangent.bsky.social"
     }
   },
   {
@@ -9958,7 +10173,7 @@
     "achternaam": "Es",
     "voorletters": "A.C.",
     "tussenvoegsel": "van",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 78,
@@ -9994,6 +10209,9 @@
           "adressendichtheid": "917"
         }
       }
+    },
+    "urls": {
+      "partijwebsite": "https://groenlinkspvda.nl/onze-mensen/kandidaten-tk25/andree-van-es/"
     }
   },
   {
@@ -10004,7 +10222,7 @@
     "achternaam": "Pronk",
     "voorletters": "J.P.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 79,
@@ -10050,7 +10268,7 @@
     "achternaam": "Ancona",
     "voorletters": "H.",
     "tussenvoegsel": "d'",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 80,
@@ -10096,6 +10314,9 @@
         "woonplaats": "Amsterdam",
         "partij_naam": "Partij van de Arbeid (P.v.d.A.)"
       }
+    },
+    "urls": {
+      "partijwebsite": "https://groenlinkspvda.nl/onze-mensen/kandidaten-tk25/hedy-dancona/"
     }
   },
   {
@@ -17026,7 +17247,7 @@
     "achternaam": "Jetten",
     "voorletters": "R.A.A.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 1,
@@ -17131,7 +17352,7 @@
     "achternaam": "Paternotte",
     "voorletters": "J.M.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 2,
@@ -17232,7 +17453,7 @@
     "achternaam": "Vijlbrief",
     "voorletters": "J.A.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 3,
@@ -17333,7 +17554,7 @@
     "achternaam": "Podt",
     "voorletters": "A.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 4,
@@ -17400,7 +17621,11 @@
     "vinddebeta": true,
     "urls": {
       "partijwebsite": "https://d66.nl/mensen/anne-marijke-podt/",
-      "LinkedIn": "https://www.linkedin.com/in/annemarijkepodt/"
+      "LinkedIn": "https://www.linkedin.com/in/annemarijkepodt/",
+      "Twitter": "https://x.com/Annemarijke?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
+      "Instagram": "https://www.instagram.com/annemarijke/",
+      "Facebook": "https://www.facebook.com/annemarijke.podt/",
+      "BlueSky": "https://blueskydirectory.com/profiles/annemarijke.bsky.social"
     },
     "leeftijd": "50",
     "studies": [
@@ -17418,7 +17643,7 @@
     "achternaam": "Sneller",
     "voorletters": "J.C.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 5,
@@ -17519,7 +17744,7 @@
     "achternaam": "Berkel",
     "voorletters": "N.",
     "tussenvoegsel": "van",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 6,
@@ -17556,7 +17781,14 @@
         }
       }
     },
-    "leeftijd": "41"
+    "leeftijd": "41",
+    "urls": {
+      "partijwebsite": "https://d66.nl/nieuws/advieslijst-tweede-kamerverkiezing-2025/",
+      "LinkedIn": "https://www.linkedin.com/in/nathalie-van-berkel-85157a14/",
+      "Twitter": "https://x.com/Vanberkel2508?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
+      "Instagram": "https://www.instagram.com/nathalie_vanberkel/",
+      "BlueSky": "https://bsky.app/profile/nathalievanberkel.bsky.social"
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Wieke_W._Paulusma",
@@ -17566,7 +17798,7 @@
     "achternaam": "Paulusma",
     "voorletters": "W.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 7,
@@ -17659,7 +17891,13 @@
     },
     "rainbowvote": true,
     "urls": {
-      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamerverkiezingen-2025/partijen-2025/d66/wieke-paulusma/"
+      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamerverkiezingen-2025/partijen-2025/d66/wieke-paulusma/",
+      "partijwebsite": "https://d66.nl/mensen/wieke-paulusma/",
+      "LinkedIn": "https://www.linkedin.com/in/wiekepaulusma/?originalSubdomain=nl",
+      "Twitter": "https://x.com/wiepau?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
+      "Instagram": "https://www.instagram.com/wiekepaulusma/",
+      "Facebook": "https://www.facebook.com/wpaulusma/?locale=nl_NL",
+      "BlueSky": "https://bsky.app/profile/ilanarooderkerk.bsky.social"
     },
     "leeftijd": "46"
   },
@@ -17671,7 +17909,7 @@
     "achternaam": "Belhirch",
     "voorletters": "F.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 8,
@@ -17708,7 +17946,12 @@
         }
       }
     },
-    "leeftijd": "49"
+    "leeftijd": "49",
+    "urls": {
+      "partijwebsite": "https://d66.nl/eerstekamer/mensen/fatimazhra-belhirch/",
+      "LinkedIn": "https://www.linkedin.com/in/fatimazhrabelhirch/?originalSubdomain=nl",
+      "Instagram": "https://www.instagram.com/fatimazhrabelhirch/"
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Hanneke_J.J._Werf",
@@ -17718,7 +17961,7 @@
     "achternaam": "Werf",
     "voorletters": "J.J.",
     "tussenvoegsel": "van der",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 9,
@@ -17784,7 +18027,11 @@
     },
     "nerdvote": true,
     "urls": {
-      "nerdvote.nl": "https://nerdvote.nl/#:~:text=Hanneke%20van%20der%20Werf"
+      "nerdvote.nl": "https://nerdvote.nl/#:~:text=Hanneke%20van%20der%20Werf",
+      "partijwebsite": "https://d66.nl/mensen/hanneke-van-der-werf/",
+      "LinkedIn": "https://www.linkedin.com/in/hannekevanderwerf/?originalSubdomain=nl",
+      "Twitter": "https://x.com/hannekevdwerf",
+      "Instagram": "https://www.instagram.com/hannekevdw/"
     },
     "leeftijd": "40"
   },
@@ -17796,7 +18043,7 @@
     "achternaam": "Bamenga",
     "voorletters": "P.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 10,
@@ -17874,7 +18121,7 @@
     "achternaam": "Klos",
     "voorletters": "F.C.O.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 11,
@@ -17941,7 +18188,7 @@
     "achternaam": "Synhaeve",
     "voorletters": "M.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 12,
@@ -18007,7 +18254,11 @@
     },
     "rainbowvote": true,
     "urls": {
-      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamerverkiezingen-2025/partijen-2025/d66/marijke-synhaeve/"
+      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamerverkiezingen-2025/partijen-2025/d66/marijke-synhaeve/",
+      "partijwebsite": "https://d66.nl/nijmegen/mensen/marijke-synheave/",
+      "LinkedIn": "https://www.linkedin.com/in/marijkesynhaeve/?originalSubdomain=nl",
+      "Twitter": "https://x.com/MarijkeSynhaeve?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
+      "Instagram": "https://www.instagram.com/marijke.synhaeve/"
     },
     "leeftijd": "35"
   },
@@ -18019,7 +18270,7 @@
     "achternaam": "Rooderkerk",
     "voorletters": "I.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 13,
@@ -18083,7 +18334,14 @@
         "partij_naam": "D66"
       }
     },
-    "leeftijd": "38"
+    "leeftijd": "38",
+    "urls": {
+      "partijwebsite": "https://d66.nl/mensen/ilana-rooderkerk/ https://www.ilanarooderkerk.nl/",
+      "LinkedIn": "https://www.linkedin.com/in/ilanarooderkerk/?originalSubdomain=nl",
+      "Twitter": "https://x.com/IlanaRooderkerk?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
+      "Instagram": "https://www.instagram.com/ilanarooderkerk/?hl=nl",
+      "Facebook": "https://www.facebook.com/IlanaRooderkerkD66/?locale=nl_NL"
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Robert_R.J._Asten",
@@ -18093,7 +18351,7 @@
     "achternaam": "Asten",
     "voorletters": "R.J.",
     "tussenvoegsel": "van",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 14,
@@ -18144,7 +18402,7 @@
     "achternaam": "Oualhadj",
     "voorletters": "A.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 15,
@@ -18208,7 +18466,13 @@
         "partij_naam": "D66"
       }
     },
-    "leeftijd": "35"
+    "leeftijd": "35",
+    "urls": {
+      "partijwebsite": "https://ouafa.nl/",
+      "LinkedIn": "https://www.linkedin.com/in/ouafa-oualhadj-1613b850/?originalSubdomain=nl",
+      "Twitter": "https://x.com/ouafa070?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
+      "Instagram": "https://www.instagram.com/ouafa070/"
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Anouschka_A.N._Biekman",
@@ -18218,7 +18482,7 @@
     "achternaam": "Biekman",
     "voorletters": "A.N.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 16,
@@ -18263,7 +18527,13 @@
         "partij_naam": "D66"
       }
     },
-    "leeftijd": "45"
+    "leeftijd": "45",
+    "urls": {
+      "partijwebsite": "https://d66.nl/schiedam/mensen/anouschka-biekman/",
+      "LinkedIn": "https://www.linkedin.com/in/anouschkabiekman/?originalSubdomain=nl",
+      "Instagram": "https://www.instagram.com/anouschkabiekman/",
+      "Facebook": "https://www.facebook.com/AnouschkaBiekman/"
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Renilde_R.A._Huizenga",
@@ -18273,7 +18543,7 @@
     "achternaam": "Huizenga",
     "voorletters": "R.A.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 17,
@@ -18310,7 +18580,13 @@
         }
       }
     },
-    "leeftijd": "54"
+    "leeftijd": "54",
+    "urls": {
+      "partijwebsite": "https://d66.nl/zwolle/mensen/renilde-huizenga/",
+      "LinkedIn": "https://www.linkedin.com/in/renildehuizenga/",
+      "Instagram": "https://www.instagram.com/edliner/",
+      "Facebook": "https://www.facebook.com/AnouschkaBiekman/"
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Heera_H.L.O._Dijk",
@@ -18320,7 +18596,7 @@
     "achternaam": "Dijk",
     "voorletters": "H.L.O.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 18,
@@ -18357,7 +18633,12 @@
         }
       }
     },
-    "leeftijd": "45"
+    "leeftijd": "45",
+    "urls": {
+      "partijwebsite": "https://d66.nl/delft/mensen/heera-dijk-2/",
+      "LinkedIn": "https://www.linkedin.com/in/heeradijk/?originalSubdomain=nl",
+      "Instagram": "https://www.instagram.com/heera.d/"
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Sarah_S._Boujdaini",
@@ -18367,7 +18648,7 @@
     "achternaam": "Boujdaini",
     "voorletters": "S.",
     "tussenvoegsel": "El",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 19,
@@ -18406,7 +18687,10 @@
     },
     "nerdvote": true,
     "urls": {
-      "nerdvote.nl": "https://nerdvote.nl/#:~:text=Sarah%20El%20Boujdaini"
+      "nerdvote.nl": "https://nerdvote.nl/#:~:text=Sarah%20El%20Boujdaini",
+      "partijwebsite": "https://d66.nl/rotterdam/mensen/sarah-el-boujdaini-2/",
+      "LinkedIn": "https://www.linkedin.com/in/sarah-el-boujdaini-53028449/?originalSubdomain=nl",
+      "Instagram": "https://www.instagram.com/sarahboujdaini/"
     },
     "leeftijd": "31"
   },
@@ -18418,7 +18702,7 @@
     "achternaam": "Oosterhuis",
     "voorletters": "H.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 20,
@@ -18465,7 +18749,7 @@
     "achternaam": "Schoonis",
     "voorletters": "J.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 21,
@@ -18505,7 +18789,7 @@
     "achternaam": "Castelein",
     "voorletters": "K.D.J.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 22,
@@ -18552,7 +18836,7 @@
     "achternaam": "Neijenhuis",
     "voorletters": "S.J.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 23,
@@ -18599,7 +18883,7 @@
     "achternaam": "Köse",
     "voorletters": "U.I.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 24,
@@ -18649,7 +18933,7 @@
     "achternaam": "Vervuurt",
     "voorletters": "M.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 25,
@@ -18707,7 +18991,7 @@
     "achternaam": "Huidekooper",
     "voorletters": "D.J.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 26,
@@ -18754,7 +19038,7 @@
     "achternaam": "Vellinga-Beemsterboer",
     "voorletters": "M.C.A.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 27,
@@ -18818,7 +19102,12 @@
         "partij_naam": "D66"
       }
     },
-    "leeftijd": "39"
+    "leeftijd": "39",
+    "urls": {
+      "partijwebsite": "https://d66.nl/mensen/marieke-vellinga-beemsterboer/",
+      "LinkedIn": "https://www.linkedin.com/in/marieke-vellinga-beemsterboer-11a526171/?originalSubdomain=nl",
+      "Instagram": "https://www.instagram.com/vellingabeemsterboer/"
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Robin_R.M._Leijen",
@@ -18828,7 +19117,7 @@
     "achternaam": "Leijen",
     "voorletters": "R.M.",
     "tussenvoegsel": "van",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 28,
@@ -18875,7 +19164,7 @@
     "achternaam": "Jagtenberg",
     "voorletters": "M.H.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 29,
@@ -18915,7 +19204,8 @@
     "vinddebeta": true,
     "urls": {
       "partijwebsite": "https://d66.nl/nieuws/advieslijst-tweede-kamerverkiezing-2025/",
-      "LinkedIn": "https://www.linkedin.com/in/michellejagtenberg/"
+      "LinkedIn": "https://www.linkedin.com/in/michellejagtenberg/",
+      "Instagram": "https://www.instagram.com/mhjagtenberg/?hl=af"
     },
     "leeftijd": "32",
     "studies": [
@@ -18933,7 +19223,7 @@
     "achternaam": "Mathlouti",
     "voorletters": "M.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 30,
@@ -19034,7 +19324,7 @@
     "achternaam": "Damme",
     "voorletters": "L.",
     "tussenvoegsel": "van",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 31,
@@ -19074,7 +19364,10 @@
     "leeftijd": "27",
     "urls": {
       "LinkedIn": "https://nl.linkedin.com/in/lisanne-van-damme",
-      "Instagram": "https://www.instagram.com/lisanne_van_damme/"
+      "Instagram": "https://www.instagram.com/lisanne_van_damme/",
+      "partijwebsite": "https://d66.nl/zuidholland/mensen/lisanne-van-damme/",
+      "Twitter": "https://x.com/lisannevandamme",
+      "Facebook": "https://www.facebook.com/lisanne.vandamme2/"
     }
   },
   {
@@ -19085,7 +19378,7 @@
     "achternaam": "Stifanos",
     "voorletters": "Y.T.P.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 32,
@@ -19132,7 +19425,7 @@
     "achternaam": "Hoekstra",
     "voorletters": "M.L.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 33,
@@ -19169,7 +19462,11 @@
         }
       }
     },
-    "leeftijd": "55"
+    "leeftijd": "55",
+    "urls": {
+      "LinkedIn": "https://www.linkedin.com/in/marike-hoekstra-6933ba/?originalSubdomain=nl",
+      "Instagram": "https://www.instagram.com/hmarike?igsh=MW8xb3kwZW5rZDZhaQ=="
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Hester_H.J.J._Borm",
@@ -19179,7 +19476,7 @@
     "achternaam": "Borm",
     "voorletters": "H.J.J.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 34,
@@ -19209,7 +19506,14 @@
         "partij_naam": "D66"
       }
     },
-    "leeftijd": "36"
+    "leeftijd": "36",
+    "urls": {
+      "partijwebsite": "https://hesterborm.com/",
+      "LinkedIn": "https://www.linkedin.com/in/hesterborm/?originalSubdomain=cl",
+      "Twitter": "https://x.com/HesterBorm/",
+      "Instagram": "https://www.instagram.com/hborm/",
+      "Facebook": "https://www.facebook.com/people/Hester-Borm/61579025590829/#"
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Elke_E._Smulders",
@@ -19219,7 +19523,7 @@
     "achternaam": "Smulders",
     "voorletters": "E.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 35,
@@ -19256,7 +19560,14 @@
         }
       }
     },
-    "leeftijd": "42"
+    "leeftijd": "42",
+    "urls": {
+      "partijwebsite": "https://d66.nl/gelderland/mensen/elke-smulders/",
+      "LinkedIn": "https://www.linkedin.com/in/elke-smulders-27975812/?originalSubdomain=nl",
+      "Twitter": "https://x.com/ElkesmuldersD66/with_replies",
+      "Instagram": "https://www.instagram.com/elkesmulders/",
+      "Facebook": "https://www.facebook.com/elke.meyerssmulders/?locale=nl_NL"
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Nes_E.F.H._Barkey_Wolf",
@@ -19266,7 +19577,7 @@
     "achternaam": "Barkey Wolf",
     "voorletters": "E.F.H.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 36,
@@ -19313,7 +19624,7 @@
     "achternaam": "Ghering",
     "voorletters": "O.W.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 37,
@@ -19372,7 +19683,7 @@
     "achternaam": "Woudstra",
     "voorletters": "E.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 38,
@@ -19436,7 +19747,12 @@
         "partij_naam": "D66"
       }
     },
-    "leeftijd": "48"
+    "leeftijd": "48",
+    "urls": {
+      "LinkedIn": "https://www.linkedin.com/in/elzewoudstra/?originalSubdomain=nl",
+      "Instagram": "https://www.instagram.com/elzewoudstra/",
+      "Facebook": "https://www.facebook.com/elze.woudstra/"
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Björn_B._Bonten",
@@ -19446,7 +19762,7 @@
     "achternaam": "Bonten",
     "voorletters": "B.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 39,
@@ -19493,7 +19809,7 @@
     "achternaam": "Derks",
     "voorletters": "M.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 40,
@@ -19530,7 +19846,13 @@
         }
       }
     },
-    "leeftijd": "35"
+    "leeftijd": "35",
+    "urls": {
+      "partijwebsite": "https://d66.nl/heemstede/mensen/marloes-derks/",
+      "LinkedIn": "https://www.linkedin.com/in/marloes-derks/?originalSubdomain=nl",
+      "Instagram": "https://www.instagram.com/marloesd66/",
+      "Facebook": "https://nl-nl.facebook.com/people/Marloes-Derks/pfbid02vFfDiA7ZSNh9vvEjByWoPP2SxTaveXmdAHKnKGF9CAJC9vYiGCYR8AVNBChi8deAl/"
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Samantha_S.M._Regtuijt",
@@ -19540,7 +19862,7 @@
     "achternaam": "Regtuijt",
     "voorletters": "S.M.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 41,
@@ -19577,7 +19899,11 @@
         }
       }
     },
-    "leeftijd": "31"
+    "leeftijd": "31",
+    "urls": {
+      "LinkedIn": "https://www.linkedin.com/in/samantharegtuijt/?originalSubdomain=nl",
+      "Instagram": "https://www.instagram.com/justsamm_/"
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Yvo_Y.W.E._Senden",
@@ -19587,7 +19913,7 @@
     "achternaam": "Senden",
     "voorletters": "Y.W.E.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 42,
@@ -19634,7 +19960,7 @@
     "achternaam": "Pander",
     "voorletters": "J.T.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 43,
@@ -19685,7 +20011,7 @@
     "achternaam": "Berends",
     "voorletters": "T.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 44,
@@ -19743,7 +20069,7 @@
     "achternaam": "Maessen",
     "voorletters": "R.J.M.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 45,
@@ -19817,7 +20143,7 @@
     "achternaam": "Gräper-van Koolwijk",
     "voorletters": "F.Q.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 46,
@@ -19889,7 +20215,13 @@
         "partij_naam": "D66"
       }
     },
-    "leeftijd": "50"
+    "leeftijd": "50",
+    "urls": {
+      "partijwebsite": "https://d66.nl/provinciegroningen/mensen/fleur-graper-van-koolwijk/",
+      "LinkedIn": "https://www.linkedin.com/in/fleurgraepervankoolwijk/?originalSubdomain=nl",
+      "Twitter": "https://x.com/fleurgraeper",
+      "Instagram": "https://www.instagram.com/fleurgraeper/"
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Pia_P.A._Dijkstra",
@@ -19899,7 +20231,7 @@
     "achternaam": "Dijkstra",
     "voorletters": "P.A.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 47,
@@ -19936,7 +20268,13 @@
         }
       }
     },
-    "leeftijd": "70"
+    "leeftijd": "70",
+    "urls": {
+      "partijwebsite": "https://d66.nl/mensen/pia-dijkstra/",
+      "LinkedIn": "https://www.linkedin.com/in/pia-dijkstra-61180610/",
+      "Instagram": "https://www.instagram.com/ministermzdijkstra/",
+      "Facebook": "https://www.facebook.com/pia.dijkstra.391"
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Kajsa_K.H._Ollongren",
@@ -19946,7 +20284,7 @@
     "achternaam": "Ollongren",
     "voorletters": "K.H.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 48,
@@ -20037,7 +20375,13 @@
         "partij_naam": "D66"
       }
     },
-    "leeftijd": "58"
+    "leeftijd": "58",
+    "urls": {
+      "LinkedIn": "https://www.linkedin.com/in/kajsaollongren/?originalSubdomain=nl",
+      "Twitter": "https://x.com/kajsaollongren",
+      "Instagram": "https://www.instagram.com/kajsaollongren/",
+      "BlueSky": "https://web-cdn.bsky.app/profile/kajsaollongren.bsky.social"
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Robbert_R.H._Dijkgraaf",
@@ -20047,7 +20391,7 @@
     "achternaam": "Dijkgraaf",
     "voorletters": "R.H.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 49,
@@ -20132,7 +20476,7 @@
     "achternaam": "Phlippen",
     "voorletters": "S.M.W.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 50,
@@ -20169,7 +20513,10 @@
         }
       }
     },
-    "leeftijd": "47"
+    "leeftijd": "47",
+    "urls": {
+      "LinkedIn": "https://www.linkedin.com/in/sandra-phlippen/?originalSubdomain=nl"
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Caroline_C.A.M._Plas",
@@ -20179,7 +20526,7 @@
     "achternaam": "Plas",
     "voorletters": "C.A.M.",
     "tussenvoegsel": "van der",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 1,
@@ -20242,7 +20589,13 @@
         "partij_naam": "BBB"
       }
     },
-    "leeftijd": "58"
+    "leeftijd": "58",
+    "urls": {
+      "partijwebsite": "https://boerburgerbeweging.nl/kandidaten/caroline-van-der-plas/",
+      "LinkedIn": "https://nl.linkedin.com/in/carolinevanderplas",
+      "Twitter": "https://x.com/lientje1967",
+      "Instagram": "https://www.instagram.com/carolinevandplas/"
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Mona_M.C.G._Keijzer",
@@ -20252,7 +20605,7 @@
     "achternaam": "Keijzer",
     "voorletters": "M.C.G.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 2,
@@ -20343,7 +20696,14 @@
         "partij_naam": "CDA"
       }
     },
-    "leeftijd": "56"
+    "leeftijd": "56",
+    "urls": {
+      "partijwebsite": "https://boerburgerbeweging.nl/kandidaten/mona-keijzer/",
+      "LinkedIn": "https://www.linkedin.com/in/mona-keijzer-87019b29/",
+      "Twitter": "https://x.com/MonaKeijzer",
+      "Instagram": "https://www.instagram.com/monakeijzer/",
+      "Facebook": "https://www.facebook.com/MonaKeijzer"
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Henk_H._Vermeer",
@@ -20353,7 +20713,7 @@
     "achternaam": "Vermeer",
     "voorletters": "H.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 3,
@@ -20463,7 +20823,7 @@
     "achternaam": "Wiersma",
     "voorletters": "F.M.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 4,
@@ -20526,7 +20886,12 @@
         "partij_naam": "BBB"
       }
     },
-    "leeftijd": "40"
+    "leeftijd": "40",
+    "urls": {
+      "partijwebsite": "https://boerburgerbeweging.nl/kandidaten/femke-wiersma/",
+      "LinkedIn": "https://nl.linkedin.com/in/femke-marije-wiersma-47953458",
+      "Twitter": "https://x.com/FemkeMarijeW"
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Claudia_C.R._Zanten",
@@ -20536,7 +20901,7 @@
     "achternaam": "Zanten",
     "voorletters": "C.R.",
     "tussenvoegsel": "van",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 5,
@@ -20573,7 +20938,14 @@
         }
       }
     },
-    "leeftijd": "46"
+    "leeftijd": "46",
+    "urls": {
+      "partijwebsite": "https://boerburgerbeweging.nl/kandidaten/claudia-van-zanten/",
+      "LinkedIn": "https://www.linkedin.com/in/claudiavanzanten1/",
+      "Twitter": "https://x.com/claudiavz",
+      "Instagram": "https://www.instagram.com/claudia.vanzanten/",
+      "Facebook": "https://www.facebook.com/ClaudiaVanZantenTK/"
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Gijs_G.P._Tuinman",
@@ -20583,7 +20955,7 @@
     "achternaam": "Tuinman",
     "voorletters": "G.P.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 6,
@@ -20657,7 +21029,7 @@
     "achternaam": "Wijen-Nass",
     "voorletters": "M.J.M.H.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 7,
@@ -20721,7 +21093,14 @@
         "partij_naam": "BBB"
       }
     },
-    "leeftijd": "32"
+    "leeftijd": "32",
+    "urls": {
+      "partijwebsite": "https://boerburgerbeweging.nl/kandidaten/marieke-wijen-nass/",
+      "LinkedIn": "https://nl.linkedin.com/in/mariekenass",
+      "Twitter": "https://x.com/MariekeWijen",
+      "Instagram": "https://www.instagram.com/mariekewijennass/",
+      "Facebook": "https://www.facebook.com/MariekeWijenNassBBB/"
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Agnes_A.S._Joseph",
@@ -20731,7 +21110,7 @@
     "achternaam": "Joseph",
     "voorletters": "A.S.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 8,
@@ -20795,7 +21174,12 @@
         "partij_naam": "Nieuw Sociaal Contract"
       }
     },
-    "leeftijd": "45"
+    "leeftijd": "45",
+    "urls": {
+      "partijwebsite": "https://boerburgerbeweging.nl/kandidaten/agnes-joseph/",
+      "LinkedIn": "https://www.linkedin.com/in/agnesjoseph/",
+      "Twitter": "https://x.com/Agnes_Joseph_TK"
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Martin_M._Oostenbrink",
@@ -20805,7 +21189,7 @@
     "achternaam": "Oostenbrink",
     "voorletters": "M.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 9,
@@ -20879,7 +21263,7 @@
     "achternaam": "Hendriks",
     "voorletters": "A.J.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 10,
@@ -20957,7 +21341,7 @@
     "achternaam": "Govaert",
     "voorletters": "C.A.H.M.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 11,
@@ -21021,7 +21405,15 @@
         "partij_naam": "BBB"
       }
     },
-    "leeftijd": "57"
+    "leeftijd": "57",
+    "urls": {
+      "partijwebsite": "https://boerburgerbeweging.nl/kandidaten/christine-govaert/",
+      "LinkedIn": "https://nl.linkedin.com/in/christinegovaert",
+      "Twitter": "https://x.com/Chris10Govaert",
+      "Instagram": "https://www.instagram.com/christinegovaert/",
+      "Facebook": "https://www.facebook.com/p/Christine-Govaert-100090111682852/",
+      "BlueSky": "https://bsky.app/profile/did:plc:3almittivr7tbrymmfwdm7ye"
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Robert_R._Tieman",
@@ -21031,7 +21423,7 @@
     "achternaam": "Tieman",
     "voorletters": "R.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 12,
@@ -21089,7 +21481,7 @@
     "achternaam": "Rummenie",
     "voorletters": "J.F.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 13,
@@ -21174,7 +21566,7 @@
     "achternaam": "Marum",
     "voorletters": "E.",
     "tussenvoegsel": "van",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 14,
@@ -21221,7 +21613,7 @@
     "achternaam": "Wiegmans- de Winter",
     "voorletters": "D.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 15,
@@ -21258,7 +21650,12 @@
         }
       }
     },
-    "urls": {},
+    "urls": {
+      "partijwebsite": "https://boerburgerbeweging.nl/kandidaten/danielle-wiegmans/",
+      "LinkedIn": "https://www.linkedin.com/in/dani%C3%ABlle-wiegmans-27876a160/",
+      "Twitter": "https://x.com/daanwiegmans",
+      "Instagram": "https://www.instagram.com/daan_wiegmans/"
+    },
     "leeftijd": "37"
   },
   {
@@ -21269,7 +21666,7 @@
     "achternaam": "Karsbergen",
     "voorletters": "K.G.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 16,
@@ -21316,7 +21713,7 @@
     "achternaam": "Hertog",
     "voorletters": "E.W.J.",
     "tussenvoegsel": "den",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 17,
@@ -21363,7 +21760,7 @@
     "achternaam": "Ridder",
     "voorletters": "R.J.G.",
     "tussenvoegsel": "de",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 18,
@@ -21400,7 +21797,12 @@
         }
       }
     },
-    "leeftijd": "58"
+    "leeftijd": "58",
+    "urls": {
+      "partijwebsite": "https://boerburgerbeweging.nl/kandidaten/ines-de-ridder/",
+      "LinkedIn": "https://www.linkedin.com/in/inesderidder/",
+      "Instagram": "https://www.instagram.com/inesderidder/"
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Haidy_H.F._Hankers",
@@ -21410,7 +21812,7 @@
     "achternaam": "Hankers",
     "voorletters": "H.F.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 19,
@@ -21494,7 +21896,7 @@
     "achternaam": "Sprik",
     "voorletters": "H.C.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 20,
@@ -21541,7 +21943,7 @@
     "achternaam": "Morsink",
     "voorletters": "A.J.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 21,
@@ -21592,7 +21994,7 @@
     "achternaam": "Veen-van den Berg",
     "voorletters": "A.",
     "tussenvoegsel": "van",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 22,
@@ -21629,7 +22031,11 @@
         }
       }
     },
-    "urls": {},
+    "urls": {
+      "partijwebsite": "https://boerburgerbeweging.nl/kandidaten/andrea-van-veen/",
+      "Twitter": "https://x.com/AndreavanVeen",
+      "Instagram": "https://www.instagram.com/andreavan_veen/"
+    },
     "leeftijd": "41"
   },
   {
@@ -21640,7 +22046,7 @@
     "achternaam": "Meeldijk",
     "voorletters": "C.W.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 23,
@@ -21687,7 +22093,7 @@
     "achternaam": "Pabon",
     "voorletters": "M.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 24,
@@ -21724,7 +22130,12 @@
         }
       }
     },
-    "leeftijd": "40"
+    "leeftijd": "40",
+    "urls": {
+      "partijwebsite": "https://boerburgerbeweging.nl/kandidaten/mies-pabon/",
+      "LinkedIn": "https://www.linkedin.com/in/mies-pabon-0b65319b/",
+      "Facebook": "https://www.facebook.com/mies.pabon/"
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Dirk_D.G.J._Buis",
@@ -21734,7 +22145,7 @@
     "achternaam": "Buis",
     "voorletters": "D.G.J.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 25,
@@ -21789,7 +22200,7 @@
     "achternaam": "Groot",
     "voorletters": "J.M.",
     "tussenvoegsel": "de",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 26,
@@ -21840,7 +22251,7 @@
     "achternaam": "Olthof",
     "voorletters": "J.F.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 27,
@@ -21895,7 +22306,7 @@
     "achternaam": "Huijbens",
     "voorletters": "N.A.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 28,
@@ -21935,7 +22346,8 @@
     "leeftijd": "24",
     "urls": {
       "partijwebsite": "https://boerburgerbeweging.nl/kandidaten/pien-huijbens/",
-      "LinkedIn": "https://www.linkedin.com/in/pien-huijbens/?originalSubdomain=nl"
+      "LinkedIn": "https://www.linkedin.com/in/pien-huijbens/?originalSubdomain=nl",
+      "Facebook": "https://www.facebook.com/pien.huijbens/"
     }
   },
   {
@@ -21946,7 +22358,7 @@
     "achternaam": "Brouwer",
     "voorletters": "K.W.P.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 29,
@@ -21997,7 +22409,7 @@
     "achternaam": "Stienstra",
     "voorletters": "F.J.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 30,
@@ -22044,7 +22456,7 @@
     "achternaam": "Berg",
     "voorletters": "B.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 31,
@@ -22095,7 +22507,7 @@
     "achternaam": "Meijroos",
     "voorletters": "W.M.S.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 32,
@@ -22167,7 +22579,7 @@
     "achternaam": "Dekker",
     "voorletters": "J.H.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 33,
@@ -22218,7 +22630,7 @@
     "achternaam": "Flipsen-Verhagen",
     "voorletters": "M.C.C.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 34,
@@ -22289,7 +22701,11 @@
         "partij_naam": "BBB"
       }
     },
-    "leeftijd": "52"
+    "leeftijd": "52",
+    "urls": {
+      "partijwebsite": "https://boerburgerbeweging.nl/kandidaten/monique-flipsen-verhagen/",
+      "LinkedIn": "https://www.linkedin.com/in/monique-flipsen-verhagen-21273a12b/"
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Tjerk_T.V.C._Zeitsen",
@@ -22299,7 +22715,7 @@
     "achternaam": "Zeitsen",
     "voorletters": "T.V.C.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 35,
@@ -22350,7 +22766,7 @@
     "achternaam": "Vrugt",
     "voorletters": "J.A.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 36,
@@ -22401,7 +22817,7 @@
     "achternaam": "Lagas",
     "voorletters": "I.M.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 37,
@@ -22438,7 +22854,13 @@
         }
       }
     },
-    "leeftijd": "69"
+    "leeftijd": "69",
+    "urls": {
+      "partijwebsite": "https://boerburgerbeweging.nl/kandidaten/ilona-lagas/",
+      "LinkedIn": "https://www.linkedin.com/in/ilona-lagas-meijer-472a4821",
+      "Instagram": "https://www.instagram.com/ilonalagas.meijer/",
+      "Facebook": "https://www.facebook.com/profile.php?id=100008510610547#"
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Mark_M.J.H._Ven",
@@ -22448,7 +22870,7 @@
     "achternaam": "Ven",
     "voorletters": "M.J.H.",
     "tussenvoegsel": "van de",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 38,
@@ -22495,7 +22917,7 @@
     "achternaam": "Zoet",
     "voorletters": "H.R.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 39,
@@ -22542,7 +22964,7 @@
     "achternaam": "Schoolmeesters",
     "voorletters": "A.M.A.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 40,
@@ -22579,7 +23001,11 @@
         }
       }
     },
-    "leeftijd": "61"
+    "leeftijd": "61",
+    "urls": {
+      "partijwebsite": "https://boerburgerbeweging.nl/kandidaten/annetje-schoolmeesters/",
+      "LinkedIn": "https://www.linkedin.com/in/annetjeschoolmeesters/"
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Robbert_R._Lievense",
@@ -22589,7 +23015,7 @@
     "achternaam": "Lievense",
     "voorletters": "R.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 41,
@@ -22644,7 +23070,7 @@
     "achternaam": "Schuiling",
     "voorletters": "H.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 42,
@@ -22699,7 +23125,7 @@
     "achternaam": "Hoving",
     "voorletters": "K.K.T.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 43,
@@ -22746,7 +23172,7 @@
     "achternaam": "Adolfs",
     "voorletters": "N.F.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 44,
@@ -22793,7 +23219,7 @@
     "achternaam": "Sain",
     "voorletters": "G.M.",
     "tussenvoegsel": "de",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 45,
@@ -22830,7 +23256,12 @@
         }
       }
     },
-    "leeftijd": "55"
+    "leeftijd": "55",
+    "urls": {
+      "partijwebsite": "https://boerburgerbeweging.nl/kandidaten/ingrid-de-sain/",
+      "LinkedIn": "https://www.linkedin.com/in/ingrid-de-sain-808095150/",
+      "Twitter": "https://x.com/desainingrid"
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Abel_A.W._Kooistra",
@@ -22840,7 +23271,7 @@
     "achternaam": "Kooistra",
     "voorletters": "A.W.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 46,
@@ -22891,7 +23322,7 @@
     "achternaam": "Beemsterboer",
     "voorletters": "J.C.J.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 47,
@@ -22965,7 +23396,7 @@
     "achternaam": "Koks",
     "voorletters": "N.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 48,
@@ -23002,7 +23433,11 @@
         }
       }
     },
-    "leeftijd": "37"
+    "leeftijd": "37",
+    "urls": {
+      "partijwebsite": "https://boerburgerbeweging.nl/kandidaten/nicole-koks/",
+      "LinkedIn": "https://www.linkedin.com/in/nicole-koks-hofman-02a73885/"
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Helma_W.J.H._Lodders",
@@ -23012,7 +23447,7 @@
     "achternaam": "Lodders",
     "voorletters": "W.J.H.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 49,
@@ -23049,7 +23484,14 @@
         }
       }
     },
-    "leeftijd": "57"
+    "leeftijd": "57",
+    "urls": {
+      "partijwebsite": "https://boerburgerbeweging.nl/kandidaten/helma-lodders/",
+      "LinkedIn": "https://www.linkedin.com/in/helmalodders/",
+      "Twitter": "https://x.com/helmalodders",
+      "Instagram": "https://www.instagram.com/helma_lodders/",
+      "Facebook": "https://www.facebook.com/helma.lodders/"
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Nicki_N.J.F._Pouw-Verweij",
@@ -23059,7 +23501,7 @@
     "achternaam": "Pouw-Verweij",
     "voorletters": "N.J.F.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 50,
@@ -23150,7 +23592,13 @@
         "partij_naam": "JA21"
       }
     },
-    "leeftijd": "34"
+    "leeftijd": "34",
+    "urls": {
+      "partijwebsite": "https://boerburgerbeweging.nl/kandidaten/nicki-pouw-verweij/",
+      "LinkedIn": "https://www.linkedin.com/in/nickipouwverweij/",
+      "Twitter": "https://x.com/nickiverweij",
+      "Instagram": "https://www.instagram.com/nickiverweij/"
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Henri_H._Bontenbal",
@@ -26154,7 +26602,7 @@
     "achternaam": "Dijk",
     "voorletters": "J.P.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 1,
@@ -26255,7 +26703,7 @@
     "achternaam": "Beckerman",
     "voorletters": "S.M.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 2,
@@ -26346,7 +26794,14 @@
         "partij_naam": "SP (Socialistische Partij)"
       }
     },
-    "leeftijd": "42"
+    "leeftijd": "42",
+    "urls": {
+      "partijwebsite": "https://www.sp.nl/onze-mensen/sandra-beckerman",
+      "Twitter": "https://x.com/sandrabeckerman",
+      "Instagram": "https://www.instagram.com/sandra_beckerman/?hl=en",
+      "Facebook": "https://www.facebook.com/sandra.beckerman.9/",
+      "BlueSky": "https://bsky.app/profile/sandrabeckerman.bsky.social"
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Sarah_S.E.M._Dobbe",
@@ -26356,7 +26811,7 @@
     "achternaam": "Dobbe",
     "voorletters": "S.E.M.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 3,
@@ -26449,7 +26904,12 @@
     },
     "rainbowvote": true,
     "urls": {
-      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamerverkiezingen-2025/partijen-2025/sp/sarah-dobbe/"
+      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamerverkiezingen-2025/partijen-2025/sp/sarah-dobbe/",
+      "partijwebsite": "https://sp.nl/onze-mensen/sarah-dobbe",
+      "LinkedIn": "https://nl.linkedin.com/in/sarah-dobbe-0a84a821",
+      "Twitter": "https://x.com/sarahdobbe",
+      "Instagram": "https://www.instagram.com/dobbesarah/?hl=en",
+      "Facebook": "https://www.facebook.com/SarahDobbeSP (Socialistische Partij)/"
     },
     "leeftijd": "46"
   },
@@ -26461,7 +26921,7 @@
     "achternaam": "Meijer",
     "voorletters": "B.W.V.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 4,
@@ -26542,7 +27002,7 @@
     "achternaam": "Hondmann",
     "voorletters": "M.M.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 5,
@@ -26595,7 +27055,7 @@
     "achternaam": "Elfrink",
     "voorletters": "G.E.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 6,
@@ -26696,7 +27156,7 @@
     "achternaam": "Hout",
     "voorletters": "S.G.",
     "tussenvoegsel": "van den",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 7,
@@ -26770,7 +27230,7 @@
     "achternaam": "Biharie",
     "voorletters": "S.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 8,
@@ -26834,7 +27294,13 @@
         "partij_naam": "SP (Socialistische Partij)"
       }
     },
-    "leeftijd": "45"
+    "leeftijd": "45",
+    "urls": {
+      "LinkedIn": "https://nl.linkedin.com/in/sunita-biharie-%F0%9F%8D%85-6a78b549",
+      "Twitter": "https://x.com/sbiharie80?lang=en",
+      "Instagram": "https://www.instagram.com/sunita_biharie/",
+      "BlueSky": "https://bsky.app/profile/sunitabiharie.bsky.social"
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Stephanie_S._Blom",
@@ -26844,7 +27310,7 @@
     "achternaam": "Blom",
     "voorletters": "S.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 9,
@@ -26881,7 +27347,11 @@
         }
       }
     },
-    "leeftijd": "36"
+    "leeftijd": "36",
+    "urls": {
+      "partijwebsite": "https://maastricht.sp.nl/onze-mensen/stephanie-blom/",
+      "LinkedIn": "https://nl.linkedin.com/in/blomstephanie"
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Ruud_R.M._Kuin",
@@ -26891,7 +27361,7 @@
     "achternaam": "Kuin",
     "voorletters": "R.M.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 10,
@@ -26975,7 +27445,7 @@
     "achternaam": "Vossenberg",
     "voorletters": "L.J.A.M.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 11,
@@ -27033,7 +27503,7 @@
     "achternaam": "Cramer",
     "voorletters": "A.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 12,
@@ -27099,7 +27569,10 @@
     },
     "leeftijd": "27",
     "urls": {
-      "Instagram": "https://www.instagram.com/cramermeteenc/"
+      "Instagram": "https://www.instagram.com/cramermeteenc/",
+      "partijwebsite": "https://leiden.sp.nl/onze-mensen/anne-cramer/",
+      "Twitter": "https://x.com/cramermeteenc?lang=en",
+      "BlueSky": "https://bsky.app/profile/annecramer.bsky.social"
     }
   },
   {
@@ -27110,7 +27583,7 @@
     "achternaam": "Witsenburg",
     "voorletters": "A.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 13,
@@ -27149,7 +27622,8 @@
     },
     "rainbowvote": true,
     "urls": {
-      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamerverkiezingen-2025/partijen-2025/sp/amber-witsenburg-die-hen-diens/"
+      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamerverkiezingen-2025/partijen-2025/sp/amber-witsenburg-die-hen-diens/",
+      "LinkedIn": "https://nl.linkedin.com/in/amber-witsenburg-615754108"
     },
     "leeftijd": "32"
   },
@@ -27161,7 +27635,7 @@
     "achternaam": "Wever",
     "voorletters": "E.N.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 14,
@@ -27201,7 +27675,7 @@
     "achternaam": "Broeke",
     "voorletters": "M.J.",
     "tussenvoegsel": "ten",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 15,
@@ -27259,7 +27733,7 @@
     "achternaam": "Halm",
     "voorletters": "T.",
     "tussenvoegsel": "van",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 16,
@@ -27333,7 +27807,7 @@
     "achternaam": "Peltenburg",
     "voorletters": "S.L.M.J.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 17,
@@ -27384,7 +27858,7 @@
     "achternaam": "Rossum",
     "voorletters": "L.",
     "tussenvoegsel": "van",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 18,
@@ -27451,7 +27925,8 @@
     "vinddebeta": true,
     "urls": {
       "partijwebsite": "https://www.sp.nl/nieuws/sp-kandidatenlijst-voor-supersociaal-nederland",
-      "LinkedIn": "https://www.linkedin.com/in/lieke-van-rossum-7b23464/"
+      "LinkedIn": "https://www.linkedin.com/in/lieke-van-rossum-7b23464/",
+      "Instagram": "https://www.instagram.com/lieke_vanrossum/?locale=nl&hl=af"
     },
     "leeftijd": "42",
     "studies": [
@@ -27469,7 +27944,7 @@
     "achternaam": "Boer",
     "voorletters": "M.I.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 19,
@@ -27554,7 +28029,7 @@
     "achternaam": "Eaisaouiyen",
     "voorletters": "M.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 20,
@@ -27601,7 +28076,7 @@
     "achternaam": "Sluis",
     "voorletters": "J.H.A.",
     "tussenvoegsel": "van der",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 21,
@@ -27659,7 +28134,7 @@
     "achternaam": "Drost",
     "voorletters": "S.N.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 22,
@@ -27699,7 +28174,8 @@
     "vinddebeta": true,
     "urls": {
       "partijwebsite": "https://www.sp.nl/nieuws/sp-kandidatenlijst-voor-supersociaal-nederland",
-      "LinkedIn": "https://www.linkedin.com/in/sandra-drost-58820467/"
+      "LinkedIn": "https://www.linkedin.com/in/sandra-drost-58820467/",
+      "Twitter": "https://x.com/sandradrost"
     },
     "leeftijd": "46",
     "studies": [
@@ -27717,7 +28193,7 @@
     "achternaam": "Schwarz",
     "voorletters": "S.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 23,
@@ -27764,7 +28240,7 @@
     "achternaam": "Merks",
     "voorletters": "R.C.M.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 24,
@@ -27811,7 +28287,7 @@
     "achternaam": "Winden",
     "voorletters": "M.W.J.",
     "tussenvoegsel": "van",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 25,
@@ -27858,7 +28334,7 @@
     "achternaam": "Verdaasdonk",
     "voorletters": "I.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 26,
@@ -27922,7 +28398,14 @@
         "partij_naam": "SP (Socialistische Partij)"
       }
     },
-    "leeftijd": "50"
+    "leeftijd": "50",
+    "urls": {
+      "partijwebsite": "https://breda.sp.nl/onze-mensen/inge-verdaasdonk/",
+      "LinkedIn": "https://nl.linkedin.com/in/inge-verdaasdonk-003b883",
+      "Twitter": "https://x.com/inge75?lang=en",
+      "Instagram": "https://www.instagram.com/oma.breda?igsh=MTV2Mnd0aDBxc2t1MA==",
+      "Facebook": "https://www.facebook.com/ikke.402"
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Dane_D.C._Harris",
@@ -27932,7 +28415,7 @@
     "achternaam": "Harris",
     "voorletters": "D.C.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 27,
@@ -28009,7 +28492,7 @@
     "achternaam": "Smith",
     "voorletters": "D.J.M.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 28,
@@ -28059,7 +28542,7 @@
     "achternaam": "Kuitert",
     "voorletters": "E.E.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 29,
@@ -28096,7 +28579,13 @@
         }
       }
     },
-    "leeftijd": "53"
+    "leeftijd": "53",
+    "urls": {
+      "partijwebsite": "https://terneuzen.sp.nl/onze-mensen/edith-kuitert/",
+      "LinkedIn": "https://nl.linkedin.com/in/edith-kuitert-4ba7a582",
+      "Instagram": "https://www.instagram.com/edith.kuitert?igsh=MTF4Z3doam41ZHRhaA==",
+      "Facebook": "https://www.facebook.com/edith.kuitert/"
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Hanneke_J.F._Goede",
@@ -28106,7 +28595,7 @@
     "achternaam": "Goede",
     "voorletters": "J.F.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 30,
@@ -28143,7 +28632,13 @@
         }
       }
     },
-    "leeftijd": "43"
+    "leeftijd": "43",
+    "urls": {
+      "partijwebsite": "https://sp.nl/onze-mensen/hanneke-goede",
+      "LinkedIn": "https://nl.linkedin.com/in/hanneke-goede-b0526b179",
+      "Instagram": "https://www.instagram.com/hangoede/?hl=en",
+      "Facebook": "https://www.facebook.com/HannGoede/"
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Erik_E.M._Schapendonk",
@@ -28153,7 +28648,7 @@
     "achternaam": "Schapendonk",
     "voorletters": "E.M.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 31,
@@ -28200,7 +28695,7 @@
     "achternaam": "Topma",
     "voorletters": "X.M.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 32,
@@ -28274,7 +28769,7 @@
     "achternaam": "Wolters Gregorio",
     "voorletters": "J.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 33,
@@ -28321,7 +28816,7 @@
     "achternaam": "Moriarty Linthorst",
     "voorletters": "A.P.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 34,
@@ -28358,7 +28853,10 @@
         }
       }
     },
-    "leeftijd": "24"
+    "leeftijd": "24",
+    "urls": {
+      "partijwebsite": "https://maastricht.sp.nl/onze-mensen/anna-moriarty-linthorst/"
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Angelo_A.A._Delsen",
@@ -28368,7 +28866,7 @@
     "achternaam": "Delsen",
     "voorletters": "A.A.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 35,
@@ -28418,7 +28916,7 @@
     "achternaam": "Başoğlu",
     "voorletters": "E.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 36,
@@ -28465,7 +28963,7 @@
     "achternaam": "Kleijn",
     "voorletters": "R.C.",
     "tussenvoegsel": "de",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 37,
@@ -28512,7 +29010,7 @@
     "achternaam": "Mineur",
     "voorletters": "A.C.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 38,
@@ -28560,7 +29058,13 @@
         "partij_naam": "SP (Socialistische Partij)"
       }
     },
-    "leeftijd": "58"
+    "leeftijd": "58",
+    "urls": {
+      "partijwebsite": "https://www.sp.nl/onze-mensen/anne-marie-mineur",
+      "LinkedIn": "https://nl.linkedin.com/in/annemariemineur",
+      "Twitter": "https://x.com/AnneMarieMineur",
+      "BlueSky": "https://bsky.app/profile/annemariemineur.bsky.social"
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Yurre_Y._Wieken",
@@ -28570,7 +29074,7 @@
     "achternaam": "Wieken",
     "voorletters": "Y.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 39,
@@ -28617,7 +29121,7 @@
     "achternaam": "Singh",
     "voorletters": "J.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 40,
@@ -28664,7 +29168,7 @@
     "achternaam": "Eck",
     "voorletters": "J.J.A.W.",
     "tussenvoegsel": "van",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 41,
@@ -28701,7 +29205,14 @@
         }
       }
     },
-    "leeftijd": "47"
+    "leeftijd": "47",
+    "urls": {
+      "partijwebsite": "https://denbosch.sp.nl/onze-mensen/jente-van-eck",
+      "LinkedIn": "https://nl.linkedin.com/in/jente-eck-van-2457b57",
+      "Twitter": "https://x.com/jenteschrijft?lang=ar",
+      "Instagram": "https://www.instagram.com/jente_sp/",
+      "Facebook": "https://www.facebook.com/jente.vaneck/"
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Lisanne_L._Zandvliet-Oldenkamp",
@@ -28711,7 +29222,7 @@
     "achternaam": "Zandvliet-Oldenkamp",
     "voorletters": "L.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 42,
@@ -28762,7 +29273,7 @@
     "achternaam": "Hoogervorst",
     "voorletters": "W.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 43,
@@ -28819,7 +29330,7 @@
     "achternaam": "Kolk",
     "voorletters": "I.A.H.",
     "tussenvoegsel": "van de",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 44,
@@ -28883,7 +29394,13 @@
         "partij_naam": "SP (Socialistische Partij)"
       }
     },
-    "leeftijd": "31"
+    "leeftijd": "31",
+    "urls": {
+      "LinkedIn": "https://nl.linkedin.com/in/iris-van-de-kolk-ma-20229b175",
+      "Twitter": "https://x.com/irisvdkolk",
+      "Instagram": "https://www.instagram.com/irisvandekolk/?hl=en",
+      "BlueSky": "https://bsky.app/profile/irisvandekolk.bsky.social"
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Thom_T._Smit",
@@ -28893,7 +29410,7 @@
     "achternaam": "Smit",
     "voorletters": "T.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 45,
@@ -28940,7 +29457,7 @@
     "achternaam": "Flentge",
     "voorletters": "E.A.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 46,
@@ -29014,7 +29531,7 @@
     "achternaam": "Bos",
     "voorletters": "R.F.A.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 47,
@@ -29072,7 +29589,7 @@
     "achternaam": "Coşkun",
     "voorletters": "T.S.J.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 48,
@@ -29169,7 +29686,7 @@
     "achternaam": "Alberts-Oosterbaan",
     "voorletters": "R.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 49,
@@ -29206,7 +29723,13 @@
         }
       }
     },
-    "leeftijd": "70"
+    "leeftijd": "70",
+    "urls": {
+      "partijwebsite": "https://www.sp.nl/onze-mensen/remine-alberts",
+      "LinkedIn": "https://nl.linkedin.com/in/alberts-remine-a1574252",
+      "Twitter": "https://x.com/reminealberts?lang=en",
+      "Facebook": "https://www.facebook.com/remine.alberts/"
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Remi_R.J.L._Poppe",
@@ -29216,7 +29739,7 @@
     "achternaam": "Poppe",
     "voorletters": "R.J.L.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 50,
@@ -32312,7 +32835,7 @@
     "achternaam": "Ouwehand",
     "voorletters": "E.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 1,
@@ -32405,7 +32928,13 @@
     },
     "rainbowvote": true,
     "urls": {
-      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamerverkiezingen-2025/partijen-2025/partij-voor-de-dieren/esther-ouwehand/"
+      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamerverkiezingen-2025/partijen-2025/partij-voor-de-dieren/esther-ouwehand/",
+      "partijwebsite": "https://www.partijvoordedieren.nl/personen/esther-ouwehand",
+      "LinkedIn": "https://nl.linkedin.com/in/esther-ouwehand-735025160",
+      "Twitter": "https://x.com/estherouwehand?lang=en",
+      "Instagram": "https://www.instagram.com/estherouwehandpvdd/?hl=en",
+      "Facebook": "https://www.facebook.com/EstherOuwehand.PvdD/",
+      "BlueSky": "https://bsky.app/profile/estherouwehand.bsky.social"
     },
     "leeftijd": "49"
   },
@@ -32417,7 +32946,7 @@
     "achternaam": "Kostić",
     "voorletters": "I.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "x",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 2,
@@ -32510,7 +33039,12 @@
     },
     "rainbowvote": true,
     "urls": {
-      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamerverkiezingen-2025/partijen-2025/partij-voor-de-dieren/ines-kostic/"
+      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamerverkiezingen-2025/partijen-2025/partij-voor-de-dieren/ines-kostic/",
+      "partijwebsite": "https://www.partijvoordedieren.nl/personen/ines-kostic",
+      "LinkedIn": "https://nl.linkedin.com/in/ines-kosti%C4%87",
+      "Twitter": "https://x.com/ineskostic?lang=en",
+      "Instagram": "https://www.instagram.com/ineskostic/?hl=en",
+      "BlueSky": "https://bsky.app/profile/ineskostic.bsky.social"
     },
     "leeftijd": "41"
   },
@@ -32522,7 +33056,7 @@
     "achternaam": "Teunissen",
     "voorletters": "C.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 3,
@@ -32613,7 +33147,15 @@
         "partij_naam": "Partij voor de Dieren"
       }
     },
-    "leeftijd": "40"
+    "leeftijd": "40",
+    "urls": {
+      "partijwebsite": "https://www.partijvoordedieren.nl/personen/christine-teunissen",
+      "LinkedIn": "https://nl.linkedin.com/in/christineteunissen",
+      "Twitter": "https://x.com/ct_teunissen?lang=en",
+      "Instagram": "https://www.instagram.com/christine_teunissen/?hl=en",
+      "Facebook": "https://www.facebook.com/TeunissenPvdD/",
+      "BlueSky": "https://bsky.app/profile/christinepvdd.bsky.social"
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Falco_F._Hassel",
@@ -32623,7 +33165,7 @@
     "achternaam": "Hassel",
     "voorletters": "F.",
     "tussenvoegsel": "van",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 4,
@@ -32711,7 +33253,7 @@
     "achternaam": "Mathijsen",
     "voorletters": "D.D.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 5,
@@ -32748,7 +33290,14 @@
         }
       }
     },
-    "leeftijd": "42"
+    "leeftijd": "42",
+    "urls": {
+      "partijwebsite": "https://www.partijvoordedieren.nl/personen/debbie-mathijsen",
+      "LinkedIn": "https://nl.linkedin.com/in/debbie-mathijsen-33479020",
+      "Instagram": "https://www.instagram.com/debbiemathijsen/?hl=en",
+      "Facebook": "https://www.facebook.com/debbie.mathijsen/",
+      "BlueSky": "https://bsky.app/profile/debbiemathijsen.bsky.social"
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Kjell_K._Wijlandt",
@@ -32758,7 +33307,7 @@
     "achternaam": "Wijlandt",
     "voorletters": "K.",
     "tussenvoegsel": "van",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 6,
@@ -32805,7 +33354,7 @@
     "achternaam": "Krijger",
     "voorletters": "A.L.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 7,
@@ -32869,7 +33418,14 @@
         "partij_naam": "Partij voor de Dieren"
       }
     },
-    "leeftijd": "41"
+    "leeftijd": "41",
+    "urls": {
+      "partijwebsite": "https://www.partijvoordedieren.nl/personen/anna-krijger",
+      "LinkedIn": "https://nl.linkedin.com/in/anna-krijger-10b53b211",
+      "Twitter": "https://x.com/annakrijger",
+      "Instagram": "https://www.instagram.com/anna.krijger/?hl=en",
+      "BlueSky": "https://bsky.app/profile/annakrijger.bsky.social"
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Martine_M._Schaik-Gerritsen",
@@ -32879,7 +33435,7 @@
     "achternaam": "Schaik-Gerritsen",
     "voorletters": "M.",
     "tussenvoegsel": "van",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 8,
@@ -32918,7 +33474,9 @@
     },
     "urls": {
       "partijwebsite": "https://www.partijvoordedieren.nl/kandidatenlijst-tk23#7.-martine-van-schaik",
-      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamerverkiezingen-2025/partijen-2025/partij-voor-de-dieren/martine-van-schaik/"
+      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamerverkiezingen-2025/partijen-2025/partij-voor-de-dieren/martine-van-schaik/",
+      "LinkedIn": "https://nl.linkedin.com/in/martine-van-schaik-6457645",
+      "Instagram": "https://www.instagram.com/martinevschaik/"
     },
     "rainbowvote": true,
     "leeftijd": "51"
@@ -32931,7 +33489,7 @@
     "achternaam": "Stoffels",
     "voorletters": "W.E.R.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 9,
@@ -32989,7 +33547,7 @@
     "achternaam": "Coşkun",
     "voorletters": "Z.P.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 10,
@@ -33053,7 +33611,13 @@
         "partij_naam": "Partij voor de Dieren"
       }
     },
-    "leeftijd": "59"
+    "leeftijd": "59",
+    "urls": {
+      "partijwebsite": "https://www.partijvoordedieren.nl/personen/p%C4%B1nar-co%C5%9Fkun",
+      "LinkedIn": "https://nl.linkedin.com/in/pinar-coskun-89abb612",
+      "Instagram": "https://www.instagram.com/pinarvoordedieren/?hl=en",
+      "Facebook": "https://www.facebook.com/pinar.coskun.142/"
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Anjo_A._Travaille",
@@ -33063,7 +33627,7 @@
     "achternaam": "Travaille",
     "voorletters": "A.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 11,
@@ -33148,7 +33712,7 @@
     "achternaam": "Bersch",
     "voorletters": "F.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 12,
@@ -33222,7 +33786,7 @@
     "achternaam": "Langen",
     "voorletters": "R.J.",
     "tussenvoegsel": "van",
-    "geslacht": null,
+    "geslacht": "x",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 13,
@@ -33276,7 +33840,7 @@
     "achternaam": "Groenewege",
     "voorletters": "P.J.L.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 14,
@@ -33350,7 +33914,7 @@
     "achternaam": "Muller",
     "voorletters": "M.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 15,
@@ -33392,7 +33956,8 @@
       "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamerverkiezingen-2025/partijen-2025/partij-voor-de-dieren/merel-muller/",
       "partijwebsite": "https://www.partijvoordedieren.nl/personen/merel-muller",
       "LinkedIn": "https://www.linkedin.com/in/merel-muller-840a18236",
-      "Instagram": "https://instagram.com/merel_muller"
+      "Instagram": "https://instagram.com/merel_muller",
+      "Twitter": "https://x.com/merel__muller"
     },
     "leeftijd": "23"
   },
@@ -33404,7 +33969,7 @@
     "achternaam": "Barker",
     "voorletters": "R.N.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 16,
@@ -33505,7 +34070,7 @@
     "achternaam": "Butterman",
     "voorletters": "O.S.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 17,
@@ -33544,7 +34109,11 @@
     },
     "rainbowvote": true,
     "urls": {
-      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamerverkiezingen-2025/partijen-2025/partij-voor-de-dieren/olivia-butterman/"
+      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamerverkiezingen-2025/partijen-2025/partij-voor-de-dieren/olivia-butterman/",
+      "partijwebsite": "https://www.partijvoordedieren.nl/personen/olivia-butterman",
+      "LinkedIn": "https://nl.linkedin.com/in/olivia-butterman-904674b",
+      "Instagram": "https://www.instagram.com/oliviabutterman/?hl=en",
+      "BlueSky": "https://bsky.app/profile/oliviapvdd.bsky.social"
     },
     "leeftijd": "42"
   },
@@ -33556,7 +34125,7 @@
     "achternaam": "Zandwijken",
     "voorletters": "Y.X.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 18,
@@ -33603,7 +34172,7 @@
     "achternaam": "Huitema",
     "voorletters": "J.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 19,
@@ -33650,7 +34219,7 @@
     "achternaam": "Pallandt",
     "voorletters": "C.M.J.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 20,
@@ -33743,7 +34312,11 @@
     },
     "rainbowvote": true,
     "urls": {
-      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamerverkiezingen-2025/partijen-2025/partij-voor-de-dieren/cynthia-pallandt/"
+      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamerverkiezingen-2025/partijen-2025/partij-voor-de-dieren/cynthia-pallandt/",
+      "partijwebsite": "https://www.partijvoordedieren.nl/personen/cynthia-pallandt",
+      "LinkedIn": "https://www.linkedin.com/in/cynthia-pallandt/?locale=en_US",
+      "Instagram": "https://www.instagram.com/cynthiapallandt/",
+      "BlueSky": "https://bsky.app/profile/cynthiapallandt.bsky.social"
     },
     "leeftijd": "37"
   },
@@ -33755,7 +34328,7 @@
     "achternaam": "Pieterson",
     "voorletters": "S.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 21,
@@ -33794,7 +34367,11 @@
     },
     "rainbowvote": true,
     "urls": {
-      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamerverkiezingen-2025/partijen-2025/partij-voor-de-dieren/stella-marijn-pieterson/"
+      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamerverkiezingen-2025/partijen-2025/partij-voor-de-dieren/stella-marijn-pieterson/",
+      "partijwebsite": "https://www.partijvoordedieren.nl/personen/stella-pieterson",
+      "LinkedIn": "https://nl.linkedin.com/in/destellaipsa",
+      "Twitter": "https://x.com/stellapieterson",
+      "Instagram": "https://www.instagram.com/probably_awake/?hl=en"
     },
     "leeftijd": "50"
   },
@@ -33806,7 +34383,7 @@
     "achternaam": "Karadarević",
     "voorletters": "A.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 22,
@@ -33845,7 +34422,11 @@
     },
     "rainbowvote": true,
     "urls": {
-      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamerverkiezingen-2025/partijen-2025/partij-voor-de-dieren/ana-karadarevic/"
+      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamerverkiezingen-2025/partijen-2025/partij-voor-de-dieren/ana-karadarevic/",
+      "partijwebsite": "https://www.partijvoordedieren.nl/personen/ana-karadarevi%C4%87",
+      "LinkedIn": "https://nl.linkedin.com/in/ana-karadarevi%C4%87-5035193",
+      "Instagram": "https://www.instagram.com/anakaradarevic/?hl=en",
+      "BlueSky": "https://bsky.app/profile/anakaradarevic.bsky.social"
     },
     "leeftijd": "46"
   },
@@ -33857,7 +34438,7 @@
     "achternaam": "Lubek",
     "voorletters": "N.M.",
     "tussenvoegsel": "van",
-    "geslacht": null,
+    "geslacht": "x",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 23,
@@ -33911,7 +34492,7 @@
     "achternaam": "Broek",
     "voorletters": "J.M.",
     "tussenvoegsel": "van den",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 24,
@@ -33948,7 +34529,14 @@
         }
       }
     },
-    "leeftijd": "47"
+    "leeftijd": "47",
+    "urls": {
+      "partijwebsite": "https://www.partijvoordedieren.nl/personen/jacqueline-van-den-broek",
+      "LinkedIn": "https://nl.linkedin.com/in/jacqueline-van-den-broek-2676916",
+      "Twitter": "https://x.com/jacqueline_1978?lang=en",
+      "Instagram": "https://www.instagram.com/jacqueline_van_den_broek/",
+      "BlueSky": "https://bsky.app/profile/jacqueline-1978.bsky.social"
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Danielle_D.M._Weerd",
@@ -33958,7 +34546,7 @@
     "achternaam": "Weerd",
     "voorletters": "D.M.",
     "tussenvoegsel": "van de",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 25,
@@ -33995,7 +34583,13 @@
         }
       }
     },
-    "leeftijd": "56"
+    "leeftijd": "56",
+    "urls": {
+      "partijwebsite": "https://www.partijvoordedieren.nl/personen/danielle-van-de-weerd",
+      "LinkedIn": "https://nl.linkedin.com/in/fransrecht",
+      "Instagram": "https://www.instagram.com/weerddaniellevande/",
+      "BlueSky": "https://bsky.app/profile/danielleweerd.bsky.social"
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Gaby_G._Markandu",
@@ -34005,7 +34599,7 @@
     "achternaam": "Markandu",
     "voorletters": "G.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 26,
@@ -34073,7 +34667,9 @@
     "urls": {
       "partijwebsite": "https://www.partijvoordedieren.nl/personen/gaby-markandu",
       "LinkedIn": "https://nl.linkedin.com/in/gaby-markandu",
-      "Instagram": "https://www.instagram.com/gabymarkandu/"
+      "Instagram": "https://www.instagram.com/gabymarkandu/",
+      "Facebook": "https://www.facebook.com/gabriellemarkandu/",
+      "BlueSky": "https://bsky.app/profile/gabymarkandu.bsky.social"
     }
   },
   {
@@ -34084,7 +34680,7 @@
     "achternaam": "Scheijde",
     "voorletters": "E.F.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 27,
@@ -34123,7 +34719,8 @@
     },
     "rainbowvote": true,
     "urls": {
-      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamerverkiezingen-2025/partijen-2025/partij-voor-de-dieren/win-scheijde/"
+      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamerverkiezingen-2025/partijen-2025/partij-voor-de-dieren/win-scheijde/",
+      "partijwebsite": "https://www.partijvoordedieren.nl/personen/win-scheijde"
     },
     "leeftijd": "45"
   },
@@ -34135,7 +34732,7 @@
     "achternaam": "Lauret",
     "voorletters": "E.A.H.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 28,
@@ -34172,7 +34769,14 @@
         }
       }
     },
-    "leeftijd": "61"
+    "leeftijd": "61",
+    "urls": {
+      "partijwebsite": "https://www.partijvoordedieren.nl/personen/eline-lauret",
+      "LinkedIn": "https://nl.linkedin.com/in/elinelauret",
+      "Twitter": "https://x.com/elinelauret?lang=en",
+      "Instagram": "https://www.instagram.com/vossalineterual/",
+      "Facebook": "https://www.facebook.com/eline.lauret/"
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Anne-Miep_A.I._Vlasveld",
@@ -34182,7 +34786,7 @@
     "achternaam": "Vlasveld",
     "voorletters": "A.I.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 29,
@@ -34246,7 +34850,13 @@
         "partij_naam": "Partij voor de Dieren"
       }
     },
-    "leeftijd": "39"
+    "leeftijd": "39",
+    "urls": {
+      "partijwebsite": "https://www.partijvoordedieren.nl/personen/anne-miep-vlasveld",
+      "LinkedIn": "https://nl.linkedin.com/in/anne-miep-vlasveld-b928a0169",
+      "Twitter": "https://x.com/pvdd_annemiep",
+      "Instagram": "https://www.instagram.com/pvdd.annemiep.vlasveld/?hl=en"
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Noï_N._Mondfrans",
@@ -34256,7 +34866,7 @@
     "achternaam": "Mondfrans",
     "voorletters": "N.",
     "tussenvoegsel": "van",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 30,
@@ -34298,7 +34908,8 @@
       "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamerverkiezingen-2025/partijen-2025/partij-voor-de-dieren/noi-van-mondfrans/",
       "partijwebsite": "https://www.partijvoordedieren.nl/personen/no%C3%AF-van-mondfrans",
       "LinkedIn": "https://www.linkedin.com/in/no%C3%AF-van-mondfrans-7ab751270/",
-      "Instagram": "https://www.instagram.com/annoiiyed/"
+      "Instagram": "https://www.instagram.com/annoiiyed/",
+      "BlueSky": "https://bsky.app/profile/annoiiyed.bsky.social"
     },
     "leeftijd": "27"
   },
@@ -34310,7 +34921,7 @@
     "achternaam": "Madani",
     "voorletters": "S.N.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 31,
@@ -34357,7 +34968,7 @@
     "achternaam": "Wijnans",
     "voorletters": "P.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 32,
@@ -34394,7 +35005,11 @@
         }
       }
     },
-    "leeftijd": "31"
+    "leeftijd": "31",
+    "urls": {
+      "partijwebsite": "https://www.partijvoordedieren.nl/personen/pam-wijnans",
+      "Instagram": "https://www.instagram.com/pamwijnans/"
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Yeattem_Y._Wong",
@@ -34404,7 +35019,7 @@
     "achternaam": "Wong",
     "voorletters": "Y.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 33,
@@ -34441,7 +35056,12 @@
         }
       }
     },
-    "leeftijd": "41"
+    "leeftijd": "41",
+    "urls": {
+      "partijwebsite": "https://www.partijvoordedieren.nl/personen/yeattem-wong",
+      "LinkedIn": "https://nl.linkedin.com/in/yeattem-wong-71361393",
+      "Instagram": "https://www.instagram.com/yeattem/?__d=11"
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Janneke_J._Lierop",
@@ -34451,7 +35071,7 @@
     "achternaam": "Lierop",
     "voorletters": "J.",
     "tussenvoegsel": "van",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 34,
@@ -34488,7 +35108,13 @@
         }
       }
     },
-    "leeftijd": "35"
+    "leeftijd": "35",
+    "urls": {
+      "partijwebsite": "https://www.partijvoordedieren.nl/personen/janneke-van-lierop",
+      "LinkedIn": "https://www.linkedin.com/in/janneke-van-lierop-a0206446/",
+      "Instagram": "https://www.instagram.com/janneke.vanlierop/",
+      "Facebook": "https://www.facebook.com/janneke.vanlierop/"
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Arjan_R.A._Groters",
@@ -34498,7 +35124,7 @@
     "achternaam": "Groters",
     "voorletters": "R.A.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 35,
@@ -34549,7 +35175,7 @@
     "achternaam": "Woudstra",
     "voorletters": "A.J.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 36,
@@ -34596,7 +35222,7 @@
     "achternaam": "Nasroen",
     "voorletters": "V.P.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 37,
@@ -34656,7 +35282,7 @@
     "achternaam": "Loo",
     "voorletters": "J.M.",
     "tussenvoegsel": "van",
-    "geslacht": null,
+    "geslacht": "x",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 38,
@@ -34708,7 +35334,7 @@
     "achternaam": "Toorn",
     "voorletters": "T.",
     "tussenvoegsel": "van der",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 39,
@@ -34762,7 +35388,7 @@
     "achternaam": "Lammers",
     "voorletters": "J.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 40,
@@ -34802,7 +35428,10 @@
     "vinddebeta": true,
     "urls": {
       "partijwebsite": "https://www.partijvoordedieren.nl/personen/judith-lammers",
-      "LinkedIn": "https://www.linkedin.com/in/judithlammers/"
+      "LinkedIn": "https://www.linkedin.com/in/judithlammers/",
+      "Twitter": "https://x.com/judithlammers?lang=en",
+      "Instagram": "https://www.instagram.com/judithlammers1/",
+      "BlueSky": "https://bsky.app/profile/judithlammers.bsky.social"
     },
     "leeftijd": "49",
     "studies": [
@@ -34820,7 +35449,7 @@
     "achternaam": "Lievense",
     "voorletters": "P.J.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 41,
@@ -34867,7 +35496,7 @@
     "achternaam": "Eroğlu",
     "voorletters": "C.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 42,
@@ -34914,7 +35543,7 @@
     "achternaam": "Voskamp",
     "voorletters": "A.T.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 43,
@@ -34951,7 +35580,13 @@
         }
       }
     },
-    "leeftijd": "50"
+    "leeftijd": "50",
+    "urls": {
+      "partijwebsite": "https://www.partijvoordedieren.nl/personen/ang%C3%A9lique-voskamp",
+      "LinkedIn": "https://nl.linkedin.com/in/ang%C3%A9lique-voskamp-43010531",
+      "Instagram": "https://www.instagram.com/virgievegie/",
+      "Facebook": "https://www.facebook.com/angelique.voskamp/"
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Virginia_G.V.A.A.D._Jonkers",
@@ -34961,7 +35596,7 @@
     "achternaam": "Jonkers",
     "voorletters": "G.V.A.A.D.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 44,
@@ -34998,7 +35633,13 @@
         }
       }
     },
-    "leeftijd": "45"
+    "leeftijd": "45",
+    "urls": {
+      "partijwebsite": "https://eindhoven.partijvoordedieren.nl/personen/virginia-jonkers",
+      "LinkedIn": "https://nl.linkedin.com/in/virginiajonkers",
+      "Twitter": "https://x.com/virginiajonkers?lang=kn",
+      "Instagram": "https://www.instagram.com/p/DNfrP09syEw/"
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Janneke_J.M._Schotveld",
@@ -35008,7 +35649,7 @@
     "achternaam": "Schotveld",
     "voorletters": "J.M.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 45,
@@ -35045,7 +35686,12 @@
         }
       }
     },
-    "leeftijd": "51"
+    "leeftijd": "51",
+    "urls": {
+      "partijwebsite": "https://www.partijvoordedieren.nl/personen/janneke-schotveld",
+      "Instagram": "https://www.instagram.com/schotveldjanneke/?hl=en",
+      "BlueSky": "https://bsky.app/profile/jannekeschotveld.bsky.social"
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Jesse_J._Luijendijk",
@@ -35055,7 +35701,7 @@
     "achternaam": "Luijendijk",
     "voorletters": "J.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 46,
@@ -35102,7 +35748,7 @@
     "achternaam": "Esch",
     "voorletters": "E.M.",
     "tussenvoegsel": "van",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 47,
@@ -35166,7 +35812,12 @@
         "partij_naam": "Partij voor de Dieren"
       }
     },
-    "leeftijd": "39"
+    "leeftijd": "39",
+    "urls": {
+      "partijwebsite": "https://www.partijvoordedieren.nl/personen/eva-van-esch",
+      "LinkedIn": "https://nl.linkedin.com/in/eva-van-esch/en",
+      "Instagram": "https://www.instagram.com/evavanesch_pvdd/?hl=en"
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Frank_F.P._Wassenberg",
@@ -35176,7 +35827,7 @@
     "achternaam": "Wassenberg",
     "voorletters": "F.P.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 48,
@@ -35277,7 +35928,7 @@
     "achternaam": "Strik",
     "voorletters": "M.C.G.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 49,
@@ -35314,7 +35965,13 @@
         }
       }
     },
-    "leeftijd": "34"
+    "leeftijd": "34",
+    "urls": {
+      "partijwebsite": "https://www.partijvoordedieren.nl/personen/ria-strik",
+      "LinkedIn": "https://www.linkedin.com/in/ria-strik-25040782/?locale=nl_NL",
+      "Instagram": "https://www.instagram.com/strikkie?igsh=dnZ4Zm54Nnh0NnBr",
+      "BlueSky": "https://bsky.app/profile/strikkie91.bsky.social"
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Lizzy_E.M._Coeverden",
@@ -35324,7 +35981,7 @@
     "achternaam": "Coeverden",
     "voorletters": "E.M.",
     "tussenvoegsel": "van",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 50,
@@ -35361,7 +36018,12 @@
         }
       }
     },
-    "leeftijd": "33"
+    "leeftijd": "33",
+    "urls": {
+      "partijwebsite": "https://www.partijvoordedieren.nl/personen/lizzy-van-coeverden",
+      "LinkedIn": "https://nl.linkedin.com/in/lizzyvancoeverden",
+      "Instagram": "https://www.instagram.com/lizzyvancoeverden/"
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Lidewij_L.G._Vos",
@@ -37892,7 +38554,7 @@
     "achternaam": "Stoffer",
     "voorletters": "C.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 1,
@@ -38004,7 +38666,7 @@
     "achternaam": "Dijk",
     "voorletters": "D.J.H.",
     "tussenvoegsel": "van",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 2,
@@ -38078,7 +38740,7 @@
     "achternaam": "Flach",
     "voorletters": "A.J.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 3,
@@ -38179,7 +38841,7 @@
     "achternaam": "Middelkoop",
     "voorletters": "P.N.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 4,
@@ -38280,7 +38942,7 @@
     "achternaam": "Vroegindeweij",
     "voorletters": "W.J.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 5,
@@ -38327,7 +38989,7 @@
     "achternaam": "Maas",
     "voorletters": "A.J.",
     "tussenvoegsel": "van der",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 6,
@@ -38401,7 +39063,7 @@
     "achternaam": "Wind",
     "voorletters": "H.J.",
     "tussenvoegsel": "van der",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 7,
@@ -38475,7 +39137,7 @@
     "achternaam": "Both",
     "voorletters": "D.D.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 8,
@@ -38576,7 +39238,7 @@
     "achternaam": "Kloosterman",
     "voorletters": "J.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 9,
@@ -38677,7 +39339,7 @@
     "achternaam": "Roodnat",
     "voorletters": "T.J.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 10,
@@ -38728,7 +39390,7 @@
     "achternaam": "Wulp",
     "voorletters": "A.D.",
     "tussenvoegsel": "van der",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 11,
@@ -38775,7 +39437,7 @@
     "achternaam": "Polinder",
     "voorletters": "H.J.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 12,
@@ -38822,7 +39484,7 @@
     "achternaam": "Slingerland",
     "voorletters": "M.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 13,
@@ -38934,7 +39596,7 @@
     "achternaam": "Duijn",
     "voorletters": "W.J.",
     "tussenvoegsel": "van",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 14,
@@ -39008,7 +39670,7 @@
     "achternaam": "Barth",
     "voorletters": "L.G.I.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 15,
@@ -39082,7 +39744,7 @@
     "achternaam": "Lukasse",
     "voorletters": "J.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 16,
@@ -39183,7 +39845,7 @@
     "achternaam": "Tanis",
     "voorletters": "J.P.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 17,
@@ -39284,7 +39946,7 @@
     "achternaam": "Bosma",
     "voorletters": "E.G.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 18,
@@ -39385,7 +40047,7 @@
     "achternaam": "Schipaanboord",
     "voorletters": "G.P.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 19,
@@ -39486,7 +40148,7 @@
     "achternaam": "Versteeg",
     "voorletters": "A.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 20,
@@ -39598,7 +40260,7 @@
     "achternaam": "Hartog",
     "voorletters": "J.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 21,
@@ -39672,7 +40334,7 @@
     "achternaam": "Koekoek",
     "voorletters": "J.T.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 22,
@@ -39750,7 +40412,7 @@
     "achternaam": "Knegt",
     "voorletters": "L.",
     "tussenvoegsel": "de",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 23,
@@ -39835,7 +40497,7 @@
     "achternaam": "Leeuwen",
     "voorletters": "G.R.",
     "tussenvoegsel": "van",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 24,
@@ -39909,7 +40571,7 @@
     "achternaam": "Boer",
     "voorletters": "B.",
     "tussenvoegsel": "de",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 25,
@@ -39956,7 +40618,7 @@
     "achternaam": "Kok",
     "voorletters": "W.H.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 26,
@@ -40057,7 +40719,7 @@
     "achternaam": "Kuijers",
     "voorletters": "J.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 27,
@@ -40131,7 +40793,7 @@
     "achternaam": "Zelst",
     "voorletters": "H.J.",
     "tussenvoegsel": "van",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 28,
@@ -40178,7 +40840,7 @@
     "achternaam": "Bource",
     "voorletters": "R.J.C.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 29,
@@ -40225,7 +40887,7 @@
     "achternaam": "Talen",
     "voorletters": "L.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 30,
@@ -40310,7 +40972,7 @@
     "achternaam": "Baijense",
     "voorletters": "J.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 31,
@@ -40357,7 +41019,7 @@
     "achternaam": "Bulten",
     "voorletters": "H.G.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 32,
@@ -40469,7 +41131,7 @@
     "achternaam": "Top",
     "voorletters": "J.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 33,
@@ -40527,7 +41189,7 @@
     "achternaam": "Kisteman",
     "voorletters": "L.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 34,
@@ -40628,7 +41290,7 @@
     "achternaam": "Bruchem",
     "voorletters": "L.",
     "tussenvoegsel": "van",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 35,
@@ -40686,7 +41348,7 @@
     "achternaam": "Dikkenberg",
     "voorletters": "L.C.",
     "tussenvoegsel": "van den",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 36,
@@ -40744,7 +41406,7 @@
     "achternaam": "Herweijer",
     "voorletters": "H.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 37,
@@ -40818,7 +41480,7 @@
     "achternaam": "Laar",
     "voorletters": "G.J.",
     "tussenvoegsel": "van",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 38,
@@ -40876,7 +41538,7 @@
     "achternaam": "Scheppink",
     "voorletters": "A.J.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 39,
@@ -40950,7 +41612,7 @@
     "achternaam": "Heteren",
     "voorletters": "R.",
     "tussenvoegsel": "van",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 40,
@@ -41001,7 +41663,7 @@
     "achternaam": "Belt",
     "voorletters": "B.",
     "tussenvoegsel": "van den",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 41,
@@ -41048,7 +41710,7 @@
     "achternaam": "Iwaarden",
     "voorletters": "D.",
     "tussenvoegsel": "van",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 42,
@@ -41095,7 +41757,7 @@
     "achternaam": "Heinen",
     "voorletters": "J.B.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 43,
@@ -41142,7 +41804,7 @@
     "achternaam": "Verdoes",
     "voorletters": "W.J.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 44,
@@ -41193,7 +41855,7 @@
     "achternaam": "Lock",
     "voorletters": "J.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 45,
@@ -41251,7 +41913,7 @@
     "achternaam": "Burg",
     "voorletters": "J.J.",
     "tussenvoegsel": "van",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 46,
@@ -41309,7 +41971,7 @@
     "achternaam": "Vermaat",
     "voorletters": "C.T.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 47,
@@ -41367,7 +42029,7 @@
     "achternaam": "Tuijl",
     "voorletters": "L.O.",
     "tussenvoegsel": "van",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 48,
@@ -41418,7 +42080,7 @@
     "achternaam": "Hoef",
     "voorletters": "G.A.J.",
     "tussenvoegsel": "van",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 49,
@@ -41476,7 +42138,7 @@
     "achternaam": "Pronk",
     "voorletters": "F.G.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 50,
@@ -44512,7 +45174,7 @@
     "achternaam": "Dassen",
     "voorletters": "L.A.J.M.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 1,
@@ -44613,7 +45275,7 @@
     "achternaam": "Koekkoek",
     "voorletters": "M.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 2,
@@ -44706,7 +45368,13 @@
     },
     "nerdvote": true,
     "urls": {
-      "nerdvote.nl": "https://nerdvote.nl/#:~:text=Marieke%20Koekkoek"
+      "nerdvote.nl": "https://nerdvote.nl/#:~:text=Marieke%20Koekkoek",
+      "partijwebsite": "https://voltnederland.org/mensen/marieke-koekkoek",
+      "LinkedIn": "https://www.linkedin.com/in/marieke-koekkoek/?originalSubdomain=nl",
+      "Twitter": "https://x.com/koekkoekmarieke",
+      "Instagram": "https://www.instagram.com/marieke_koekkoek/",
+      "Facebook": "https://www.facebook.com/people/Marieke-Koekkoek/61572002518843/#",
+      "BlueSky": "https://bsky.app/profile/did:plc:b4lumb5k5nzmlhofbs6exe43?ref_src=embed"
     },
     "leeftijd": "34"
   },
@@ -44718,7 +45386,7 @@
     "achternaam": "Boer",
     "voorletters": "R.W.",
     "tussenvoegsel": "de",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 3,
@@ -44765,7 +45433,7 @@
     "achternaam": "Ritzer",
     "voorletters": "S.D.L.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 4,
@@ -44802,7 +45470,12 @@
         }
       }
     },
-    "leeftijd": "32"
+    "leeftijd": "32",
+    "urls": {
+      "partijwebsite": "https://voltnederland.org/mensen/4-simone-ritzer",
+      "LinkedIn": "https://www.linkedin.com/in/simoneritzer/?original_referer=https%3A%2F%2Fwww%2Egoogle%2Ecom%2F&originalSubdomain=nl",
+      "Instagram": "https://www.instagram.com/simone.ritzer/"
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Bjorn_B._Beijnon",
@@ -44812,7 +45485,7 @@
     "achternaam": "Beijnon",
     "voorletters": "B.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 5,
@@ -44890,7 +45563,7 @@
     "achternaam": "Harks",
     "voorletters": "L.C.G.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 6,
@@ -44931,7 +45604,8 @@
     "urls": {
       "partijwebsite": "https://voltnederland.org/mensen/6-laura-harks",
       "LinkedIn": "https://www.linkedin.com/in/lauraharks/",
-      "Instagram": "https://www.instagram.com/laura_harks/"
+      "Instagram": "https://www.instagram.com/laura_harks/",
+      "Twitter": "https://x.com/LauraHarks"
     }
   },
   {
@@ -44942,7 +45616,7 @@
     "achternaam": "Princen",
     "voorletters": "J.G.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 7,
@@ -44989,7 +45663,7 @@
     "achternaam": "Vossen - van Beers",
     "voorletters": "I.E.F.M.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 8,
@@ -45026,7 +45700,13 @@
         }
       }
     },
-    "leeftijd": "53"
+    "leeftijd": "53",
+    "urls": {
+      "partijwebsite": "https://voltnederland.org/mensen/inge-vossen-van-beers",
+      "LinkedIn": "https://www.linkedin.com/in/inge-vossen-van-beers-60582713/",
+      "Instagram": "https://www.instagram.com/ingevossenvanbeers/",
+      "Facebook": "https://www.facebook.com/inge.vossenvanbeers/"
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Emre_E._Güngör",
@@ -45036,7 +45716,7 @@
     "achternaam": "Güngör",
     "voorletters": "E.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 9,
@@ -45083,7 +45763,7 @@
     "achternaam": "Veltkamp",
     "voorletters": "A.M.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 10,
@@ -45120,7 +45800,13 @@
         }
       }
     },
-    "leeftijd": "36"
+    "leeftijd": "36",
+    "urls": {
+      "partijwebsite": "https://voltnederland.org/mensen/10-anna-veltkamp",
+      "LinkedIn": "https://www.linkedin.com/in/amveltkamp/",
+      "Instagram": "https://www.instagram.com/anna.veltkamp/",
+      "Facebook": "https://www.facebook.com/anna.veltkamp"
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Erik_E._Kemp",
@@ -45130,7 +45816,7 @@
     "achternaam": "Kemp",
     "voorletters": "E.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 11,
@@ -45190,7 +45876,7 @@
     "achternaam": "Fikenscher",
     "voorletters": "H.M.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 12,
@@ -45227,7 +45913,12 @@
         }
       }
     },
-    "leeftijd": "53"
+    "leeftijd": "53",
+    "urls": {
+      "partijwebsite": "https://voltnederland.org/drenthe/mensen/monique-fikenscher",
+      "LinkedIn": "https://www.linkedin.com/in/monique-fikenscher-9b149a232/",
+      "Instagram": "https://www.instagram.com/monique.franssen/"
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Roel_R.W._Yska",
@@ -45237,7 +45928,7 @@
     "achternaam": "Yska",
     "voorletters": "R.W.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 13,
@@ -45289,7 +45980,7 @@
     "achternaam": "Blom",
     "voorletters": "M.M.B.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 14,
@@ -45326,7 +46017,12 @@
         }
       }
     },
-    "leeftijd": "34"
+    "leeftijd": "34",
+    "urls": {
+      "partijwebsite": "https://voltnederland.org/mensen/14-mette-blom",
+      "LinkedIn": "https://www.linkedin.com/in/mette-blom-051b4253/",
+      "Instagram": "https://www.instagram.com/metjeblom.volt/"
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Geert_G.A._Veer",
@@ -45336,7 +46032,7 @@
     "achternaam": "Veer",
     "voorletters": "G.A.",
     "tussenvoegsel": "van der",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 15,
@@ -45383,7 +46079,7 @@
     "achternaam": "Ende",
     "voorletters": "A.E.",
     "tussenvoegsel": "van den",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 16,
@@ -45420,7 +46116,13 @@
         }
       }
     },
-    "leeftijd": "32"
+    "leeftijd": "32",
+    "urls": {
+      "partijwebsite": "https://voltnederland.org/mensen/16-anne-van-den-ende",
+      "LinkedIn": "https://www.linkedin.com/in/anne-van-den-ende/",
+      "Instagram": "https://www.instagram.com/anne.vandenende.volt/",
+      "BlueSky": "https://bsky.app/profile/annevandenende.bsky.social"
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Michael_M.T._Tai",
@@ -45430,7 +46132,7 @@
     "achternaam": "Tai",
     "voorletters": "M.T.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 17,
@@ -45504,7 +46206,7 @@
     "achternaam": "Nielsen",
     "voorletters": "K.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 18,
@@ -45541,7 +46243,11 @@
         }
       }
     },
-    "leeftijd": "40"
+    "leeftijd": "40",
+    "urls": {
+      "partijwebsite": "https://voltnederland.org/mensen/18-karin-nielsen",
+      "LinkedIn": "https://www.linkedin.com/in/karin-nielsen-36603047/?originalSubdomain=nl"
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Jesse_J.J._Mulkom",
@@ -45551,7 +46257,7 @@
     "achternaam": "Mulkom",
     "voorletters": "J.J.",
     "tussenvoegsel": "van",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 19,
@@ -45603,7 +46309,7 @@
     "achternaam": "Erens",
     "voorletters": "J.P.G.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 20,
@@ -45640,7 +46346,12 @@
         }
       }
     },
-    "leeftijd": "50"
+    "leeftijd": "50",
+    "urls": {
+      "partijwebsite": "https://voltnederland.org/mensen/20-jefte-erens",
+      "LinkedIn": "https://www.linkedin.com/in/jefteerens/",
+      "Instagram": "https://www.instagram.com/jefteerens/"
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Wiebe_W._Ende",
@@ -45650,7 +46361,7 @@
     "achternaam": "Ende",
     "voorletters": "W.",
     "tussenvoegsel": "van den",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 21,
@@ -45697,7 +46408,7 @@
     "achternaam": "Linden",
     "voorletters": "J.",
     "tussenvoegsel": "van der",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 22,
@@ -45742,7 +46453,7 @@
     "achternaam": "Nieuwenhuis",
     "voorletters": "M.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 23,
@@ -45789,7 +46500,7 @@
     "achternaam": "Rasenberg",
     "voorletters": "N.E.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 24,
@@ -45831,7 +46542,8 @@
       "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamerverkiezingen-2025/partijen-2025/volt/nova-rasenberg/",
       "partijwebsite": "https://voltnederland.org/mensen/24-novella-rasenberg",
       "LinkedIn": "https://www.linkedin.com/in/nova-rasenberg-8a6005213",
-      "Instagram": "https://www.instagram.com/nova.political/"
+      "Instagram": "https://www.instagram.com/nova.political/",
+      "BlueSky": "https://bsky.app/profile/nova-political.bsky.social"
     },
     "leeftijd": "30"
   },
@@ -45843,7 +46555,7 @@
     "achternaam": "Areago",
     "voorletters": "T.L.A.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 25,
@@ -45897,7 +46609,7 @@
     "achternaam": "Linden",
     "voorletters": "A.",
     "tussenvoegsel": "van der",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 26,
@@ -45934,7 +46646,11 @@
         }
       }
     },
-    "leeftijd": "52"
+    "leeftijd": "52",
+    "urls": {
+      "partijwebsite": "https://voltnederland.org/mensen/26-annemieke-van-der-linden",
+      "LinkedIn": "https://www.linkedin.com/in/annemieke-van-der-linden-306911376/"
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Leslie_L._Scherbeijn",
@@ -45944,7 +46660,7 @@
     "achternaam": "Scherbeijn",
     "voorletters": "L.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 27,
@@ -46003,7 +46719,7 @@
     "achternaam": "Strien",
     "voorletters": "L.",
     "tussenvoegsel": "van",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 28,
@@ -46040,7 +46756,13 @@
         }
       }
     },
-    "leeftijd": "53"
+    "leeftijd": "53",
+    "urls": {
+      "partijwebsite": "https://voltnederland.org/mensen/28-laura-van-strien",
+      "LinkedIn": "https://www.linkedin.com/in/lauravanstrien/",
+      "Twitter": "https://x.com/lauravanstrien?lang=en",
+      "BlueSky": "https://bsky.app/profile/lauravanstrien.bsky.social"
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Tom_A.J.J._Doesburg",
@@ -46050,7 +46772,7 @@
     "achternaam": "Doesburg",
     "voorletters": "A.J.J.",
     "tussenvoegsel": "van",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 29,
@@ -46101,7 +46823,7 @@
     "achternaam": "Kampen",
     "voorletters": "M.H.F.",
     "tussenvoegsel": "van",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 30,
@@ -46138,7 +46860,13 @@
         }
       }
     },
-    "leeftijd": "57"
+    "leeftijd": "57",
+    "urls": {
+      "partijwebsite": "https://voltnederland.org/mensen/30-marion-van-kampen",
+      "LinkedIn": "https://www.linkedin.com/in/marionvankampen/",
+      "Instagram": "https://www.instagram.com/marionvankampen/",
+      "BlueSky": "https://bsky.app/profile/marionvankampen.bsky.social"
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Sjoerd_S.W._Wennekes",
@@ -46148,7 +46876,7 @@
     "achternaam": "Wennekes",
     "voorletters": "S.W.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 31,
@@ -46199,7 +46927,7 @@
     "achternaam": "Eckelmans",
     "voorletters": "L.A.E.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 32,
@@ -46251,7 +46979,7 @@
     "achternaam": "Meinsma",
     "voorletters": "C.H.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 33,
@@ -46298,7 +47026,7 @@
     "achternaam": "Hamel",
     "voorletters": "J.E.R.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 34,
@@ -46362,7 +47090,13 @@
         "partij_naam": "Volt"
       }
     },
-    "leeftijd": "40"
+    "leeftijd": "40",
+    "urls": {
+      "partijwebsite": "https://voltnederland.org/mensen/34-julia-hamel",
+      "LinkedIn": "https://www.linkedin.com/in/julia-hamel-890a4215/",
+      "Instagram": "https://www.instagram.com/juliahamel/",
+      "BlueSky": "https://bsky.app/profile/juliahamel.bsky.social"
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Daan_D.C._Stokvis",
@@ -46372,7 +47106,7 @@
     "achternaam": "Stokvis",
     "voorletters": "D.C.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 35,
@@ -46424,7 +47158,7 @@
     "achternaam": "Westerman",
     "voorletters": "A.P.T.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 36,
@@ -46476,7 +47210,7 @@
     "achternaam": "Buijs",
     "voorletters": "Q.H.M.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 37,
@@ -46528,7 +47262,7 @@
     "achternaam": "Veldt",
     "voorletters": "I.S.V.",
     "tussenvoegsel": "van der",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 38,
@@ -46580,7 +47314,7 @@
     "achternaam": "Croes",
     "voorletters": "M.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 39,
@@ -46638,7 +47372,7 @@
     "achternaam": "Veen",
     "voorletters": "V.G.E.",
     "tussenvoegsel": "van der",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 40,
@@ -46675,7 +47409,12 @@
         }
       }
     },
-    "leeftijd": "50"
+    "leeftijd": "50",
+    "urls": {
+      "partijwebsite": "https://voltnederland.org/gelderland/mensen/vivienne-van-der-veen",
+      "LinkedIn": "https://www.linkedin.com/in/vivienne-van-der-veen-6771a13a/?originalSubdomain=nl",
+      "Instagram": "https://www.instagram.com/viviennevdvvolt?igsh=MTd5ejZwMnhhYzhwOQ=="
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Giovanni_G.A._Hagen",
@@ -46685,7 +47424,7 @@
     "achternaam": "Hagen",
     "voorletters": "G.A.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 41,
@@ -46744,7 +47483,7 @@
     "achternaam": "Engelen",
     "voorletters": "A.A.",
     "tussenvoegsel": "van",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 42,
@@ -46781,7 +47520,12 @@
         }
       }
     },
-    "leeftijd": "63"
+    "leeftijd": "63",
+    "urls": {
+      "partijwebsite": "https://voltnederland.org/mensen/42-adda-van-zanden",
+      "LinkedIn": "https://www.linkedin.com/in/adda-van-zanden-507202b/",
+      "Instagram": "https://www.instagram.com/addavanzanden/"
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Bart_B.P._Klijnsma",
@@ -46791,7 +47535,7 @@
     "achternaam": "Klijnsma",
     "voorletters": "B.P.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 43,
@@ -49616,7 +50360,7 @@
     "achternaam": "Plusquin",
     "voorletters": "P.S.M.L.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 1,
@@ -49706,6 +50450,13 @@
         "woonplaats": "Heerlen",
         "partij_naam": "Partij voor de Dieren"
       }
+    },
+    "urls": {
+      "partijwebsite": "https://vredevoordieren.nl/onze-kandidaten/",
+      "LinkedIn": "https://nl.linkedin.com/in/pascaleplusquin",
+      "Twitter": "https://twitter.com/pascaleplusquin",
+      "Instagram": "https://www.instagram.com/pascaleplusquin/?hl=en",
+      "BlueSky": "https://bsky.app/profile/pascaleplusquin.bsky.social"
     }
   },
   {
@@ -49716,7 +50467,7 @@
     "achternaam": "Velden",
     "voorletters": "R.T.J.",
     "tussenvoegsel": "van der",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 2,
@@ -49762,7 +50513,7 @@
     "achternaam": "Burgers",
     "voorletters": "A.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 3,
@@ -49798,6 +50549,12 @@
           "adressendichtheid": "2040"
         }
       }
+    },
+    "urls": {
+      "partijwebsite": "https://vredevoordieren.nl/onze-kandidaten/",
+      "LinkedIn": "https://nl.linkedin.com/in/arabella-burgers-89b4a830",
+      "Twitter": "https://x.com/vet_bella",
+      "BlueSky": "https://bsky.app/profile/arabellaburgers.bsky.social"
     }
   },
   {
@@ -49808,7 +50565,7 @@
     "achternaam": "Engelen",
     "voorletters": "E.R.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 4,
@@ -49854,7 +50611,7 @@
     "achternaam": "Voss",
     "voorletters": "S.H.D.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 5,
@@ -49900,7 +50657,7 @@
     "achternaam": "Hanssen",
     "voorletters": "A.M.W.M.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 6,
@@ -49936,6 +50693,10 @@
           "adressendichtheid": "547"
         }
       }
+    },
+    "urls": {
+      "partijwebsite": "https://vredevoordieren.nl/onze-kandidaten/",
+      "LinkedIn": "https://nl.linkedin.com/in/anne-hanssen-730b6b12a"
     }
   },
   {
@@ -49946,7 +50707,7 @@
     "achternaam": "Huertas Mulckhuyse",
     "voorletters": "R.R.A.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 7,
@@ -50009,6 +50770,11 @@
         "woonplaats": "Velp",
         "partij_naam": "D66"
       }
+    },
+    "urls": {
+      "partijwebsite": "https://vredevoordieren.nl/onze-kandidaten/",
+      "Twitter": "https://x.com/rosannahuertas",
+      "Instagram": "https://www.instagram.com/rosannahm?igsh=MTN2YXd3dTJobnkxYw=="
     }
   },
   {
@@ -50019,7 +50785,7 @@
     "achternaam": "Klaassen",
     "voorletters": "L.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 8,
@@ -50055,6 +50821,10 @@
           "adressendichtheid": "466"
         }
       }
+    },
+    "urls": {
+      "partijwebsite": "https://vredevoordieren.nl/onze-kandidaten/",
+      "LinkedIn": "https://www.linkedin.com/in/lara-klaassen-68024412/?originalSubdomain=nl"
     }
   },
   {
@@ -50065,7 +50835,7 @@
     "achternaam": "Peppel",
     "voorletters": "S.",
     "tussenvoegsel": "van de",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 9,
@@ -50101,6 +50871,12 @@
           "adressendichtheid": "4012"
         }
       }
+    },
+    "urls": {
+      "partijwebsite": "https://vredevoordieren.nl/onze-kandidaten/",
+      "LinkedIn": "https://nl.linkedin.com/in/sabrina-van-de-peppel-455a26163",
+      "Twitter": "https://x.com/oedeswijsheid",
+      "Instagram": "https://www.instagram.com/sabrina_van_de_peppel?igsh=dmN1anE0d2lpMDZz"
     }
   },
   {
@@ -50111,7 +50887,7 @@
     "achternaam": "Poutsma",
     "voorletters": "A.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 10,
@@ -50147,6 +50923,9 @@
           "adressendichtheid": "679"
         }
       }
+    },
+    "urls": {
+      "partijwebsite": "https://vredevoordieren.nl/onze-kandidaten/"
     }
   },
   {
@@ -50157,7 +50936,7 @@
     "achternaam": "Broekman-Falcão Pereira Gomes",
     "voorletters": "S.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 11,
@@ -50193,6 +50972,10 @@
           "adressendichtheid": "1830"
         }
       }
+    },
+    "urls": {
+      "partijwebsite": "https://vredevoordieren.nl/onze-kandidaten/",
+      "Instagram": "https://www.instagram.com/broekao?igsh=ZmozZThmbW81a2Fk"
     }
   },
   {
@@ -50203,7 +50986,7 @@
     "achternaam": "Smits",
     "voorletters": "M.W.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 12,
@@ -50239,6 +51022,13 @@
           "adressendichtheid": "4994"
         }
       }
+    },
+    "urls": {
+      "partijwebsite": "https://vredevoordieren.nl/onze-kandidaten/",
+      "LinkedIn": "https://www.linkedin.com/in/martijntje-smits-4248114/",
+      "Twitter": "https://x.com/martijntjesmits?lang=en",
+      "Instagram": "https://www.instagram.com/martijntje_smits?igsh=bGVkdzBlbWJkbzl0",
+      "BlueSky": "https://bsky.app/profile/martijntjesmits.bsky.social"
     }
   },
   {
@@ -50249,7 +51039,7 @@
     "achternaam": "Wever",
     "voorletters": "C.G.T.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 13,
@@ -50278,6 +51068,9 @@
         "woonplaats": "Pedroqao Pequeno (PT)",
         "partij_naam": "Vrede voor Dieren"
       }
+    },
+    "urls": {
+      "partijwebsite": "https://vredevoordieren.nl/onze-kandidaten/"
     }
   },
   {
@@ -50288,7 +51081,7 @@
     "achternaam": "Savelkouls",
     "voorletters": "A.G.J.P.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 14,
@@ -50327,7 +51120,7 @@
     "achternaam": "Bleijenberg",
     "voorletters": "M.W.A.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 15,
@@ -50373,7 +51166,7 @@
     "achternaam": "Tergouw",
     "voorletters": "K.O.",
     "tussenvoegsel": "van",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 16,
@@ -50409,6 +51202,11 @@
           "adressendichtheid": "2507"
         }
       }
+    },
+    "urls": {
+      "partijwebsite": "https://vredevoordieren.nl/onze-kandidaten/",
+      "Twitter": "https://x.com/oliviafeniks/with_replies",
+      "Facebook": "https://www.facebook.com/katyolivia.tergouw/"
     }
   },
   {
@@ -50419,7 +51217,7 @@
     "achternaam": "Stevens",
     "voorletters": "H.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 17,
@@ -50455,6 +51253,10 @@
           "adressendichtheid": "1781"
         }
       }
+    },
+    "urls": {
+      "partijwebsite": "https://vredevoordieren.nl/onze-kandidaten/",
+      "Twitter": "https://x.com/henniez58?lang=ar"
     }
   },
   {
@@ -50465,7 +51267,7 @@
     "achternaam": "Kochen",
     "voorletters": "J.J.M.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 18,
@@ -50501,6 +51303,10 @@
           "adressendichtheid": "1817"
         }
       }
+    },
+    "urls": {
+      "partijwebsite": "https://vredevoordieren.nl/onze-kandidaten/",
+      "LinkedIn": "https://nl.linkedin.com/in/judith-kochen-a986b49"
     }
   },
   {
@@ -50511,7 +51317,7 @@
     "achternaam": "Waal",
     "voorletters": "A.F.",
     "tussenvoegsel": "van der",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 19,
@@ -50557,7 +51363,7 @@
     "achternaam": "Abeele",
     "voorletters": "I.J.",
     "tussenvoegsel": "van den",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 20,
@@ -50593,6 +51399,9 @@
           "adressendichtheid": "917"
         }
       }
+    },
+    "urls": {
+      "partijwebsite": "https://vredevoordieren.nl/onze-kandidaten/"
     }
   },
   {
@@ -50603,7 +51412,7 @@
     "achternaam": "Hagen",
     "voorletters": "B.D.A.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 21,
@@ -50649,7 +51458,7 @@
     "achternaam": "Miedema",
     "voorletters": "N.C.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 22,
@@ -50685,6 +51494,12 @@
           "adressendichtheid": "476"
         }
       }
+    },
+    "urls": {
+      "partijwebsite": "https://vredevoordieren.nl/onze-kandidaten/",
+      "Twitter": "https://x.com/normasuniversum",
+      "Instagram": "https://www.instagram.com/normamiedema/?hl=en",
+      "Facebook": "https://www.facebook.com/105056072368259/"
     }
   },
   {
@@ -50695,7 +51510,7 @@
     "achternaam": "Schouten",
     "voorletters": "M.E.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 23,
@@ -50731,6 +51546,12 @@
           "adressendichtheid": "1092"
         }
       }
+    },
+    "urls": {
+      "partijwebsite": "https://moniqueschoutenblog.wordpress.com/",
+      "LinkedIn": "https://nl.linkedin.com/in/monika-schouten-38246013",
+      "Twitter": "https://x.com/moschouten",
+      "BlueSky": "https://bsky.app/profile/moonchild62.bsky.social"
     }
   },
   {
@@ -50741,7 +51562,7 @@
     "achternaam": "Suurmeijer",
     "voorletters": "J.J.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 24,
@@ -50787,7 +51608,7 @@
     "achternaam": "Gelder",
     "voorletters": "A.M.E.",
     "tussenvoegsel": "van",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 25,
@@ -50823,6 +51644,11 @@
           "adressendichtheid": "482"
         }
       }
+    },
+    "urls": {
+      "partijwebsite": "https://vredevoordieren.nl/onze-kandidaten/",
+      "LinkedIn": "https://nl.linkedin.com/in/annemarie-van-gelder-75237961",
+      "Instagram": "https://www.instagram.com/amevgvg?igsh=dWl3ZHc3MDJuZHhl"
     }
   },
   {
@@ -50833,7 +51659,7 @@
     "achternaam": "Bok",
     "voorletters": "J.W.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 26,
@@ -50879,7 +51705,7 @@
     "achternaam": "Koedam",
     "voorletters": "J.J.M.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 27,
@@ -50918,7 +51744,7 @@
     "achternaam": "Elsen",
     "voorletters": "T.P.",
     "tussenvoegsel": "van den",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 28,
@@ -50964,7 +51790,7 @@
     "achternaam": "Laar",
     "voorletters": "M.A.J.",
     "tussenvoegsel": "van de",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 29,
@@ -51000,6 +51826,12 @@
           "adressendichtheid": "1532"
         }
       }
+    },
+    "urls": {
+      "partijwebsite": "https://vredevoordieren.nl/onze-kandidaten/",
+      "LinkedIn": "https://nl.linkedin.com/in/myrnavandelaar",
+      "Twitter": "https://x.com/myrnavdl?lang=bg",
+      "Instagram": "https://www.instagram.com/myrnavandelaar?igsh=MTd6eHVtOXpmc3I5ZA=="
     }
   },
   {
@@ -51010,7 +51842,7 @@
     "achternaam": "Holtslag",
     "voorletters": "R.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 30,
@@ -51046,6 +51878,9 @@
           "adressendichtheid": "524"
         }
       }
+    },
+    "urls": {
+      "partijwebsite": "https://vredevoordieren.nl/onze-kandidaten/"
     }
   },
   {
@@ -51056,7 +51891,7 @@
     "achternaam": "Baars",
     "voorletters": "H.L.M.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 31,
@@ -51102,7 +51937,7 @@
     "achternaam": "Meuldijk",
     "voorletters": "B.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 32,
@@ -51138,6 +51973,10 @@
           "adressendichtheid": "1770"
         }
       }
+    },
+    "urls": {
+      "partijwebsite": "https://vredevoordieren.nl/onze-kandidaten/",
+      "Instagram": "https://www.instagram.com/belindameuldijk?igsh=MTh6cW9jdXJzb3Ezdw=="
     }
   },
   {
@@ -51148,7 +51987,7 @@
     "achternaam": "Bouma",
     "voorletters": "J.O.C.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 33,
@@ -53770,7 +54609,7 @@
     "achternaam": "Dibi",
     "voorletters": "T.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 1,
@@ -53844,7 +54683,7 @@
     "achternaam": "Tuininga",
     "voorletters": "N.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 2,
@@ -53896,7 +54735,7 @@
     "achternaam": "Otte",
     "voorletters": "T.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "x",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 3,
@@ -53947,7 +54786,7 @@
     "achternaam": "Sadhoe",
     "voorletters": "P.C.Z.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 4,
@@ -53999,7 +54838,7 @@
     "achternaam": "Campenhout",
     "voorletters": "M.R.",
     "tussenvoegsel": "van",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 5,
@@ -54046,7 +54885,7 @@
     "achternaam": "Dalderop",
     "voorletters": "M.B.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 6,
@@ -54098,7 +54937,7 @@
     "achternaam": "Oul Fakir",
     "voorletters": "N.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 7,
@@ -54150,7 +54989,7 @@
     "achternaam": "Najand",
     "voorletters": "S.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 8,
@@ -54187,7 +55026,10 @@
         }
       }
     },
-    "leeftijd": "68"
+    "leeftijd": "68",
+    "urls": {
+      "LinkedIn": "https://www.linkedin.com/in/snajand/"
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Carolien_C._Nieuweboer",
@@ -54197,7 +55039,7 @@
     "achternaam": "Nieuweboer",
     "voorletters": "C.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 9,
@@ -54234,7 +55076,11 @@
         }
       }
     },
-    "leeftijd": "36"
+    "leeftijd": "36",
+    "urls": {
+      "LinkedIn": "https://www.linkedin.com/in/caroliennieuweboer/",
+      "Instagram": "https://www.instagram.com/krolien/?hl=en"
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Venus_V._Bijleveld",
@@ -54244,7 +55090,7 @@
     "achternaam": "Bijleveld",
     "voorletters": "V.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "x",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 10,
@@ -54281,7 +55127,11 @@
         }
       }
     },
-    "leeftijd": "35"
+    "leeftijd": "35",
+    "urls": {
+      "Instagram": "https://www.instagram.com/iammamaqueen/?hl=en",
+      "Facebook": "https://www.facebook.com/venusbijleveld/"
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Nathan_N._Miango",
@@ -54291,7 +55141,7 @@
     "achternaam": "Miango",
     "voorletters": "N.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 11,
@@ -54343,7 +55193,7 @@
     "achternaam": "Beekmans",
     "voorletters": "M.A.A.J.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 12,
@@ -54395,7 +55245,7 @@
     "achternaam": "Isaack",
     "voorletters": "T.J.D.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 13,
@@ -54447,7 +55297,7 @@
     "achternaam": "Streutker",
     "voorletters": "G.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 14,
@@ -54499,7 +55349,7 @@
     "achternaam": "Gal",
     "voorletters": "Y.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 15,
@@ -54600,7 +55450,7 @@
     "achternaam": "Luhrs",
     "voorletters": "Y.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 16,
@@ -54691,7 +55541,15 @@
         "partij_naam": "BIJ1"
       }
     },
-    "leeftijd": "40"
+    "leeftijd": "40",
+    "urls": {
+      "partijwebsite": "https://www.yvetteluhrs.nl/nl/",
+      "LinkedIn": "https://www.linkedin.com/in/yvette-luhrs/",
+      "Twitter": "https://x.com/yvetteluhrs?lang=en",
+      "Instagram": "https://www.instagram.com/yvette.luhrs?igsh=dDFhYmI3cGltOXZy",
+      "Facebook": "https://www.facebook.com/watdoetYvette/",
+      "BlueSky": "https://bsky.app/profile/yvetteluhrs.bsky.social"
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Joanna_A.T.P.J._Rijsdam",
@@ -54701,7 +55559,7 @@
     "achternaam": "Rijsdam",
     "voorletters": "A.T.P.J.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 17,
@@ -54738,7 +55596,10 @@
         }
       }
     },
-    "leeftijd": "48"
+    "leeftijd": "48",
+    "urls": {
+      "Instagram": "https://www.instagram.com/joanna__rd/?hl=en"
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Andre_A.R._Damian",
@@ -54748,7 +55609,7 @@
     "achternaam": "Damian",
     "voorletters": "A.R.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 18,
@@ -54800,7 +55661,7 @@
     "achternaam": "Geuzebroek",
     "voorletters": "L.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 19,
@@ -54837,7 +55698,11 @@
         }
       }
     },
-    "leeftijd": "42"
+    "leeftijd": "42",
+    "urls": {
+      "LinkedIn": "https://www.linkedin.com/in/chihiro-geuzebroek-0037ba21/",
+      "Instagram": "https://www.instagram.com/chihiro_darling/?hl=en"
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Stevie_S.J._Nolten",
@@ -54847,7 +55712,7 @@
     "achternaam": "Nolten",
     "voorletters": "S.J.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 20,
@@ -54884,7 +55749,12 @@
         }
       }
     },
-    "leeftijd": "33"
+    "leeftijd": "33",
+    "urls": {
+      "LinkedIn": "https://www.linkedin.com/in/stevie-n-81860879/",
+      "Twitter": "https://x.com/stevienolten",
+      "Instagram": "https://www.instagram.com/stevie_jane/?locale=pt_BR&hl=fa"
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Vayhishta_V.R._Miskin",
@@ -54894,7 +55764,7 @@
     "achternaam": "Miskin",
     "voorletters": "V.R.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "v",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 21,
@@ -54958,7 +55828,11 @@
         "partij_naam": "BIJ1"
       }
     },
-    "leeftijd": "39"
+    "leeftijd": "39",
+    "urls": {
+      "LinkedIn": "https://www.linkedin.com/in/vayhishtamiskin/",
+      "Instagram": "https://www.instagram.com/vayhishta/?hl=en"
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Glenn_G.O._Helberg",
@@ -54968,7 +55842,7 @@
     "achternaam": "Helberg",
     "voorletters": "G.O.",
     "tussenvoegsel": "",
-    "geslacht": null,
+    "geslacht": "m",
     "verkiezingen": {
       "tk2025": {
         "lijstnummer": 22,
