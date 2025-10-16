@@ -32,7 +32,7 @@ with open(source, 'r') as f:
 				kandidaat['vinddebeta'] = True
 				kandidaat['studies'] = [{
 					'study': person[3],
-					'university': person[4]
+					'institute': person[4]
 				}]
 
 				try:

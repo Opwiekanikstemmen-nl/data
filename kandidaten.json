@@ -517,7 +517,7 @@
     "studies": [
       {
         "study": "Technische Bedrijfskunde",
-        "institute": "Technische Universiteit Eindhoven"
+        "institution": "Technische Universiteit Eindhoven"
       },
       {
         "study": "Atheneum-b",
@@ -3560,7 +3560,7 @@
     "studies": [
       {
         "study": "Bedrijfskundige informatica en logistiek en technische vervoerskunde",
-        "institute": "Fontys Hogeschool Venlo"
+        "institution": "Fontys Hogeschool Venlo"
       },
       {
         "study": "MAVO",
@@ -3685,7 +3685,7 @@
     "studies": [
       {
         "study": "Werktuigbouwkunde",
-        "institute": "Technische Hogeschool Delft"
+        "institution": "Technische Hogeschool Delft"
       }
     ],
     "leeftijd": 71,
@@ -3825,7 +3825,7 @@
     "studies": [
       {
         "study": "Theoretische scheikunde",
-        "institute": "Universiteit Utrecht"
+        "institution": "Universiteit Utrecht"
       }
     ],
     "leeftijd": 81,
@@ -6642,7 +6642,7 @@
     "studies": [
       {
         "study": "Mathematics & Foundations of Computer Science",
-        "institute": "University of Oxford"
+        "institution": "University of Oxford"
       },
       {
         "study": "MSc. Applicable Mathematics (with Distinction)",
@@ -7927,7 +7927,7 @@
     "studies": [
       {
         "study": "Aardwetenschappen",
-        "institute": "Universiteit Utrecht"
+        "institution": "Universiteit Utrecht"
       },
       {
         "study": "Gymnasium",
@@ -8142,7 +8142,7 @@
     "studies": [
       {
         "study": "Technische Bedrijfskunde",
-        "institute": "TU Eindhoven"
+        "institution": "TU Eindhoven"
       }
     ]
   },
@@ -8200,7 +8200,7 @@
     "studies": [
       {
         "study": "Sterrenkunde",
-        "institute": "Universiteit Leiden"
+        "institution": "Universiteit Leiden"
       }
     ]
   },
@@ -9790,7 +9790,7 @@
     "studies": [
       {
         "study": "Sustainable food & agriculture",
-        "institute": "Universiteit Wageningen"
+        "institution": "Universiteit Wageningen"
       }
     ]
   },
@@ -10285,7 +10285,7 @@
     "studies": [
       {
         "study": "Econometrics & Data Science",
-        "institute": "Vrije Universiteit Amsterdam"
+        "institution": "Vrije Universiteit Amsterdam"
       }
     ]
   },
@@ -13444,7 +13444,7 @@
     "studies": [
       {
         "study": "Engineering en beleidsanalyse ",
-        "institute": "TU Delft"
+        "institution": "TU Delft"
       }
     ],
     "tweedekamer": {
@@ -14703,7 +14703,7 @@
     "studies": [
       {
         "study": "Bewegingswetenschappen",
-        "institute": "Rijksuniversiteit Groningen"
+        "institution": "Rijksuniversiteit Groningen"
       },
       {
         "study": "Bewegingswetenschappen",
@@ -14894,7 +14894,7 @@
     "studies": [
       {
         "study": "Werktuigbouwkunde",
-        "institute": "TU Eindhoven"
+        "institution": "TU Eindhoven"
       },
       {
         "study": "Havo",
@@ -15681,7 +15681,7 @@
     "studies": [
       {
         "study": "Technische Bestuurskunde/Systems Engineering, Policy Analysis and management",
-        "institute": "TU Delft"
+        "institution": "TU Delft"
       }
     ]
   },
@@ -18191,7 +18191,7 @@
     "studies": [
       {
         "study": "Informatiekunde",
-        "institute": "Universiteit Utrecht"
+        "institution": "Universiteit Utrecht"
       }
     ]
   },
@@ -19925,7 +19925,7 @@
     "studies": [
       {
         "study": "Industrieel Ontwerpen",
-        "institute": "TU Delft"
+        "institution": "TU Delft"
       },
       {
         "study": "Master's Degree in Innovatiemanagement ",
@@ -21470,7 +21470,7 @@
     "studies": [
       {
         "study": "Biomedical Engineering",
-        "institute": "TU Eindhoven"
+        "institution": "TU Eindhoven"
       }
     ]
   },
@@ -21702,7 +21702,7 @@
     "studies": [
       {
         "study": "Luchtvaart- en Ruimtevaartechniek",
-        "institute": "TU Delft"
+        "institution": "TU Delft"
       }
     ]
   },
@@ -22162,7 +22162,7 @@
     "studies": [
       {
         "study": "Delta Management",
-        "institute": "HZ University of Applied Sciences"
+        "institution": "HZ University of Applied Sciences"
       }
     ]
   },
@@ -22548,7 +22548,7 @@
     "studies": [
       {
         "study": "Bouwkunde / Structural Engineering",
-        "institute": "Hanze / Amsterdam University of Applied Sciences"
+        "institution": "Hanze / Amsterdam University of Applied Sciences"
       }
     ]
   },
@@ -22980,7 +22980,7 @@
     "studies": [
       {
         "study": "Natuurkunde",
-        "institute": "Universiteit Utrecht"
+        "institution": "Universiteit Utrecht"
       }
     ]
   },
@@ -23396,7 +23396,7 @@
     "studies": [
       {
         "study": "Ingenieur Veehouderij",
-        "institute": "Niet bekend"
+        "institution": "Niet bekend"
       },
       {
         "study": "HAVO",
@@ -24175,7 +24175,7 @@
     "studies": [
       {
         "study": "Marine and Navigation Engineer",
-        "institute": "Hogeschool van Amsterdam"
+        "institution": "Hogeschool van Amsterdam"
       }
     ]
   },
@@ -24260,7 +24260,7 @@
     "studies": [
       {
         "study": "Agricultural ingenieur",
-        "institute": "Wageningen University & Research"
+        "institution": "Wageningen University & Research"
       }
     ]
   },
@@ -24590,7 +24590,7 @@
     "studies": [
       {
         "study": "Tropisch Landgebruik & Facility Management",
-        "institute": "Wageningen University & Research"
+        "institution": "Wageningen University & Research"
       }
     ]
   },
@@ -26472,7 +26472,7 @@
     "studies": [
       {
         "study": "Natuurkunde",
-        "institute": "Leiden Universiteit"
+        "institution": "Leiden Universiteit"
       }
     ],
     "tweedekamer": {
@@ -26681,7 +26681,7 @@
     "studies": [
       {
         "study": "Bouwtechnische bedrijfskunde etc.",
-        "institute": "Hogeschool Utrecht"
+        "institution": "Hogeschool Utrecht"
       },
       {
         "study": "VMBO - GT",
@@ -27498,7 +27498,7 @@
     "studies": [
       {
         "study": "Landbouw",
-        "institute": "Aeres hogeschool Dronten"
+        "institution": "Aeres hogeschool Dronten"
       }
     ]
   },
@@ -27556,7 +27556,7 @@
     "studies": [
       {
         "study": "Veehouderij",
-        "institute": "Christelijke Agrarische hogeschool Dronten"
+        "institution": "Christelijke Agrarische hogeschool Dronten"
       }
     ]
   },
@@ -28132,7 +28132,7 @@
     "studies": [
       {
         "study": "Bachelor of Agraric",
-        "institute": "Christelijke Agrarische hogeschool Dronten"
+        "institution": "Christelijke Agrarische hogeschool Dronten"
       }
     ]
   },
@@ -28786,7 +28786,7 @@
     "studies": [
       {
         "study": "Bouwkunde",
-        "institute": "Hogeschool Rotterdam"
+        "institution": "Hogeschool Rotterdam"
       }
     ]
   },
@@ -30442,7 +30442,7 @@
     "studies": [
       {
         "study": "Werktuigbouwkunde",
-        "institute": "Fontys University of Applied Sciences"
+        "institution": "Fontys University of Applied Sciences"
       }
     ]
   },
@@ -30883,7 +30883,7 @@
     "studies": [
       {
         "study": "Industrieel Ontwerpen",
-        "institute": "TU Delft"
+        "institution": "TU Delft"
       }
     ]
   },
@@ -30968,7 +30968,7 @@
     "studies": [
       {
         "study": "Laboratoriumtechniek",
-        "institute": "Rotterdam University of Applied Sciences"
+        "institution": "Rotterdam University of Applied Sciences"
       }
     ]
   },
@@ -31073,7 +31073,7 @@
     "studies": [
       {
         "study": "Applied Physics",
-        "institute": "TU Delft"
+        "institution": "TU Delft"
       }
     ]
   },
@@ -31132,7 +31132,7 @@
     "studies": [
       {
         "study": "Biologie en Medisch laboratoriumonderzoek",
-        "institute": "Saxion University of Applied Sciences"
+        "institution": "Saxion University of Applied Sciences"
       }
     ]
   },
@@ -32625,7 +32625,7 @@
     "studies": [
       {
         "study": "Biology Biochemistry",
-        "institute": "Radboud University"
+        "institution": "Radboud University"
       }
     ]
   },
@@ -35018,7 +35018,7 @@
     "studies": [
       {
         "study": "Technische Bedrijfskunde",
-        "institute": "Fontys Hogeschool"
+        "institution": "Fontys Hogeschool"
       }
     ]
   },
@@ -36311,7 +36311,7 @@
     "studies": [
       {
         "study": "Animal Sciences",
-        "institute": "Universiteit Wageningen"
+        "institution": "Universiteit Wageningen"
       }
     ]
   },
@@ -36605,7 +36605,7 @@
     "studies": [
       {
         "study": "Natuurwetenschap & Innovatiemanagement",
-        "institute": "Universiteit Utrecht"
+        "institution": "Universiteit Utrecht"
       }
     ]
   },
@@ -36770,7 +36770,7 @@
     "studies": [
       {
         "study": "Milieutechnologie",
-        "institute": "Van Hall Larenstein"
+        "institution": "Van Hall Larenstein"
       }
     ]
   },
@@ -38340,7 +38340,7 @@
     "studies": [
       {
         "study": "Biotechnologie",
-        "institute": "Universiteit Wageningen"
+        "institution": "Universiteit Wageningen"
       }
     ]
   },
@@ -38507,7 +38507,7 @@
     "studies": [
       {
         "study": "Econometrie",
-        "institute": "Universiteit Tilburg"
+        "institution": "Universiteit Tilburg"
       }
     ]
   },
@@ -39194,7 +39194,7 @@
     "studies": [
       {
         "study": "Scheikunde",
-        "institute": "Utrecht University"
+        "institution": "Utrecht University"
       }
     ],
     "tweedekamer": {
@@ -39483,7 +39483,7 @@
     "studies": [
       {
         "study": "Geologie",
-        "institute": "Universiteit Leiden"
+        "institution": "Universiteit Leiden"
       }
     ],
     "tweedekamer": {
@@ -39551,7 +39551,7 @@
     "studies": [
       {
         "study": "Technische bedrijfskunde",
-        "institute": "Universiteit Twente"
+        "institution": "Universiteit Twente"
       },
       {
         "study": "Gymnasium",
@@ -39754,7 +39754,7 @@
     "studies": [
       {
         "study": "Werktuigbouwkunde",
-        "institute": "Avans Hogeschool"
+        "institution": "Avans Hogeschool"
       }
     ]
   },
@@ -40708,7 +40708,7 @@
     "studies": [
       {
         "study": "Applied Mathematics",
-        "institute": "Universiteit van Twente"
+        "institution": "Universiteit van Twente"
       }
     ]
   },
@@ -41964,7 +41964,7 @@
     "studies": [
       {
         "study": "Civil Engineering",
-        "institute": "Universiteit Twente"
+        "institution": "Universiteit Twente"
       }
     ],
     "tweedekamer": {
@@ -42950,7 +42950,7 @@
     "studies": [
       {
         "study": "Werktuigbouwkunde",
-        "institute": "Hoornbeeck College"
+        "institution": "Hoornbeeck College"
       }
     ]
   },
@@ -43614,7 +43614,7 @@
     "studies": [
       {
         "study": "Physics & Business",
-        "institute": "Hogeschool Saxion"
+        "institution": "Hogeschool Saxion"
       }
     ]
   },
@@ -43851,7 +43851,7 @@
     "studies": [
       {
         "study": "Veeteelt",
-        "institute": "Universiteit Wageningen"
+        "institution": "Universiteit Wageningen"
       }
     ]
   },
@@ -44326,7 +44326,7 @@
     "studies": [
       {
         "study": "Werktuigbouwkunde",
-        "institute": "Universiteit Twente"
+        "institution": "Universiteit Twente"
       }
     ]
   },
@@ -44485,7 +44485,7 @@
     "studies": [
       {
         "study": "Gebouw Gebonden Installatietechniek",
-        "institute": "Hogeschool van Arnhem en Nijmegen"
+        "institution": "Hogeschool van Arnhem en Nijmegen"
       }
     ]
   },
@@ -44543,7 +44543,7 @@
     "studies": [
       {
         "study": "Civil Engineering",
-        "institute": "HAN University of Applied Sciences"
+        "institution": "HAN University of Applied Sciences"
       }
     ]
   },
@@ -44702,7 +44702,7 @@
     "studies": [
       {
         "study": "Operationele Technologie",
-        "institute": "Hogeschool Utrecht"
+        "institution": "Hogeschool Utrecht"
       }
     ]
   },
@@ -44760,7 +44760,7 @@
     "studies": [
       {
         "study": "Land en Watermanagement",
-        "institute": "Van Hall Larenstein University of Applied Sciences"
+        "institution": "Van Hall Larenstein University of Applied Sciences"
       }
     ]
   },
@@ -44892,7 +44892,7 @@
     "studies": [
       {
         "study": "Civil Engineering",
-        "institute": "Van Hall Larenstein University of Applied Sciences"
+        "institution": "Van Hall Larenstein University of Applied Sciences"
       }
     ]
   },
@@ -45267,7 +45267,7 @@
     "studies": [
       {
         "study": "Horticultral Technology",
-        "institute": "Rijks Hogere Tuinbouwschool Utrecht & Wageningen Universiteir"
+        "institution": "Rijks Hogere Tuinbouwschool Utrecht & Wageningen Universiteir"
       }
     ]
   },
@@ -45325,7 +45325,7 @@
     "studies": [
       {
         "study": "Civil Engineering",
-        "institute": "Hogeschool Zeeland"
+        "institution": "Hogeschool Zeeland"
       }
     ]
   },
@@ -45383,7 +45383,7 @@
     "studies": [
       {
         "study": "Wiskunde en Toepassingen",
-        "institute": "Utrecht University"
+        "institution": "Utrecht University"
       }
     ]
   },
@@ -45492,7 +45492,7 @@
     "studies": [
       {
         "study": "Bouwkunde",
-        "institute": "Windesheim"
+        "institution": "Windesheim"
       }
     ]
   },
@@ -45998,7 +45998,7 @@
     "studies": [
       {
         "study": "Land- and watermanagement",
-        "institute": "Van Hall Larenstein University of Applied Sciences"
+        "institution": "Van Hall Larenstein University of Applied Sciences"
       }
     ]
   },
@@ -46741,7 +46741,7 @@
     "studies": [
       {
         "study": "Technische bedrijfskunde / bouwkunde",
-        "institute": "Technische Universiteit Eindhoven"
+        "institution": "Technische Universiteit Eindhoven"
       }
     ]
   },
@@ -46826,7 +46826,7 @@
     "studies": [
       {
         "study": "Tropical forestry",
-        "institute": "Wageningen University & Research"
+        "institution": "Wageningen University & Research"
       }
     ]
   },
@@ -47124,7 +47124,7 @@
     "studies": [
       {
         "study": "Econometrie",
-        "institute": "Erasmus Universiteit Rotterdam"
+        "institution": "Erasmus Universiteit Rotterdam"
       }
     ]
   },
@@ -47686,7 +47686,7 @@
     "studies": [
       {
         "study": "Technische Bedrijfskunde",
-        "institute": "Haagse Hogeschool"
+        "institution": "Haagse Hogeschool"
       }
     ]
   },
@@ -48504,7 +48504,7 @@
     "studies": [
       {
         "study": "Natuur- en sterrenkunde",
-        "institute": "Universiteit Utrecht"
+        "institution": "Universiteit Utrecht"
       }
     ]
   },
@@ -48562,7 +48562,7 @@
     "studies": [
       {
         "study": "Tropisch Landgebruik",
-        "institute": "Wageningen University & Research"
+        "institution": "Wageningen University & Research"
       }
     ]
   },
@@ -49341,7 +49341,7 @@
     "studies": [
       {
         "study": "Computer Science",
-        "institute": "TU Twente"
+        "institution": "TU Twente"
       }
     ]
   },
@@ -50184,7 +50184,7 @@
     "studies": [
       {
         "study": "Business Informatics",
-        "institute": "HZ University of Applied Sciences"
+        "institution": "HZ University of Applied Sciences"
       }
     ]
   },
@@ -50837,7 +50837,7 @@
     "studies": [
       {
         "study": "Informatica & Econometrie",
-        "institute": "UvA & VU Amsterdam"
+        "institution": "UvA & VU Amsterdam"
       }
     ]
   },
@@ -50948,7 +50948,7 @@
     "studies": [
       {
         "study": "Biomedische wetenschappen",
-        "institute": "Leiden University"
+        "institution": "Leiden University"
       }
     ]
   },
@@ -51613,7 +51613,7 @@
     "studies": [
       {
         "study": "Milieuwetenschappen, Ecologie en Natuurbescherming",
-        "institute": "University of Durham, University College London"
+        "institution": "University of Durham, University College London"
       }
     ],
     "tweedekamer": {
@@ -53368,7 +53368,7 @@
     "studies": [
       {
         "study": "Biochemistry, Molecular Biology",
-        "institute": "Universiteit Wageningen"
+        "institution": "Universiteit Wageningen"
       }
     ]
   },
@@ -61081,7 +61081,7 @@
     "studies": [
       {
         "study": "Bestuurlijke informatiekunde",
-        "institute": "Katholieke Universiteit Brabant"
+        "institution": "Katholieke Universiteit Brabant"
       }
     ]
   },
@@ -67886,7 +67886,7 @@
     "studies": [
       {
         "study": "Bouwtechniek",
-        "institute": "Hogeschool van Rotterdam"
+        "institution": "Hogeschool van Rotterdam"
       }
     ]
   },
