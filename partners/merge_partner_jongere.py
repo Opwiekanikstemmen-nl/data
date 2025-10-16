@@ -28,7 +28,8 @@ for key, party in source['kandidaten'].items():
 		found = False
 		for kandidaat in kandidaten:
 			if kandidaat['verkiezingen']['tk2025']['partij_naam'] == key and kandidaat['verkiezingen']['tk2025']['lijstnummer'] == int(person['plek']):
-				kandidaat['leeftijd'] = person['leeftijd']
+				if person['leeftijd'] is not None:
+					kandidaat['leeftijd'] = person['leeftijd']
 				try:
 					if person['website'] and 'partijwebsite' not in kandidaat['urls']:
 						kandidaat['urls']['partijwebsite'] = person['website']
