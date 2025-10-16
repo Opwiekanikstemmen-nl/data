@@ -143,7 +143,50 @@
         "woonplaats": "Amsterdam",
         "partij_naam": "PVV (Partij voor de Vrijheid)"
       }
-    }
+    },
+    "leeftijd": 47,
+    "tweedekamer": {
+      "member": true,
+      "fractions": [
+        {
+          "partij": "Partij voor de Vrijheid",
+          "start": "2017-03-23T00:00:00+01:00",
+          "end": null
+        }
+      ]
+    },
+    "studies": [
+      {
+        "study": "Nederlands recht: privaatrecht (propedeuse)",
+        "institution": "Vrije Universiteit te Amsterdam",
+        "start": "1998-09-01",
+        "end": "1999-09-01"
+      },
+      {
+        "study": "V.W.O.",
+        "institution": "”Maimonides”",
+        "start": "1990",
+        "end": "1996"
+      },
+      {
+        "study": "Internationale betrekkingen",
+        "institution": "”The Hebrew University”",
+        "start": "1996",
+        "end": "1998"
+      },
+      {
+        "study": "Studie Talmoed Hogeschool ",
+        "institution": null,
+        "start": "1996",
+        "end": "1997"
+      },
+      {
+        "study": "Nederlands recht: privaat- en internationaal recht",
+        "institution": "Universiteit van Amsterdam",
+        "start": "1999-09-01",
+        "end": "2004"
+      }
+    ]
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Martin_M._Bosma",
@@ -243,7 +286,42 @@
         "woonplaats": "Amsterdam",
         "partij_naam": "PVV (Partij voor de Vrijheid)"
       }
-    }
+    },
+    "leeftijd": 61,
+    "tweedekamer": {
+      "member": true,
+      "fractions": [
+        {
+          "partij": "Partij voor de Vrijheid",
+          "start": "2006-11-30T00:00:00+01:00",
+          "end": null
+        }
+      ]
+    },
+    "urls": {
+      "Website": "https://www.pvv.nl/tweede-kamerfractie/martin-bosma.html",
+      "Twitter": "https://twitter.com/Martinbosma_PVV"
+    },
+    "studies": [
+      {
+        "study": "VWO",
+        "institution": null,
+        "start": "1985",
+        "end": "1985"
+      },
+      {
+        "study": "Doctoraal Politicologie (bestuurskunde)",
+        "institution": "Universiteit van Amsterdam",
+        "start": "1990",
+        "end": "1990"
+      },
+      {
+        "study": "Master Sociology (liberal studies)",
+        "institution": "New School for Social Research",
+        "start": "1992",
+        "end": "1992"
+      }
+    ]
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/René_R.A.B._Claassen",
@@ -343,6 +421,20 @@
         "woonplaats": "Landgraaf",
         "partij_naam": "PVV (Partij voor de Vrijheid)"
       }
+    },
+    "leeftijd": 54,
+    "tweedekamer": {
+      "member": true,
+      "fractions": [
+        {
+          "partij": "Partij voor de Vrijheid",
+          "start": "2023-12-06T00:00:00+01:00",
+          "end": null
+        }
+      ]
+    },
+    "urls": {
+      "Twitter": "https://twitter.com/claassen_pvv"
     }
   },
   {
@@ -426,8 +518,31 @@
       {
         "study": "Technische Bedrijfskunde",
         "university": "Technische Universiteit Eindhoven"
+      },
+      {
+        "study": "Atheneum-b",
+        "institution": null,
+        "start": "1975",
+        "end": "1982"
+      },
+      {
+        "study": "Bedrijfskunde",
+        "institution": "Technische Universiteit ",
+        "start": "1982",
+        "end": "1988"
       }
-    ]
+    ],
+    "leeftijd": 62,
+    "tweedekamer": {
+      "member": true,
+      "fractions": [
+        {
+          "partij": "Partij voor de Vrijheid",
+          "start": "2006-11-30T00:00:00+01:00",
+          "end": null
+        }
+      ]
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Marjolein_M.H.M._Faber",
@@ -627,6 +742,17 @@
         "woonplaats": "Krimpen aan den IJssel",
         "partij_naam": "PVV (Partij voor de Vrijheid)"
       }
+    },
+    "leeftijd": 39,
+    "tweedekamer": {
+      "member": true,
+      "fractions": [
+        {
+          "partij": "Partij voor de Vrijheid",
+          "start": "2021-03-30T00:00:00+02:00",
+          "end": "2020-12-07T00:00:00+01:00"
+        }
+      ]
     }
   },
   {
@@ -727,6 +853,20 @@
         "woonplaats": "Zwolle",
         "partij_naam": "PVV (Partij voor de Vrijheid)"
       }
+    },
+    "leeftijd": 63,
+    "tweedekamer": {
+      "member": true,
+      "fractions": [
+        {
+          "partij": "Partij voor de Vrijheid",
+          "start": "2017-03-23T00:00:00+01:00",
+          "end": null
+        }
+      ]
+    },
+    "urls": {
+      "Twitter": "https://twitter.com/edgarmulder1"
     }
   },
   {
@@ -827,7 +967,47 @@
         "woonplaats": "Overasselt",
         "partij_naam": "PVV (Partij voor de Vrijheid)"
       }
-    }
+    },
+    "leeftijd": 40,
+    "tweedekamer": {
+      "member": true,
+      "fractions": [
+        {
+          "partij": "Partij voor de Vrijheid",
+          "start": "2017-03-23T00:00:00+01:00",
+          "end": null
+        }
+      ]
+    },
+    "urls": {
+      "Twitter": "https://twitter.com/KopsPVV"
+    },
+    "studies": [
+      {
+        "study": "Lerarenopleiding Duits (propedeuse)",
+        "institution": "Hogeschool Rotterdam",
+        "start": "2003",
+        "end": "2004"
+      },
+      {
+        "study": "Duitse taal en cultuur",
+        "institution": "Universiteit Leiden",
+        "start": "2004",
+        "end": "2009"
+      },
+      {
+        "study": "Nederlandse taal en cultuur (minor)",
+        "institution": "Universiteit Leiden",
+        "start": "2005",
+        "end": "2007"
+      },
+      {
+        "study": "Indonesische taal en cultuur (minor",
+        "institution": "Universiteit Leiden",
+        "start": "2007",
+        "end": "2008"
+      }
+    ]
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Elmar_E._Vlottes",
@@ -927,7 +1107,35 @@
         "woonplaats": "Apeldoorn",
         "partij_naam": "PVV (Partij voor de Vrijheid)"
       }
-    }
+    },
+    "leeftijd": 36,
+    "tweedekamer": {
+      "member": true,
+      "fractions": [
+        {
+          "partij": "Partij voor de Vrijheid",
+          "start": "2023-12-06T00:00:00+01:00",
+          "end": null
+        }
+      ]
+    },
+    "urls": {
+      "Twitter": "https://twitter.com/elmarvlottes"
+    },
+    "studies": [
+      {
+        "study": "HBO Rechten",
+        "institution": "Hogeschool Arnhem-Nijmegen",
+        "start": "2009",
+        "end": "2010"
+      },
+      {
+        "study": "Nederlands Recht",
+        "institution": "Radboud Universiteit",
+        "start": "2010",
+        "end": "2015"
+      }
+    ]
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Marina_M._Vondeling",
@@ -1000,6 +1208,17 @@
         "woonplaats": "Rhoon",
         "partij_naam": "PVV (Partij voor de Vrijheid)"
       }
+    },
+    "leeftijd": 39,
+    "tweedekamer": {
+      "member": true,
+      "fractions": [
+        {
+          "partij": "Partij voor de Vrijheid",
+          "start": "2023-12-06T00:00:00+01:00",
+          "end": null
+        }
+      ]
     }
   },
   {
@@ -1176,7 +1395,18 @@
     },
     "leeftijd": "29",
     "urls": {
-      "LinkedIn": "https://www.linkedin.com/in/jeremy-mooiman/"
+      "LinkedIn": "https://www.linkedin.com/in/jeremy-mooiman/",
+      "Twitter": "https://twitter.com/jeremymooiman"
+    },
+    "tweedekamer": {
+      "member": true,
+      "fractions": [
+        {
+          "partij": "Partij voor de Vrijheid",
+          "start": "2023-12-06T00:00:00+01:00",
+          "end": null
+        }
+      ]
     }
   },
   {
@@ -1350,7 +1580,42 @@
         "woonplaats": "Heerlen",
         "partij_naam": "PVV (Partij voor de Vrijheid)"
       }
-    }
+    },
+    "leeftijd": 58,
+    "tweedekamer": {
+      "member": true,
+      "fractions": [
+        {
+          "partij": "Partij voor de Vrijheid",
+          "start": "2006-11-30T00:00:00+01:00",
+          "end": null
+        }
+      ]
+    },
+    "urls": {
+      "LinkedIn": "https://linkedin.com/in/diongraus",
+      "Twitter": "https://twitter.com/realdiongraus"
+    },
+    "studies": [
+      {
+        "study": "HBO Management",
+        "institution": null,
+        "start": null,
+        "end": null
+      },
+      {
+        "study": "VWO",
+        "institution": null,
+        "start": null,
+        "end": null
+      },
+      {
+        "study": "Phytotherapie",
+        "institution": null,
+        "start": null,
+        "end": null
+      }
+    ]
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Emiel_E._Dijk",
@@ -1423,6 +1688,27 @@
         "woonplaats": "'s-Gravenhage",
         "partij_naam": "PVV (Partij voor de Vrijheid)"
       }
+    },
+    "leeftijd": 40,
+    "tweedekamer": {
+      "member": true,
+      "fractions": [
+        {
+          "partij": "Partij voor de Vrijheid",
+          "start": "2018-04-03T00:00:00+02:00",
+          "end": "2018-07-20T00:00:00+02:00"
+        },
+        {
+          "partij": "Partij voor de Vrijheid",
+          "start": "2018-12-12T00:00:00+01:00",
+          "end": "2021-03-30T00:00:00+02:00"
+        },
+        {
+          "partij": "Partij voor de Vrijheid",
+          "start": "2023-12-06T00:00:00+01:00",
+          "end": null
+        }
+      ]
     }
   },
   {
@@ -1588,7 +1874,35 @@
         "woonplaats": "Beek",
         "partij_naam": "PVV (Partij voor de Vrijheid)"
       }
-    }
+    },
+    "leeftijd": 73,
+    "tweedekamer": {
+      "member": true,
+      "fractions": [
+        {
+          "partij": "Partij voor de Vrijheid",
+          "start": "2006-11-30T00:00:00+01:00",
+          "end": null
+        }
+      ]
+    },
+    "urls": {
+      "Twitter": "https://twitter.com/r_deroonpvv"
+    },
+    "studies": [
+      {
+        "study": "Nederlands recht",
+        "institution": null,
+        "start": null,
+        "end": null
+      },
+      {
+        "study": "HBS-B",
+        "institution": null,
+        "start": null,
+        "end": null
+      }
+    ]
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Maikel_M.C.H._Boon",
@@ -1688,7 +2002,65 @@
         "woonplaats": "Bergen op Zoom",
         "partij_naam": "PVV (Partij voor de Vrijheid)"
       }
-    }
+    },
+    "leeftijd": 43,
+    "tweedekamer": {
+      "member": true,
+      "fractions": [
+        {
+          "partij": "Partij voor de Vrijheid",
+          "start": "2023-12-06T00:00:00+01:00",
+          "end": null
+        }
+      ]
+    },
+    "urls": {
+      "Twitter": "https://twitter.com/maikel_pvv"
+    },
+    "studies": [
+      {
+        "study": "MAVO",
+        "institution": "Het Schelde College",
+        "start": null,
+        "end": null
+      },
+      {
+        "study": "HBO Associate Degree Bedrijfskunde (Business Administration)",
+        "institution": "Avans Hogeschool",
+        "start": null,
+        "end": null
+      },
+      {
+        "study": "HAVO",
+        "institution": "Mollerlyceum",
+        "start": null,
+        "end": null
+      },
+      {
+        "study": "Beveiliger, mbo-niveau 2",
+        "institution": "ROC",
+        "start": null,
+        "end": null
+      },
+      {
+        "study": "Maatschappelijke Zorg, mbo-niveau 4",
+        "institution": "Vitalis College",
+        "start": null,
+        "end": null
+      },
+      {
+        "study": "Diverse militaire opleidingen",
+        "institution": null,
+        "start": null,
+        "end": null
+      },
+      {
+        "study": "Maatschappelijke Zorg, mbo-niveau 3",
+        "institution": "ROC",
+        "start": null,
+        "end": null
+      }
+    ]
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Annette_A.J._Raijer",
@@ -1807,6 +2179,17 @@
           "adressendichtheid": "1855"
         }
       }
+    },
+    "leeftijd": 50,
+    "tweedekamer": {
+      "member": true,
+      "fractions": [
+        {
+          "partij": "Partij voor de Vrijheid",
+          "start": "2023-12-06T00:00:00+01:00",
+          "end": null
+        }
+      ]
     }
   },
   {
@@ -1880,6 +2263,21 @@
         "woonplaats": "Almere",
         "partij_naam": "PVV (Partij voor de Vrijheid)"
       }
+    },
+    "leeftijd": 58,
+    "tweedekamer": {
+      "member": true,
+      "fractions": [
+        {
+          "partij": "Partij voor de Vrijheid",
+          "start": "2019-11-27T00:00:00+01:00",
+          "end": "2021-03-30T00:00:00+02:00"
+        }
+      ]
+    },
+    "urls": {
+      "Facebook": "https://facebook.com/chris.jansen.5015",
+      "Twitter": "https://twitter.com/eerlijkzeggen"
     }
   },
   {
@@ -1980,6 +2378,17 @@
         "woonplaats": "Drachten",
         "partij_naam": "PVV (Partij voor de Vrijheid)"
       }
+    },
+    "leeftijd": 62,
+    "tweedekamer": {
+      "member": true,
+      "fractions": [
+        {
+          "partij": "Partij voor de Vrijheid",
+          "start": "2023-12-06T00:00:00+01:00",
+          "end": null
+        }
+      ]
     }
   },
   {
@@ -2080,6 +2489,17 @@
         "woonplaats": "Zandvoort",
         "partij_naam": "PVV (Partij voor de Vrijheid)"
       }
+    },
+    "leeftijd": 57,
+    "tweedekamer": {
+      "member": true,
+      "fractions": [
+        {
+          "partij": "Partij voor de Vrijheid",
+          "start": "2023-12-06T00:00:00+01:00",
+          "end": null
+        }
+      ]
     }
   },
   {
@@ -2153,6 +2573,17 @@
         "woonplaats": "Hengelo (O)",
         "partij_naam": "PVV (Partij voor de Vrijheid)"
       }
+    },
+    "leeftijd": 62,
+    "tweedekamer": {
+      "member": true,
+      "fractions": [
+        {
+          "partij": "Partij voor de Vrijheid",
+          "start": "2023-12-06T00:00:00+01:00",
+          "end": null
+        }
+      ]
     }
   },
   {
@@ -2226,7 +2657,34 @@
         "woonplaats": "Hardinxveld-Giessendam",
         "partij_naam": "PVV (Partij voor de Vrijheid)"
       }
-    }
+    },
+    "leeftijd": 71,
+    "tweedekamer": {
+      "member": true,
+      "fractions": [
+        {
+          "partij": "Partij voor de Vrijheid",
+          "start": "2020-12-08T00:00:00+01:00",
+          "end": "2021-03-29T00:00:00+02:00"
+        },
+        {
+          "partij": "Partij voor de Vrijheid",
+          "start": "2023-12-06T00:00:00+01:00",
+          "end": null
+        }
+      ]
+    },
+    "urls": {
+      "Twitter": "https://twitter.com/henkdevree"
+    },
+    "studies": [
+      {
+        "study": "Bedrijfskundige Informatica",
+        "institution": "Hogeschool voor Economische Studies (HES)",
+        "start": "1988",
+        "end": "1992"
+      }
+    ]
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Joeri_J._Pool",
@@ -2326,6 +2784,20 @@
         "woonplaats": "Kampen",
         "partij_naam": "PVV (Partij voor de Vrijheid)"
       }
+    },
+    "leeftijd": 32,
+    "tweedekamer": {
+      "member": true,
+      "fractions": [
+        {
+          "partij": "Partij voor de Vrijheid",
+          "start": "2023-12-06T00:00:00+01:00",
+          "end": null
+        }
+      ]
+    },
+    "urls": {
+      "Twitter": "https://twitter.com/joeripool"
     }
   },
   {
@@ -2372,6 +2844,17 @@
           "adressendichtheid": "876"
         }
       }
+    },
+    "leeftijd": 50,
+    "tweedekamer": {
+      "member": true,
+      "fractions": [
+        {
+          "partij": "Partij voor de Vrijheid",
+          "start": "2023-12-06T00:00:00+01:00",
+          "end": null
+        }
+      ]
     }
   },
   {
@@ -2445,6 +2928,21 @@
         "woonplaats": "Groningen",
         "partij_naam": "PVV (Partij voor de Vrijheid)"
       }
+    },
+    "leeftijd": 51,
+    "tweedekamer": {
+      "member": true,
+      "fractions": [
+        {
+          "partij": "Partij voor de Vrijheid",
+          "start": "2023-12-06T00:00:00+01:00",
+          "end": null
+        }
+      ]
+    },
+    "urls": {
+      "LinkedIn": "https://linkedin.com/in/dennis-ram-32283152",
+      "Twitter": "https://twitter.com/dennisram"
     }
   },
   {
@@ -2518,6 +3016,17 @@
         "woonplaats": "Landgraaf",
         "partij_naam": "PVV (Partij voor de Vrijheid)"
       }
+    },
+    "leeftijd": 41,
+    "tweedekamer": {
+      "member": true,
+      "fractions": [
+        {
+          "partij": "Partij voor de Vrijheid",
+          "start": "2023-12-06T00:00:00+01:00",
+          "end": null
+        }
+      ]
     }
   },
   {
@@ -2618,7 +3127,41 @@
         "woonplaats": "Zoetermeer",
         "partij_naam": "PVV (Partij voor de Vrijheid)"
       }
-    }
+    },
+    "leeftijd": 67,
+    "tweedekamer": {
+      "member": true,
+      "fractions": [
+        {
+          "partij": "Partij voor de Vrijheid",
+          "start": "2023-12-06T00:00:00+01:00",
+          "end": null
+        }
+      ]
+    },
+    "urls": {
+      "LinkedIn": "https://linkedin.com/in/petersmitskam"
+    },
+    "studies": [
+      {
+        "study": "MEAO-BE",
+        "institution": "Scholengemeenschap voor Dag- en Avondonderwijs",
+        "start": "1976",
+        "end": "1979"
+      },
+      {
+        "study": "HEAO-CE",
+        "institution": "Scholengemeenschap voor Dag- en Avondonderwijs",
+        "start": "1981",
+        "end": "1985"
+      },
+      {
+        "study": "HBO Marketing",
+        "institution": "LOI",
+        "start": "2009",
+        "end": "2009"
+      }
+    ]
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Willem_W._Boutkan",
@@ -2691,7 +3234,26 @@
         "woonplaats": "Almere",
         "partij_naam": "PVV (Partij voor de Vrijheid)"
       }
-    }
+    },
+    "leeftijd": 70,
+    "tweedekamer": {
+      "member": true,
+      "fractions": [
+        {
+          "partij": "Partij voor de Vrijheid",
+          "start": "2023-12-06T00:00:00+01:00",
+          "end": null
+        }
+      ]
+    },
+    "studies": [
+      {
+        "study": "Metaalbewerking",
+        "institution": "Lagere Technische School",
+        "start": "1973",
+        "end": "1977"
+      }
+    ]
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Folkert_F.M._Thiadens",
@@ -2791,7 +3353,42 @@
         "woonplaats": "Zevenhuizen",
         "partij_naam": "PVV (Partij voor de Vrijheid)"
       }
-    }
+    },
+    "leeftijd": 59,
+    "tweedekamer": {
+      "member": true,
+      "fractions": [
+        {
+          "partij": "Partij voor de Vrijheid",
+          "start": "2024-07-04T00:00:00+02:00",
+          "end": null
+        }
+      ]
+    },
+    "urls": {
+      "LinkedIn": "https://linkedin.com/in/folkertthiadens",
+      "Twitter": "https://twitter.com/folkertthiadens"
+    },
+    "studies": [
+      {
+        "study": "VWO",
+        "institution": null,
+        "start": null,
+        "end": "1985"
+      },
+      {
+        "study": "Bachelor of Business Administration",
+        "institution": "Henley",
+        "start": null,
+        "end": "1990"
+      },
+      {
+        "study": "Master of Business Administration",
+        "institution": "Henley",
+        "start": null,
+        "end": "1995"
+      }
+    ]
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Reinder_R.B._Blaauw",
@@ -2864,6 +3461,21 @@
         "woonplaats": "Winschoten",
         "partij_naam": "PVV (Partij voor de Vrijheid)"
       }
+    },
+    "leeftijd": 31,
+    "tweedekamer": {
+      "member": true,
+      "fractions": [
+        {
+          "partij": "Partij voor de Vrijheid",
+          "start": "2023-12-06T00:00:00+01:00",
+          "end": null
+        }
+      ]
+    },
+    "urls": {
+      "Instagram": "https://instagram.com/reinderblaauw",
+      "Twitter": "https://twitter.com/reinderbb"
     }
   },
   {
@@ -2949,8 +3561,49 @@
       {
         "study": "Bedrijfskundige informatica en logistiek en technische vervoerskunde",
         "university": "Fontys Hogeschool Venlo"
+      },
+      {
+        "study": "MAVO",
+        "institution": "Maartenscollege",
+        "start": "1995",
+        "end": "1999"
+      },
+      {
+        "study": "HAVO",
+        "institution": "Blariacumcollege",
+        "start": "1999",
+        "end": "2002"
+      },
+      {
+        "study": "Bedrijfskundige informatica (niet afgemaakt)",
+        "institution": "Fontys Hogescholen",
+        "start": "2002",
+        "end": "2003"
+      },
+      {
+        "study": "Logistiek en Technische Vervoerskunde (Minor: E-Skills)",
+        "institution": "Fontys Hogescholen",
+        "start": "2009",
+        "end": "2013"
+      },
+      {
+        "study": "KAM coördinator",
+        "institution": "QHSE opleiding",
+        "start": "V-KAM Education",
+        "end": "2022"
       }
-    ]
+    ],
+    "leeftijd": 43,
+    "tweedekamer": {
+      "member": true,
+      "fractions": [
+        {
+          "partij": "Partij voor de Vrijheid",
+          "start": "2023-12-06T00:00:00+01:00",
+          "end": null
+        }
+      ]
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Chris_C.J._Faddegon",
@@ -3034,7 +3687,18 @@
         "study": "Werktuigbouwkunde",
         "university": "Technische Hogeschool Delft"
       }
-    ]
+    ],
+    "leeftijd": 71,
+    "tweedekamer": {
+      "member": true,
+      "fractions": [
+        {
+          "partij": "Partij voor de Vrijheid",
+          "start": "2024-07-04T00:00:00+02:00",
+          "end": null
+        }
+      ]
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Canice_C.N.L._Clermonts",
@@ -3163,7 +3827,18 @@
         "study": "Theoretische scheikunde",
         "university": "Universiteit Utrecht"
       }
-    ]
+    ],
+    "leeftijd": 81,
+    "tweedekamer": {
+      "member": true,
+      "fractions": [
+        {
+          "partij": "Partij voor de Vrijheid",
+          "start": "2024-07-04T00:00:00+02:00",
+          "end": null
+        }
+      ]
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Peter_J.P._Haasen",
@@ -3209,6 +3884,17 @@
           "adressendichtheid": "2053"
         }
       }
+    },
+    "leeftijd": 65,
+    "tweedekamer": {
+      "member": true,
+      "fractions": [
+        {
+          "partij": "Partij voor de Vrijheid",
+          "start": "2023-12-06T00:00:00+01:00",
+          "end": null
+        }
+      ]
     }
   },
   {
@@ -3282,7 +3968,50 @@
         "woonplaats": "'s-Hertogenbosch",
         "partij_naam": "PVV (Partij voor de Vrijheid)"
       }
-    }
+    },
+    "leeftijd": 40,
+    "tweedekamer": {
+      "member": true,
+      "fractions": [
+        {
+          "partij": "Partij voor de Vrijheid",
+          "start": "2023-12-06T00:00:00+01:00",
+          "end": null
+        }
+      ]
+    },
+    "studies": [
+      {
+        "study": "VMBO niveau B",
+        "institution": "Frederik Hendrik College",
+        "start": "1999",
+        "end": "2002"
+      },
+      {
+        "study": "BOL 2: Conferessioneel, cnc draaien en frezen",
+        "institution": "Koning Willem I College",
+        "start": "2002",
+        "end": "2004"
+      },
+      {
+        "study": "BOL 4: Hightechmetalektro",
+        "institution": "Koning Willem I College",
+        "start": "2004",
+        "end": null
+      },
+      {
+        "study": "CNC Basis draaien",
+        "institution": "frezen 1A",
+        "start": "ROC",
+        "end": "2008"
+      },
+      {
+        "study": "CNC Basis frezen (2fi)",
+        "institution": "ROC",
+        "start": "2011",
+        "end": "2012"
+      }
+    ]
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Robert_R.J.H.H._Rep",
@@ -3355,7 +4084,38 @@
         "woonplaats": "Ter Apel",
         "partij_naam": "PVV (Partij voor de Vrijheid)"
       }
-    }
+    },
+    "leeftijd": 59,
+    "tweedekamer": {
+      "member": true,
+      "fractions": [
+        {
+          "partij": "Partij voor de Vrijheid",
+          "start": "2024-07-04T00:00:00+02:00",
+          "end": null
+        }
+      ]
+    },
+    "studies": [
+      {
+        "study": "Mavo",
+        "institution": null,
+        "start": null,
+        "end": null
+      },
+      {
+        "study": "Hairstylistenopleiding",
+        "institution": null,
+        "start": null,
+        "end": null
+      },
+      {
+        "study": "Havo",
+        "institution": null,
+        "start": null,
+        "end": null
+      }
+    ]
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Cees_C.H._Riezebos",
@@ -4792,6 +5552,11 @@
           "adressendichtheid": "3312"
         }
       }
+    },
+    "leeftijd": 71,
+    "eerstekamer": {
+      "member": true,
+      "fractions": []
     }
   },
   {
@@ -4838,6 +5603,11 @@
           "adressendichtheid": "1081"
         }
       }
+    },
+    "leeftijd": 57,
+    "eerstekamer": {
+      "member": true,
+      "fractions": []
     }
   },
   {
@@ -4969,6 +5739,11 @@
           "adressendichtheid": "686"
         }
       }
+    },
+    "leeftijd": 42,
+    "eerstekamer": {
+      "member": true,
+      "fractions": []
     }
   },
   {
@@ -5062,7 +5837,32 @@
         "woonplaats": "Rockanje",
         "partij_naam": "PVV (Partij voor de Vrijheid)"
       }
-    }
+    },
+    "leeftijd": 56,
+    "tweedekamer": {
+      "member": true,
+      "fractions": [
+        {
+          "partij": "Partij voor de Vrijheid",
+          "start": "2012-09-20T00:00:00+02:00",
+          "end": "2009-07-13T00:00:00+02:00"
+        }
+      ]
+    },
+    "studies": [
+      {
+        "study": "Opleiding makelaardij  havo",
+        "institution": null,
+        "start": null,
+        "end": null
+      },
+      {
+        "study": "HAVO",
+        "institution": null,
+        "start": null,
+        "end": null
+      }
+    ]
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Frans_F.C.G.M._Timmermans",
@@ -5136,7 +5936,33 @@
         "partij_naam": "GROENLINKS / Partij van de Arbeid (PvdA)"
       }
     },
-    "leeftijd": "64"
+    "leeftijd": "64",
+    "tweedekamer": {
+      "member": true,
+      "fractions": [
+        {
+          "partij": "Partij van de Arbeid",
+          "start": "1998-05-19T00:00:00+02:00",
+          "end": "2007-02-22T00:00:00+01:00"
+        },
+        {
+          "partij": "Partij van de Arbeid",
+          "start": "2010-06-17T00:00:00+02:00",
+          "end": "2012-11-04T00:00:00+01:00"
+        },
+        {
+          "partij": "GroenLinks-PvdA",
+          "start": "2023-12-06T00:00:00+01:00",
+          "end": null
+        }
+      ]
+    },
+    "urls": {
+      "LinkedIn": "https://linkedin.com/in/frans-timmermans/",
+      "Instagram": "https://instagram.com/frans__timmermans",
+      "Facebook": "https://facebook.com/frans.timmermans",
+      "Twitter": "https://twitter.com/F__Timmermans"
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Esmah_A._Lahlah",
@@ -5216,7 +6042,18 @@
       "LinkedIn": "https://nl.linkedin.com/in/esmah-lahlah-2b136212",
       "Twitter": "https://x.com/a_lahlah?lang=en",
       "Instagram": "https://www.instagram.com/esmah_lahlah/",
-      "BlueSky": "https://bsky.app/profile/esmahlahlah.bsky.social"
+      "BlueSky": "https://bsky.app/profile/esmahlahlah.bsky.social",
+      "Facebook": "https://facebook.com/esmah.lahlah"
+    },
+    "tweedekamer": {
+      "member": true,
+      "fractions": [
+        {
+          "partij": "GroenLinks-PvdA",
+          "start": "2023-12-06T00:00:00+01:00",
+          "end": null
+        }
+      ]
     }
   },
   {
@@ -5318,7 +6155,48 @@
         "partij_naam": "GROENLINKS"
       }
     },
-    "leeftijd": "39"
+    "leeftijd": "39",
+    "tweedekamer": {
+      "member": true,
+      "fractions": [
+        {
+          "partij": "GroenLinks",
+          "start": "2010-06-17T00:00:00+02:00",
+          "end": "2023-10-26T00:00:00+02:00"
+        },
+        {
+          "partij": "GroenLinks-PvdA",
+          "start": "2023-10-27T00:00:00+02:00",
+          "end": null
+        }
+      ]
+    },
+    "urls": {
+      "Website": "https://www.jesseklaver.nl/",
+      "Instagram": "https://instagram.com/jesse klaver",
+      "Facebook": "https://facebook.com/687496011309020",
+      "Twitter": "https://twitter.com/jesseklaver"
+    },
+    "studies": [
+      {
+        "study": "Social work (maatschappelijk ondernemen)",
+        "institution": "Avans Hogeschool ",
+        "start": null,
+        "end": null
+      },
+      {
+        "study": "VMBO, vrije school",
+        "institution": "Michael College",
+        "start": null,
+        "end": null
+      },
+      {
+        "study": "Politicologie: schakelprogramma Europese politiek (niet voltooid)",
+        "institution": "Universiteit van Amsterdam",
+        "start": "2008",
+        "end": "2009"
+      }
+    ]
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Kati_K.P._Piri",
@@ -5427,7 +6305,42 @@
       "Instagram": "https://www.instagram.com/katipiri/?hl=en",
       "Facebook": "https://www.facebook.com/KatiPiriMEP/",
       "BlueSky": "https://bsky.app/profile/katipiri.bsky.social"
-    }
+    },
+    "tweedekamer": {
+      "member": true,
+      "fractions": [
+        {
+          "partij": "Partij van de Arbeid",
+          "start": "2021-03-31T00:00:00+02:00",
+          "end": "2023-10-26T00:00:00+02:00"
+        },
+        {
+          "partij": "GroenLinks-PvdA",
+          "start": "2023-10-27T00:00:00+02:00",
+          "end": null
+        }
+      ]
+    },
+    "studies": [
+      {
+        "study": "Christelijk gymnasium Utrecht",
+        "institution": null,
+        "start": "1991",
+        "end": "1997"
+      },
+      {
+        "study": "Propedeuse Pedagogische Wetenschappen en Engels",
+        "institution": "Rijksuniversiteit Groningen",
+        "start": "1998",
+        "end": "2000"
+      },
+      {
+        "study": "Master Internationale Betrekkingen",
+        "institution": "Rijksuniversiteit Groningen",
+        "start": "2000",
+        "end": "2007"
+      }
+    ]
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Lisa_E.M._Westerveld",
@@ -5536,9 +6449,51 @@
       "Twitter": "https://x.com/lisawesterveld",
       "Instagram": "https://www.instagram.com/lisa_westerveld/",
       "Facebook": "https://www.facebook.com/LisaWesterveldGroenLinks/",
-      "BlueSky": "https://bsky.app/profile/lisawesterveld.bsky.social"
+      "BlueSky": "https://bsky.app/profile/lisawesterveld.bsky.social",
+      "Website": "groenlinkspvda.nl/kandidaat/lisa.westerveld"
     },
-    "leeftijd": "43"
+    "leeftijd": "43",
+    "tweedekamer": {
+      "member": true,
+      "fractions": [
+        {
+          "partij": "GroenLinks",
+          "start": "2017-03-23T00:00:00+01:00",
+          "end": "2023-10-26T00:00:00+02:00"
+        },
+        {
+          "partij": "GroenLinks-PvdA",
+          "start": "2023-10-27T00:00:00+02:00",
+          "end": null
+        }
+      ]
+    },
+    "studies": [
+      {
+        "study": "VWO",
+        "institution": "Christelijk College Schaersvoorde",
+        "start": "1994",
+        "end": "2001"
+      },
+      {
+        "study": "Culturele Antropologie aan de Katholieke Universiteit Nijmegen",
+        "institution": null,
+        "start": "2001",
+        "end": "2002"
+      },
+      {
+        "study": "Bachelor of Arts in de Filosofie (behaald in 2008)",
+        "institution": "Radboud Universiteit",
+        "start": "2003",
+        "end": "2007"
+      },
+      {
+        "study": "Master of Arts in de Filosofie. Afstudeerrichting sociale en politieke filosofie (bene meritum behaald in 2010)",
+        "institution": "Radboud Universiteit",
+        "start": "2009-09",
+        "end": "2010"
+      }
+    ]
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Marjolein_M._Moorman",
@@ -5680,15 +6635,50 @@
     "vinddebeta": true,
     "urls": {
       "partijwebsite": "https://groenlinkspvda.nl/onze-mensen/kandidaten-tk25/luc-stultiens-2/",
-      "LinkedIn": "https://www.linkedin.com/in/lucstultiens/"
+      "LinkedIn": "https://www.linkedin.com/in/lucstultiens/",
+      "Twitter": "https://twitter.com/LucStultiens"
     },
     "leeftijd": "32",
     "studies": [
       {
         "study": "Mathematics & Foundations of Computer Science",
         "university": "University of Oxford"
+      },
+      {
+        "study": "MSc. Applicable Mathematics (with Distinction)",
+        "institution": "London School of Economics and Political Science",
+        "start": "2014-09",
+        "end": "2015-08"
+      },
+      {
+        "study": "MSc. Mathematics & Foundations of Computer Science",
+        "institution": "University of Oxford",
+        "start": "2015-09",
+        "end": "2016-08"
+      },
+      {
+        "study": "BSc. Liberal Arts & Sciences (Magna cum Laude)",
+        "institution": "University College",
+        "start": "2011-09",
+        "end": "2014-08"
+      },
+      {
+        "study": "Gymnasium",
+        "institution": "Christelijk Gymnasium",
+        "start": "2005",
+        "end": "2011"
       }
-    ]
+    ],
+    "tweedekamer": {
+      "member": true,
+      "fractions": [
+        {
+          "partij": "GroenLinks-PvdA",
+          "start": "2023-12-06T00:00:00+01:00",
+          "end": null
+        }
+      ]
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Habtamu_H.E._Hoop",
@@ -5766,7 +6756,23 @@
     "urls": {
       "partijwebsite": "https://groenlinkspvda.nl/onze-mensen/kandidaten-tk25/habtamu-de-hoop-2/",
       "LinkedIn": "https://www.linkedin.com/in/habtamu-de-hoop-49649214b/",
-      "Instagram": "https://www.instagram.com/habtamudehoop/"
+      "Instagram": "https://www.instagram.com/habtamudehoop/",
+      "Twitter": "https://twitter.com/HabtamudeHoop"
+    },
+    "tweedekamer": {
+      "member": true,
+      "fractions": [
+        {
+          "partij": "Partij van de Arbeid",
+          "start": "2021-03-31T00:00:00+02:00",
+          "end": "2023-10-26T00:00:00+02:00"
+        },
+        {
+          "partij": "GroenLinks-PvdA",
+          "start": "2023-10-27T00:00:00+02:00",
+          "end": null
+        }
+      ]
     }
   },
   {
@@ -5874,8 +6880,56 @@
       "LinkedIn": "https://nl.linkedin.com/in/laura-bromet-b980aaa",
       "Twitter": "https://x.com/laurabromet?lang=en",
       "Instagram": "https://www.instagram.com/laurabromet/?hl=en",
-      "BlueSky": "https://bsky.app/profile/laurabromet.bsky.social"
-    }
+      "BlueSky": "https://bsky.app/profile/laurabromet.bsky.social",
+      "Website": "https://groenlinkspvda.nl/kandidaat/laura-bromet/"
+    },
+    "tweedekamer": {
+      "member": true,
+      "fractions": [
+        {
+          "partij": "GroenLinks",
+          "start": "2018-06-07T00:00:00+02:00",
+          "end": "2023-10-26T00:00:00+02:00"
+        },
+        {
+          "partij": "GroenLinks-PvdA",
+          "start": "2023-10-27T00:00:00+02:00",
+          "end": null
+        }
+      ]
+    },
+    "studies": [
+      {
+        "study": "Nederlandse Taal- en Letterkunde",
+        "institution": "Universiteit van Amsterdam",
+        "start": "1989",
+        "end": "1995"
+      },
+      {
+        "study": "Culturele Studies (beleids-",
+        "institution": "managementvariant)",
+        "start": "Universiteit van Amsterdam",
+        "end": "1991"
+      },
+      {
+        "study": "Rechtswetenschappen (niet afgemaakt)",
+        "institution": "Vrije Universiteit Amsterdam",
+        "start": "1997",
+        "end": "1997"
+      },
+      {
+        "study": "Cursus fractievoorzitterschap",
+        "institution": null,
+        "start": "2007",
+        "end": "2007"
+      },
+      {
+        "study": "Cursus gemeentefinanciën",
+        "institution": null,
+        "start": "2008",
+        "end": "2008"
+      }
+    ]
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Sjoukje_A.S._Oosterhout",
@@ -6034,7 +7088,23 @@
     "urls": {
       "partijwebsite": "https://groenlinkspvda.nl/onze-mensen/kandidaten-tk25/julian-bushoff-2/",
       "LinkedIn": "https://www.linkedin.com/in/julianbushoff/",
-      "Instagram": "https://www.instagram.com/julianbushoff/"
+      "Instagram": "https://www.instagram.com/julianbushoff/",
+      "Twitter": "https://twitter.com/@julianbushoff"
+    },
+    "tweedekamer": {
+      "member": true,
+      "fractions": [
+        {
+          "partij": "Partij van de Arbeid",
+          "start": "2022-11-22T00:00:00+01:00",
+          "end": "2023-10-26T00:00:00+02:00"
+        },
+        {
+          "partij": "GroenLinks-PvdA",
+          "start": "2023-10-27T00:00:00+02:00",
+          "end": null
+        }
+      ]
     }
   },
   {
@@ -6144,6 +7214,26 @@
       "Instagram": "https://www.instagram.com/suzannekroger_gl/?hl=en",
       "Facebook": "https://www.facebook.com/suzannegroenlinks/",
       "BlueSky": "https://bsky.app/profile/suzannekroger.bsky.social"
+    },
+    "tweedekamer": {
+      "member": true,
+      "fractions": [
+        {
+          "partij": "GroenLinks",
+          "start": "2017-03-23T00:00:00+01:00",
+          "end": "2021-03-30T00:00:00+02:00"
+        },
+        {
+          "partij": "GroenLinks",
+          "start": "2021-10-27T00:00:00+02:00",
+          "end": "2023-10-26T00:00:00+02:00"
+        },
+        {
+          "partij": "GroenLinks-PvdA",
+          "start": "2023-10-27T00:00:00+02:00",
+          "end": null
+        }
+      ]
     }
   },
   {
@@ -6218,7 +7308,56 @@
         "partij_naam": "Partij van de Arbeid (P.v.d.A.)"
       }
     },
-    "leeftijd": "40"
+    "leeftijd": "40",
+    "tweedekamer": {
+      "member": true,
+      "fractions": [
+        {
+          "partij": "Partij van de Arbeid",
+          "start": "2012-09-20T00:00:00+02:00",
+          "end": "2017-03-22T00:00:00+01:00"
+        },
+        {
+          "partij": "Partij van de Arbeid",
+          "start": "2022-06-02T00:00:00+02:00",
+          "end": "2023-10-26T00:00:00+02:00"
+        },
+        {
+          "partij": "GroenLinks-PvdA",
+          "start": "2023-10-27T00:00:00+02:00",
+          "end": null
+        }
+      ]
+    },
+    "urls": {
+      "Twitter": "https://twitter.com/momohandis"
+    },
+    "studies": [
+      {
+        "study": "VBO",
+        "institution": "Coenegroep College",
+        "start": null,
+        "end": null
+      },
+      {
+        "study": "MBO niveau 4 Marketing en Communicatie",
+        "institution": "ID College",
+        "start": null,
+        "end": null
+      },
+      {
+        "study": "HBO Communicatiemanagement, richting Overheidscommunicatie",
+        "institution": null,
+        "start": null,
+        "end": null
+      },
+      {
+        "study": "Master Management van de publieke sector Bestuurskunde",
+        "institution": "Universiteit Leiden",
+        "start": "2017",
+        "end": "2019"
+      }
+    ]
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Mariëtte_M.H._Patijn",
@@ -6299,6 +7438,16 @@
       "Twitter": "https://x.com/mpatijn?lang=en",
       "Instagram": "https://www.instagram.com/mariettepatijn/?hl=en",
       "BlueSky": "https://bsky.app/profile/patijn.bsky.social"
+    },
+    "tweedekamer": {
+      "member": true,
+      "fractions": [
+        {
+          "partij": "GroenLinks-PvdA",
+          "start": "2023-12-06T00:00:00+01:00",
+          "end": null
+        }
+      ]
     }
   },
   {
@@ -6425,7 +7574,47 @@
         "partij_naam": "GROENLINKS"
       }
     },
-    "leeftijd": "61"
+    "leeftijd": "61",
+    "tweedekamer": {
+      "member": true,
+      "fractions": [
+        {
+          "partij": "GroenLinks",
+          "start": "2017-03-23T00:00:00+01:00",
+          "end": "2023-10-26T00:00:00+02:00"
+        },
+        {
+          "partij": "GroenLinks-PvdA",
+          "start": "2023-10-27T00:00:00+02:00",
+          "end": null
+        }
+      ]
+    },
+    "urls": {
+      "Instagram": "https://instagram.com/TomvanderLee",
+      "Facebook": "https://facebook.com/TomGroenLinks",
+      "Twitter": "https://twitter.com/TomvanderLee"
+    },
+    "studies": [
+      {
+        "study": "VWO - Diploma mei 1982",
+        "institution": "ISALA-College ",
+        "start": "1976",
+        "end": "1982"
+      },
+      {
+        "study": "Politicologie, Hoofdvak: Internationale Betrekkingen, bijvakken: Economie, Recht en Wetenschapsfilosofie. Diploma maart 1988 (Cum Laude)",
+        "institution": "Universiteit van Amsterdam ",
+        "start": "1982",
+        "end": "1988"
+      },
+      {
+        "study": "Global Orientation, vakken International Relations, International Law, English and French. Diploma juni 1989",
+        "institution": "ASIR - Amsterdam School for International Relations, Engelstalig ",
+        "start": "1988",
+        "end": "1989"
+      }
+    ]
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Songül_S._Mutluer",
@@ -6535,7 +7724,48 @@
       "Instagram": "https://www.instagram.com/songulmutluer/?hl=en",
       "BlueSky": "https://bsky.app/profile/jadevdlinden.bsky.social"
     },
-    "leeftijd": "45"
+    "leeftijd": "45",
+    "tweedekamer": {
+      "member": true,
+      "fractions": [
+        {
+          "partij": "Partij van de Arbeid",
+          "start": "2022-02-17T00:00:00+01:00",
+          "end": "2023-10-26T00:00:00+02:00"
+        },
+        {
+          "partij": "GroenLinks-PvdA",
+          "start": "2023-10-27T00:00:00+02:00",
+          "end": null
+        }
+      ]
+    },
+    "studies": [
+      {
+        "study": "Rechtseconomie",
+        "institution": "Utrecht School of Economics",
+        "start": "2008-02",
+        "end": "2008-04"
+      },
+      {
+        "study": "Gymnasium",
+        "institution": "Zaanlands Lyceum",
+        "start": "1992",
+        "end": "1998"
+      },
+      {
+        "study": "Nederlands Recht",
+        "institution": "Universiteit van Amsterdam",
+        "start": "1998",
+        "end": "2004"
+      },
+      {
+        "study": "Leergang Aanbestedingsrecht",
+        "institution": "Vrije Universiteit Amsterdam",
+        "start": "2006",
+        "end": "2007"
+      }
+    ]
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Wimar_W.D._Bolhuis",
@@ -6687,7 +7917,10 @@
     "urls": {
       "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamerverkiezingen-2025/partijen-2025/groenlinks-pvda/geert-gabriels/",
       "partijwebsite": "https://groenlinkspvda.nl/onze-mensen/kandidaten-tk25/geert-gabriels-2/",
-      "LinkedIn": "https://www.linkedin.com/in/geert-gabri%C3%ABls-364780335/"
+      "LinkedIn": "https://www.linkedin.com/in/geert-gabri%C3%ABls-364780335/",
+      "Instagram": "https://instagram.com/gabrielsgeert",
+      "Facebook": "https://facebook.com/geert.gabriels.5",
+      "Twitter": "https://twitter.com/geert_gabriels"
     },
     "vinddebeta": true,
     "leeftijd": "45",
@@ -6695,8 +7928,60 @@
       {
         "study": "Aardwetenschappen",
         "university": "Universiteit Utrecht"
+      },
+      {
+        "study": "Gymnasium",
+        "institution": "Philips van Horne Scholengemeenschap",
+        "start": "1991",
+        "end": "1997"
+      },
+      {
+        "study": "Fysische Geografie ",
+        "institution": " Aardwetenschappen",
+        "start": "Universiteit Utrecht",
+        "end": "1997"
+      },
+      {
+        "study": "Sociale Geografie, Universitaire lerarenopleiding ",
+        "institution": "Radboud Universiteit",
+        "start": "2003",
+        "end": "2005"
+      },
+      {
+        "study": "Russisch",
+        "institution": "Politechnische Universiteit Sint-Petersburg",
+        "start": "2005",
+        "end": "2005"
+      },
+      {
+        "study": "Vrijeschool pedagogiek",
+        "institution": "Hogeschool Helicon",
+        "start": "2006",
+        "end": "2008"
+      },
+      {
+        "study": "IVOR",
+        "institution": "Instituut voor Opleidingen in de Reiswereld",
+        "start": "2007",
+        "end": "2007"
+      },
+      {
+        "study": "Slavistiek en Oost-Europakunde",
+        "institution": "Katholieke Universiteit Leuven",
+        "start": "2013",
+        "end": "2014"
       }
-    ]
+    ],
+    "tweedekamer": {
+      "member": true,
+      "fractions": [
+        {
+          "partij": "GroenLinks-PvdA",
+          "start": "2023-12-06T00:00:00+01:00",
+          "end": null
+        }
+      ]
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Jimme_J._Nordkamp",
@@ -6773,8 +8058,33 @@
     "leeftijd": "29",
     "urls": {
       "partijwebsite": "https://groenlinkspvda.nl/onze-mensen/kandidaten-tk25/jimme-nordkamp-2/",
-      "LinkedIn": "https://www.linkedin.com/in/jimme-nordkamp-345569161/"
-    }
+      "LinkedIn": "https://www.linkedin.com/in/jimme-nordkamp-345569161/",
+      "Facebook": "https://facebook.com/jimme.nordkamp"
+    },
+    "tweedekamer": {
+      "member": true,
+      "fractions": [
+        {
+          "partij": "GroenLinks-PvdA",
+          "start": "2023-12-06T00:00:00+01:00",
+          "end": null
+        }
+      ]
+    },
+    "studies": [
+      {
+        "study": "VWO",
+        "institution": "Twents Carmel College",
+        "start": "2008",
+        "end": "2014"
+      },
+      {
+        "study": "Bedrijfskunde MER",
+        "institution": "Saxion Universities",
+        "start": "2015",
+        "end": "2021"
+      }
+    ]
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Jade_J.J._Linden",
@@ -6973,7 +8283,18 @@
       "Twitter": "https://x.com/danielle_h_be?lang=en",
       "Instagram": "https://www.instagram.com/danielle__hirsch/",
       "Facebook": "https://www.facebook.com/DanielleHirschGL/",
-      "BlueSky": "https://bsky.app/profile/daniellehirsch.bsky.social"
+      "BlueSky": "https://bsky.app/profile/daniellehirsch.bsky.social",
+      "Website": "https://groenlinks.nl/kandidatenlijst/danielle-hirsch"
+    },
+    "tweedekamer": {
+      "member": true,
+      "fractions": [
+        {
+          "partij": "GroenLinks-PvdA",
+          "start": "2023-12-06T00:00:00+01:00",
+          "end": null
+        }
+      ]
     }
   },
   {
@@ -7163,7 +8484,43 @@
       "Twitter": "https://x.com/mikaltseggai?lang=en",
       "Facebook": "https://www.facebook.com/MikalTseggai/",
       "BlueSky": "https://bsky.app/profile/mikaltseggai.bsky.social"
-    }
+    },
+    "tweedekamer": {
+      "member": true,
+      "fractions": [
+        {
+          "partij": "GroenLinks-PvdA",
+          "start": "2023-12-06T00:00:00+01:00",
+          "end": null
+        }
+      ]
+    },
+    "studies": [
+      {
+        "study": "VWO",
+        "institution": "Gymnasium",
+        "start": "RK Lyceum Sancta Maria",
+        "end": "2007"
+      },
+      {
+        "study": "Bachelor Bestuurskunde ",
+        "institution": "Universiteit Leiden",
+        "start": "2013",
+        "end": "2020"
+      },
+      {
+        "study": "Leadership program for Leaders of African Descent",
+        "institution": "ISG Nederland",
+        "start": "2019",
+        "end": "2020"
+      },
+      {
+        "study": "Master in Development Studies ",
+        "institution": "Erasmus Universiteit",
+        "start": "2020",
+        "end": "2023"
+      }
+    ]
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Anita_A._Pijpelink",
@@ -7245,7 +8602,37 @@
       "Instagram": "https://www.instagram.com/anitapijpelink/",
       "Facebook": "https://www.facebook.com/p/Anita-Pijpelink-61552649270541/",
       "BlueSky": "https://bsky.app/profile/anitapijpelink.bsky.social/post/3lihz3sfh2s2e"
-    }
+    },
+    "tweedekamer": {
+      "member": true,
+      "fractions": [
+        {
+          "partij": "GroenLinks-PvdA",
+          "start": "2023-12-06T00:00:00+01:00",
+          "end": null
+        }
+      ]
+    },
+    "studies": [
+      {
+        "study": "VWO",
+        "institution": "Zeldenrustcollege",
+        "start": "1987",
+        "end": "1993"
+      },
+      {
+        "study": "Doctoraal Maatschappijgeschiedenis",
+        "institution": "Erasmus Universiteit Rotterdam",
+        "start": "1993",
+        "end": "1998"
+      },
+      {
+        "study": "Postdoctoraal eerstegraads lerarenopleiding Geschiedenis",
+        "institution": "ICLON Universiteit Leiden",
+        "start": "1999",
+        "end": "2000"
+      }
+    ]
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Lisa_L._Vliegenthart",
@@ -7426,7 +8813,18 @@
       "LinkedIn": "https://nl.linkedin.com/in/marleenhaage",
       "Twitter": "https://x.com/marleenhaage?lang=en",
       "Instagram": "https://www.instagram.com/metmarleen/?hl=en",
-      "BlueSky": "https://bsky.app/profile/metmarleen.bsky.social"
+      "BlueSky": "https://bsky.app/profile/metmarleen.bsky.social",
+      "Facebook": "https://www.facebook.com/marleenhaage"
+    },
+    "tweedekamer": {
+      "member": true,
+      "fractions": [
+        {
+          "partij": "GroenLinks-PvdA",
+          "start": "2024-12-18T00:00:00+01:00",
+          "end": null
+        }
+      ]
     }
   },
   {
@@ -7501,7 +8899,22 @@
         "partij_naam": "GROENLINKS / Partij van de Arbeid (PvdA)"
       }
     },
-    "leeftijd": "53"
+    "leeftijd": "53",
+    "tweedekamer": {
+      "member": true,
+      "fractions": [
+        {
+          "partij": "GroenLinks-PvdA",
+          "start": "2023-12-06T00:00:00+01:00",
+          "end": null
+        }
+      ]
+    },
+    "urls": {
+      "LinkedIn": "https://linkedin.com/in/raoulwhite",
+      "Instagram": "https://instagram.com/raoulwhite",
+      "Facebook": "https://facebook.com/raoul.white.1"
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Iris_I.L._Vrolijks",
@@ -7717,9 +9130,45 @@
       "LinkedIn": "https://nl.linkedin.com/in/barbara-kathmann-3a825738",
       "Instagram": "https://www.instagram.com/barbarakathmann/?hl=en",
       "Facebook": "https://www.facebook.com/KathmannBarbara/",
-      "BlueSky": "https://bsky.app/profile/did:plc:hu4k2wttrtyfyy2ylq4xqlcr"
+      "BlueSky": "https://bsky.app/profile/did:plc:hu4k2wttrtyfyy2ylq4xqlcr",
+      "Twitter": "https://twitter.com/barbarakathmann"
     },
-    "leeftijd": "47"
+    "leeftijd": "47",
+    "tweedekamer": {
+      "member": true,
+      "fractions": [
+        {
+          "partij": "Partij van de Arbeid",
+          "start": "2021-03-31T00:00:00+02:00",
+          "end": "2023-10-26T00:00:00+02:00"
+        },
+        {
+          "partij": "GroenLinks-PvdA",
+          "start": "2023-10-27T00:00:00+02:00",
+          "end": null
+        }
+      ]
+    },
+    "studies": [
+      {
+        "study": "VWO",
+        "institution": "Het Rotterdamsch Lyceum",
+        "start": "1990",
+        "end": "1997"
+      },
+      {
+        "study": "Rechten",
+        "institution": "Universiteit Utrecht",
+        "start": "1997",
+        "end": "1999"
+      },
+      {
+        "study": "Geschiedenis van de Internationale Betrekkingen",
+        "institution": "Universiteit Utrecht",
+        "start": "1999",
+        "end": "2007"
+      }
+    ]
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Lyle_L._Muns",
@@ -7954,7 +9403,17 @@
       "Instagram": "https://www.instagram.com/glimina_/?hl=en",
       "BlueSky": "https://bsky.app/profile/gliminachakor.bsky.social"
     },
-    "leeftijd": "49"
+    "leeftijd": "49",
+    "tweedekamer": {
+      "member": true,
+      "fractions": [
+        {
+          "partij": "GroenLinks-PvdA",
+          "start": "2023-12-06T00:00:00+01:00",
+          "end": null
+        }
+      ]
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Marcel_M._Vonk",
@@ -8535,6 +9994,10 @@
       "partijwebsite": "https://groenlinkspvda.nl/onze-mensen/kandidaten-tk25/margreet-de-boer/",
       "LinkedIn": "https://nl.linkedin.com/in/margreet-de-boer",
       "BlueSky": "https://bsky.app/profile/margreetdeboer.bsky.social"
+    },
+    "eerstekamer": {
+      "member": true,
+      "fractions": []
     }
   },
   {
@@ -10013,7 +11476,32 @@
       "LinkedIn": "https://www.linkedin.com/in/sharon-gesthuizen-35b90614/",
       "Instagram": "https://www.instagram.com/sharon_gesthuizen/",
       "Facebook": "https://www.facebook.com/sharon.gesthuizen/"
-    }
+    },
+    "leeftijd": 49,
+    "tweedekamer": {
+      "member": true,
+      "fractions": [
+        {
+          "partij": "Socialistische Partij",
+          "start": "2006-11-30T00:00:00+01:00",
+          "end": "2017-03-22T00:00:00+01:00"
+        }
+      ]
+    },
+    "studies": [
+      {
+        "study": "None",
+        "institution": "Hogeschool voor de Kunsten",
+        "start": null,
+        "end": null
+      },
+      {
+        "study": "Gymnasium",
+        "institution": "Stedelijk gymnasium",
+        "start": null,
+        "end": null
+      }
+    ]
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Thijs_T.T.A.J._Roovers",
@@ -10162,7 +11650,19 @@
     "urls": {
       "partijwebsite": "https://groenlinkspvda.nl/onze-mensen/kandidaten-tk25/ineke-van-gent/",
       "Twitter": "https://x.com/inekevangent",
-      "BlueSky": "https://bsky.app/profile/inekevangent.bsky.social"
+      "BlueSky": "https://bsky.app/profile/inekevangent.bsky.social",
+      "Website": "www.inekevangent.nl"
+    },
+    "leeftijd": 68,
+    "tweedekamer": {
+      "member": true,
+      "fractions": [
+        {
+          "partij": "GroenLinks",
+          "start": "1998-05-19T00:00:00+02:00",
+          "end": "2012-09-19T00:00:00+02:00"
+        }
+      ]
     }
   },
   {
@@ -10258,6 +11758,11 @@
           "adressendichtheid": "4994"
         }
       }
+    },
+    "leeftijd": 85,
+    "tweedekamer": {
+      "member": true,
+      "fractions": []
     }
   },
   {
@@ -10391,7 +11896,26 @@
         "partij_naam": "VVD"
       }
     },
-    "leeftijd": "48"
+    "leeftijd": "48",
+    "tweedekamer": {
+      "member": true,
+      "fractions": [
+        {
+          "partij": "Volkspartij voor Vrijheid en Democratie",
+          "start": "2017-03-23T00:00:00+01:00",
+          "end": "2021-09-01T00:00:00+02:00"
+        },
+        {
+          "partij": "Volkspartij voor Vrijheid en Democratie",
+          "start": "2023-12-06T00:00:00+01:00",
+          "end": null
+        }
+      ]
+    },
+    "urls": {
+      "Instagram": "https://instagram.com/dilanyesilgoz_vvd",
+      "Twitter": "https://twitter.com/dilanyesilgoz"
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Eelco_E._Heinen",
@@ -10492,7 +12016,49 @@
         "partij_naam": "VVD"
       }
     },
-    "leeftijd": "44"
+    "leeftijd": "44",
+    "tweedekamer": {
+      "member": true,
+      "fractions": [
+        {
+          "partij": "Volkspartij voor Vrijheid en Democratie",
+          "start": "2021-03-31T00:00:00+02:00",
+          "end": "2024-07-01T00:00:00+02:00"
+        }
+      ]
+    },
+    "studies": [
+      {
+        "study": "Bachelor Hogere Informatica ",
+        "institution": "Hogeschool van Amsterdam",
+        "start": "1998",
+        "end": "2002"
+      },
+      {
+        "study": "Bachelor of science Algemene Economie",
+        "institution": "Universiteit van Amsterdam",
+        "start": "2002",
+        "end": "2005"
+      },
+      {
+        "study": "Master of science Macro-economie",
+        "institution": "Universiteit van Amsterdam",
+        "start": "2005",
+        "end": "2007"
+      },
+      {
+        "study": "Master of science Internationale Betrekkingen",
+        "institution": "Universiteit van Amsterdam",
+        "start": "2006",
+        "end": "2007"
+      },
+      {
+        "study": "Postdoctorale Beroepsopleiding Financieel-Economisch Beleid",
+        "institution": "Erasmus Universiteit Rotterdam in samenwerking met ministerie van Economische Zaken",
+        "start": "2007",
+        "end": "2008"
+      }
+    ]
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Ruben_R.P._Brekelmans",
@@ -10593,7 +12159,24 @@
         "partij_naam": "VVD"
       }
     },
-    "leeftijd": "39"
+    "leeftijd": "39",
+    "tweedekamer": {
+      "member": true,
+      "fractions": [
+        {
+          "partij": "Volkspartij voor Vrijheid en Democratie",
+          "start": "2021-03-31T00:00:00+02:00",
+          "end": "2024-07-01T00:00:00+02:00"
+        }
+      ]
+    },
+    "urls": {
+      "LinkedIn": "https://linkedin.com/in/ruben-brekelmans-a7b80113",
+      "Website": "https://www.rubenbrekelmans.nl/",
+      "Instagram": "https://instagram.com/ruben_brekelmans",
+      "Facebook": "https://facebook.com/rubenbrekelmansvvd",
+      "Twitter": "https://twitter.com/rubenbrekelmans"
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Vincent_V.P.G._Karremans",
@@ -10687,7 +12270,20 @@
         }
       }
     },
-    "leeftijd": "43"
+    "leeftijd": "43",
+    "tweedekamer": {
+      "member": true,
+      "fractions": [
+        {
+          "partij": "Volkspartij voor Vrijheid en Democratie",
+          "start": "2023-12-06T00:00:00+01:00",
+          "end": null
+        }
+      ]
+    },
+    "urls": {
+      "Twitter": "https://twitter.com/Ericvanderburg"
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Bente_B._Becker",
@@ -10788,7 +12384,46 @@
         "partij_naam": "VVD"
       }
     },
-    "leeftijd": "40"
+    "leeftijd": "40",
+    "tweedekamer": {
+      "member": true,
+      "fractions": [
+        {
+          "partij": "Volkspartij voor Vrijheid en Democratie",
+          "start": "2017-03-23T00:00:00+01:00",
+          "end": "2019-06-22T00:00:00+02:00"
+        },
+        {
+          "partij": "Volkspartij voor Vrijheid en Democratie",
+          "start": "2019-10-13T00:00:00+02:00",
+          "end": "2022-08-07T00:00:00+02:00"
+        },
+        {
+          "partij": "Volkspartij voor Vrijheid en Democratie",
+          "start": "2022-11-28T00:00:00+01:00",
+          "end": null
+        }
+      ]
+    },
+    "urls": {
+      "Instagram": "https://instagram.com/bentebecker",
+      "Facebook": "https://facebook.com/bentebecker14",
+      "Twitter": "https://twitter.com/bentebecker"
+    },
+    "studies": [
+      {
+        "study": "VWO (Profiel: Economie en maatschappij)",
+        "institution": "Almere College",
+        "start": "1997",
+        "end": "2003"
+      },
+      {
+        "study": "Bachelor-en Masteropleiding Bestuurskunde Faculteit rechtsgeleerdheid",
+        "institution": "Universiteit van Tilburg",
+        "start": "2003",
+        "end": "2010"
+      }
+    ]
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Wendy_W.P.J._Eijk-Nagel",
@@ -10936,7 +12571,43 @@
         "partij_naam": "VVD"
       }
     },
-    "leeftijd": "35"
+    "leeftijd": "35",
+    "tweedekamer": {
+      "member": true,
+      "fractions": [
+        {
+          "partij": "Volkspartij voor Vrijheid en Democratie",
+          "start": "2021-03-31T00:00:00+02:00",
+          "end": null
+        }
+      ]
+    },
+    "urls": {
+      "Website": "http://www.silvioerkens.nl",
+      "Instagram": "https://instagram.com/silvioerkens",
+      "Facebook": "https://facebook.com/SilvioErkensVVD",
+      "Twitter": "https://twitter.com/SilvioErkens"
+    },
+    "studies": [
+      {
+        "study": "BSc Politicologie",
+        "institution": "Radboud universiteit ",
+        "start": "2009",
+        "end": "2012"
+      },
+      {
+        "study": "MSc International Relations",
+        "institution": "London school of economics",
+        "start": "2012",
+        "end": "2013"
+      },
+      {
+        "study": "Master Business Administration ",
+        "institution": "Columbia Business School ",
+        "start": "2017",
+        "end": "2018"
+      }
+    ]
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Claire_C._Martens-America",
@@ -11010,7 +12681,17 @@
         "partij_naam": "VVD"
       }
     },
-    "leeftijd": "38"
+    "leeftijd": "38",
+    "tweedekamer": {
+      "member": true,
+      "fractions": [
+        {
+          "partij": "Volkspartij voor Vrijheid en Democratie",
+          "start": "2023-12-06T00:00:00+01:00",
+          "end": null
+        }
+      ]
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Jurgen_J.N.J._Nobel",
@@ -11131,7 +12812,48 @@
         "partij_naam": "VVD"
       }
     },
-    "leeftijd": "35"
+    "leeftijd": "35",
+    "tweedekamer": {
+      "member": true,
+      "fractions": [
+        {
+          "partij": "Volkspartij voor Vrijheid en Democratie",
+          "start": "2021-03-31T00:00:00+02:00",
+          "end": null
+        }
+      ]
+    },
+    "urls": {
+      "Instagram": "https://instagram.com/ThomvCampen",
+      "Facebook": "https://facebook.com/ThomVVD",
+      "Twitter": "https://twitter.com/ThomvCampen"
+    },
+    "studies": [
+      {
+        "study": "HAVO",
+        "institution": "Ulenhof College",
+        "start": "2002",
+        "end": "2007"
+      },
+      {
+        "study": "Bachelor Journalistiek",
+        "institution": "Hogeschool Windesheim",
+        "start": "2007",
+        "end": "2012"
+      },
+      {
+        "study": "Premaster International Relations",
+        "institution": "Vrije Universiteit Amsterdam",
+        "start": "2012",
+        "end": "2013"
+      },
+      {
+        "study": "Master International Relations",
+        "institution": "Vrije Universiteit Amsterdam",
+        "start": "2013",
+        "end": "2014"
+      }
+    ]
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Queeny-Aimée_Q.M._Rajkowski",
@@ -11207,9 +12929,28 @@
     },
     "nerdvote": true,
     "urls": {
-      "nerdvote.nl": "https://nerdvote.nl/#:~:text=Queeny%20Rajkowski"
+      "nerdvote.nl": "https://nerdvote.nl/#:~:text=Queeny%20Rajkowski",
+      "LinkedIn": "https://linkedin.com/in/queenyrajkowski",
+      "Website": "https://queenyrajkowski.nl/",
+      "Instagram": "https://instagram.com/queenyraj",
+      "Twitter": "https://twitter.com/queenyraj"
     },
-    "leeftijd": "36"
+    "leeftijd": "36",
+    "tweedekamer": {
+      "member": true,
+      "fractions": [
+        {
+          "partij": "Volkspartij voor Vrijheid en Democratie",
+          "start": "2021-03-31T00:00:00+02:00",
+          "end": "2023-12-07T00:00:00+01:00"
+        },
+        {
+          "partij": "Volkspartij voor Vrijheid en Democratie",
+          "start": "2024-03-29T00:00:00+01:00",
+          "end": null
+        }
+      ]
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Ulysse_U._Ellian",
@@ -11310,7 +13051,24 @@
         "partij_naam": "VVD"
       }
     },
-    "leeftijd": "37"
+    "leeftijd": "37",
+    "tweedekamer": {
+      "member": true,
+      "fractions": [
+        {
+          "partij": "Volkspartij voor Vrijheid en Democratie",
+          "start": "2021-03-31T00:00:00+02:00",
+          "end": null
+        }
+      ]
+    },
+    "urls": {
+      "LinkedIn": "https://linkedin.com/in/ulysseellian",
+      "Website": "https://www.vvd.nl/profielen/ulysse-ellian/",
+      "Instagram": "https://instagram.com/ulysseellian",
+      "Facebook": "https://facebook.com/ulysseellianvvd",
+      "Twitter": "https://twitter.com/ulysseellian"
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Thierry_A.A._Aartsen",
@@ -11411,7 +13169,79 @@
         "partij_naam": "VVD"
       }
     },
-    "leeftijd": "35"
+    "leeftijd": "35",
+    "tweedekamer": {
+      "member": true,
+      "fractions": [
+        {
+          "partij": "Volkspartij voor Vrijheid en Democratie",
+          "start": "2018-09-13T00:00:00+02:00",
+          "end": "2025-06-18T00:00:00+02:00"
+        }
+      ]
+    },
+    "urls": {
+      "LinkedIn": "https://linkedin.com/in/thierryaartsen",
+      "Website": "https://www.thierryaartsen.nl",
+      "Instagram": "https://instagram.com/thierryaartsen",
+      "Facebook": "https://facebook.com/thierryaartsen1"
+    },
+    "studies": [
+      {
+        "study": "HAVO - Twee diploma's behaald: Cultuur & Maatschappij en Economie & Maatschappij",
+        "institution": "Newman College",
+        "start": "2002",
+        "end": "2007"
+      },
+      {
+        "study": "European Studies (Bachelor) - Uitwisseling: Plantijn Hogeschool - Antwerpen. Minor: Ondernemen & Innoveren. Stage: FME-CWM Internationaal Ondernemen. Scriptie: Dutch Economic Diplomacy to China in the Life Sciences & Health sector.",
+        "institution": "Haagse Hogeschool",
+        "start": "2007",
+        "end": "2016"
+      },
+      {
+        "study": "SWEN2 - Wijnbrevet (Stichting WijnExamens Nederland)",
+        "institution": "Wijnadviesbureau Claudia van Dongen",
+        "start": "2013",
+        "end": "2013"
+      },
+      {
+        "study": "Introductie gezondheidszorg",
+        "institution": "Interne training TFHC",
+        "start": "2015",
+        "end": "2015"
+      },
+      {
+        "study": "PRINCE2 Foundation – Project management",
+        "institution": "ITMG PRINCE2",
+        "start": "2015",
+        "end": "2015"
+      },
+      {
+        "study": "Topkadertraining",
+        "institution": "VVD Haya van Someren Stichting",
+        "start": "2016",
+        "end": "2016"
+      },
+      {
+        "study": "Speechtraining",
+        "institution": "Speech Republic",
+        "start": "2017",
+        "end": "2017"
+      },
+      {
+        "study": "Scrum ",
+        "institution": " Agile Training",
+        "start": "Scrum Academy",
+        "end": "2017"
+      },
+      {
+        "study": "Productiviteitstraining",
+        "institution": "Think Productive ",
+        "start": " Productivity Ninja",
+        "end": "2018"
+      }
+    ]
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Ingrid_I.J.M._Michon-Derkzen",
@@ -11512,7 +13342,24 @@
         "partij_naam": "VVD"
       }
     },
-    "leeftijd": "49"
+    "leeftijd": "49",
+    "tweedekamer": {
+      "member": true,
+      "fractions": [
+        {
+          "partij": "Volkspartij voor Vrijheid en Democratie",
+          "start": "2021-03-31T00:00:00+02:00",
+          "end": null
+        }
+      ]
+    },
+    "urls": {
+      "LinkedIn": "https://linkedin.com/in/ingrid-michon-derkzen-9a47b520",
+      "Website": "https://www.vvd.nl/profielen/ingrid-michon-derkzen/",
+      "Instagram": "https://instagram.com/ingridmichon_vvd",
+      "Facebook": "https://facebook.com/IngridMichonVVD",
+      "Twitter": "https://twitter.com/ingridmichon"
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Peter_P.C._Groot",
@@ -11589,7 +13436,9 @@
     "vinddebeta": true,
     "urls": {
       "partijwebsite": "https://www.vvd.nl/profielen/peter-de-groot-2/",
-      "LinkedIn": "https://www.linkedin.com/in/peterdegroot"
+      "LinkedIn": "https://www.linkedin.com/in/peterdegroot",
+      "Facebook": "https://facebook.com/peterdegrootvvd",
+      "Twitter": "https://twitter.com/pedegro"
     },
     "leeftijd": "45",
     "studies": [
@@ -11597,7 +13446,17 @@
         "study": "Engineering en beleidsanalyse ",
         "university": "TU Delft"
       }
-    ]
+    ],
+    "tweedekamer": {
+      "member": true,
+      "fractions": [
+        {
+          "partij": "Volkspartij voor Vrijheid en Democratie",
+          "start": "2021-03-31T00:00:00+02:00",
+          "end": null
+        }
+      ]
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Harry_H._Bevers",
@@ -11698,7 +13557,57 @@
         "partij_naam": "VVD"
       }
     },
-    "leeftijd": "60"
+    "leeftijd": "60",
+    "tweedekamer": {
+      "member": true,
+      "fractions": [
+        {
+          "partij": "Volkspartij voor Vrijheid en Democratie",
+          "start": "2022-01-18T00:00:00+01:00",
+          "end": "2023-12-05T00:00:00+01:00"
+        },
+        {
+          "partij": "Volkspartij voor Vrijheid en Democratie",
+          "start": "2024-07-04T00:00:00+02:00",
+          "end": null
+        }
+      ]
+    },
+    "urls": {
+      "Twitter": "https://twitter.com/@harry_bevers"
+    },
+    "studies": [
+      {
+        "study": "MAVO-4",
+        "institution": "Marnix-Mavo",
+        "start": "1977",
+        "end": "1981"
+      },
+      {
+        "study": "MBO-Sociale Dienstverlening ",
+        "institution": "De Lok",
+        "start": "1981",
+        "end": "1984"
+      },
+      {
+        "study": "HBO-Maatschappelijk Werk",
+        "institution": "Hogeschool Rijnmond",
+        "start": "1984",
+        "end": "1987"
+      },
+      {
+        "study": "Post-HBO Bedrijfskunde ",
+        "institution": "Hanze Hogeschool (Hanze Service - Faculteit Economie)",
+        "start": "2001",
+        "end": "2002"
+      },
+      {
+        "study": "BELBIN® Teamrol Management",
+        "institution": "CMB-Teamrol",
+        "start": "2012",
+        "end": "2013"
+      }
+    ]
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Renate_R._Hollander",
@@ -11823,7 +13732,17 @@
         "partij_naam": "VVD"
       }
     },
-    "leeftijd": "41"
+    "leeftijd": "41",
+    "tweedekamer": {
+      "member": true,
+      "fractions": [
+        {
+          "partij": "Volkspartij voor Vrijheid en Democratie",
+          "start": "2023-12-06T00:00:00+01:00",
+          "end": null
+        }
+      ]
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Daan_A.H.J._Kort",
@@ -11897,7 +13816,41 @@
         "partij_naam": "VVD"
       }
     },
-    "leeftijd": "33"
+    "leeftijd": "33",
+    "tweedekamer": {
+      "member": true,
+      "fractions": [
+        {
+          "partij": "Volkspartij voor Vrijheid en Democratie",
+          "start": "2021-03-31T00:00:00+02:00",
+          "end": null
+        }
+      ]
+    },
+    "urls": {
+      "Instagram": "https://instagram.com/daandekort92",
+      "Twitter": "https://twitter.com/daandekort92"
+    },
+    "studies": [
+      {
+        "study": "HAVO",
+        "institution": "Sondervick College ",
+        "start": null,
+        "end": "2010"
+      },
+      {
+        "study": "HBO Bestuurskunde",
+        "institution": "Hogeschool Avans",
+        "start": null,
+        "end": "2015"
+      },
+      {
+        "study": "Premaster Bestuurskunde",
+        "institution": "Universiteit Leiden",
+        "start": null,
+        "end": "2018"
+      }
+    ]
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Hilde_H._Wendel",
@@ -12124,7 +14077,17 @@
         "partij_naam": "VVD"
       }
     },
-    "leeftijd": "40"
+    "leeftijd": "40",
+    "tweedekamer": {
+      "member": true,
+      "fractions": [
+        {
+          "partij": "Volkspartij voor Vrijheid en Democratie",
+          "start": "2025-03-26T00:00:00+01:00",
+          "end": null
+        }
+      ]
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Alisha_A.S._Müller",
@@ -12245,7 +14208,17 @@
         "partij_naam": "VVD"
       }
     },
-    "leeftijd": "50"
+    "leeftijd": "50",
+    "tweedekamer": {
+      "member": true,
+      "fractions": [
+        {
+          "partij": "Volkspartij voor Vrijheid en Democratie",
+          "start": "2023-12-06T00:00:00+01:00",
+          "end": null
+        }
+      ]
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Martin_M.E.E._Beer",
@@ -12292,7 +14265,17 @@
         }
       }
     },
-    "leeftijd": "45"
+    "leeftijd": "45",
+    "tweedekamer": {
+      "member": true,
+      "fractions": [
+        {
+          "partij": "Volkspartij voor Vrijheid en Democratie",
+          "start": "2025-06-25T00:00:00+02:00",
+          "end": null
+        }
+      ]
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Nicole_N.C.J._Maes",
@@ -12487,7 +14470,36 @@
         "partij_naam": "VVD"
       }
     },
-    "leeftijd": "65"
+    "leeftijd": "65",
+    "tweedekamer": {
+      "member": true,
+      "fractions": [
+        {
+          "partij": "Volkspartij voor Vrijheid en Democratie",
+          "start": "2022-01-18T00:00:00+01:00",
+          "end": "2022-01-11T00:00:00+01:00"
+        },
+        {
+          "partij": "Volkspartij voor Vrijheid en Democratie",
+          "start": "2025-05-14T00:00:00+02:00",
+          "end": null
+        }
+      ]
+    },
+    "studies": [
+      {
+        "study": "Diverse leergangen politieonderwijs",
+        "institution": "Politieacademie",
+        "start": "1986",
+        "end": "2001"
+      },
+      {
+        "study": "Master Openbaar Bestuur",
+        "institution": "Nederlandse school voor openbaar bestuur",
+        "start": "2009",
+        "end": "2011"
+      }
+    ]
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Dieke_D.A._Groningen-de_Haas",
@@ -12692,8 +14704,34 @@
       {
         "study": "Bewegingswetenschappen",
         "university": "Rijksuniversiteit Groningen"
+      },
+      {
+        "study": "Bewegingswetenschappen",
+        "institution": "Rijksuniversiteit Groningen",
+        "start": "1991",
+        "end": "1997"
       }
-    ]
+    ],
+    "tweedekamer": {
+      "member": true,
+      "fractions": [
+        {
+          "partij": "Volkspartij voor Vrijheid en Democratie",
+          "start": "2022-09-06T00:00:00+02:00",
+          "end": "2022-11-27T00:00:00+01:00"
+        },
+        {
+          "partij": "Volkspartij voor Vrijheid en Democratie",
+          "start": "2023-09-05T00:00:00+02:00",
+          "end": "2023-12-05T00:00:00+01:00"
+        },
+        {
+          "partij": "Volkspartij voor Vrijheid en Democratie",
+          "start": "2025-06-04T00:00:00+02:00",
+          "end": null
+        }
+      ]
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Joost_J._Hoebink",
@@ -12857,8 +14895,36 @@
       {
         "study": "Werktuigbouwkunde",
         "university": "TU Eindhoven"
+      },
+      {
+        "study": "Havo",
+        "institution": "Zwin College",
+        "start": "1993",
+        "end": "1998"
+      },
+      {
+        "study": "BSc Werktuigbouwkunde",
+        "institution": "Fontys Hogeschool",
+        "start": "1998",
+        "end": "2002"
+      },
+      {
+        "study": "MSc Agrotechnology and bioresource engineering",
+        "institution": "Wageningen Universiteit",
+        "start": "2002",
+        "end": "2004"
       }
-    ]
+    ],
+    "tweedekamer": {
+      "member": true,
+      "fractions": [
+        {
+          "partij": "Volkspartij voor Vrijheid en Democratie",
+          "start": "2024-07-04T00:00:00+02:00",
+          "end": null
+        }
+      ]
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Peter_P.W._Kessel",
@@ -13124,7 +15190,17 @@
         "partij_naam": "VVD"
       }
     },
-    "leeftijd": "41"
+    "leeftijd": "41",
+    "tweedekamer": {
+      "member": true,
+      "fractions": [
+        {
+          "partij": "Volkspartij voor Vrijheid en Democratie",
+          "start": "2025-06-25T00:00:00+02:00",
+          "end": null
+        }
+      ]
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Ellis_E.M._Zeeuw_van_der_Laan",
@@ -15477,7 +17553,44 @@
         }
       }
     },
-    "leeftijd": "53"
+    "leeftijd": "53",
+    "tweedekamer": {
+      "member": true,
+      "fractions": [
+        {
+          "partij": "Christen-Democratisch Appèl",
+          "start": "2003-09-02T00:00:00+02:00",
+          "end": "2014-11-11T00:00:00+01:00"
+        },
+        {
+          "partij": "Nieuw Sociaal Contract",
+          "start": "2025-09-02T00:00:00+02:00",
+          "end": "2024-07-01T00:00:00+02:00"
+        },
+        {
+          "partij": "Nieuw Sociaal Contract",
+          "start": "2025-09-02T00:00:00+02:00",
+          "end": null
+        }
+      ]
+    },
+    "urls": {
+      "Website": "www.eddyvanhijum.nl"
+    },
+    "studies": [
+      {
+        "study": "Atheneum",
+        "institution": "Bogerman College",
+        "start": "1984",
+        "end": "1990"
+      },
+      {
+        "study": "Civieltechnische bestuurskunde",
+        "institution": "Universiteit Twente",
+        "start": "1990",
+        "end": "1995"
+      }
+    ]
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Judith_J.J.M._Uitermark",
@@ -15625,7 +17738,20 @@
         "partij_naam": "Nieuw Sociaal Contract"
       }
     },
-    "leeftijd": "51"
+    "leeftijd": "51",
+    "tweedekamer": {
+      "member": true,
+      "fractions": [
+        {
+          "partij": "Nieuw Sociaal Contract",
+          "start": "2023-12-06T00:00:00+01:00",
+          "end": null
+        }
+      ]
+    },
+    "urls": {
+      "Instagram": "https://instagram.com/merlienwelzijn"
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Tjebbe_T._Oostenbruggen",
@@ -15672,7 +17798,30 @@
         }
       }
     },
-    "leeftijd": "46"
+    "leeftijd": "46",
+    "tweedekamer": {
+      "member": true,
+      "fractions": [
+        {
+          "partij": "Nieuw Sociaal Contract",
+          "start": "2023-12-06T00:00:00+01:00",
+          "end": "2024-11-14T00:00:00+01:00"
+        }
+      ]
+    },
+    "urls": {
+      "LinkedIn": "https://linkedin.com/in/tjebbevanoostenbruggen",
+      "Instagram": "https://instagram.com/tjebbevanoostenbruggen",
+      "Twitter": "https://twitter.com/tvoostenbruggen"
+    },
+    "studies": [
+      {
+        "study": "International Business",
+        "institution": "Universiteit Maastricht",
+        "start": null,
+        "end": null
+      }
+    ]
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Natascha_N.T.P._Wingelaar",
@@ -15746,7 +17895,17 @@
         "partij_naam": "Nieuw Sociaal Contract"
       }
     },
-    "leeftijd": "51"
+    "leeftijd": "51",
+    "tweedekamer": {
+      "member": true,
+      "fractions": [
+        {
+          "partij": "Nieuw Sociaal Contract",
+          "start": "2024-07-04T00:00:00+02:00",
+          "end": null
+        }
+      ]
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Ilse_I.G._Saris",
@@ -15828,7 +17987,17 @@
         "partij_naam": "CDA"
       }
     },
-    "leeftijd": "50"
+    "leeftijd": "50",
+    "tweedekamer": {
+      "member": true,
+      "fractions": [
+        {
+          "partij": "Nieuw Sociaal Contract",
+          "start": "2024-07-04T00:00:00+02:00",
+          "end": null
+        }
+      ]
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Jurr_J.A._Dalen",
@@ -15949,7 +18118,23 @@
         "partij_naam": "Nieuw Sociaal Contract"
       }
     },
-    "leeftijd": "37"
+    "leeftijd": "37",
+    "tweedekamer": {
+      "member": true,
+      "fractions": [
+        {
+          "partij": "Nieuw Sociaal Contract",
+          "start": "2023-12-06T00:00:00+01:00",
+          "end": null
+        }
+      ]
+    },
+    "urls": {
+      "LinkedIn": "https://linkedin.com/in/faith-bruyning-75420935",
+      "Instagram": "https://instagram.com/faithbruyning",
+      "Facebook": "https://facebook.com/FaithBruyning",
+      "Twitter": "https://twitter.com/FaithBruyning"
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Thomas_T.P._Beukema",
@@ -16082,7 +18267,22 @@
         "partij_naam": "Nieuw Sociaal Contract"
       }
     },
-    "leeftijd": "51"
+    "leeftijd": "51",
+    "tweedekamer": {
+      "member": true,
+      "fractions": [
+        {
+          "partij": "50PLUS",
+          "start": "2018-11-07T00:00:00+01:00",
+          "end": "2019-02-26T00:00:00+01:00"
+        },
+        {
+          "partij": "50PLUS",
+          "start": "2019-03-12T00:00:00+01:00",
+          "end": "2019-06-26T00:00:00+02:00"
+        }
+      ]
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Willem_W.J._Koops",
@@ -16156,7 +18356,21 @@
         "partij_naam": "Nieuw Sociaal Contract"
       }
     },
-    "leeftijd": "51"
+    "leeftijd": "51",
+    "tweedekamer": {
+      "member": true,
+      "fractions": [
+        {
+          "partij": "Nieuw Sociaal Contract",
+          "start": "2024-12-03T00:00:00+01:00",
+          "end": null
+        }
+      ]
+    },
+    "urls": {
+      "LinkedIn": "https://linkedin.com/in/willemjkoops",
+      "Twitter": "https://twitter.com/Willemjkoops"
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Vincent_V.C.H.M._Verouden",
@@ -16223,7 +18437,17 @@
         "partij_naam": "Nieuw Sociaal Contract"
       }
     },
-    "leeftijd": "54"
+    "leeftijd": "54",
+    "tweedekamer": {
+      "member": true,
+      "fractions": [
+        {
+          "partij": "Nieuw Sociaal Contract",
+          "start": "2025-09-02T00:00:00+02:00",
+          "end": null
+        }
+      ]
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Bram_A.J._Kouwenhoven",
@@ -16297,7 +18521,17 @@
         "partij_naam": "Nieuw Sociaal Contract"
       }
     },
-    "leeftijd": "36"
+    "leeftijd": "36",
+    "tweedekamer": {
+      "member": true,
+      "fractions": [
+        {
+          "partij": "Nieuw Sociaal Contract",
+          "start": "2025-05-14T00:00:00+02:00",
+          "end": null
+        }
+      ]
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Rob_R._Wessels",
@@ -17340,9 +19574,33 @@
     },
     "rainbowvote": true,
     "urls": {
-      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamerverkiezingen-2025/partijen-2025/d66/rob-jetten/"
+      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamerverkiezingen-2025/partijen-2025/d66/rob-jetten/",
+      "LinkedIn": "https://linkedin.com/in/rob-jetten",
+      "Instagram": "https://instagram.com/jettenrob",
+      "Facebook": "https://facebook.com/RobJetten",
+      "Twitter": "https://twitter.com/RobJetten"
     },
-    "leeftijd": "36"
+    "leeftijd": "36",
+    "tweedekamer": {
+      "member": true,
+      "fractions": [
+        {
+          "partij": "Democraten 66",
+          "start": "2018-10-09T00:00:00+02:00",
+          "end": "2021-05-25T00:00:00+02:00"
+        },
+        {
+          "partij": "Democraten 66",
+          "start": "2021-05-25T00:00:00+02:00",
+          "end": "2022-01-09T00:00:00+01:00"
+        },
+        {
+          "partij": "Democraten 66",
+          "start": "2023-12-06T00:00:00+01:00",
+          "end": null
+        }
+      ]
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Jan_J.M._Paternotte",
@@ -17443,7 +19701,24 @@
         "partij_naam": "D66"
       }
     },
-    "leeftijd": "41"
+    "leeftijd": "41",
+    "tweedekamer": {
+      "member": true,
+      "fractions": [
+        {
+          "partij": "Democraten 66",
+          "start": "2022-01-11T00:00:00+01:00",
+          "end": null
+        }
+      ]
+    },
+    "urls": {
+      "LinkedIn": "https://linkedin.com/in/jan-paternotte-75079a7",
+      "Website": "https://janpaternotte.nl/",
+      "Instagram": "https://instagram.com/janpaternotte",
+      "Facebook": "https://facebook.com/Jan-Paternotte-460256660794215/?fref=ts",
+      "Twitter": "https://twitter.com/jpaternotte"
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Hans_J.A._Vijlbrief",
@@ -17544,7 +19819,26 @@
         "partij_naam": "D66"
       }
     },
-    "leeftijd": "61"
+    "leeftijd": "61",
+    "tweedekamer": {
+      "member": true,
+      "fractions": [
+        {
+          "partij": "Democraten 66",
+          "start": "2021-03-31T00:00:00+02:00",
+          "end": "2022-01-09T00:00:00+01:00"
+        },
+        {
+          "partij": "Democraten 66",
+          "start": "2023-12-06T00:00:00+01:00",
+          "end": null
+        }
+      ]
+    },
+    "urls": {
+      "LinkedIn": "https://linkedin.com/in/hansvijlbrief",
+      "Twitter": "https://twitter.com/javijlbrief"
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Anne-Marijke_A._Podt",
@@ -17632,8 +19926,24 @@
       {
         "study": "Industrieel Ontwerpen",
         "university": "TU Delft"
+      },
+      {
+        "study": "Master's Degree in Innovatiemanagement ",
+        "institution": "Technische Universiteit Delft – Faculteit Industrieel Ontwerpen",
+        "start": "1994",
+        "end": "2002"
       }
-    ]
+    ],
+    "tweedekamer": {
+      "member": true,
+      "fractions": [
+        {
+          "partij": "Democraten 66",
+          "start": "2021-09-07T00:00:00+02:00",
+          "end": null
+        }
+      ]
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Joost_J.C._Sneller",
@@ -17734,7 +20044,47 @@
         "partij_naam": "D66"
       }
     },
-    "leeftijd": "43"
+    "leeftijd": "43",
+    "tweedekamer": {
+      "member": true,
+      "fractions": [
+        {
+          "partij": "Democraten 66",
+          "start": "2017-10-31T00:00:00+01:00",
+          "end": null
+        }
+      ]
+    },
+    "urls": {
+      "LinkedIn": "https://linkedin.com/in/sneller",
+      "Twitter": "https://twitter.com/sneller"
+    },
+    "studies": [
+      {
+        "study": "Gymnasium-diploma",
+        "institution": "Stedelijk Gymnasium ",
+        "start": "1994",
+        "end": "2000"
+      },
+      {
+        "study": "BA sociale wetenschappen",
+        "institution": "University College ",
+        "start": "2000",
+        "end": "2003"
+      },
+      {
+        "study": "MA internationale betrekkingen",
+        "institution": "the Johns Hopkins University SAIS",
+        "start": "2003",
+        "end": "2005"
+      },
+      {
+        "study": "Bachelor Rechtsgeleerdheid",
+        "institution": "Campus Den Haag Universiteit ",
+        "start": "2006",
+        "end": "2011"
+      }
+    ]
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Nathalie_N._Berkel",
@@ -17899,7 +20249,37 @@
       "Facebook": "https://www.facebook.com/wpaulusma/?locale=nl_NL",
       "BlueSky": "https://bsky.app/profile/ilanarooderkerk.bsky.social"
     },
-    "leeftijd": "46"
+    "leeftijd": "46",
+    "tweedekamer": {
+      "member": true,
+      "fractions": [
+        {
+          "partij": "Democraten 66",
+          "start": "2021-04-15T00:00:00+02:00",
+          "end": null
+        }
+      ]
+    },
+    "studies": [
+      {
+        "study": "Verpleegkundig Specialist",
+        "institution": "Hogeschool Utrecht",
+        "start": null,
+        "end": null
+      },
+      {
+        "study": "VWO - Atheneum",
+        "institution": "Hondsrug College Emmen",
+        "start": null,
+        "end": null
+      },
+      {
+        "study": "HBO Verpleegkunde",
+        "institution": "Academie voor Verpleegkunde",
+        "start": null,
+        "end": null
+      }
+    ]
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Fatimazhra_F._Belhirch",
@@ -17951,6 +20331,10 @@
       "partijwebsite": "https://d66.nl/eerstekamer/mensen/fatimazhra-belhirch/",
       "LinkedIn": "https://www.linkedin.com/in/fatimazhrabelhirch/?originalSubdomain=nl",
       "Instagram": "https://www.instagram.com/fatimazhrabelhirch/"
+    },
+    "eerstekamer": {
+      "member": true,
+      "fractions": []
     }
   },
   {
@@ -18033,7 +20417,22 @@
       "Twitter": "https://x.com/hannekevdwerf",
       "Instagram": "https://www.instagram.com/hannekevdw/"
     },
-    "leeftijd": "40"
+    "leeftijd": "40",
+    "tweedekamer": {
+      "member": true,
+      "fractions": [
+        {
+          "partij": "Democraten 66",
+          "start": "2023-12-06T00:00:00+01:00",
+          "end": "2023-10-01T00:00:00+02:00"
+        },
+        {
+          "partij": "Democraten 66",
+          "start": "2024-03-29T00:00:00+01:00",
+          "end": null
+        }
+      ]
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Mpanzu_P._Bamenga",
@@ -18109,9 +20508,50 @@
     },
     "rainbowvote": true,
     "urls": {
-      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamerverkiezingen-2025/partijen-2025/d66/mpanzu-bamenga/"
+      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamerverkiezingen-2025/partijen-2025/d66/mpanzu-bamenga/",
+      "LinkedIn": "https://linkedin.com/in/mpanzubamenga",
+      "Website": "www.mpanzubamenga.nl",
+      "Instagram": "https://instagram.com/mpanzubamenga",
+      "Facebook": "https://facebook.com/mpanzu.bamenga",
+      "Twitter": "https://twitter.com/MpanzuBamenga"
     },
-    "leeftijd": "40"
+    "leeftijd": "40",
+    "tweedekamer": {
+      "member": true,
+      "fractions": [
+        {
+          "partij": "Democraten 66",
+          "start": "2023-12-06T00:00:00+01:00",
+          "end": null
+        }
+      ]
+    },
+    "studies": [
+      {
+        "study": "Administratief Juridisch Medewerker Openbaar Bestuur",
+        "institution": "ROC",
+        "start": "2001",
+        "end": "2005"
+      },
+      {
+        "study": "HBO-Rechten (Bachelor)",
+        "institution": "Juridische Hogeschool Avans-Fontys",
+        "start": "2005",
+        "end": "2011"
+      },
+      {
+        "study": "Global Development Issues (Minor)",
+        "institution": "Fontys Hogescholen",
+        "start": "2009",
+        "end": "2010"
+      },
+      {
+        "study": "European Law on Immigration and Asylum (Post Master study)",
+        "institution": "Université Libre de Bruxelles",
+        "start": "2011",
+        "end": "2013"
+      }
+    ]
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Felix_F.C.O._Klos",
@@ -18260,7 +20700,17 @@
       "Twitter": "https://x.com/MarijkeSynhaeve?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
       "Instagram": "https://www.instagram.com/marijke.synhaeve/"
     },
-    "leeftijd": "35"
+    "leeftijd": "35",
+    "tweedekamer": {
+      "member": true,
+      "fractions": [
+        {
+          "partij": "Democraten 66",
+          "start": "2023-12-12T00:00:00+01:00",
+          "end": "2024-03-28T00:00:00+01:00"
+        }
+      ]
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Ilana_I._Rooderkerk",
@@ -18341,7 +20791,48 @@
       "Twitter": "https://x.com/IlanaRooderkerk?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
       "Instagram": "https://www.instagram.com/ilanarooderkerk/?hl=nl",
       "Facebook": "https://www.facebook.com/IlanaRooderkerkD66/?locale=nl_NL"
-    }
+    },
+    "tweedekamer": {
+      "member": true,
+      "fractions": [
+        {
+          "partij": "Democraten 66",
+          "start": "2023-12-06T00:00:00+01:00",
+          "end": "2023-12-07T00:00:00+01:00"
+        },
+        {
+          "partij": "Democraten 66",
+          "start": "2024-03-29T00:00:00+01:00",
+          "end": null
+        }
+      ]
+    },
+    "studies": [
+      {
+        "study": "Gymnasium",
+        "institution": "Stedelijk Gymnasium",
+        "start": "1999",
+        "end": "2005"
+      },
+      {
+        "study": "Vooropleiding theater en dans",
+        "institution": "Fontys Hogeschool voor de Kunsten",
+        "start": "2004",
+        "end": "2005"
+      },
+      {
+        "study": "Bachelor Politicologie",
+        "institution": "Universiteit van Amsterdam",
+        "start": "2010",
+        "end": "2013"
+      },
+      {
+        "study": "Master Politicologie International Relations",
+        "institution": "Universiteit van Amsterdam",
+        "start": "2013",
+        "end": "2014"
+      }
+    ]
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Robert_R.J._Asten",
@@ -20273,8 +22764,33 @@
       "partijwebsite": "https://d66.nl/mensen/pia-dijkstra/",
       "LinkedIn": "https://www.linkedin.com/in/pia-dijkstra-61180610/",
       "Instagram": "https://www.instagram.com/ministermzdijkstra/",
-      "Facebook": "https://www.facebook.com/pia.dijkstra.391"
-    }
+      "Facebook": "https://www.facebook.com/pia.dijkstra.391",
+      "Twitter": "https://twitter.com/piadijkstra"
+    },
+    "tweedekamer": {
+      "member": true,
+      "fractions": [
+        {
+          "partij": "Democraten 66",
+          "start": "2010-06-17T00:00:00+02:00",
+          "end": "2021-03-30T00:00:00+02:00"
+        }
+      ]
+    },
+    "studies": [
+      {
+        "study": "Theologie (niet voltooid)",
+        "institution": "Universiteit van Amsterdam",
+        "start": null,
+        "end": null
+      },
+      {
+        "study": "Gymnasium",
+        "institution": "Stedelijk Gymnasium",
+        "start": null,
+        "end": null
+      }
+    ]
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Kajsa_K.H._Ollongren",
@@ -20594,7 +23110,19 @@
       "partijwebsite": "https://boerburgerbeweging.nl/kandidaten/caroline-van-der-plas/",
       "LinkedIn": "https://nl.linkedin.com/in/carolinevanderplas",
       "Twitter": "https://x.com/lientje1967",
-      "Instagram": "https://www.instagram.com/carolinevandplas/"
+      "Instagram": "https://www.instagram.com/carolinevandplas/",
+      "Website": "https://boerburgerbeweging.nl/",
+      "Facebook": "https://facebook.com/caroline.vanderplas"
+    },
+    "tweedekamer": {
+      "member": true,
+      "fractions": [
+        {
+          "partij": "BoerBurgerBeweging",
+          "start": "2021-03-31T00:00:00+02:00",
+          "end": null
+        }
+      ]
     }
   },
   {
@@ -20702,8 +23230,61 @@
       "LinkedIn": "https://www.linkedin.com/in/mona-keijzer-87019b29/",
       "Twitter": "https://x.com/MonaKeijzer",
       "Instagram": "https://www.instagram.com/monakeijzer/",
-      "Facebook": "https://www.facebook.com/MonaKeijzer"
-    }
+      "Facebook": "https://www.facebook.com/MonaKeijzer",
+      "Website": "monakeijzer.nl"
+    },
+    "tweedekamer": {
+      "member": true,
+      "fractions": [
+        {
+          "partij": "Christen-Democratisch Appèl",
+          "start": "2012-09-20T00:00:00+02:00",
+          "end": "2017-10-25T00:00:00+02:00"
+        },
+        {
+          "partij": "Christen-Democratisch Appèl",
+          "start": "2021-03-31T00:00:00+02:00",
+          "end": "2021-09-26T00:00:00+02:00"
+        },
+        {
+          "partij": "BoerBurgerBeweging",
+          "start": "2023-12-06T00:00:00+01:00",
+          "end": "2024-07-01T00:00:00+02:00"
+        }
+      ]
+    },
+    "studies": [
+      {
+        "study": "VWO",
+        "institution": "St. Werenfridus",
+        "start": "1981",
+        "end": "1987"
+      },
+      {
+        "study": "Juridische bestuurskunde",
+        "institution": "Universiteit van Amsterdam",
+        "start": "1987",
+        "end": "1992"
+      },
+      {
+        "study": "Nederlands Recht (specialisatie ruimtelijk ordeningsrecht, milieurecht, milieubeleid)",
+        "institution": "Universiteit van Amsterdam",
+        "start": "1992",
+        "end": "1997"
+      },
+      {
+        "study": "Mediatoropleiding",
+        "institution": null,
+        "start": "2006",
+        "end": "2006"
+      },
+      {
+        "study": "Advocatenopleiding",
+        "institution": null,
+        "start": "2006",
+        "end": "2006"
+      }
+    ]
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Henk_H._Vermeer",
@@ -20805,15 +23386,53 @@
     },
     "vinddebeta": true,
     "urls": {
-      "partijwebsite": "https://boerburgerbeweging.nl/kandidaten/henk-vermeer/"
+      "partijwebsite": "https://boerburgerbeweging.nl/kandidaten/henk-vermeer/",
+      "LinkedIn": "https://linkedin.com/in/henkvermeer",
+      "Instagram": "https://instagram.com/hvermeer",
+      "Facebook": "https://facebook.com/henk.vermeer",
+      "Twitter": "https://twitter.com/henkvermeer"
     },
     "leeftijd": "59",
     "studies": [
       {
         "study": "Ingenieur Veehouderij",
         "university": "Niet bekend"
+      },
+      {
+        "study": "HAVO",
+        "institution": null,
+        "start": "1978",
+        "end": "1983"
+      },
+      {
+        "study": "HBO bedrijfskunde",
+        "institution": null,
+        "start": "1983",
+        "end": "1987"
+      },
+      {
+        "study": "Nima-B",
+        "institution": null,
+        "start": null,
+        "end": "1989"
+      },
+      {
+        "study": "NIVE bedrijfseconomie",
+        "institution": null,
+        "start": null,
+        "end": "1993"
       }
-    ]
+    ],
+    "tweedekamer": {
+      "member": true,
+      "fractions": [
+        {
+          "partij": "BoerBurgerBeweging",
+          "start": "2023-12-06T00:00:00+01:00",
+          "end": null
+        }
+      ]
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Femke_F.M._Wiersma",
@@ -20945,6 +23564,16 @@
       "Twitter": "https://x.com/claudiavz",
       "Instagram": "https://www.instagram.com/claudia.vanzanten/",
       "Facebook": "https://www.facebook.com/ClaudiaVanZantenTK/"
+    },
+    "tweedekamer": {
+      "member": true,
+      "fractions": [
+        {
+          "partij": "BoerBurgerBeweging",
+          "start": "2023-12-06T00:00:00+01:00",
+          "end": null
+        }
+      ]
     }
   },
   {
@@ -21019,7 +23648,17 @@
         "partij_naam": "BBB"
       }
     },
-    "leeftijd": "45"
+    "leeftijd": "45",
+    "tweedekamer": {
+      "member": true,
+      "fractions": [
+        {
+          "partij": "BoerBurgerBeweging",
+          "start": "2023-12-06T00:00:00+01:00",
+          "end": "2024-07-01T00:00:00+02:00"
+        }
+      ]
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Marieke_M.J.M.H._Wijen-Nass",
@@ -21100,7 +23739,49 @@
       "Twitter": "https://x.com/MariekeWijen",
       "Instagram": "https://www.instagram.com/mariekewijennass/",
       "Facebook": "https://www.facebook.com/MariekeWijenNassBBB/"
-    }
+    },
+    "tweedekamer": {
+      "member": true,
+      "fractions": [
+        {
+          "partij": "BoerBurgerBeweging",
+          "start": "2024-07-04T00:00:00+02:00",
+          "end": null
+        }
+      ]
+    },
+    "studies": [
+      {
+        "study": "Opleiding tot adjunct Officier van Justitie",
+        "institution": "SSR",
+        "start": "2023-02",
+        "end": "2024-02"
+      },
+      {
+        "study": "Gymnasium",
+        "institution": "Bernardinuscollege",
+        "start": "2005",
+        "end": "2011"
+      },
+      {
+        "study": "Bachelor Rechtsgeleerdheid",
+        "institution": "Universiteit Maastricht",
+        "start": "2011",
+        "end": "2014"
+      },
+      {
+        "study": "Master Nederlands Recht (specialisatie Privaatrecht)",
+        "institution": "Universiteit Maastricht",
+        "start": "2014",
+        "end": "2015"
+      },
+      {
+        "study": "Beroepsopleiding Advocaten",
+        "institution": "Nederlandse Orde van Advocaten",
+        "start": "2015",
+        "end": "2018"
+      }
+    ]
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Agnes_A.S._Joseph",
@@ -21179,6 +23860,21 @@
       "partijwebsite": "https://boerburgerbeweging.nl/kandidaten/agnes-joseph/",
       "LinkedIn": "https://www.linkedin.com/in/agnesjoseph/",
       "Twitter": "https://x.com/Agnes_Joseph_TK"
+    },
+    "tweedekamer": {
+      "member": true,
+      "fractions": [
+        {
+          "partij": "Nieuw Sociaal Contract",
+          "start": "2023-12-06T00:00:00+01:00",
+          "end": "2025-07-31T00:00:00+02:00"
+        },
+        {
+          "partij": "BoerBurgerBeweging",
+          "start": "2025-07-31T00:00:00+02:00",
+          "end": null
+        }
+      ]
     }
   },
   {
@@ -21253,7 +23949,17 @@
         "partij_naam": "BBB"
       }
     },
-    "leeftijd": "38"
+    "leeftijd": "38",
+    "tweedekamer": {
+      "member": true,
+      "fractions": [
+        {
+          "partij": "BoerBurgerBeweging",
+          "start": "2025-03-05T00:00:00+01:00",
+          "end": null
+        }
+      ]
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Alexander_A.J._Hendriks",
@@ -22860,6 +25566,10 @@
       "LinkedIn": "https://www.linkedin.com/in/ilona-lagas-meijer-472a4821",
       "Instagram": "https://www.instagram.com/ilonalagas.meijer/",
       "Facebook": "https://www.facebook.com/profile.php?id=100008510610547#"
+    },
+    "eerstekamer": {
+      "member": true,
+      "fractions": []
     }
   },
   {
@@ -23490,8 +26200,39 @@
       "LinkedIn": "https://www.linkedin.com/in/helmalodders/",
       "Twitter": "https://x.com/helmalodders",
       "Instagram": "https://www.instagram.com/helma_lodders/",
-      "Facebook": "https://www.facebook.com/helma.lodders/"
-    }
+      "Facebook": "https://www.facebook.com/helma.lodders/",
+      "Website": "www.helmalodders.nl"
+    },
+    "tweedekamer": {
+      "member": true,
+      "fractions": [
+        {
+          "partij": "Volkspartij voor Vrijheid en Democratie",
+          "start": "2010-06-17T00:00:00+02:00",
+          "end": "2021-03-30T00:00:00+02:00"
+        }
+      ]
+    },
+    "studies": [
+      {
+        "study": "Opleiding INTAS (inrichtingsassistente)",
+        "institution": null,
+        "start": null,
+        "end": null
+      },
+      {
+        "study": "MAVO",
+        "institution": null,
+        "start": null,
+        "end": null
+      },
+      {
+        "study": "Opleiding Kraamzorg",
+        "institution": null,
+        "start": null,
+        "end": null
+      }
+    ]
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Nicki_N.J.F._Pouw-Verweij",
@@ -23598,6 +26339,26 @@
       "LinkedIn": "https://www.linkedin.com/in/nickipouwverweij/",
       "Twitter": "https://x.com/nickiverweij",
       "Instagram": "https://www.instagram.com/nickiverweij/"
+    },
+    "tweedekamer": {
+      "member": true,
+      "fractions": [
+        {
+          "partij": "JA21",
+          "start": "2021-03-31T00:00:00+02:00",
+          "end": "2022-03-09T00:00:00+01:00"
+        },
+        {
+          "partij": "JA21",
+          "start": "2022-06-30T00:00:00+02:00",
+          "end": "2023-09-01T00:00:00+02:00"
+        },
+        {
+          "partij": "BoerBurgerBeweging",
+          "start": "2023-09-01T00:00:00+02:00",
+          "end": "2023-12-05T00:00:00+01:00"
+        }
+      ]
     }
   },
   {
@@ -23702,7 +26463,10 @@
     "vinddebeta": true,
     "urls": {
       "partijwebsite": "https://www.cda.nl/campagne/henri-bontenbal/",
-      "LinkedIn": "https://www.linkedin.com/in/henribontenbal/"
+      "LinkedIn": "https://www.linkedin.com/in/henribontenbal/",
+      "Instagram": "https://instagram.com/henribontenbal",
+      "Facebook": "https://facebook.com/henribontenbal.cda",
+      "Twitter": "https://twitter.com/henribontenbal"
     },
     "leeftijd": "42",
     "studies": [
@@ -23710,7 +26474,22 @@
         "study": "Natuurkunde",
         "university": "Leiden Universiteit"
       }
-    ]
+    ],
+    "tweedekamer": {
+      "member": true,
+      "fractions": [
+        {
+          "partij": "Christen-Democratisch Appèl",
+          "start": "2021-06-01T00:00:00+02:00",
+          "end": "2021-09-14T00:00:00+02:00"
+        },
+        {
+          "partij": "Christen-Democratisch Appèl",
+          "start": "2022-01-18T00:00:00+01:00",
+          "end": null
+        }
+      ]
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Hanneke_H.S._Steen",
@@ -23892,15 +26671,65 @@
     "vinddebeta": true,
     "urls": {
       "partijwebsite": "https://www.cda.nl/mensen/derk-boswijk/",
-      "LinkedIn": "https://www.linkedin.com/in/derk-boswijk-b8279111/"
+      "LinkedIn": "https://www.linkedin.com/in/derk-boswijk-b8279111/",
+      "Website": "https://www.cda.nl/derk-boswijk",
+      "Instagram": "https://instagram.com/derkboswijk",
+      "Facebook": "https://facebook.com/derkboswijk2",
+      "Twitter": "https://twitter.com/derkboswijk"
     },
     "leeftijd": "36",
     "studies": [
       {
         "study": "Bouwtechnische bedrijfskunde etc.",
         "university": "Hogeschool Utrecht"
+      },
+      {
+        "study": "VMBO - GT",
+        "institution": "Driestar College",
+        "start": "2001",
+        "end": "2005"
+      },
+      {
+        "study": "MBO Bouwkunde",
+        "institution": "ROC ASA",
+        "start": "2005",
+        "end": "2009"
+      },
+      {
+        "study": "HBO bouwtechnische bedrijfskunde ",
+        "institution": "Hogeschool van Amsterdam",
+        "start": "2009",
+        "end": "2013"
+      },
+      {
+        "study": "Pre- Master Public Administration",
+        "institution": "Universiteit Leiden",
+        "start": "2013",
+        "end": "2014"
+      },
+      {
+        "study": "Master Urban and Area Development",
+        "institution": "Hogeschool Utrecht & Saxion Hogeschool",
+        "start": "2017",
+        "end": "2019"
+      },
+      {
+        "study": "Initiële opleiding Reserve Officier ",
+        "institution": "Koninklijke Militaire Academie",
+        "start": "2019",
+        "end": "2020"
       }
-    ]
+    ],
+    "tweedekamer": {
+      "member": true,
+      "fractions": [
+        {
+          "partij": "Christen-Democratisch Appèl",
+          "start": "2021-03-31T00:00:00+02:00",
+          "end": null
+        }
+      ]
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Inge_I._Dijk",
@@ -23974,7 +26803,43 @@
         "partij_naam": "CDA"
       }
     },
-    "leeftijd": "50"
+    "leeftijd": "50",
+    "tweedekamer": {
+      "member": true,
+      "fractions": [
+        {
+          "partij": "Christen-Democratisch Appèl",
+          "start": "2021-03-31T00:00:00+02:00",
+          "end": null
+        }
+      ]
+    },
+    "studies": [
+      {
+        "study": "HBO Bedrijfskunde",
+        "institution": "HAS Den Bosch",
+        "start": null,
+        "end": "1999"
+      },
+      {
+        "study": "Post-HBO Bedrijfskunde",
+        "institution": "Fontys Hogeschool ",
+        "start": null,
+        "end": "2004"
+      },
+      {
+        "study": "NLP",
+        "institution": "Instituut voor Eclectische Psychologie",
+        "start": null,
+        "end": "2009"
+      },
+      {
+        "study": "Managementwetenschappen Strategy en Organisation",
+        "institution": "Open Universiteit",
+        "start": null,
+        "end": "2013"
+      }
+    ]
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Harmen_H.M._Krul",
@@ -24075,7 +26940,22 @@
         "partij_naam": "CDA"
       }
     },
-    "leeftijd": "31"
+    "leeftijd": "31",
+    "tweedekamer": {
+      "member": true,
+      "fractions": [
+        {
+          "partij": "Christen-Democratisch Appèl",
+          "start": "2023-02-07T00:00:00+01:00",
+          "end": null
+        }
+      ]
+    },
+    "urls": {
+      "Website": "harmenkrul.nl",
+      "Instagram": "https://instagram.com/Harmenkrul",
+      "Twitter": "https://twitter.com/@harmenkrul"
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Jeltje_J.C.G._Straatman",
@@ -24201,7 +27081,17 @@
         "partij_naam": "CDA"
       }
     },
-    "leeftijd": "46"
+    "leeftijd": "46",
+    "tweedekamer": {
+      "member": true,
+      "fractions": [
+        {
+          "partij": "Christen-Democratisch Appèl",
+          "start": "2023-05-10T00:00:00+02:00",
+          "end": "2023-12-05T00:00:00+01:00"
+        }
+      ]
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Judith_J.G.L.M._Bühler",
@@ -26693,7 +29583,22 @@
         "partij_naam": "SP (Socialistische Partij)"
       }
     },
-    "leeftijd": "39"
+    "leeftijd": "39",
+    "tweedekamer": {
+      "member": true,
+      "fractions": [
+        {
+          "partij": "Socialistische Partij",
+          "start": "2023-04-20T00:00:00+02:00",
+          "end": null
+        }
+      ]
+    },
+    "urls": {
+      "Instagram": "https://instagram.com/jimmydijksp",
+      "Facebook": "https://www.facebook.com/jimmydijk",
+      "Twitter": "https://twitter.com/jimmydijk"
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Sandra_S.M._Beckerman",
@@ -26801,7 +29706,43 @@
       "Instagram": "https://www.instagram.com/sandra_beckerman/?hl=en",
       "Facebook": "https://www.facebook.com/sandra.beckerman.9/",
       "BlueSky": "https://bsky.app/profile/sandrabeckerman.bsky.social"
-    }
+    },
+    "tweedekamer": {
+      "member": true,
+      "fractions": [
+        {
+          "partij": "Socialistische Partij",
+          "start": "2017-03-23T00:00:00+01:00",
+          "end": null
+        }
+      ]
+    },
+    "studies": [
+      {
+        "study": "Basisschool",
+        "institution": "OBS de Klimop",
+        "start": "1987",
+        "end": "1995"
+      },
+      {
+        "study": "Middelbare school",
+        "institution": "Atheneum Rembrandt College",
+        "start": "1995",
+        "end": "2001"
+      },
+      {
+        "study": "Bachelor Archeologie",
+        "institution": "Rijksuniversiteit",
+        "start": "2001",
+        "end": "2004"
+      },
+      {
+        "study": "Research master Art History and Archaeology",
+        "institution": "Rijksuniversiteit",
+        "start": "2004",
+        "end": "2007"
+      }
+    ]
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Sarah_S.E.M._Dobbe",
@@ -26911,7 +29852,17 @@
       "Instagram": "https://www.instagram.com/dobbesarah/?hl=en",
       "Facebook": "https://www.facebook.com/SarahDobbeSP (Socialistische Partij)/"
     },
-    "leeftijd": "46"
+    "leeftijd": "46",
+    "tweedekamer": {
+      "member": true,
+      "fractions": [
+        {
+          "partij": "Socialistische Partij",
+          "start": "2023-12-13T00:00:00+01:00",
+          "end": null
+        }
+      ]
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Bastiaan_B.W.V._Meijer",
@@ -29788,7 +32739,17 @@
         "partij_naam": "SP (Socialistische Partij)"
       }
     },
-    "leeftijd": "87"
+    "leeftijd": "87",
+    "tweedekamer": {
+      "member": true,
+      "fractions": [
+        {
+          "partij": "Socialistische Partij",
+          "start": "2006-11-30T00:00:00+01:00",
+          "end": "2010-06-16T00:00:00+02:00"
+        }
+      ]
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Stephan_S.R.T._Baarle",
@@ -29862,7 +32823,29 @@
         "partij_naam": "DENK"
       }
     },
-    "leeftijd": "34"
+    "leeftijd": "34",
+    "tweedekamer": {
+      "member": true,
+      "fractions": [
+        {
+          "partij": "DENK",
+          "start": "2021-03-31T00:00:00+02:00",
+          "end": "2023-08-02T00:00:00+02:00"
+        },
+        {
+          "partij": "DENK",
+          "start": "2023-08-03T00:00:00+02:00",
+          "end": null
+        }
+      ]
+    },
+    "urls": {
+      "LinkedIn": "https://linkedin.com/in/stephan-van-baarle-a5014763",
+      "Website": "bewegingdenk.nl",
+      "Instagram": "https://instagram.com/stephanvbaarle",
+      "Facebook": "https://facebook.com/StemStephan",
+      "Twitter": "StephanvBaarle"
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Doğukan_D.A._Ergin",
@@ -29963,7 +32946,23 @@
         "partij_naam": "DENK"
       }
     },
-    "leeftijd": "33"
+    "leeftijd": "33",
+    "tweedekamer": {
+      "member": true,
+      "fractions": [
+        {
+          "partij": "DENK",
+          "start": "2023-12-06T00:00:00+01:00",
+          "end": null
+        }
+      ]
+    },
+    "urls": {
+      "LinkedIn": "https://linkedin.com/in/dogukan-ergin-42661338",
+      "Instagram": "https://instagram.com/daergin",
+      "Facebook": "https://facebook.com/dogukan.ergin.90",
+      "Twitter": "https://twitter.com/dknergin"
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Ismail_I._Abassi",
@@ -30010,7 +33009,17 @@
         }
       }
     },
-    "leeftijd": "42"
+    "leeftijd": "42",
+    "tweedekamer": {
+      "member": true,
+      "fractions": [
+        {
+          "partij": "DENK",
+          "start": "2023-12-06T00:00:00+01:00",
+          "end": null
+        }
+      ]
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Elif_E._Esen",
@@ -32934,9 +35943,39 @@
       "Twitter": "https://x.com/estherouwehand?lang=en",
       "Instagram": "https://www.instagram.com/estherouwehandpvdd/?hl=en",
       "Facebook": "https://www.facebook.com/EstherOuwehand.PvdD/",
-      "BlueSky": "https://bsky.app/profile/estherouwehand.bsky.social"
+      "BlueSky": "https://bsky.app/profile/estherouwehand.bsky.social",
+      "Website": "https://www.partijvoordedieren.nl/"
     },
-    "leeftijd": "49"
+    "leeftijd": "49",
+    "tweedekamer": {
+      "member": true,
+      "fractions": [
+        {
+          "partij": "Partij voor de Dieren",
+          "start": "2006-11-30T00:00:00+01:00",
+          "end": "2015-11-16T00:00:00+01:00"
+        },
+        {
+          "partij": "Partij voor de Dieren",
+          "start": "2023-09-26T00:00:00+02:00",
+          "end": null
+        }
+      ]
+    },
+    "studies": [
+      {
+        "study": "VWO",
+        "institution": null,
+        "start": null,
+        "end": null
+      },
+      {
+        "study": "Beleid, Communicatie & Organisatie (niet afgerond)",
+        "institution": "Vrije Universiteit Amsterdam ",
+        "start": null,
+        "end": null
+      }
+    ]
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Ines_I._Kostić",
@@ -33044,9 +36083,20 @@
       "LinkedIn": "https://nl.linkedin.com/in/ines-kosti%C4%87",
       "Twitter": "https://x.com/ineskostic?lang=en",
       "Instagram": "https://www.instagram.com/ineskostic/?hl=en",
-      "BlueSky": "https://bsky.app/profile/ineskostic.bsky.social"
+      "BlueSky": "https://bsky.app/profile/ineskostic.bsky.social",
+      "Facebook": "https://facebook.com/leuk.pour.le.leuk"
     },
-    "leeftijd": "41"
+    "leeftijd": "41",
+    "tweedekamer": {
+      "member": true,
+      "fractions": [
+        {
+          "partij": "Partij voor de Dieren",
+          "start": "2023-12-06T00:00:00+01:00",
+          "end": null
+        }
+      ]
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Christine_C._Teunissen",
@@ -33155,6 +36205,26 @@
       "Instagram": "https://www.instagram.com/christine_teunissen/?hl=en",
       "Facebook": "https://www.facebook.com/TeunissenPvdD/",
       "BlueSky": "https://bsky.app/profile/christinepvdd.bsky.social"
+    },
+    "tweedekamer": {
+      "member": true,
+      "fractions": [
+        {
+          "partij": "Partij voor de Dieren",
+          "start": "2018-10-11T00:00:00+02:00",
+          "end": "2019-01-30T00:00:00+01:00"
+        },
+        {
+          "partij": "Partij voor de Dieren",
+          "start": "2021-03-31T00:00:00+02:00",
+          "end": "2023-02-01T00:00:00+01:00"
+        },
+        {
+          "partij": "Partij voor de Dieren",
+          "start": "2023-02-02T00:00:00+01:00",
+          "end": "2023-10-25T00:00:00+02:00"
+        }
+      ]
     }
   },
   {
@@ -35816,7 +38886,18 @@
     "urls": {
       "partijwebsite": "https://www.partijvoordedieren.nl/personen/eva-van-esch",
       "LinkedIn": "https://nl.linkedin.com/in/eva-van-esch/en",
-      "Instagram": "https://www.instagram.com/evavanesch_pvdd/?hl=en"
+      "Instagram": "https://www.instagram.com/evavanesch_pvdd/?hl=en",
+      "Twitter": "https://twitter.com/EvavanEsch"
+    },
+    "tweedekamer": {
+      "member": true,
+      "fractions": [
+        {
+          "partij": "Partij voor de Dieren",
+          "start": "2019-10-09T00:00:00+02:00",
+          "end": "2023-12-05T00:00:00+01:00"
+        }
+      ]
     }
   },
   {
@@ -35918,7 +38999,39 @@
         "partij_naam": "Partij voor de Dieren"
       }
     },
-    "leeftijd": "59"
+    "leeftijd": "59",
+    "tweedekamer": {
+      "member": true,
+      "fractions": [
+        {
+          "partij": "Partij voor de Dieren",
+          "start": "2015-11-17T00:00:00+01:00",
+          "end": "2016-10-17T00:00:00+02:00"
+        },
+        {
+          "partij": "Partij voor de Dieren",
+          "start": "2017-03-23T00:00:00+01:00",
+          "end": "2023-12-05T00:00:00+01:00"
+        }
+      ]
+    },
+    "urls": {
+      "Twitter": "https://twitter.com/wassenbergfrank"
+    },
+    "studies": [
+      {
+        "study": "Biologie",
+        "institution": "Rijksuniversiteit",
+        "start": null,
+        "end": null
+      },
+      {
+        "study": "Atheneum B",
+        "institution": "Henric van Veldekecollege",
+        "start": null,
+        "end": null
+      }
+    ]
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Ria_M.C.G._Strik",
@@ -36074,7 +39187,8 @@
     "urls": {
       "partijwebsite": "https://fvd.nl/kandidatenlijst",
       "LinkedIn": "https://www.linkedin.com/in/lidewij-de-vos-59279b157/",
-      "Instagram": "https://www.instagram.com/lidewij_devos/"
+      "Instagram": "https://www.instagram.com/lidewij_devos/",
+      "Twitter": "https://twitter.com/lidewij_devos"
     },
     "leeftijd": "28",
     "studies": [
@@ -36082,7 +39196,17 @@
         "study": "Scheikunde",
         "university": "Utrecht University"
       }
-    ]
+    ],
+    "tweedekamer": {
+      "member": true,
+      "fractions": [
+        {
+          "partij": "Forum voor Democratie",
+          "start": "2025-09-04T00:00:00+02:00",
+          "end": null
+        }
+      ]
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Thierry_T.H.P._Baudet",
@@ -36129,7 +39253,23 @@
         }
       }
     },
-    "leeftijd": "42"
+    "leeftijd": "42",
+    "tweedekamer": {
+      "member": true,
+      "fractions": [
+        {
+          "partij": "Forum voor Democratie",
+          "start": "2025-04-02T00:00:00+02:00",
+          "end": null
+        }
+      ]
+    },
+    "urls": {
+      "Website": "https://www.fvd.nl/",
+      "Instagram": "https://instagram.com/thierry-baudet",
+      "Facebook": "https://facebook.com/thierrybaudet83",
+      "Twitter": "https://twitter.com/thierrybaudet"
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Gideon_G.F.C._Meijeren",
@@ -36176,7 +39316,53 @@
         }
       }
     },
-    "leeftijd": "37"
+    "leeftijd": "37",
+    "tweedekamer": {
+      "member": true,
+      "fractions": [
+        {
+          "partij": "Forum voor Democratie",
+          "start": "2021-03-31T00:00:00+02:00",
+          "end": "2025-04-01T00:00:00+02:00"
+        }
+      ]
+    },
+    "urls": {
+      "Instagram": "https://instagram.com/gideonvanmeijeren",
+      "Twitter": "https://twitter.com/GideonvMeijeren"
+    },
+    "studies": [
+      {
+        "study": "HAVO",
+        "institution": "Ulenhof college",
+        "start": "2000",
+        "end": "2006"
+      },
+      {
+        "study": "Propedeuse HBO Rechten",
+        "institution": "Juridische Hogeschool Avans-Fontys",
+        "start": "2006",
+        "end": "2007"
+      },
+      {
+        "study": "Korte officiersopleiding ",
+        "institution": "Koninklijke Militaire Academie ",
+        "start": "2008",
+        "end": "2009"
+      },
+      {
+        "study": "Rechtsgeleerdheid",
+        "institution": "Radboud Universiteit",
+        "start": "2011",
+        "end": "2015"
+      },
+      {
+        "study": "Wetgevingsjurist",
+        "institution": "Academie voor Wetgeving",
+        "start": "2015",
+        "end": "2017"
+      }
+    ]
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Freek_F.J.H._Jansen",
@@ -36223,7 +39409,22 @@
         }
       }
     },
-    "leeftijd": "32"
+    "leeftijd": "32",
+    "tweedekamer": {
+      "member": true,
+      "fractions": [
+        {
+          "partij": "Forum voor Democratie",
+          "start": "2021-03-31T00:00:00+02:00",
+          "end": "2024-01-15T00:00:00+01:00"
+        }
+      ]
+    },
+    "urls": {
+      "Website": "www.fvd.nl",
+      "Instagram": "https://instagram.com/frederikfvd",
+      "Twitter": "https://twitter.com/frederikfvd"
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Ralf_R.J._Dekker",
@@ -36273,7 +39474,10 @@
     "vinddebeta": true,
     "urls": {
       "partijwebsite": "https://fvd.nl/kandidatenlijst",
-      "LinkedIn": "https://www.linkedin.com/in/ralf-dekker-27153a148/"
+      "LinkedIn": "https://www.linkedin.com/in/ralf-dekker-27153a148/",
+      "Instagram": "https://instagram.com/dekkerralf",
+      "Facebook": "https://www.facebook.com/profile.php?id=100003050043367",
+      "Twitter": "https://twitter.com/@ralfdkkr'"
     },
     "leeftijd": "68",
     "studies": [
@@ -36281,7 +39485,17 @@
         "study": "Geologie",
         "university": "Universiteit Leiden"
       }
-    ]
+    ],
+    "tweedekamer": {
+      "member": true,
+      "fractions": [
+        {
+          "partij": "Forum voor Democratie",
+          "start": "2024-11-19T00:00:00+01:00",
+          "end": "2023-03-27T00:00:00+02:00"
+        }
+      ]
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Pepijn_P._Houwelingen",
@@ -36330,15 +39544,67 @@
     },
     "vinddebeta": true,
     "urls": {
-      "partijwebsite": "https://fvd.nl/kandidatenlijst"
+      "partijwebsite": "https://fvd.nl/kandidatenlijst",
+      "Twitter": "https://twitter.com/pvanhouwelingen"
     },
     "leeftijd": "45",
     "studies": [
       {
         "study": "Technische bedrijfskunde",
         "university": "Universiteit Twente"
+      },
+      {
+        "study": "Gymnasium",
+        "institution": "Jacobus College",
+        "start": "1992",
+        "end": "1998"
+      },
+      {
+        "study": "Master of Science Technische Bedrijfskunde",
+        "institution": "Universiteit Twente",
+        "start": "1998",
+        "end": "2002"
+      },
+      {
+        "study": "Master of Science Economie en Management in Pacific Asia",
+        "institution": "Erasmus Universiteit",
+        "start": "2002",
+        "end": "2004"
+      },
+      {
+        "study": "Master of Arts wijsbegeerte van economie ",
+        "institution": "Erasmus Universiteit ",
+        "start": "2002",
+        "end": "2004"
+      },
+      {
+        "study": "Bachelor Japankunde",
+        "institution": "Erasmus Universiteit",
+        "start": "2002",
+        "end": "2004"
+      },
+      {
+        "study": "PhD Social capital in Japan",
+        "institution": "Hiroshima City University",
+        "start": "2005",
+        "end": "2009"
       }
-    ]
+    ],
+    "tweedekamer": {
+      "member": true,
+      "fractions": [
+        {
+          "partij": "Forum voor Democratie",
+          "start": "2021-03-31T00:00:00+02:00",
+          "end": "2023-12-05T00:00:00+01:00"
+        },
+        {
+          "partij": "Forum voor Democratie",
+          "start": "2025-04-01T00:00:00+02:00",
+          "end": "2024-11-18T00:00:00+01:00"
+        }
+      ]
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Peter_P._Duijvenvoorde",
@@ -38175,7 +41441,28 @@
         "partij_naam": "PVV (Partij voor de Vrijheid)"
       }
     },
-    "leeftijd": "56"
+    "leeftijd": "56",
+    "tweedekamer": {
+      "member": true,
+      "fractions": [
+        {
+          "partij": "Partij voor de Vrijheid",
+          "start": "2012-09-20T00:00:00+02:00",
+          "end": "2023-12-05T00:00:00+01:00"
+        }
+      ]
+    },
+    "urls": {
+      "Twitter": "https://twitter.com/graafdemachiel"
+    },
+    "studies": [
+      {
+        "study": "geen opgave",
+        "institution": null,
+        "start": null,
+        "end": null
+      }
+    ]
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Chris_C.T._Meijdam",
@@ -38450,7 +41737,30 @@
         }
       }
     },
-    "leeftijd": "65"
+    "leeftijd": "65",
+    "tweedekamer": {
+      "member": true,
+      "fractions": [
+        {
+          "partij": "Volkspartij voor Vrijheid en Democratie",
+          "start": "2005-08-30T00:00:00+02:00",
+          "end": "2006-09-06T00:00:00+02:00"
+        },
+        {
+          "partij": "Groep Van Schijndel",
+          "start": "2006-09-07T00:00:00+02:00",
+          "end": "2006-09-24T00:00:00+02:00"
+        },
+        {
+          "partij": "Groep Eerdmans-van Schijndel",
+          "start": "2006-09-25T00:00:00+02:00",
+          "end": "2006-11-29T00:00:00+01:00"
+        }
+      ]
+    },
+    "urls": {
+      "Website": "www.antonvanschijndel.nl"
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Leroy_L.Y._Alberts",
@@ -38656,7 +41966,17 @@
         "study": "Civil Engineering",
         "university": "Universiteit Twente"
       }
-    ]
+    ],
+    "tweedekamer": {
+      "member": true,
+      "fractions": [
+        {
+          "partij": "Staatkundig Gereformeerde Partij",
+          "start": "2018-04-11T00:00:00+02:00",
+          "end": null
+        }
+      ]
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Diederik_D.J.H._Dijk",
@@ -38730,7 +42050,25 @@
         "partij_naam": "Staatkundig Gereformeerde Partij (SGP)"
       }
     },
-    "leeftijd": "54"
+    "leeftijd": "54",
+    "tweedekamer": {
+      "member": true,
+      "fractions": [
+        {
+          "partij": "Staatkundig Gereformeerde Partij",
+          "start": "2023-12-06T00:00:00+01:00",
+          "end": null
+        }
+      ]
+    },
+    "studies": [
+      {
+        "study": "Nederlands recht",
+        "institution": "Rijksuniversiteit Utrecht",
+        "start": "1991",
+        "end": "1996"
+      }
+    ]
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/André_A.J._Flach",
@@ -38831,7 +42169,35 @@
         "partij_naam": "Staatkundig Gereformeerde Partij (SGP)"
       }
     },
-    "leeftijd": "49"
+    "leeftijd": "49",
+    "tweedekamer": {
+      "member": true,
+      "fractions": [
+        {
+          "partij": "Staatkundig Gereformeerde Partij",
+          "start": "2023-12-06T00:00:00+01:00",
+          "end": null
+        }
+      ]
+    },
+    "urls": {
+      "LinkedIn": "https://linkedin.com/in/andr%C3%A9-flach-9b410720",
+      "Twitter": "https://twitter.com/ajflach"
+    },
+    "studies": [
+      {
+        "study": "Bestuurskunde: Bestuur en Beleid",
+        "institution": "Universiteit van Utrecht",
+        "start": null,
+        "end": null
+      },
+      {
+        "study": "VWO",
+        "institution": "Guido de Bres scholengemeenschap",
+        "start": null,
+        "end": null
+      }
+    ]
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Nathanaël_P.N._Middelkoop",
@@ -42281,7 +45647,23 @@
         "partij_naam": "ChristenUnie"
       }
     },
-    "leeftijd": "43"
+    "leeftijd": "43",
+    "tweedekamer": {
+      "member": true,
+      "fractions": [
+        {
+          "partij": "ChristenUnie",
+          "start": "2021-03-31T00:00:00+02:00",
+          "end": null
+        }
+      ]
+    },
+    "urls": {
+      "LinkedIn": "https://linkedin.com/in/mirjam-bikker-45936616",
+      "Instagram": "https://instagram.com/MirjamBikkerCU",
+      "Facebook": "https://facebook.com/MirjamBikkerCU",
+      "Twitter": "https://twitter.com/mirjambikker "
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Pieter_P.A._Grinwis",
@@ -42382,7 +45764,41 @@
         "partij_naam": "ChristenUnie"
       }
     },
-    "leeftijd": "46"
+    "leeftijd": "46",
+    "tweedekamer": {
+      "member": true,
+      "fractions": [
+        {
+          "partij": "ChristenUnie",
+          "start": "2021-03-31T00:00:00+02:00",
+          "end": null
+        }
+      ]
+    },
+    "urls": {
+      "Instagram": "https://instagram.com/Pieter_Grinwis",
+      "Twitter": "https://twitter.com/Pieter_Grinwis"
+    },
+    "studies": [
+      {
+        "study": "VWO",
+        "institution": "CSG Prins Maurits",
+        "start": null,
+        "end": null
+      },
+      {
+        "study": "Economie van Landbouw en Milieu (niet voltooid)",
+        "institution": "Wageningen Universiteit",
+        "start": null,
+        "end": null
+      },
+      {
+        "study": "Bestuurskunde: Economie, Bestuur en Management",
+        "institution": "Universiteit Leiden",
+        "start": null,
+        "end": null
+      }
+    ]
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Don_D.G.M._Ceder",
@@ -42483,7 +45899,23 @@
         "partij_naam": "ChristenUnie"
       }
     },
-    "leeftijd": "36"
+    "leeftijd": "36",
+    "tweedekamer": {
+      "member": true,
+      "fractions": [
+        {
+          "partij": "ChristenUnie",
+          "start": "2021-03-31T00:00:00+02:00",
+          "end": null
+        }
+      ]
+    },
+    "urls": {
+      "LinkedIn": "https://linkedin.com/in/dceder",
+      "Instagram": "https://instagram.com/DonCeder",
+      "Facebook": "https://facebook.com/DonCeder",
+      "Twitter": "https://twitter.com/DonCeder"
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Alwin_A.H._Rietstap",
@@ -42743,7 +46175,22 @@
         "partij_naam": "ChristenUnie"
       }
     },
-    "leeftijd": "45"
+    "leeftijd": "45",
+    "tweedekamer": {
+      "member": true,
+      "fractions": [
+        {
+          "partij": "ChristenUnie",
+          "start": "2023-01-25T00:00:00+01:00",
+          "end": "2019-07-15T00:00:00+02:00"
+        }
+      ]
+    },
+    "urls": {
+      "LinkedIn": "https://linkedin.com/in/NicoDrost",
+      "Instagram": "https://instagram.com/nicodrost80",
+      "Twitter": "https://twitter.com/NicoDrost"
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Carlijn_C.C.M._Niesink",
@@ -45265,7 +48712,22 @@
         "partij_naam": "Volt"
       }
     },
-    "leeftijd": "39"
+    "leeftijd": "39",
+    "tweedekamer": {
+      "member": true,
+      "fractions": [
+        {
+          "partij": "Volt",
+          "start": "2021-03-31T00:00:00+02:00",
+          "end": null
+        }
+      ]
+    },
+    "urls": {
+      "LinkedIn": "https://linkedin.com/in/laurensdassen",
+      "Instagram": "https://instagram.com/laurens.dassen",
+      "Facebook": "https://facebook.com/LaurensDassen.Volt"
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Marieke_M._Koekkoek",
@@ -45376,7 +48838,22 @@
       "Facebook": "https://www.facebook.com/people/Marieke-Koekkoek/61572002518843/#",
       "BlueSky": "https://bsky.app/profile/did:plc:b4lumb5k5nzmlhofbs6exe43?ref_src=embed"
     },
-    "leeftijd": "34"
+    "leeftijd": "34",
+    "tweedekamer": {
+      "member": true,
+      "fractions": [
+        {
+          "partij": "Volt",
+          "start": "2021-03-31T00:00:00+02:00",
+          "end": "2023-03-14T00:00:00+01:00"
+        },
+        {
+          "partij": "Volt",
+          "start": "2023-07-05T00:00:00+02:00",
+          "end": null
+        }
+      ]
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Rens_R.W._Boer",
@@ -47673,7 +51150,63 @@
         "partij_naam": "JA21"
       }
     },
-    "leeftijd": "54"
+    "leeftijd": "54",
+    "tweedekamer": {
+      "member": true,
+      "fractions": [
+        {
+          "partij": "Lijst Pim Fortuyn",
+          "start": "2002-05-23T00:00:00+02:00",
+          "end": "2006-09-24T00:00:00+02:00"
+        },
+        {
+          "partij": "Groep Eerdmans-van Schijndel",
+          "start": "2006-09-25T00:00:00+02:00",
+          "end": "2006-11-29T00:00:00+01:00"
+        },
+        {
+          "partij": "JA21",
+          "start": "2021-03-31T00:00:00+02:00",
+          "end": null
+        }
+      ]
+    },
+    "urls": {
+      "Website": "https://joost-eerdmans.nl/",
+      "Twitter": "https://twitter.com/eerdmans"
+    },
+    "studies": [
+      {
+        "study": "VWO",
+        "institution": "Christelijk College Nassau-Veluwe",
+        "start": null,
+        "end": "1989"
+      },
+      {
+        "study": "Public Administration",
+        "institution": "Indiana University",
+        "start": null,
+        "end": "1993"
+      },
+      {
+        "study": "Doctoraal Bestuurskunde",
+        "institution": "Erasmus Universiteit Rotterdam",
+        "start": null,
+        "end": "1995"
+      },
+      {
+        "study": "Postdoctoraal seminar Politierecht",
+        "institution": "Vrije Universiteit",
+        "start": null,
+        "end": "1996"
+      },
+      {
+        "study": "Vaderlandse Geschiedenis",
+        "institution": "Rijksuniversiteit Leiden",
+        "start": null,
+        "end": "2009"
+      }
+    ]
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Annabel_A._Nanninga",
@@ -48073,7 +51606,8 @@
     "vinddebeta": true,
     "urls": {
       "partijwebsite": "https://ja21.nl/onze-mensen",
-      "LinkedIn": "https://www.linkedin.com/in/diederik-boomsma-0494b31"
+      "LinkedIn": "https://www.linkedin.com/in/diederik-boomsma-0494b31",
+      "Twitter": "https://twitter.com/diederikboomsma"
     },
     "leeftijd": "47",
     "studies": [
@@ -48081,7 +51615,17 @@
         "study": "Milieuwetenschappen, Ecologie en Natuurbescherming",
         "university": "University of Durham, University College London"
       }
-    ]
+    ],
+    "tweedekamer": {
+      "member": true,
+      "fractions": [
+        {
+          "partij": "Nieuw Sociaal Contract",
+          "start": "2024-07-04T00:00:00+02:00",
+          "end": "2025-08-19T00:00:00+02:00"
+        }
+      ]
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Daniël_D.J._Berg",
@@ -48229,7 +51773,17 @@
         "partij_naam": "JA21"
       }
     },
-    "leeftijd": "46"
+    "leeftijd": "46",
+    "tweedekamer": {
+      "member": true,
+      "fractions": [
+        {
+          "partij": "JA21",
+          "start": "2022-03-10T00:00:00+01:00",
+          "end": "2022-06-29T00:00:00+02:00"
+        }
+      ]
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Ranjith_D.R.F._Clemminck",
@@ -52069,6 +55623,39 @@
           "adressendichtheid": "3591"
         }
       }
+    },
+    "leeftijd": 58,
+    "tweedekamer": {
+      "member": true,
+      "fractions": [
+        {
+          "partij": "Volkspartij voor Vrijheid en Democratie",
+          "start": "2017-10-31T00:00:00+01:00",
+          "end": "2019-09-23T00:00:00+02:00"
+        },
+        {
+          "partij": "Van Haga",
+          "start": "2019-09-24T00:00:00+02:00",
+          "end": "2020-11-29T00:00:00+01:00"
+        },
+        {
+          "partij": "Forum voor Democratie",
+          "start": "2020-11-30T00:00:00+01:00",
+          "end": "2021-05-12T00:00:00+02:00"
+        },
+        {
+          "partij": "Groep Van Haga",
+          "start": "2021-05-13T00:00:00+02:00",
+          "end": "2023-12-05T00:00:00+01:00"
+        }
+      ]
+    },
+    "urls": {
+      "LinkedIn": "https://linkedin.com/in/wybren-van-haga-a138aa2",
+      "Website": "http://vanhaga.nl/",
+      "Instagram": "https://instagram.com/wybrenvanhaga",
+      "Facebook": "https://facebook.com/vanhaga",
+      "Twitter": "https://twitter.com/wybrenvanhaga"
     }
   },
   {
@@ -52188,7 +55775,36 @@
         "woonplaats": "Voorburg",
         "partij_naam": "PVV (Partij voor de Vrijheid)"
       }
-    }
+    },
+    "leeftijd": 73,
+    "tweedekamer": {
+      "member": true,
+      "fractions": [
+        {
+          "partij": "Partij voor de Vrijheid",
+          "start": "2010-06-17T00:00:00+02:00",
+          "end": "2023-12-05T00:00:00+01:00"
+        }
+      ]
+    },
+    "urls": {
+      "Website": "https://www.pvv.nl/fracties/tweede-kamer/harm-beertema.html",
+      "Twitter": "https://twitter.com/harmbeertema"
+    },
+    "studies": [
+      {
+        "study": "Lerarenopleiding Nederlands en Engels",
+        "institution": null,
+        "start": null,
+        "end": null
+      },
+      {
+        "study": "HBS-A",
+        "institution": null,
+        "start": null,
+        "end": null
+      }
+    ]
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Theo_T.P.M._Schetters",
@@ -54599,6 +58215,20 @@
         "woonplaats": "Hengelo",
         "partij_naam": "PVV (Partij voor de Vrijheid)"
       }
+    },
+    "leeftijd": 42,
+    "tweedekamer": {
+      "member": true,
+      "fractions": [
+        {
+          "partij": "Partij voor de Vrijheid",
+          "start": "2017-03-23T00:00:00+01:00",
+          "end": "2021-03-30T00:00:00+02:00"
+        }
+      ]
+    },
+    "urls": {
+      "Twitter": "https://twitter.com/rvanaalst"
     }
   },
   {
@@ -54673,7 +58303,20 @@
         "partij_naam": "GROENLINKS"
       }
     },
-    "leeftijd": "44"
+    "leeftijd": "44",
+    "tweedekamer": {
+      "member": true,
+      "fractions": [
+        {
+          "partij": "GroenLinks",
+          "start": "2006-11-30T00:00:00+01:00",
+          "end": "2012-09-19T00:00:00+02:00"
+        }
+      ]
+    },
+    "urls": {
+      "Website": "www.tofikdibi.nl"
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Naomi_N._Tuininga",
@@ -57018,6 +60661,22 @@
           "adressendichtheid": "1081"
         }
       }
+    },
+    "leeftijd": 67,
+    "eerstekamer": {
+      "member": true,
+      "fractions": [
+        {
+          "partij": "50PLUS",
+          "start": "2013-10-29T00:00:00+01:00",
+          "end": "2014-05-28T00:00:00+02:00"
+        },
+        {
+          "partij": "50PLUS-Baay-Timmerman",
+          "start": "2014-06-03T00:00:00+02:00",
+          "end": "2014-09-09T00:00:00+02:00"
+        }
+      ]
     }
   },
   {
@@ -59509,6 +63168,22 @@
           "adressendichtheid": "4994"
         }
       }
+    },
+    "leeftijd": 76,
+    "tweedekamer": {
+      "member": true,
+      "fractions": [
+        {
+          "partij": "Partij van de Arbeid",
+          "start": "1986-09-02T00:00:00+02:00",
+          "end": "1994-05-16T00:00:00+02:00"
+        },
+        {
+          "partij": "50PLUS",
+          "start": "2019-06-11T00:00:00+02:00",
+          "end": "2021-03-30T00:00:00+02:00"
+        }
+      ]
     }
   },
   {
@@ -59626,7 +63301,37 @@
           "adressendichtheid": "1770"
         }
       }
-    }
+    },
+    "leeftijd": 83,
+    "eerstekamer": {
+      "member": true,
+      "fractions": [
+        {
+          "partij": "Christen-Democratisch Appèl",
+          "start": "1977-11-01T00:00:00+01:00",
+          "end": "1980-08-20T00:00:00+02:00"
+        },
+        {
+          "partij": "50PLUS",
+          "start": "2017-03-23T00:00:00+01:00",
+          "end": "2019-06-10T00:00:00+02:00"
+        }
+      ]
+    },
+    "studies": [
+      {
+        "study": "Rijksbelastingacademie",
+        "institution": null,
+        "start": "1964",
+        "end": "1964"
+      },
+      {
+        "study": "Doctoraal examen Bedrijfseconomie (fiscaal-economische studierichting)",
+        "institution": "Nederlandse Economische Hogeschool",
+        "start": "1967",
+        "end": "1967"
+      }
+    ]
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Matthijs_M.A._Pontier",
@@ -61810,6 +65515,17 @@
           "adressendichtheid": "463"
         }
       }
+    },
+    "leeftijd": 36,
+    "tweedekamer": {
+      "member": true,
+      "fractions": [
+        {
+          "partij": "Nieuw Sociaal Contract",
+          "start": "2023-12-06T00:00:00+01:00",
+          "end": "2025-07-25T00:00:00+02:00"
+        }
+      ]
     }
   },
   {
@@ -63693,6 +67409,22 @@
           "adressendichtheid": "1092"
         }
       }
+    },
+    "leeftijd": 68,
+    "tweedekamer": {
+      "member": true,
+      "fractions": [
+        {
+          "partij": "Partij van de Arbeid",
+          "start": "2016-03-01T00:00:00+01:00",
+          "end": "2016-01-11T00:00:00+01:00"
+        },
+        {
+          "partij": "Partij van de Arbeid",
+          "start": "2016-07-06T00:00:00+02:00",
+          "end": "2017-03-22T00:00:00+01:00"
+        }
+      ]
     }
   },
   {
@@ -63918,6 +67650,33 @@
         "woonplaats": "'s-Gravenhage",
         "partij_naam": "PVV (Partij voor de Vrijheid)"
       }
+    },
+    "leeftijd": 62,
+    "tweedekamer": {
+      "member": true,
+      "fractions": [
+        {
+          "partij": "Volkspartij voor Vrijheid en Democratie",
+          "start": "2002-07-26T00:00:00+02:00",
+          "end": "2002-05-22T00:00:00+02:00"
+        },
+        {
+          "partij": "Groep Wilders",
+          "start": "2004-09-02T00:00:00+02:00",
+          "end": "2006-11-29T00:00:00+01:00"
+        },
+        {
+          "partij": "Partij voor de Vrijheid",
+          "start": "2006-11-30T00:00:00+01:00",
+          "end": null
+        }
+      ]
+    },
+    "urls": {
+      "Website": "https://geertwilders.nl/",
+      "Instagram": "https://instagram.com/geertwilders",
+      "Facebook": "https://facebook.com/geertwilders",
+      "Twitter": "https://twitter.com/geertwilderspvv"
     }
   },
   {
@@ -67541,6 +71300,16 @@
         }
       }
     },
-    "leeftijd": "39"
+    "leeftijd": "39",
+    "tweedekamer": {
+      "member": true,
+      "fractions": [
+        {
+          "partij": "Christen-Democratisch Appèl",
+          "start": "2005-07-27T00:00:00+02:00",
+          "end": "2010-06-16T00:00:00+02:00"
+        }
+      ]
+    }
   }
 ]
