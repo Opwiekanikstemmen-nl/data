@@ -517,7 +517,7 @@
     "studies": [
       {
         "study": "Technische Bedrijfskunde",
-        "university": "Technische Universiteit Eindhoven"
+        "institute": "Technische Universiteit Eindhoven"
       },
       {
         "study": "Atheneum-b",
@@ -3550,17 +3550,17 @@
         "partij_naam": "PVV (Partij voor de Vrijheid)"
       }
     },
-    "nerdvote": true,
-    "urls": {
-      "nerdvote.nl": "https://nerdvote.nl/#:~:text=Jan%20Valize",
-      "partijwebsite": "https://www.pvv.nl/tweede-kamerfractie.html#:~:text=Jan%20Valize",
-      "LinkedIn": "https://www.linkedin.com/in/jan-valize-a4a07977/"
-    },
     "vinddebeta": true,
+    "urls": {
+      "partijwebsite": "https://www.pvv.nl/tweede-kamerfractie.html#:~:text=Jan%20Valize",
+      "LinkedIn": "https://www.linkedin.com/in/jan-valize-a4a07977/",
+      "nerdvote.nl": "https://nerdvote.nl/#:~:text=Jan%20Valize"
+    },
+    "nerdvote": true,
     "studies": [
       {
         "study": "Bedrijfskundige informatica en logistiek en technische vervoerskunde",
-        "university": "Fontys Hogeschool Venlo"
+        "institute": "Fontys Hogeschool Venlo"
       },
       {
         "study": "MAVO",
@@ -3685,7 +3685,7 @@
     "studies": [
       {
         "study": "Werktuigbouwkunde",
-        "university": "Technische Hogeschool Delft"
+        "institute": "Technische Hogeschool Delft"
       }
     ],
     "leeftijd": 71,
@@ -3825,7 +3825,7 @@
     "studies": [
       {
         "study": "Theoretische scheikunde",
-        "university": "Universiteit Utrecht"
+        "institute": "Universiteit Utrecht"
       }
     ],
     "leeftijd": 81,
@@ -6036,7 +6036,6 @@
         "partij_naam": "GROENLINKS / Partij van de Arbeid (PvdA)"
       }
     },
-    "leeftijd": "45",
     "urls": {
       "partijwebsite": "https://groenlinkspvda.nl/onze-mensen/tweede-kamer/esmah-lahlah/",
       "LinkedIn": "https://nl.linkedin.com/in/esmah-lahlah-2b136212",
@@ -6045,6 +6044,7 @@
       "BlueSky": "https://bsky.app/profile/esmahlahlah.bsky.social",
       "Facebook": "https://facebook.com/esmah.lahlah"
     },
+    "leeftijd": "45",
     "tweedekamer": {
       "member": true,
       "fractions": [
@@ -6297,7 +6297,6 @@
         "partij_naam": "Partij van de Arbeid (P.v.d.A.)"
       }
     },
-    "leeftijd": "46",
     "urls": {
       "partijwebsite": "https://groenlinkspvda.nl/onze-mensen/tweede-kamer/kati-piri/",
       "LinkedIn": "https://nl.linkedin.com/in/kati-piri-4ab3a02",
@@ -6306,6 +6305,7 @@
       "Facebook": "https://www.facebook.com/KatiPiriMEP/",
       "BlueSky": "https://bsky.app/profile/katipiri.bsky.social"
     },
+    "leeftijd": "46",
     "tweedekamer": {
       "member": true,
       "fractions": [
@@ -6441,18 +6441,18 @@
         "partij_naam": "GROENLINKS"
       }
     },
-    "rainbowvote": true,
     "urls": {
-      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamerverkiezingen-2025/partijen-2025/groenlinks-pvda/lisa-westerveld/",
       "partijwebsite": "https://groenlinkspvda.nl/onze-mensen/tweede-kamer/lisa-westerveld/",
       "LinkedIn": "https://nl.linkedin.com/in/lisawesterveld",
       "Twitter": "https://x.com/lisawesterveld",
       "Instagram": "https://www.instagram.com/lisa_westerveld/",
       "Facebook": "https://www.facebook.com/LisaWesterveldGroenLinks/",
       "BlueSky": "https://bsky.app/profile/lisawesterveld.bsky.social",
+      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamerverkiezingen-2025/partijen-2025/groenlinks-pvda/lisa-westerveld/",
       "Website": "groenlinkspvda.nl/kandidaat/lisa.westerveld"
     },
     "leeftijd": "43",
+    "rainbowvote": true,
     "tweedekamer": {
       "member": true,
       "fractions": [
@@ -6550,7 +6550,6 @@
         "partij_naam": "GROENLINKS / Partij van de Arbeid (PvdA)"
       }
     },
-    "leeftijd": "51",
     "urls": {
       "partijwebsite": "https://groenlinkspvda.nl/onze-mensen/kandidaten-tk25/marjolein-moorman/",
       "LinkedIn": "https://nl.linkedin.com/in/marjoleinmoorman",
@@ -6558,7 +6557,8 @@
       "Instagram": "https://www.instagram.com/marjolein_moorman/?hl=en",
       "Facebook": "https://www.facebook.com/marjoleinpvda/",
       "BlueSky": "https://bsky.app/profile/marjoleinmoorman.bsky.social"
-    }
+    },
+    "leeftijd": "51"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Luc_L.C.J._Stultiens",
@@ -6642,7 +6642,7 @@
     "studies": [
       {
         "study": "Mathematics & Foundations of Computer Science",
-        "university": "University of Oxford"
+        "institute": "University of Oxford"
       },
       {
         "study": "MSc. Applicable Mathematics (with Distinction)",
@@ -6874,7 +6874,6 @@
         "partij_naam": "GROENLINKS"
       }
     },
-    "leeftijd": "55",
     "urls": {
       "partijwebsite": "https://groenlinkspvda.nl/onze-mensen/tweede-kamer/laura-bromet/",
       "LinkedIn": "https://nl.linkedin.com/in/laura-bromet-b980aaa",
@@ -6883,6 +6882,7 @@
       "BlueSky": "https://bsky.app/profile/laurabromet.bsky.social",
       "Website": "https://groenlinkspvda.nl/kandidaat/laura-bromet/"
     },
+    "leeftijd": "55",
     "tweedekamer": {
       "member": true,
       "fractions": [
@@ -6976,14 +6976,14 @@
         }
       }
     },
-    "leeftijd": "32",
     "urls": {
       "partijwebsite": "https://groenlinkspvda.nl/onze-mensen/kandidaten-tk25/sjoukje-van-oosterhout/",
       "LinkedIn": "https://www.linkedin.com/in/sjoukjevanoosterhout/",
       "Twitter": "https://x.com/annasjoukjevo?lang=en",
       "Instagram": "https://www.instagram.com/sjoukjevanoosterhout/?hl=en",
       "BlueSky": "https://bsky.app/profile/svanoosterhout.bsky.social"
-    }
+    },
+    "leeftijd": "32"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Julian_T.J._Bushoff",
@@ -7206,7 +7206,6 @@
         "partij_naam": "GROENLINKS"
       }
     },
-    "leeftijd": "49",
     "urls": {
       "partijwebsite": "https://groenlinkspvda.nl/onze-mensen/tweede-kamer/suzanne-kroger/",
       "LinkedIn": "https://nl.linkedin.com/in/suzannekroger",
@@ -7215,6 +7214,7 @@
       "Facebook": "https://www.facebook.com/suzannegroenlinks/",
       "BlueSky": "https://bsky.app/profile/suzannekroger.bsky.social"
     },
+    "leeftijd": "49",
     "tweedekamer": {
       "member": true,
       "fractions": [
@@ -7431,7 +7431,6 @@
         "partij_naam": "GROENLINKS / Partij van de Arbeid (PvdA)"
       }
     },
-    "leeftijd": "58",
     "urls": {
       "partijwebsite": "https://groenlinkspvda.nl/onze-mensen/tweede-kamer/mariette-patijn/",
       "LinkedIn": "https://www.linkedin.com/in/mariettepatijn/?originalSubdomain=nl",
@@ -7439,6 +7438,7 @@
       "Instagram": "https://www.instagram.com/mariettepatijn/?hl=en",
       "BlueSky": "https://bsky.app/profile/patijn.bsky.social"
     },
+    "leeftijd": "58",
     "tweedekamer": {
       "member": true,
       "fractions": [
@@ -7495,12 +7495,12 @@
         }
       }
     },
-    "leeftijd": "31",
     "urls": {
       "partijwebsite": "https://groenlinkspvda.nl/onze-mensen/kandidaten-tk25/ani-zalinyan/",
       "LinkedIn": "https://nl.linkedin.com/in/anizalinyan",
       "Instagram": "https://www.instagram.com/ani.zalinyan/?hl=en"
-    }
+    },
+    "leeftijd": "31"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Tom_T.M.T._Lee",
@@ -7715,16 +7715,16 @@
         "partij_naam": "Partij van de Arbeid (P.v.d.A.)"
       }
     },
-    "rainbowvote": true,
     "urls": {
-      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamerverkiezingen-2025/partijen-2025/groenlinks-pvda/songul-mutluer/",
       "partijwebsite": "https://groenlinkspvda.nl/onze-mensen/tweede-kamer/songul-mutluer/",
       "LinkedIn": "https://nl.linkedin.com/in/song%C3%BCl-mutluer-221119b",
       "Twitter": "https://x.com/songulmutluer?lang=en",
       "Instagram": "https://www.instagram.com/songulmutluer/?hl=en",
-      "BlueSky": "https://bsky.app/profile/jadevdlinden.bsky.social"
+      "BlueSky": "https://bsky.app/profile/jadevdlinden.bsky.social",
+      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamerverkiezingen-2025/partijen-2025/groenlinks-pvda/songul-mutluer/"
     },
     "leeftijd": "45",
+    "rainbowvote": true,
     "tweedekamer": {
       "member": true,
       "fractions": [
@@ -7913,21 +7913,21 @@
         "partij_naam": "GROENLINKS"
       }
     },
-    "rainbowvote": true,
+    "vinddebeta": true,
     "urls": {
-      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamerverkiezingen-2025/partijen-2025/groenlinks-pvda/geert-gabriels/",
       "partijwebsite": "https://groenlinkspvda.nl/onze-mensen/kandidaten-tk25/geert-gabriels-2/",
       "LinkedIn": "https://www.linkedin.com/in/geert-gabri%C3%ABls-364780335/",
+      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamerverkiezingen-2025/partijen-2025/groenlinks-pvda/geert-gabriels/",
       "Instagram": "https://instagram.com/gabrielsgeert",
       "Facebook": "https://facebook.com/geert.gabriels.5",
       "Twitter": "https://twitter.com/geert_gabriels"
     },
-    "vinddebeta": true,
     "leeftijd": "45",
+    "rainbowvote": true,
     "studies": [
       {
         "study": "Aardwetenschappen",
-        "university": "Universiteit Utrecht"
+        "institute": "Universiteit Utrecht"
       },
       {
         "study": "Gymnasium",
@@ -8131,18 +8131,18 @@
         }
       }
     },
-    "vinddebeta": true,
     "urls": {
       "partijwebsite": "https://groenlinkspvda.nl/onze-mensen/kandidaten-tk25/jade-van-der-linden/",
-      "LinkedIn": "https://www.linkedin.com/in/jade-van-der-linden/",
-      "Instagram": "https://www.instagram.com/jade.vd.linden/",
+      "LinkedIn": "https://nl.linkedin.com/in/jade-van-der-linden",
+      "Instagram": "https://www.instagram.com/jade.vd.linden/?hl=en",
       "BlueSky": "https://bsky.app/profile/jadevdlinden.bsky.social"
     },
+    "vinddebeta": true,
     "leeftijd": "28",
     "studies": [
       {
         "study": "Technische Bedrijfskunde",
-        "university": "TU Eindhoven"
+        "institute": "TU Eindhoven"
       }
     ]
   },
@@ -8200,7 +8200,7 @@
     "studies": [
       {
         "study": "Sterrenkunde",
-        "university": "Universiteit Leiden"
+        "institute": "Universiteit Leiden"
       }
     ]
   },
@@ -8276,7 +8276,6 @@
         "partij_naam": "GROENLINKS"
       }
     },
-    "leeftijd": "57",
     "urls": {
       "partijwebsite": "https://groenlinkspvda.nl/onze-mensen/tweede-kamer/danielle-hirsch/",
       "LinkedIn": "https://nl.linkedin.com/in/danielle-h-hirsch",
@@ -8286,6 +8285,7 @@
       "BlueSky": "https://bsky.app/profile/daniellehirsch.bsky.social",
       "Website": "https://groenlinks.nl/kandidatenlijst/danielle-hirsch"
     },
+    "leeftijd": "57",
     "tweedekamer": {
       "member": true,
       "fractions": [
@@ -8369,13 +8369,13 @@
         "partij_naam": "Partij van de Arbeid (P.v.d.A.)"
       }
     },
-    "leeftijd": "34",
     "urls": {
       "partijwebsite": "https://groenlinkspvda.nl/onze-mensen/kandidaten-tk25/fatihya-abdi/",
       "LinkedIn": "https://nl.linkedin.com/in/fatihyaabdi",
       "Instagram": "https://www.instagram.com/fatihya_abdi/?hl=en",
       "BlueSky": "https://bsky.app/profile/fatihyaabdi.bsky.social"
-    }
+    },
+    "leeftijd": "34"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Mikal_M._Tseggai",
@@ -8476,15 +8476,15 @@
         "partij_naam": "Partij van de Arbeid (P.v.d.A.)"
       }
     },
-    "leeftijd": "30",
     "urls": {
       "partijwebsite": "https://groenlinkspvda.nl/onze-mensen/tweede-kamer/mikal-tseggai/",
-      "LinkedIn": "https://www.linkedin.com/in/mikaltseggai/",
-      "Instagram": "https://www.instagram.com/mikaltseggai/",
+      "LinkedIn": "https://nl.linkedin.com/in/mikaltseggai",
       "Twitter": "https://x.com/mikaltseggai?lang=en",
+      "Instagram": "https://www.instagram.com/mikaltseggai/?hl=en",
       "Facebook": "https://www.facebook.com/MikalTseggai/",
       "BlueSky": "https://bsky.app/profile/mikaltseggai.bsky.social"
     },
+    "leeftijd": "30",
     "tweedekamer": {
       "member": true,
       "fractions": [
@@ -8594,7 +8594,6 @@
         "partij_naam": "GROENLINKS / Partij van de Arbeid (PvdA)"
       }
     },
-    "leeftijd": "50",
     "urls": {
       "partijwebsite": "https://groenlinkspvda.nl/onze-mensen/tweede-kamer/anita-pijpelink/",
       "LinkedIn": "https://nl.linkedin.com/in/anita-pijpelink-b3544415",
@@ -8603,6 +8602,7 @@
       "Facebook": "https://www.facebook.com/p/Anita-Pijpelink-61552649270541/",
       "BlueSky": "https://bsky.app/profile/anitapijpelink.bsky.social/post/3lihz3sfh2s2e"
     },
+    "leeftijd": "50",
     "tweedekamer": {
       "member": true,
       "fractions": [
@@ -8679,14 +8679,14 @@
         }
       }
     },
-    "rainbowvote": true,
     "urls": {
-      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamerverkiezingen-2025/partijen-2025/groenlinks-pvda/lisa-vliegenthart/",
       "partijwebsite": "https://groenlinkspvda.nl/onze-mensen/kandidaten-tk25/lisa-vliegenthart/",
       "LinkedIn": "https://nl.linkedin.com/in/lisa-vliegenthart-03b6659a",
-      "Instagram": "https://www.instagram.com/lisavliegenthart/"
+      "Instagram": "https://www.instagram.com/lisavliegenthart/",
+      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamerverkiezingen-2025/partijen-2025/groenlinks-pvda/lisa-vliegenthart/"
     },
-    "leeftijd": "31"
+    "leeftijd": "31",
+    "rainbowvote": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Marco_M.J.W._Esser",
@@ -8807,7 +8807,6 @@
         "partij_naam": "GROENLINKS / Partij van de Arbeid (PvdA)"
       }
     },
-    "leeftijd": "45",
     "urls": {
       "partijwebsite": "https://groenlinkspvda.nl/onze-mensen/kandidaten-tk25/marleen-haage-2/",
       "LinkedIn": "https://nl.linkedin.com/in/marleenhaage",
@@ -8816,6 +8815,7 @@
       "BlueSky": "https://bsky.app/profile/metmarleen.bsky.social",
       "Facebook": "https://www.facebook.com/marleenhaage"
     },
+    "leeftijd": "45",
     "tweedekamer": {
       "member": true,
       "fractions": [
@@ -9015,14 +9015,14 @@
         "partij_naam": "Partij van de Arbeid (P.v.d.A.)"
       }
     },
-    "leeftijd": "26",
     "urls": {
       "partijwebsite": "https://groenlinkspvda.nl/onze-mensen/kandidaten-tk25/iris-vrolijks/",
-      "LinkedIn": "https://www.linkedin.com/in/iris-vrolijks-a96522128/",
-      "Instagram": "https://www.instagram.com/irisvrolijks/",
+      "LinkedIn": "https://nl.linkedin.com/in/iris-vrolijks-a96522128",
       "Twitter": "https://x.com/ivrolijks?lang=en",
+      "Instagram": "https://www.instagram.com/irisvrolijks/?hl=en",
       "Facebook": "https://www.facebook.com/iris.vrolijks/"
-    }
+    },
+    "leeftijd": "26"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Barbara_B.C._Kathmann",
@@ -9123,17 +9123,17 @@
         "partij_naam": "Partij van de Arbeid (P.v.d.A.)"
       }
     },
-    "nerdvote": true,
     "urls": {
-      "nerdvote.nl": "https://nerdvote.nl/#:~:text=Barbara%20Kathmann",
       "partijwebsite": "https://groenlinkspvda.nl/onze-mensen/tweede-kamer/barbara-kathmann/",
       "LinkedIn": "https://nl.linkedin.com/in/barbara-kathmann-3a825738",
       "Instagram": "https://www.instagram.com/barbarakathmann/?hl=en",
       "Facebook": "https://www.facebook.com/KathmannBarbara/",
       "BlueSky": "https://bsky.app/profile/did:plc:hu4k2wttrtyfyy2ylq4xqlcr",
+      "nerdvote.nl": "https://nerdvote.nl/#:~:text=Barbara%20Kathmann",
       "Twitter": "https://twitter.com/barbarakathmann"
     },
     "leeftijd": "47",
+    "nerdvote": true,
     "tweedekamer": {
       "member": true,
       "fractions": [
@@ -9242,11 +9242,11 @@
         "partij_naam": "GROENLINKS / Partij van de Arbeid (PvdA)"
       }
     },
+    "leeftijd": "31",
     "rainbowvote": true,
     "urls": {
       "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamerverkiezingen-2025/partijen-2025/groenlinks-pvda/lyle-muns/"
-    },
-    "leeftijd": "31"
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Hayte_H.A._Jong",
@@ -9394,16 +9394,16 @@
         "partij_naam": "GROENLINKS"
       }
     },
-    "rainbowvote": true,
     "urls": {
-      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamerverkiezingen-2025/partijen-2025/groenlinks-pvda/glimina-chakor/",
       "partijwebsite": "https://groenlinkspvda.nl/onze-mensen/tweede-kamer/glimina-chakor/",
       "LinkedIn": "https://nl.linkedin.com/in/glimina-chakor-41004a5a",
       "Twitter": "https://x.com/gliminachakor?lang=en",
       "Instagram": "https://www.instagram.com/glimina_/?hl=en",
-      "BlueSky": "https://bsky.app/profile/gliminachakor.bsky.social"
+      "BlueSky": "https://bsky.app/profile/gliminachakor.bsky.social",
+      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamerverkiezingen-2025/partijen-2025/groenlinks-pvda/glimina-chakor/"
     },
     "leeftijd": "49",
+    "rainbowvote": true,
     "tweedekamer": {
       "member": true,
       "fractions": [
@@ -9554,13 +9554,13 @@
         }
       }
     },
-    "leeftijd": "31",
     "urls": {
       "partijwebsite": "https://groenlinkspvda.nl/onze-mensen/kandidaten-tk25/annerijn-vink/",
       "LinkedIn": "https://nl.linkedin.com/in/annerijn-vink",
       "Instagram": "https://www.instagram.com/annerijnvink",
       "BlueSky": "https://bsky.app/profile/annerijn.bsky.social"
-    }
+    },
+    "leeftijd": "31"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Dennis_D.P.A._Tak",
@@ -9654,12 +9654,12 @@
         }
       }
     },
-    "leeftijd": "22",
     "urls": {
       "partijwebsite": "https://groenlinkspvda.nl/onze-mensen/kandidaten-tk25/shadi-nikshomar/",
-      "LinkedIn": "https://www.linkedin.com/in/shadi-nikshomar-1029b2210/",
+      "LinkedIn": "https://nl.linkedin.com/in/shadi-nikshomar-1029b2210",
       "Instagram": "https://www.instagram.com/shadinikshomar/"
-    }
+    },
+    "leeftijd": "22"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Imran_I.F._Hyder",
@@ -9780,17 +9780,17 @@
         }
       }
     },
-    "vinddebeta": true,
     "urls": {
       "partijwebsite": "https://groenlinkspvda.nl/onze-mensen/kandidaten-tk25/lara-sibbing/",
-      "LinkedIn": "https://www.linkedin.com/in/larasibbing/details/education/",
+      "LinkedIn": "https://nl.linkedin.com/in/larasibbing/en",
       "Instagram": "https://www.instagram.com/larasibbing/"
     },
+    "vinddebeta": true,
     "leeftijd": "34",
     "studies": [
       {
         "study": "Sustainable food & agriculture",
-        "university": "Universiteit Wageningen"
+        "institute": "Universiteit Wageningen"
       }
     ]
   },
@@ -9839,12 +9839,12 @@
         }
       }
     },
-    "leeftijd": "41",
     "urls": {
       "partijwebsite": "https://groenlinkspvda.nl/onze-mensen/kandidaten-tk25/naomi-woltring/",
       "LinkedIn": "https://nl.linkedin.com/in/naomiwoltring",
       "Facebook": "https://www.facebook.com/naomi.woltring/"
-    }
+    },
+    "leeftijd": "41"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Daan_D._Olivier",
@@ -9891,11 +9891,11 @@
         }
       }
     },
+    "leeftijd": "32",
     "rainbowvote": true,
     "urls": {
       "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamerverkiezingen-2025/partijen-2025/groenlinks-pvda/daan-olivier/"
-    },
-    "leeftijd": "32"
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Tim_T.A._Kroon",
@@ -9989,12 +9989,12 @@
         }
       }
     },
-    "leeftijd": "60",
     "urls": {
       "partijwebsite": "https://groenlinkspvda.nl/onze-mensen/kandidaten-tk25/margreet-de-boer/",
       "LinkedIn": "https://nl.linkedin.com/in/margreet-de-boer",
       "BlueSky": "https://bsky.app/profile/margreetdeboer.bsky.social"
     },
+    "leeftijd": "60",
     "eerstekamer": {
       "member": true,
       "fractions": []
@@ -10092,12 +10092,12 @@
         }
       }
     },
-    "leeftijd": "51",
     "urls": {
       "partijwebsite": "https://groenlinkspvda.nl/onze-mensen/kandidaten-tk25/tanja-de-jonge/",
       "LinkedIn": "https://nl.linkedin.com/in/tdejonge",
       "BlueSky": "https://bsky.app/profile/tanjadejonge.bsky.social"
-    }
+    },
+    "leeftijd": "51"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Ruchama_R.I._Bwefar",
@@ -10144,13 +10144,13 @@
         }
       }
     },
-    "rainbowvote": true,
     "urls": {
-      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamerverkiezingen-2025/partijen-2025/groenlinks-pvda/ruchama-bwefar/",
       "partijwebsite": "https://groenlinkspvda.nl/onze-mensen/kandidaten-tk25/ruchama-bwefar/",
-      "LinkedIn": "https://nl.linkedin.com/in/ruchamaimana"
+      "LinkedIn": "https://nl.linkedin.com/in/ruchamaimana",
+      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamerverkiezingen-2025/partijen-2025/groenlinks-pvda/ruchama-bwefar/"
     },
-    "leeftijd": "45"
+    "leeftijd": "45",
+    "rainbowvote": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Lotte_L.B._Jeursen",
@@ -10197,11 +10197,11 @@
         }
       }
     },
-    "leeftijd": "36",
     "urls": {
       "partijwebsite": "https://groenlinkspvda.nl/onze-mensen/kandidaten-tk25/lotte-jeursen/",
       "LinkedIn": "https://nl.linkedin.com/in/lotte-jeursen-6510b366"
-    }
+    },
+    "leeftijd": "36"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Jan_J.W.B._Daenen",
@@ -10285,7 +10285,7 @@
     "studies": [
       {
         "study": "Econometrics & Data Science",
-        "university": "Vrije Universiteit Amsterdam"
+        "institute": "Vrije Universiteit Amsterdam"
       }
     ]
   },
@@ -10334,11 +10334,11 @@
         }
       }
     },
-    "leeftijd": "67",
     "urls": {
       "partijwebsite": "https://groenlinkspvda.nl/onze-mensen/kandidaten-tk25/fenna-bolding/",
       "LinkedIn": "https://nl.linkedin.com/in/fenna-bolding-3b5ab42a"
-    }
+    },
+    "leeftijd": "67"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Tamim_T._Mehdi",
@@ -10437,14 +10437,14 @@
         }
       }
     },
-    "leeftijd": "39",
     "urls": {
       "partijwebsite": "https://groenlinkspvda.nl/onze-mensen/kandidaten-tk25/palwasha-hamzad/",
       "LinkedIn": "https://nl.linkedin.com/in/palwasha-hamzad-8b61a07a",
       "Instagram": "https://www.instagram.com/palwashahamzad?igsh=bXB3YnBrZGV2dWYx",
       "Facebook": "https://www.facebook.com/palwashahamzad/",
       "BlueSky": "https://bsky.app/profile/palwashahamzad.bsky.social"
-    }
+    },
+    "leeftijd": "39"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Giovanni_G._Visser",
@@ -10491,14 +10491,14 @@
         }
       }
     },
-    "rainbowvote": true,
+    "leeftijd": "27",
     "urls": {
-      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamerverkiezingen-2025/partijen-2025/groenlinks-pvda/giovanni-visser/",
       "partijwebsite": "https://groenlinkspvda.nl/onze-mensen/kandidaten-tk25/giovanni-visser/",
       "LinkedIn": "https://www.linkedin.com/in/giovannivisser/",
-      "Instagram": "https://www.instagram.com/giovanni_visser/"
+      "Instagram": "https://www.instagram.com/giovanni_visser/",
+      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamerverkiezingen-2025/partijen-2025/groenlinks-pvda/giovanni-visser/"
     },
-    "leeftijd": "27"
+    "rainbowvote": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Margriet_J.M._Schreuders",
@@ -10545,11 +10545,11 @@
         }
       }
     },
-    "leeftijd": "46",
     "urls": {
       "partijwebsite": "https://groenlinkspvda.nl/onze-mensen/kandidaten-tk25/margriet-schreuders/",
       "LinkedIn": "https://nl.linkedin.com/in/margriet-schreuders-b5467ab"
-    }
+    },
+    "leeftijd": "46"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Milan_M._Bijl",
@@ -10695,14 +10695,14 @@
         }
       }
     },
-    "rainbowvote": true,
+    "leeftijd": "30",
     "urls": {
-      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamerverkiezingen-2025/partijen-2025/groenlinks-pvda/ties-ammerlaan/",
       "partijwebsite": "https://groenlinkspvda.nl/onze-mensen/kandidaten-tk25/ties-ammerlaan/",
       "LinkedIn": "https://www.linkedin.com/in/ties-ammerlaan/",
-      "Instagram": "https://www.instagram.com/tiesammerlaan/"
+      "Instagram": "https://www.instagram.com/tiesammerlaan/",
+      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamerverkiezingen-2025/partijen-2025/groenlinks-pvda/ties-ammerlaan/"
     },
-    "leeftijd": "30"
+    "rainbowvote": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Willemijn_W.S._Punte-Zwart",
@@ -10749,15 +10749,15 @@
         }
       }
     },
-    "rainbowvote": true,
     "urls": {
-      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamerverkiezingen-2025/partijen-2025/groenlinks-pvda/willemijn-punte-zwart/",
       "partijwebsite": "https://groenlinkspvda.nl/onze-mensen/kandidaten-tk25/willemijn-punte-zwart/",
       "LinkedIn": "https://nl.linkedin.com/in/willemijnzwart",
       "Instagram": "https://www.instagram.com/willemijnpuntezwart/",
-      "BlueSky": "https://bsky.app/profile/willemijn053.bsky.social"
+      "BlueSky": "https://bsky.app/profile/willemijn053.bsky.social",
+      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamerverkiezingen-2025/partijen-2025/groenlinks-pvda/willemijn-punte-zwart/"
     },
-    "leeftijd": "36"
+    "leeftijd": "36",
+    "rainbowvote": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Hanneke_H._Groenteman",
@@ -12927,6 +12927,7 @@
         "partij_naam": "VVD"
       }
     },
+    "leeftijd": "36",
     "nerdvote": true,
     "urls": {
       "nerdvote.nl": "https://nerdvote.nl/#:~:text=Queeny%20Rajkowski",
@@ -12935,7 +12936,6 @@
       "Instagram": "https://instagram.com/queenyraj",
       "Twitter": "https://twitter.com/queenyraj"
     },
-    "leeftijd": "36",
     "tweedekamer": {
       "member": true,
       "fractions": [
@@ -13444,7 +13444,7 @@
     "studies": [
       {
         "study": "Engineering en beleidsanalyse ",
-        "university": "TU Delft"
+        "institute": "TU Delft"
       }
     ],
     "tweedekamer": {
@@ -13654,11 +13654,11 @@
         }
       }
     },
+    "leeftijd": "48",
     "rainbowvote": true,
     "urls": {
       "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamerverkiezingen-2025/partijen-2025/vvd/renate-den-hollander/"
-    },
-    "leeftijd": "48"
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Arend_A._Kisteman",
@@ -14703,7 +14703,7 @@
     "studies": [
       {
         "study": "Bewegingswetenschappen",
-        "university": "Rijksuniversiteit Groningen"
+        "institute": "Rijksuniversiteit Groningen"
       },
       {
         "study": "Bewegingswetenschappen",
@@ -14778,11 +14778,11 @@
         }
       }
     },
+    "leeftijd": "41",
     "nerdvote": true,
     "urls": {
       "nerdvote.nl": "https://nerdvote.nl/#:~:text=Joost%20Hoebink"
-    },
-    "leeftijd": "41"
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Martijn_M.R.G._Buijsse",
@@ -14883,18 +14883,18 @@
         "partij_naam": "VVD"
       }
     },
-    "nerdvote": true,
-    "urls": {
-      "nerdvote.nl": "https://nerdvote.nl/#:~:text=Martijn%20Buijsse",
-      "partijwebsite": "https://www.vvd.nl/profielen/martijn-buijsse-2/",
-      "LinkedIn": "https://www.linkedin.com/in/martijnbuijsse"
-    },
     "vinddebeta": true,
+    "urls": {
+      "partijwebsite": "https://www.vvd.nl/profielen/martijn-buijsse-2/",
+      "LinkedIn": "https://www.linkedin.com/in/martijnbuijsse",
+      "nerdvote.nl": "https://nerdvote.nl/#:~:text=Martijn%20Buijsse"
+    },
     "leeftijd": "44",
+    "nerdvote": true,
     "studies": [
       {
         "study": "Werktuigbouwkunde",
-        "university": "TU Eindhoven"
+        "institute": "TU Eindhoven"
       },
       {
         "study": "Havo",
@@ -15065,11 +15065,11 @@
         }
       }
     },
+    "leeftijd": "53",
     "rainbowvote": true,
     "urls": {
       "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamerverkiezingen-2025/partijen-2025/vvd/denise-eikelenboom/"
-    },
-    "leeftijd": "53"
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Stijn_S.C._Nijssen",
@@ -15348,11 +15348,11 @@
         "partij_naam": "VVD"
       }
     },
+    "leeftijd": "46",
     "rainbowvote": true,
     "urls": {
       "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamerverkiezingen-2025/partijen-2025/vvd/remco-yizhak-cooremans/"
-    },
-    "leeftijd": "46"
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Thomas_T.C._Melisse",
@@ -15567,11 +15567,11 @@
         }
       }
     },
+    "leeftijd": "41",
     "rainbowvote": true,
     "urls": {
       "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamerverkiezingen-2025/partijen-2025/vvd/jeroen-van-dijken/"
-    },
-    "leeftijd": "41"
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Mirjam_R.M.L._Nelisse",
@@ -15681,7 +15681,7 @@
     "studies": [
       {
         "study": "Technische Bestuurskunde/Systems Engineering, Policy Analysis and management",
-        "university": "TU Delft"
+        "institute": "TU Delft"
       }
     ]
   },
@@ -16933,11 +16933,11 @@
         }
       }
     },
+    "leeftijd": "50",
     "rainbowvote": true,
     "urls": {
       "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamerverkiezingen-2025/partijen-2025/vvd/eddie-altenburg-collin/"
-    },
-    "leeftijd": "50"
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Daan_D.G._Kruijf",
@@ -18191,7 +18191,7 @@
     "studies": [
       {
         "study": "Informatiekunde",
-        "university": "Universiteit Utrecht"
+        "institute": "Universiteit Utrecht"
       }
     ]
   },
@@ -19572,6 +19572,7 @@
         "partij_naam": "D66"
       }
     },
+    "leeftijd": "36",
     "rainbowvote": true,
     "urls": {
       "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamerverkiezingen-2025/partijen-2025/d66/rob-jetten/",
@@ -19580,7 +19581,6 @@
       "Facebook": "https://facebook.com/RobJetten",
       "Twitter": "https://twitter.com/RobJetten"
     },
-    "leeftijd": "36",
     "tweedekamer": {
       "member": true,
       "fractions": [
@@ -19912,20 +19912,20 @@
         "partij_naam": "D66"
       }
     },
-    "vinddebeta": true,
     "urls": {
       "partijwebsite": "https://d66.nl/mensen/anne-marijke-podt/",
-      "LinkedIn": "https://www.linkedin.com/in/annemarijkepodt/",
+      "LinkedIn": "https://www.linkedin.com/in/annemarijkepodt/?originalSubdomain=nl",
       "Twitter": "https://x.com/Annemarijke?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
       "Instagram": "https://www.instagram.com/annemarijke/",
       "Facebook": "https://www.facebook.com/annemarijke.podt/",
       "BlueSky": "https://blueskydirectory.com/profiles/annemarijke.bsky.social"
     },
+    "vinddebeta": true,
     "leeftijd": "50",
     "studies": [
       {
         "study": "Industrieel Ontwerpen",
-        "university": "TU Delft"
+        "institute": "TU Delft"
       },
       {
         "study": "Master's Degree in Innovatiemanagement ",
@@ -20131,14 +20131,14 @@
         }
       }
     },
-    "leeftijd": "41",
     "urls": {
       "partijwebsite": "https://d66.nl/nieuws/advieslijst-tweede-kamerverkiezing-2025/",
       "LinkedIn": "https://www.linkedin.com/in/nathalie-van-berkel-85157a14/",
       "Twitter": "https://x.com/Vanberkel2508?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
       "Instagram": "https://www.instagram.com/nathalie_vanberkel/",
       "BlueSky": "https://bsky.app/profile/nathalievanberkel.bsky.social"
-    }
+    },
+    "leeftijd": "41"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Wieke_W._Paulusma",
@@ -20239,17 +20239,17 @@
         "partij_naam": "D66"
       }
     },
-    "rainbowvote": true,
     "urls": {
-      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamerverkiezingen-2025/partijen-2025/d66/wieke-paulusma/",
       "partijwebsite": "https://d66.nl/mensen/wieke-paulusma/",
       "LinkedIn": "https://www.linkedin.com/in/wiekepaulusma/?originalSubdomain=nl",
       "Twitter": "https://x.com/wiepau?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
       "Instagram": "https://www.instagram.com/wiekepaulusma/",
       "Facebook": "https://www.facebook.com/wpaulusma/?locale=nl_NL",
-      "BlueSky": "https://bsky.app/profile/ilanarooderkerk.bsky.social"
+      "BlueSky": "https://bsky.app/profile/ilanarooderkerk.bsky.social",
+      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamerverkiezingen-2025/partijen-2025/d66/wieke-paulusma/"
     },
     "leeftijd": "46",
+    "rainbowvote": true,
     "tweedekamer": {
       "member": true,
       "fractions": [
@@ -20326,12 +20326,12 @@
         }
       }
     },
-    "leeftijd": "49",
     "urls": {
       "partijwebsite": "https://d66.nl/eerstekamer/mensen/fatimazhra-belhirch/",
       "LinkedIn": "https://www.linkedin.com/in/fatimazhrabelhirch/?originalSubdomain=nl",
       "Instagram": "https://www.instagram.com/fatimazhrabelhirch/"
     },
+    "leeftijd": "49",
     "eerstekamer": {
       "member": true,
       "fractions": []
@@ -20409,15 +20409,15 @@
         "partij_naam": "D66"
       }
     },
-    "nerdvote": true,
     "urls": {
-      "nerdvote.nl": "https://nerdvote.nl/#:~:text=Hanneke%20van%20der%20Werf",
       "partijwebsite": "https://d66.nl/mensen/hanneke-van-der-werf/",
       "LinkedIn": "https://www.linkedin.com/in/hannekevanderwerf/?originalSubdomain=nl",
       "Twitter": "https://x.com/hannekevdwerf",
-      "Instagram": "https://www.instagram.com/hannekevdw/"
+      "Instagram": "https://www.instagram.com/hannekevdw/",
+      "nerdvote.nl": "https://nerdvote.nl/#:~:text=Hanneke%20van%20der%20Werf"
     },
     "leeftijd": "40",
+    "nerdvote": true,
     "tweedekamer": {
       "member": true,
       "fractions": [
@@ -20506,6 +20506,7 @@
         "partij_naam": "D66"
       }
     },
+    "leeftijd": "40",
     "rainbowvote": true,
     "urls": {
       "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamerverkiezingen-2025/partijen-2025/d66/mpanzu-bamenga/",
@@ -20515,7 +20516,6 @@
       "Facebook": "https://facebook.com/mpanzu.bamenga",
       "Twitter": "https://twitter.com/MpanzuBamenga"
     },
-    "leeftijd": "40",
     "tweedekamer": {
       "member": true,
       "fractions": [
@@ -20692,15 +20692,15 @@
         "partij_naam": "D66"
       }
     },
-    "rainbowvote": true,
     "urls": {
-      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamerverkiezingen-2025/partijen-2025/d66/marijke-synhaeve/",
       "partijwebsite": "https://d66.nl/nijmegen/mensen/marijke-synheave/",
       "LinkedIn": "https://www.linkedin.com/in/marijkesynhaeve/?originalSubdomain=nl",
       "Twitter": "https://x.com/MarijkeSynhaeve?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
-      "Instagram": "https://www.instagram.com/marijke.synhaeve/"
+      "Instagram": "https://www.instagram.com/marijke.synhaeve/",
+      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamerverkiezingen-2025/partijen-2025/d66/marijke-synhaeve/"
     },
     "leeftijd": "35",
+    "rainbowvote": true,
     "tweedekamer": {
       "member": true,
       "fractions": [
@@ -20784,7 +20784,6 @@
         "partij_naam": "D66"
       }
     },
-    "leeftijd": "38",
     "urls": {
       "partijwebsite": "https://d66.nl/mensen/ilana-rooderkerk/ https://www.ilanarooderkerk.nl/",
       "LinkedIn": "https://www.linkedin.com/in/ilanarooderkerk/?originalSubdomain=nl",
@@ -20792,6 +20791,7 @@
       "Instagram": "https://www.instagram.com/ilanarooderkerk/?hl=nl",
       "Facebook": "https://www.facebook.com/IlanaRooderkerkD66/?locale=nl_NL"
     },
+    "leeftijd": "38",
     "tweedekamer": {
       "member": true,
       "fractions": [
@@ -20879,11 +20879,11 @@
         }
       }
     },
+    "leeftijd": "46",
     "rainbowvote": true,
     "urls": {
       "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamerverkiezingen-2025/partijen-2025/d66/robert-van-asten/"
-    },
-    "leeftijd": "46"
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Ouafa_A._Oualhadj",
@@ -20957,13 +20957,13 @@
         "partij_naam": "D66"
       }
     },
-    "leeftijd": "35",
     "urls": {
       "partijwebsite": "https://ouafa.nl/",
       "LinkedIn": "https://www.linkedin.com/in/ouafa-oualhadj-1613b850/?originalSubdomain=nl",
       "Twitter": "https://x.com/ouafa070?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
       "Instagram": "https://www.instagram.com/ouafa070/"
-    }
+    },
+    "leeftijd": "35"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Anouschka_A.N._Biekman",
@@ -21018,13 +21018,13 @@
         "partij_naam": "D66"
       }
     },
-    "leeftijd": "45",
     "urls": {
       "partijwebsite": "https://d66.nl/schiedam/mensen/anouschka-biekman/",
       "LinkedIn": "https://www.linkedin.com/in/anouschkabiekman/?originalSubdomain=nl",
       "Instagram": "https://www.instagram.com/anouschkabiekman/",
       "Facebook": "https://www.facebook.com/AnouschkaBiekman/"
-    }
+    },
+    "leeftijd": "45"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Renilde_R.A._Huizenga",
@@ -21071,13 +21071,13 @@
         }
       }
     },
-    "leeftijd": "54",
     "urls": {
       "partijwebsite": "https://d66.nl/zwolle/mensen/renilde-huizenga/",
       "LinkedIn": "https://www.linkedin.com/in/renildehuizenga/",
       "Instagram": "https://www.instagram.com/edliner/",
       "Facebook": "https://www.facebook.com/AnouschkaBiekman/"
-    }
+    },
+    "leeftijd": "54"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Heera_H.L.O._Dijk",
@@ -21124,12 +21124,12 @@
         }
       }
     },
-    "leeftijd": "45",
     "urls": {
       "partijwebsite": "https://d66.nl/delft/mensen/heera-dijk-2/",
       "LinkedIn": "https://www.linkedin.com/in/heeradijk/?originalSubdomain=nl",
       "Instagram": "https://www.instagram.com/heera.d/"
-    }
+    },
+    "leeftijd": "45"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Sarah_S._Boujdaini",
@@ -21176,14 +21176,14 @@
         }
       }
     },
-    "nerdvote": true,
     "urls": {
-      "nerdvote.nl": "https://nerdvote.nl/#:~:text=Sarah%20El%20Boujdaini",
       "partijwebsite": "https://d66.nl/rotterdam/mensen/sarah-el-boujdaini-2/",
       "LinkedIn": "https://www.linkedin.com/in/sarah-el-boujdaini-53028449/?originalSubdomain=nl",
-      "Instagram": "https://www.instagram.com/sarahboujdaini/"
+      "Instagram": "https://www.instagram.com/sarahboujdaini/",
+      "nerdvote.nl": "https://nerdvote.nl/#:~:text=Sarah%20El%20Boujdaini"
     },
-    "leeftijd": "31"
+    "leeftijd": "31",
+    "nerdvote": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Henk-Jan_H._Oosterhuis",
@@ -21470,7 +21470,7 @@
     "studies": [
       {
         "study": "Biomedical Engineering",
-        "university": "TU Eindhoven"
+        "institute": "TU Eindhoven"
       }
     ]
   },
@@ -21593,12 +21593,12 @@
         "partij_naam": "D66"
       }
     },
-    "leeftijd": "39",
     "urls": {
       "partijwebsite": "https://d66.nl/mensen/marieke-vellinga-beemsterboer/",
       "LinkedIn": "https://www.linkedin.com/in/marieke-vellinga-beemsterboer-11a526171/?originalSubdomain=nl",
       "Instagram": "https://www.instagram.com/vellingabeemsterboer/"
-    }
+    },
+    "leeftijd": "39"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Robin_R.M._Leijen",
@@ -21692,17 +21692,17 @@
         }
       }
     },
-    "vinddebeta": true,
     "urls": {
       "partijwebsite": "https://d66.nl/nieuws/advieslijst-tweede-kamerverkiezing-2025/",
-      "LinkedIn": "https://www.linkedin.com/in/michellejagtenberg/",
+      "LinkedIn": "https://www.linkedin.com/in/michellejagtenberg/?originalSubdomain=nl",
       "Instagram": "https://www.instagram.com/mhjagtenberg/?hl=af"
     },
+    "vinddebeta": true,
     "leeftijd": "32",
     "studies": [
       {
         "study": "Luchtvaart- en Ruimtevaartechniek",
-        "university": "TU Delft"
+        "institute": "TU Delft"
       }
     ]
   },
@@ -21852,14 +21852,14 @@
         }
       }
     },
-    "leeftijd": "27",
     "urls": {
-      "LinkedIn": "https://nl.linkedin.com/in/lisanne-van-damme",
-      "Instagram": "https://www.instagram.com/lisanne_van_damme/",
       "partijwebsite": "https://d66.nl/zuidholland/mensen/lisanne-van-damme/",
+      "LinkedIn": "https://www.linkedin.com/in/lisanne-van-damme/?originalSubdomain=nl",
       "Twitter": "https://x.com/lisannevandamme",
+      "Instagram": "https://www.instagram.com/lisanne_van_damme/",
       "Facebook": "https://www.facebook.com/lisanne.vandamme2/"
-    }
+    },
+    "leeftijd": "27"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Yared_Y.T.P._Stifanos",
@@ -21953,11 +21953,11 @@
         }
       }
     },
-    "leeftijd": "55",
     "urls": {
       "LinkedIn": "https://www.linkedin.com/in/marike-hoekstra-6933ba/?originalSubdomain=nl",
       "Instagram": "https://www.instagram.com/hmarike?igsh=MW8xb3kwZW5rZDZhaQ=="
-    }
+    },
+    "leeftijd": "55"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Hester_H.J.J._Borm",
@@ -21997,14 +21997,14 @@
         "partij_naam": "D66"
       }
     },
-    "leeftijd": "36",
     "urls": {
       "partijwebsite": "https://hesterborm.com/",
       "LinkedIn": "https://www.linkedin.com/in/hesterborm/?originalSubdomain=cl",
       "Twitter": "https://x.com/HesterBorm/",
       "Instagram": "https://www.instagram.com/hborm/",
       "Facebook": "https://www.facebook.com/people/Hester-Borm/61579025590829/#"
-    }
+    },
+    "leeftijd": "36"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Elke_E._Smulders",
@@ -22051,14 +22051,14 @@
         }
       }
     },
-    "leeftijd": "42",
     "urls": {
       "partijwebsite": "https://d66.nl/gelderland/mensen/elke-smulders/",
       "LinkedIn": "https://www.linkedin.com/in/elke-smulders-27975812/?originalSubdomain=nl",
       "Twitter": "https://x.com/ElkesmuldersD66/with_replies",
       "Instagram": "https://www.instagram.com/elkesmulders/",
       "Facebook": "https://www.facebook.com/elke.meyerssmulders/?locale=nl_NL"
-    }
+    },
+    "leeftijd": "42"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Nes_E.F.H._Barkey_Wolf",
@@ -22162,7 +22162,7 @@
     "studies": [
       {
         "study": "Delta Management",
-        "university": "HZ University of Applied Sciences"
+        "institute": "HZ University of Applied Sciences"
       }
     ]
   },
@@ -22238,12 +22238,12 @@
         "partij_naam": "D66"
       }
     },
-    "leeftijd": "48",
     "urls": {
       "LinkedIn": "https://www.linkedin.com/in/elzewoudstra/?originalSubdomain=nl",
       "Instagram": "https://www.instagram.com/elzewoudstra/",
       "Facebook": "https://www.facebook.com/elze.woudstra/"
-    }
+    },
+    "leeftijd": "48"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Björn_B._Bonten",
@@ -22337,13 +22337,13 @@
         }
       }
     },
-    "leeftijd": "35",
     "urls": {
       "partijwebsite": "https://d66.nl/heemstede/mensen/marloes-derks/",
       "LinkedIn": "https://www.linkedin.com/in/marloes-derks/?originalSubdomain=nl",
       "Instagram": "https://www.instagram.com/marloesd66/",
       "Facebook": "https://nl-nl.facebook.com/people/Marloes-Derks/pfbid02vFfDiA7ZSNh9vvEjByWoPP2SxTaveXmdAHKnKGF9CAJC9vYiGCYR8AVNBChi8deAl/"
-    }
+    },
+    "leeftijd": "35"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Samantha_S.M._Regtuijt",
@@ -22390,11 +22390,11 @@
         }
       }
     },
-    "leeftijd": "31",
     "urls": {
       "LinkedIn": "https://www.linkedin.com/in/samantharegtuijt/?originalSubdomain=nl",
       "Instagram": "https://www.instagram.com/justsamm_/"
-    }
+    },
+    "leeftijd": "31"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Yvo_Y.W.E._Senden",
@@ -22548,7 +22548,7 @@
     "studies": [
       {
         "study": "Bouwkunde / Structural Engineering",
-        "university": "Hanze / Amsterdam University of Applied Sciences"
+        "institute": "Hanze / Amsterdam University of Applied Sciences"
       }
     ]
   },
@@ -22706,13 +22706,13 @@
         "partij_naam": "D66"
       }
     },
-    "leeftijd": "50",
     "urls": {
       "partijwebsite": "https://d66.nl/provinciegroningen/mensen/fleur-graper-van-koolwijk/",
       "LinkedIn": "https://www.linkedin.com/in/fleurgraepervankoolwijk/?originalSubdomain=nl",
       "Twitter": "https://x.com/fleurgraeper",
       "Instagram": "https://www.instagram.com/fleurgraeper/"
-    }
+    },
+    "leeftijd": "50"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Pia_P.A._Dijkstra",
@@ -22759,7 +22759,6 @@
         }
       }
     },
-    "leeftijd": "70",
     "urls": {
       "partijwebsite": "https://d66.nl/mensen/pia-dijkstra/",
       "LinkedIn": "https://www.linkedin.com/in/pia-dijkstra-61180610/",
@@ -22767,6 +22766,7 @@
       "Facebook": "https://www.facebook.com/pia.dijkstra.391",
       "Twitter": "https://twitter.com/piadijkstra"
     },
+    "leeftijd": "70",
     "tweedekamer": {
       "member": true,
       "fractions": [
@@ -22891,13 +22891,13 @@
         "partij_naam": "D66"
       }
     },
-    "leeftijd": "58",
     "urls": {
       "LinkedIn": "https://www.linkedin.com/in/kajsaollongren/?originalSubdomain=nl",
       "Twitter": "https://x.com/kajsaollongren",
       "Instagram": "https://www.instagram.com/kajsaollongren/",
       "BlueSky": "https://web-cdn.bsky.app/profile/kajsaollongren.bsky.social"
-    }
+    },
+    "leeftijd": "58"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Robbert_R.H._Dijkgraaf",
@@ -22980,7 +22980,7 @@
     "studies": [
       {
         "study": "Natuurkunde",
-        "university": "Universiteit Utrecht"
+        "institute": "Universiteit Utrecht"
       }
     ]
   },
@@ -23029,10 +23029,10 @@
         }
       }
     },
-    "leeftijd": "47",
     "urls": {
       "LinkedIn": "https://www.linkedin.com/in/sandra-phlippen/?originalSubdomain=nl"
-    }
+    },
+    "leeftijd": "47"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Caroline_C.A.M._Plas",
@@ -23105,7 +23105,6 @@
         "partij_naam": "BBB"
       }
     },
-    "leeftijd": "58",
     "urls": {
       "partijwebsite": "https://boerburgerbeweging.nl/kandidaten/caroline-van-der-plas/",
       "LinkedIn": "https://nl.linkedin.com/in/carolinevanderplas",
@@ -23114,6 +23113,7 @@
       "Website": "https://boerburgerbeweging.nl/",
       "Facebook": "https://facebook.com/caroline.vanderplas"
     },
+    "leeftijd": "58",
     "tweedekamer": {
       "member": true,
       "fractions": [
@@ -23224,7 +23224,6 @@
         "partij_naam": "CDA"
       }
     },
-    "leeftijd": "56",
     "urls": {
       "partijwebsite": "https://boerburgerbeweging.nl/kandidaten/mona-keijzer/",
       "LinkedIn": "https://www.linkedin.com/in/mona-keijzer-87019b29/",
@@ -23233,6 +23232,7 @@
       "Facebook": "https://www.facebook.com/MonaKeijzer",
       "Website": "monakeijzer.nl"
     },
+    "leeftijd": "56",
     "tweedekamer": {
       "member": true,
       "fractions": [
@@ -23396,7 +23396,7 @@
     "studies": [
       {
         "study": "Ingenieur Veehouderij",
-        "university": "Niet bekend"
+        "institute": "Niet bekend"
       },
       {
         "study": "HAVO",
@@ -23505,12 +23505,12 @@
         "partij_naam": "BBB"
       }
     },
-    "leeftijd": "40",
     "urls": {
       "partijwebsite": "https://boerburgerbeweging.nl/kandidaten/femke-wiersma/",
       "LinkedIn": "https://nl.linkedin.com/in/femke-marije-wiersma-47953458",
       "Twitter": "https://x.com/FemkeMarijeW"
-    }
+    },
+    "leeftijd": "40"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Claudia_C.R._Zanten",
@@ -23557,7 +23557,6 @@
         }
       }
     },
-    "leeftijd": "46",
     "urls": {
       "partijwebsite": "https://boerburgerbeweging.nl/kandidaten/claudia-van-zanten/",
       "LinkedIn": "https://www.linkedin.com/in/claudiavanzanten1/",
@@ -23565,6 +23564,7 @@
       "Instagram": "https://www.instagram.com/claudia.vanzanten/",
       "Facebook": "https://www.facebook.com/ClaudiaVanZantenTK/"
     },
+    "leeftijd": "46",
     "tweedekamer": {
       "member": true,
       "fractions": [
@@ -23732,7 +23732,6 @@
         "partij_naam": "BBB"
       }
     },
-    "leeftijd": "32",
     "urls": {
       "partijwebsite": "https://boerburgerbeweging.nl/kandidaten/marieke-wijen-nass/",
       "LinkedIn": "https://nl.linkedin.com/in/mariekenass",
@@ -23740,6 +23739,7 @@
       "Instagram": "https://www.instagram.com/mariekewijennass/",
       "Facebook": "https://www.facebook.com/MariekeWijenNassBBB/"
     },
+    "leeftijd": "32",
     "tweedekamer": {
       "member": true,
       "fractions": [
@@ -23855,12 +23855,12 @@
         "partij_naam": "Nieuw Sociaal Contract"
       }
     },
-    "leeftijd": "45",
     "urls": {
       "partijwebsite": "https://boerburgerbeweging.nl/kandidaten/agnes-joseph/",
       "LinkedIn": "https://www.linkedin.com/in/agnesjoseph/",
       "Twitter": "https://x.com/Agnes_Joseph_TK"
     },
+    "leeftijd": "45",
     "tweedekamer": {
       "member": true,
       "fractions": [
@@ -24111,7 +24111,6 @@
         "partij_naam": "BBB"
       }
     },
-    "leeftijd": "57",
     "urls": {
       "partijwebsite": "https://boerburgerbeweging.nl/kandidaten/christine-govaert/",
       "LinkedIn": "https://nl.linkedin.com/in/christinegovaert",
@@ -24119,7 +24118,8 @@
       "Instagram": "https://www.instagram.com/christinegovaert/",
       "Facebook": "https://www.facebook.com/p/Christine-Govaert-100090111682852/",
       "BlueSky": "https://bsky.app/profile/did:plc:3almittivr7tbrymmfwdm7ye"
-    }
+    },
+    "leeftijd": "57"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Robert_R._Tieman",
@@ -24175,7 +24175,7 @@
     "studies": [
       {
         "study": "Marine and Navigation Engineer",
-        "university": "Hogeschool van Amsterdam"
+        "institute": "Hogeschool van Amsterdam"
       }
     ]
   },
@@ -24260,7 +24260,7 @@
     "studies": [
       {
         "study": "Agricultural ingenieur",
-        "university": "Wageningen University & Research"
+        "institute": "Wageningen University & Research"
       }
     ]
   },
@@ -24503,12 +24503,12 @@
         }
       }
     },
-    "leeftijd": "58",
     "urls": {
       "partijwebsite": "https://boerburgerbeweging.nl/kandidaten/ines-de-ridder/",
       "LinkedIn": "https://www.linkedin.com/in/inesderidder/",
       "Instagram": "https://www.instagram.com/inesderidder/"
-    }
+    },
+    "leeftijd": "58"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Haidy_H.F._Hankers",
@@ -24581,16 +24581,16 @@
         "partij_naam": "BBB"
       }
     },
-    "vinddebeta": true,
     "urls": {
       "partijwebsite": "https://boerburgerbeweging.nl/kandidaten/haidy-hankers/",
       "LinkedIn": "https://www.linkedin.com/in/haidy-hankers-a89695107/"
     },
+    "vinddebeta": true,
     "leeftijd": "49",
     "studies": [
       {
         "study": "Tropisch Landgebruik & Facility Management",
-        "university": "Wageningen University & Research"
+        "institute": "Wageningen University & Research"
       }
     ]
   },
@@ -24836,12 +24836,12 @@
         }
       }
     },
-    "leeftijd": "40",
     "urls": {
       "partijwebsite": "https://boerburgerbeweging.nl/kandidaten/mies-pabon/",
       "LinkedIn": "https://www.linkedin.com/in/mies-pabon-0b65319b/",
       "Facebook": "https://www.facebook.com/mies.pabon/"
-    }
+    },
+    "leeftijd": "40"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Dirk_D.G.J._Buis",
@@ -25049,12 +25049,12 @@
         }
       }
     },
-    "leeftijd": "24",
     "urls": {
       "partijwebsite": "https://boerburgerbeweging.nl/kandidaten/pien-huijbens/",
-      "LinkedIn": "https://www.linkedin.com/in/pien-huijbens/?originalSubdomain=nl",
+      "LinkedIn": "https://www.linkedin.com/in/pien-huijbens/",
       "Facebook": "https://www.facebook.com/pien.huijbens/"
-    }
+    },
+    "leeftijd": "24"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Kevin_K.W.P._Brouwer",
@@ -25407,11 +25407,11 @@
         "partij_naam": "BBB"
       }
     },
-    "leeftijd": "52",
     "urls": {
       "partijwebsite": "https://boerburgerbeweging.nl/kandidaten/monique-flipsen-verhagen/",
       "LinkedIn": "https://www.linkedin.com/in/monique-flipsen-verhagen-21273a12b/"
-    }
+    },
+    "leeftijd": "52"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Tjerk_T.V.C._Zeitsen",
@@ -25560,13 +25560,13 @@
         }
       }
     },
-    "leeftijd": "69",
     "urls": {
       "partijwebsite": "https://boerburgerbeweging.nl/kandidaten/ilona-lagas/",
       "LinkedIn": "https://www.linkedin.com/in/ilona-lagas-meijer-472a4821",
       "Instagram": "https://www.instagram.com/ilonalagas.meijer/",
       "Facebook": "https://www.facebook.com/profile.php?id=100008510610547#"
     },
+    "leeftijd": "69",
     "eerstekamer": {
       "member": true,
       "fractions": []
@@ -25711,11 +25711,11 @@
         }
       }
     },
-    "leeftijd": "61",
     "urls": {
       "partijwebsite": "https://boerburgerbeweging.nl/kandidaten/annetje-schoolmeesters/",
       "LinkedIn": "https://www.linkedin.com/in/annetjeschoolmeesters/"
-    }
+    },
+    "leeftijd": "61"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Robbert_R._Lievense",
@@ -25966,12 +25966,12 @@
         }
       }
     },
-    "leeftijd": "55",
     "urls": {
       "partijwebsite": "https://boerburgerbeweging.nl/kandidaten/ingrid-de-sain/",
       "LinkedIn": "https://www.linkedin.com/in/ingrid-de-sain-808095150/",
       "Twitter": "https://x.com/desainingrid"
-    }
+    },
+    "leeftijd": "55"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Abel_A.W._Kooistra",
@@ -26143,11 +26143,11 @@
         }
       }
     },
-    "leeftijd": "37",
     "urls": {
       "partijwebsite": "https://boerburgerbeweging.nl/kandidaten/nicole-koks/",
       "LinkedIn": "https://www.linkedin.com/in/nicole-koks-hofman-02a73885/"
-    }
+    },
+    "leeftijd": "37"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Helma_W.J.H._Lodders",
@@ -26194,7 +26194,6 @@
         }
       }
     },
-    "leeftijd": "57",
     "urls": {
       "partijwebsite": "https://boerburgerbeweging.nl/kandidaten/helma-lodders/",
       "LinkedIn": "https://www.linkedin.com/in/helmalodders/",
@@ -26203,6 +26202,7 @@
       "Facebook": "https://www.facebook.com/helma.lodders/",
       "Website": "www.helmalodders.nl"
     },
+    "leeftijd": "57",
     "tweedekamer": {
       "member": true,
       "fractions": [
@@ -26333,13 +26333,13 @@
         "partij_naam": "JA21"
       }
     },
-    "leeftijd": "34",
     "urls": {
       "partijwebsite": "https://boerburgerbeweging.nl/kandidaten/nicki-pouw-verweij/",
       "LinkedIn": "https://www.linkedin.com/in/nickipouwverweij/",
       "Twitter": "https://x.com/nickiverweij",
       "Instagram": "https://www.instagram.com/nickiverweij/"
     },
+    "leeftijd": "34",
     "tweedekamer": {
       "member": true,
       "fractions": [
@@ -26472,7 +26472,7 @@
     "studies": [
       {
         "study": "Natuurkunde",
-        "university": "Leiden Universiteit"
+        "institute": "Leiden Universiteit"
       }
     ],
     "tweedekamer": {
@@ -26563,11 +26563,11 @@
         "partij_naam": "CDA"
       }
     },
+    "leeftijd": "42",
     "rainbowvote": true,
     "urls": {
       "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamerverkiezingen-2025/partijen-2025/cda/hanneke-steen/"
-    },
-    "leeftijd": "42"
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Derk_D.G._Boswijk",
@@ -26681,7 +26681,7 @@
     "studies": [
       {
         "study": "Bouwtechnische bedrijfskunde etc.",
-        "university": "Hogeschool Utrecht"
+        "institute": "Hogeschool Utrecht"
       },
       {
         "study": "VMBO - GT",
@@ -27140,10 +27140,10 @@
     },
     "urls": {
       "partijwebsite": "https://www.cda.nl/mensen/kandidaat-judith-buhler",
-      "LinkedIn": "https://www.linkedin.com/in/judithbuhler/",
-      "Facebook": "https://www.facebook.com/judith.buhler.90",
-      "Instagram": "https://www.instagram.com/judithbuhler/",
-      "X": "https://x.com/judithbuhlerCDA"
+      "linkedin": "https://www.linkedin.com/in/judithbuhler/",
+      "facebook": "https://www.facebook.com/judith.buhler.90",
+      "instagram": "https://www.instagram.com/judithbuhler/",
+      "x": "https://x.com/judithbuhlerCDA"
     },
     "leeftijd": "53"
   },
@@ -27498,7 +27498,7 @@
     "studies": [
       {
         "study": "Landbouw",
-        "university": "Aeres hogeschool Dronten"
+        "institute": "Aeres hogeschool Dronten"
       }
     ]
   },
@@ -27556,7 +27556,7 @@
     "studies": [
       {
         "study": "Veehouderij",
-        "university": "Christelijke Agrarische hogeschool Dronten"
+        "institute": "Christelijke Agrarische hogeschool Dronten"
       }
     ]
   },
@@ -28132,7 +28132,7 @@
     "studies": [
       {
         "study": "Bachelor of Agraric",
-        "university": "Christelijke Agrarische hogeschool Dronten"
+        "institute": "Christelijke Agrarische hogeschool Dronten"
       }
     ]
   },
@@ -28181,11 +28181,11 @@
         }
       }
     },
+    "leeftijd": "33",
     "nerdvote": true,
     "urls": {
       "nerdvote.nl": "https://nerdvote.nl/#:~:text=Hemin%20Hawezy"
-    },
-    "leeftijd": "33"
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Ankie_A.J.M._Hoon",
@@ -28786,7 +28786,7 @@
     "studies": [
       {
         "study": "Bouwkunde",
-        "university": "Hogeschool Rotterdam"
+        "institute": "Hogeschool Rotterdam"
       }
     ]
   },
@@ -29699,7 +29699,6 @@
         "partij_naam": "SP (Socialistische Partij)"
       }
     },
-    "leeftijd": "42",
     "urls": {
       "partijwebsite": "https://www.sp.nl/onze-mensen/sandra-beckerman",
       "Twitter": "https://x.com/sandrabeckerman",
@@ -29707,6 +29706,7 @@
       "Facebook": "https://www.facebook.com/sandra.beckerman.9/",
       "BlueSky": "https://bsky.app/profile/sandrabeckerman.bsky.social"
     },
+    "leeftijd": "42",
     "tweedekamer": {
       "member": true,
       "fractions": [
@@ -29843,16 +29843,16 @@
         "partij_naam": "SP (Socialistische Partij)"
       }
     },
-    "rainbowvote": true,
     "urls": {
-      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamerverkiezingen-2025/partijen-2025/sp/sarah-dobbe/",
       "partijwebsite": "https://sp.nl/onze-mensen/sarah-dobbe",
       "LinkedIn": "https://nl.linkedin.com/in/sarah-dobbe-0a84a821",
       "Twitter": "https://x.com/sarahdobbe",
       "Instagram": "https://www.instagram.com/dobbesarah/?hl=en",
-      "Facebook": "https://www.facebook.com/SarahDobbeSP (Socialistische Partij)/"
+      "Facebook": "https://www.facebook.com/SarahDobbeSP (Socialistische Partij)/",
+      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamerverkiezingen-2025/partijen-2025/sp/sarah-dobbe/"
     },
     "leeftijd": "46",
+    "rainbowvote": true,
     "tweedekamer": {
       "member": true,
       "fractions": [
@@ -29936,14 +29936,14 @@
         "partij_naam": "SP (Socialistische Partij)"
       }
     },
-    "rainbowvote": true,
+    "leeftijd": "27",
     "urls": {
-      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamerverkiezingen-2025/partijen-2025/sp/bastiaan-meijer/",
       "partijwebsite": "https://www.sp.nl/onze-mensen/bastiaan-meijer",
       "LinkedIn": "https://www.linkedin.com/in/bastiaan-meijer-5b7a4260",
-      "Instagram": "https://www.instagram.com/bastiaan_meijer"
+      "Instagram": "https://www.instagram.com/bastiaan_meijer",
+      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamerverkiezingen-2025/partijen-2025/sp/bastiaan-meijer/"
     },
-    "leeftijd": "27"
+    "rainbowvote": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Maurits_M.M._Hondmann",
@@ -29990,13 +29990,13 @@
         }
       }
     },
-    "rainbowvote": true,
+    "leeftijd": "27",
     "urls": {
-      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamerverkiezingen-2025/partijen-2025/sp/maurits-hondmann/",
       "LinkedIn": "https://www.linkedin.com/in/maurits-hondmann/",
-      "Instagram": "https://www.instagram.com/mauritshondmann/"
+      "Instagram": "https://www.instagram.com/mauritshondmann/",
+      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamerverkiezingen-2025/partijen-2025/sp/maurits-hondmann/"
     },
-    "leeftijd": "27"
+    "rainbowvote": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Gerrie_G.E._Elfrink",
@@ -30245,13 +30245,13 @@
         "partij_naam": "SP (Socialistische Partij)"
       }
     },
-    "leeftijd": "45",
     "urls": {
       "LinkedIn": "https://nl.linkedin.com/in/sunita-biharie-%F0%9F%8D%85-6a78b549",
       "Twitter": "https://x.com/sbiharie80?lang=en",
       "Instagram": "https://www.instagram.com/sunita_biharie/",
       "BlueSky": "https://bsky.app/profile/sunitabiharie.bsky.social"
-    }
+    },
+    "leeftijd": "45"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Stephanie_S._Blom",
@@ -30298,11 +30298,11 @@
         }
       }
     },
-    "leeftijd": "36",
     "urls": {
       "partijwebsite": "https://maastricht.sp.nl/onze-mensen/stephanie-blom/",
       "LinkedIn": "https://nl.linkedin.com/in/blomstephanie"
-    }
+    },
+    "leeftijd": "36"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Ruud_R.M._Kuin",
@@ -30442,7 +30442,7 @@
     "studies": [
       {
         "study": "Werktuigbouwkunde",
-        "university": "Fontys University of Applied Sciences"
+        "institute": "Fontys University of Applied Sciences"
       }
     ]
   },
@@ -30518,13 +30518,13 @@
         "partij_naam": "SP (Socialistische Partij)"
       }
     },
-    "leeftijd": "27",
     "urls": {
-      "Instagram": "https://www.instagram.com/cramermeteenc/",
       "partijwebsite": "https://leiden.sp.nl/onze-mensen/anne-cramer/",
       "Twitter": "https://x.com/cramermeteenc?lang=en",
+      "Instagram": "https://www.instagram.com/cramermeteenc/?hl=en",
       "BlueSky": "https://bsky.app/profile/annecramer.bsky.social"
-    }
+    },
+    "leeftijd": "27"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Amber_A._Witsenburg",
@@ -30571,12 +30571,12 @@
         }
       }
     },
-    "rainbowvote": true,
     "urls": {
-      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamerverkiezingen-2025/partijen-2025/sp/amber-witsenburg-die-hen-diens/",
-      "LinkedIn": "https://nl.linkedin.com/in/amber-witsenburg-615754108"
+      "LinkedIn": "https://nl.linkedin.com/in/amber-witsenburg-615754108",
+      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamerverkiezingen-2025/partijen-2025/sp/amber-witsenburg-die-hen-diens/"
     },
-    "leeftijd": "32"
+    "leeftijd": "32",
+    "rainbowvote": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Erica_E.N._Wever",
@@ -30873,17 +30873,17 @@
         "partij_naam": "SP (Socialistische Partij)"
       }
     },
-    "vinddebeta": true,
     "urls": {
-      "partijwebsite": "https://www.sp.nl/nieuws/sp-kandidatenlijst-voor-supersociaal-nederland",
-      "LinkedIn": "https://www.linkedin.com/in/lieke-van-rossum-7b23464/",
+      "partijwebsite": "https://www.sp.nl/onze-mensen/lieke-van-rossum",
+      "LinkedIn": "https://nl.linkedin.com/in/lieke-van-rossum-7b23464",
       "Instagram": "https://www.instagram.com/lieke_vanrossum/?locale=nl&hl=af"
     },
+    "vinddebeta": true,
     "leeftijd": "42",
     "studies": [
       {
         "study": "Industrieel Ontwerpen",
-        "university": "TU Delft"
+        "institute": "TU Delft"
       }
     ]
   },
@@ -30959,16 +30959,16 @@
         "partij_naam": "SP (Socialistische Partij)"
       }
     },
-    "vinddebeta": true,
     "urls": {
-      "partijwebsite": "https://www.sp.nl/nieuws/sp-kandidatenlijst-voor-supersociaal-nederland",
-      "LinkedIn": "https://www.linkedin.com/in/madeleine-boer-0680a882/"
+      "partijwebsite": "https://lelystad.sp.nl/onze-mensen/madeleine-boer/",
+      "LinkedIn": "https://nl.linkedin.com/in/madeleine-boer-0680a882"
     },
+    "vinddebeta": true,
     "leeftijd": "52",
     "studies": [
       {
         "study": "Laboratoriumtechniek",
-        "university": "Rotterdam University of Applied Sciences"
+        "institute": "Rotterdam University of Applied Sciences"
       }
     ]
   },
@@ -31073,7 +31073,7 @@
     "studies": [
       {
         "study": "Applied Physics",
-        "university": "TU Delft"
+        "institute": "TU Delft"
       }
     ]
   },
@@ -31122,17 +31122,17 @@
         }
       }
     },
-    "vinddebeta": true,
     "urls": {
-      "partijwebsite": "https://www.sp.nl/nieuws/sp-kandidatenlijst-voor-supersociaal-nederland",
-      "LinkedIn": "https://www.linkedin.com/in/sandra-drost-58820467/",
+      "partijwebsite": "https://zwolle.sp.nl/onze-mensen/sandra-drost/",
+      "LinkedIn": "https://nl.linkedin.com/in/sandra-drost-618bb5a5",
       "Twitter": "https://x.com/sandradrost"
     },
+    "vinddebeta": true,
     "leeftijd": "46",
     "studies": [
       {
         "study": "Biologie en Medisch laboratoriumonderzoek",
-        "university": "Saxion University of Applied Sciences"
+        "institute": "Saxion University of Applied Sciences"
       }
     ]
   },
@@ -31349,14 +31349,14 @@
         "partij_naam": "SP (Socialistische Partij)"
       }
     },
-    "leeftijd": "50",
     "urls": {
       "partijwebsite": "https://breda.sp.nl/onze-mensen/inge-verdaasdonk/",
       "LinkedIn": "https://nl.linkedin.com/in/inge-verdaasdonk-003b883",
       "Twitter": "https://x.com/inge75?lang=en",
       "Instagram": "https://www.instagram.com/oma.breda?igsh=MTV2Mnd0aDBxc2t1MA==",
       "Facebook": "https://www.facebook.com/ikke.402"
-    }
+    },
+    "leeftijd": "50"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Dane_D.C._Harris",
@@ -31530,13 +31530,13 @@
         }
       }
     },
-    "leeftijd": "53",
     "urls": {
       "partijwebsite": "https://terneuzen.sp.nl/onze-mensen/edith-kuitert/",
       "LinkedIn": "https://nl.linkedin.com/in/edith-kuitert-4ba7a582",
       "Instagram": "https://www.instagram.com/edith.kuitert?igsh=MTF4Z3doam41ZHRhaA==",
       "Facebook": "https://www.facebook.com/edith.kuitert/"
-    }
+    },
+    "leeftijd": "53"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Hanneke_J.F._Goede",
@@ -31583,13 +31583,13 @@
         }
       }
     },
-    "leeftijd": "43",
     "urls": {
       "partijwebsite": "https://sp.nl/onze-mensen/hanneke-goede",
       "LinkedIn": "https://nl.linkedin.com/in/hanneke-goede-b0526b179",
       "Instagram": "https://www.instagram.com/hangoede/?hl=en",
       "Facebook": "https://www.facebook.com/HannGoede/"
-    }
+    },
+    "leeftijd": "43"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Erik_E.M._Schapendonk",
@@ -31804,10 +31804,10 @@
         }
       }
     },
-    "leeftijd": "24",
     "urls": {
       "partijwebsite": "https://maastricht.sp.nl/onze-mensen/anna-moriarty-linthorst/"
-    }
+    },
+    "leeftijd": "24"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Angelo_A.A._Delsen",
@@ -32009,13 +32009,13 @@
         "partij_naam": "SP (Socialistische Partij)"
       }
     },
-    "leeftijd": "58",
     "urls": {
       "partijwebsite": "https://www.sp.nl/onze-mensen/anne-marie-mineur",
       "LinkedIn": "https://nl.linkedin.com/in/annemariemineur",
       "Twitter": "https://x.com/AnneMarieMineur",
       "BlueSky": "https://bsky.app/profile/annemariemineur.bsky.social"
-    }
+    },
+    "leeftijd": "58"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Yurre_Y._Wieken",
@@ -32156,14 +32156,14 @@
         }
       }
     },
-    "leeftijd": "47",
     "urls": {
       "partijwebsite": "https://denbosch.sp.nl/onze-mensen/jente-van-eck",
       "LinkedIn": "https://nl.linkedin.com/in/jente-eck-van-2457b57",
       "Twitter": "https://x.com/jenteschrijft?lang=ar",
       "Instagram": "https://www.instagram.com/jente_sp/",
       "Facebook": "https://www.facebook.com/jente.vaneck/"
-    }
+    },
+    "leeftijd": "47"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Lisanne_L._Zandvliet-Oldenkamp",
@@ -32345,13 +32345,13 @@
         "partij_naam": "SP (Socialistische Partij)"
       }
     },
-    "leeftijd": "31",
     "urls": {
       "LinkedIn": "https://nl.linkedin.com/in/iris-van-de-kolk-ma-20229b175",
       "Twitter": "https://x.com/irisvdkolk",
       "Instagram": "https://www.instagram.com/irisvandekolk/?hl=en",
       "BlueSky": "https://bsky.app/profile/irisvandekolk.bsky.social"
-    }
+    },
+    "leeftijd": "31"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Thom_T._Smit",
@@ -32625,7 +32625,7 @@
     "studies": [
       {
         "study": "Biology Biochemistry",
-        "university": "Radboud University"
+        "institute": "Radboud University"
       }
     ]
   },
@@ -32674,13 +32674,13 @@
         }
       }
     },
-    "leeftijd": "70",
     "urls": {
       "partijwebsite": "https://www.sp.nl/onze-mensen/remine-alberts",
       "LinkedIn": "https://nl.linkedin.com/in/alberts-remine-a1574252",
       "Twitter": "https://x.com/reminealberts?lang=en",
       "Facebook": "https://www.facebook.com/remine.alberts/"
-    }
+    },
+    "leeftijd": "70"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Remi_R.J.L._Poppe",
@@ -35018,7 +35018,7 @@
     "studies": [
       {
         "study": "Technische Bedrijfskunde",
-        "university": "Fontys Hogeschool"
+        "institute": "Fontys Hogeschool"
       }
     ]
   },
@@ -35935,18 +35935,18 @@
         "partij_naam": "Partij voor de Dieren"
       }
     },
-    "rainbowvote": true,
     "urls": {
-      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamerverkiezingen-2025/partijen-2025/partij-voor-de-dieren/esther-ouwehand/",
       "partijwebsite": "https://www.partijvoordedieren.nl/personen/esther-ouwehand",
       "LinkedIn": "https://nl.linkedin.com/in/esther-ouwehand-735025160",
       "Twitter": "https://x.com/estherouwehand?lang=en",
       "Instagram": "https://www.instagram.com/estherouwehandpvdd/?hl=en",
       "Facebook": "https://www.facebook.com/EstherOuwehand.PvdD/",
       "BlueSky": "https://bsky.app/profile/estherouwehand.bsky.social",
+      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamerverkiezingen-2025/partijen-2025/partij-voor-de-dieren/esther-ouwehand/",
       "Website": "https://www.partijvoordedieren.nl/"
     },
     "leeftijd": "49",
+    "rainbowvote": true,
     "tweedekamer": {
       "member": true,
       "fractions": [
@@ -36076,17 +36076,17 @@
         "partij_naam": "Partij voor de Dieren"
       }
     },
-    "rainbowvote": true,
     "urls": {
-      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamerverkiezingen-2025/partijen-2025/partij-voor-de-dieren/ines-kostic/",
       "partijwebsite": "https://www.partijvoordedieren.nl/personen/ines-kostic",
       "LinkedIn": "https://nl.linkedin.com/in/ines-kosti%C4%87",
       "Twitter": "https://x.com/ineskostic?lang=en",
       "Instagram": "https://www.instagram.com/ineskostic/?hl=en",
       "BlueSky": "https://bsky.app/profile/ineskostic.bsky.social",
+      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamerverkiezingen-2025/partijen-2025/partij-voor-de-dieren/ines-kostic/",
       "Facebook": "https://facebook.com/leuk.pour.le.leuk"
     },
     "leeftijd": "41",
+    "rainbowvote": true,
     "tweedekamer": {
       "member": true,
       "fractions": [
@@ -36197,7 +36197,6 @@
         "partij_naam": "Partij voor de Dieren"
       }
     },
-    "leeftijd": "40",
     "urls": {
       "partijwebsite": "https://www.partijvoordedieren.nl/personen/christine-teunissen",
       "LinkedIn": "https://nl.linkedin.com/in/christineteunissen",
@@ -36206,6 +36205,7 @@
       "Facebook": "https://www.facebook.com/TeunissenPvdD/",
       "BlueSky": "https://bsky.app/profile/christinepvdd.bsky.social"
     },
+    "leeftijd": "40",
     "tweedekamer": {
       "member": true,
       "fractions": [
@@ -36299,19 +36299,19 @@
         "partij_naam": "Partij voor de Dieren"
       }
     },
-    "rainbowvote": true,
+    "vinddebeta": true,
     "urls": {
-      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamerverkiezingen-2025/partijen-2025/partij-voor-de-dieren/falco-van-hassel/",
       "partijwebsite": "https://www.partijvoordedieren.nl/personen/falco-van-hassel",
       "LinkedIn": "https://www.linkedin.com/in/falco-van-hassel/",
-      "Instagram": "https://www.instagram.com/falco_van_hassel/"
+      "Instagram": "https://www.instagram.com/falco_van_hassel/",
+      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamerverkiezingen-2025/partijen-2025/partij-voor-de-dieren/falco-van-hassel/"
     },
-    "vinddebeta": true,
     "leeftijd": "25",
+    "rainbowvote": true,
     "studies": [
       {
         "study": "Animal Sciences",
-        "university": "Universiteit Wageningen"
+        "institute": "Universiteit Wageningen"
       }
     ]
   },
@@ -36360,14 +36360,14 @@
         }
       }
     },
-    "leeftijd": "42",
     "urls": {
       "partijwebsite": "https://www.partijvoordedieren.nl/personen/debbie-mathijsen",
       "LinkedIn": "https://nl.linkedin.com/in/debbie-mathijsen-33479020",
       "Instagram": "https://www.instagram.com/debbiemathijsen/?hl=en",
       "Facebook": "https://www.facebook.com/debbie.mathijsen/",
       "BlueSky": "https://bsky.app/profile/debbiemathijsen.bsky.social"
-    }
+    },
+    "leeftijd": "42"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Kjell_K._Wijlandt",
@@ -36488,14 +36488,14 @@
         "partij_naam": "Partij voor de Dieren"
       }
     },
-    "leeftijd": "41",
     "urls": {
       "partijwebsite": "https://www.partijvoordedieren.nl/personen/anna-krijger",
       "LinkedIn": "https://nl.linkedin.com/in/anna-krijger-10b53b211",
       "Twitter": "https://x.com/annakrijger",
       "Instagram": "https://www.instagram.com/anna.krijger/?hl=en",
       "BlueSky": "https://bsky.app/profile/annakrijger.bsky.social"
-    }
+    },
+    "leeftijd": "41"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Martine_M._Schaik-Gerritsen",
@@ -36544,12 +36544,12 @@
     },
     "urls": {
       "partijwebsite": "https://www.partijvoordedieren.nl/kandidatenlijst-tk23#7.-martine-van-schaik",
-      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamerverkiezingen-2025/partijen-2025/partij-voor-de-dieren/martine-van-schaik/",
       "LinkedIn": "https://nl.linkedin.com/in/martine-van-schaik-6457645",
-      "Instagram": "https://www.instagram.com/martinevschaik/"
+      "Instagram": "https://www.instagram.com/martinevschaik/",
+      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamerverkiezingen-2025/partijen-2025/partij-voor-de-dieren/martine-van-schaik/"
     },
-    "rainbowvote": true,
-    "leeftijd": "51"
+    "leeftijd": "51",
+    "rainbowvote": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Willemijn_W.E.R._Stoffels",
@@ -36596,16 +36596,16 @@
         }
       }
     },
-    "vinddebeta": true,
     "urls": {
       "partijwebsite": "https://www.partijvoordedieren.nl/personen/willemijn-stoffels",
-      "LinkedIn": "https://www.linkedin.com/in/willemijnstoffels/"
+      "LinkedIn": "https://nl.linkedin.com/in/willemijnstoffels"
     },
+    "vinddebeta": true,
     "leeftijd": "42",
     "studies": [
       {
         "study": "Natuurwetenschap & Innovatiemanagement",
-        "university": "Universiteit Utrecht"
+        "institute": "Universiteit Utrecht"
       }
     ]
   },
@@ -36681,13 +36681,13 @@
         "partij_naam": "Partij voor de Dieren"
       }
     },
-    "leeftijd": "59",
     "urls": {
       "partijwebsite": "https://www.partijvoordedieren.nl/personen/p%C4%B1nar-co%C5%9Fkun",
       "LinkedIn": "https://nl.linkedin.com/in/pinar-coskun-89abb612",
       "Instagram": "https://www.instagram.com/pinarvoordedieren/?hl=en",
       "Facebook": "https://www.facebook.com/pinar.coskun.142/"
-    }
+    },
+    "leeftijd": "59"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Anjo_A._Travaille",
@@ -36770,7 +36770,7 @@
     "studies": [
       {
         "study": "Milieutechnologie",
-        "university": "Van Hall Larenstein"
+        "institute": "Van Hall Larenstein"
       }
     ]
   },
@@ -36893,14 +36893,14 @@
         }
       }
     },
-    "rainbowvote": true,
     "urls": {
-      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamerverkiezingen-2025/partijen-2025/partij-voor-de-dieren/ronan-van-langen/",
       "partijwebsite": "https://www.partijvoordedieren.nl/personen/ronan-van-langen",
-      "LinkedIn": "http://linkedin.com/in/ronan-van-langen-870666168/",
-      "Instagram": "http://instagram.com/ronanvanlangen/"
+      "LinkedIn": "https://nl.linkedin.com/in/ronan-van-langen-870666168",
+      "Instagram": "https://www.instagram.com/ronanvanlangen/?hl=en",
+      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamerverkiezingen-2025/partijen-2025/partij-voor-de-dieren/ronan-van-langen/"
     },
-    "leeftijd": "27"
+    "leeftijd": "27",
+    "rainbowvote": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Pieter_P.J.L._Groenewege",
@@ -37021,15 +37021,15 @@
         }
       }
     },
-    "rainbowvote": true,
     "urls": {
-      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamerverkiezingen-2025/partijen-2025/partij-voor-de-dieren/merel-muller/",
-      "partijwebsite": "https://www.partijvoordedieren.nl/personen/merel-muller",
-      "LinkedIn": "https://www.linkedin.com/in/merel-muller-840a18236",
-      "Instagram": "https://instagram.com/merel_muller",
-      "Twitter": "https://x.com/merel__muller"
+      "partijwebsite": "https://www.merelmuller.nl/",
+      "LinkedIn": "https://nl.linkedin.com/in/merel-muller-840a18236",
+      "Twitter": "https://x.com/merel__muller",
+      "Instagram": "https://www.instagram.com/merel_muller/",
+      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamerverkiezingen-2025/partijen-2025/partij-voor-de-dieren/merel-muller/"
     },
-    "leeftijd": "23"
+    "leeftijd": "23",
+    "rainbowvote": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Robert_R.N._Barker",
@@ -37177,15 +37177,15 @@
         }
       }
     },
-    "rainbowvote": true,
     "urls": {
-      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamerverkiezingen-2025/partijen-2025/partij-voor-de-dieren/olivia-butterman/",
       "partijwebsite": "https://www.partijvoordedieren.nl/personen/olivia-butterman",
       "LinkedIn": "https://nl.linkedin.com/in/olivia-butterman-904674b",
       "Instagram": "https://www.instagram.com/oliviabutterman/?hl=en",
-      "BlueSky": "https://bsky.app/profile/oliviapvdd.bsky.social"
+      "BlueSky": "https://bsky.app/profile/oliviapvdd.bsky.social",
+      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamerverkiezingen-2025/partijen-2025/partij-voor-de-dieren/olivia-butterman/"
     },
-    "leeftijd": "42"
+    "leeftijd": "42",
+    "rainbowvote": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Yuri_Y.X._Zandwijken",
@@ -37380,15 +37380,15 @@
         "partij_naam": "Partij voor de Dieren"
       }
     },
-    "rainbowvote": true,
     "urls": {
-      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamerverkiezingen-2025/partijen-2025/partij-voor-de-dieren/cynthia-pallandt/",
       "partijwebsite": "https://www.partijvoordedieren.nl/personen/cynthia-pallandt",
       "LinkedIn": "https://www.linkedin.com/in/cynthia-pallandt/?locale=en_US",
       "Instagram": "https://www.instagram.com/cynthiapallandt/",
-      "BlueSky": "https://bsky.app/profile/cynthiapallandt.bsky.social"
+      "BlueSky": "https://bsky.app/profile/cynthiapallandt.bsky.social",
+      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamerverkiezingen-2025/partijen-2025/partij-voor-de-dieren/cynthia-pallandt/"
     },
-    "leeftijd": "37"
+    "leeftijd": "37",
+    "rainbowvote": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Stella_S._Pieterson",
@@ -37435,15 +37435,15 @@
         }
       }
     },
-    "rainbowvote": true,
     "urls": {
-      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamerverkiezingen-2025/partijen-2025/partij-voor-de-dieren/stella-marijn-pieterson/",
       "partijwebsite": "https://www.partijvoordedieren.nl/personen/stella-pieterson",
       "LinkedIn": "https://nl.linkedin.com/in/destellaipsa",
       "Twitter": "https://x.com/stellapieterson",
-      "Instagram": "https://www.instagram.com/probably_awake/?hl=en"
+      "Instagram": "https://www.instagram.com/probably_awake/?hl=en",
+      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamerverkiezingen-2025/partijen-2025/partij-voor-de-dieren/stella-marijn-pieterson/"
     },
-    "leeftijd": "50"
+    "leeftijd": "50",
+    "rainbowvote": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Ana_A._Karadarević",
@@ -37490,15 +37490,15 @@
         }
       }
     },
-    "rainbowvote": true,
     "urls": {
-      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamerverkiezingen-2025/partijen-2025/partij-voor-de-dieren/ana-karadarevic/",
       "partijwebsite": "https://www.partijvoordedieren.nl/personen/ana-karadarevi%C4%87",
       "LinkedIn": "https://nl.linkedin.com/in/ana-karadarevi%C4%87-5035193",
       "Instagram": "https://www.instagram.com/anakaradarevic/?hl=en",
-      "BlueSky": "https://bsky.app/profile/anakaradarevic.bsky.social"
+      "BlueSky": "https://bsky.app/profile/anakaradarevic.bsky.social",
+      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamerverkiezingen-2025/partijen-2025/partij-voor-de-dieren/ana-karadarevic/"
     },
-    "leeftijd": "46"
+    "leeftijd": "46",
+    "rainbowvote": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Nayra_N.M._Lubek",
@@ -37545,14 +37545,14 @@
         }
       }
     },
-    "rainbowvote": true,
     "urls": {
-      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamerverkiezingen-2025/partijen-2025/partij-voor-de-dieren/nayra-van-lubek/",
       "partijwebsite": "https://www.partijvoordedieren.nl/personen/nayra-van-lubek",
-      "LinkedIn": "http://www.linkedin.com/in/nayra-van-lubek",
-      "Instagram": "https://www.instagram.com/nayravanlubek?igsh=Z2VhYXlrMDhnbGRl"
+      "LinkedIn": "https://www.linkedin.com/in/nayra-van-lubek/?originalSubdomain=nl",
+      "Instagram": "https://www.instagram.com/nayravanlubek?igsh=Z2VhYXlrMDhnbGRl",
+      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamerverkiezingen-2025/partijen-2025/partij-voor-de-dieren/nayra-van-lubek/"
     },
-    "leeftijd": "25"
+    "leeftijd": "25",
+    "rainbowvote": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Jacqueline_J.M._Broek",
@@ -37599,14 +37599,14 @@
         }
       }
     },
-    "leeftijd": "47",
     "urls": {
       "partijwebsite": "https://www.partijvoordedieren.nl/personen/jacqueline-van-den-broek",
       "LinkedIn": "https://nl.linkedin.com/in/jacqueline-van-den-broek-2676916",
       "Twitter": "https://x.com/jacqueline_1978?lang=en",
       "Instagram": "https://www.instagram.com/jacqueline_van_den_broek/",
       "BlueSky": "https://bsky.app/profile/jacqueline-1978.bsky.social"
-    }
+    },
+    "leeftijd": "47"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Danielle_D.M._Weerd",
@@ -37653,13 +37653,13 @@
         }
       }
     },
-    "leeftijd": "56",
     "urls": {
       "partijwebsite": "https://www.partijvoordedieren.nl/personen/danielle-van-de-weerd",
       "LinkedIn": "https://nl.linkedin.com/in/fransrecht",
       "Instagram": "https://www.instagram.com/weerddaniellevande/",
       "BlueSky": "https://bsky.app/profile/danielleweerd.bsky.social"
-    }
+    },
+    "leeftijd": "56"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Gaby_G._Markandu",
@@ -37733,14 +37733,14 @@
         "partij_naam": "Partij voor de Dieren"
       }
     },
-    "leeftijd": "28",
     "urls": {
       "partijwebsite": "https://www.partijvoordedieren.nl/personen/gaby-markandu",
       "LinkedIn": "https://nl.linkedin.com/in/gaby-markandu",
-      "Instagram": "https://www.instagram.com/gabymarkandu/",
+      "Instagram": "https://www.instagram.com/gabymarkandu/?hl=en",
       "Facebook": "https://www.facebook.com/gabriellemarkandu/",
       "BlueSky": "https://bsky.app/profile/gabymarkandu.bsky.social"
-    }
+    },
+    "leeftijd": "28"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Win_E.F._Scheijde",
@@ -37787,12 +37787,12 @@
         }
       }
     },
-    "rainbowvote": true,
     "urls": {
-      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamerverkiezingen-2025/partijen-2025/partij-voor-de-dieren/win-scheijde/",
-      "partijwebsite": "https://www.partijvoordedieren.nl/personen/win-scheijde"
+      "partijwebsite": "https://www.partijvoordedieren.nl/personen/win-scheijde",
+      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamerverkiezingen-2025/partijen-2025/partij-voor-de-dieren/win-scheijde/"
     },
-    "leeftijd": "45"
+    "leeftijd": "45",
+    "rainbowvote": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Eline_E.A.H._Lauret",
@@ -37839,14 +37839,14 @@
         }
       }
     },
-    "leeftijd": "61",
     "urls": {
       "partijwebsite": "https://www.partijvoordedieren.nl/personen/eline-lauret",
       "LinkedIn": "https://nl.linkedin.com/in/elinelauret",
       "Twitter": "https://x.com/elinelauret?lang=en",
       "Instagram": "https://www.instagram.com/vossalineterual/",
       "Facebook": "https://www.facebook.com/eline.lauret/"
-    }
+    },
+    "leeftijd": "61"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Anne-Miep_A.I._Vlasveld",
@@ -37920,13 +37920,13 @@
         "partij_naam": "Partij voor de Dieren"
       }
     },
-    "leeftijd": "39",
     "urls": {
       "partijwebsite": "https://www.partijvoordedieren.nl/personen/anne-miep-vlasveld",
       "LinkedIn": "https://nl.linkedin.com/in/anne-miep-vlasveld-b928a0169",
       "Twitter": "https://x.com/pvdd_annemiep",
       "Instagram": "https://www.instagram.com/pvdd.annemiep.vlasveld/?hl=en"
-    }
+    },
+    "leeftijd": "39"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Noï_N._Mondfrans",
@@ -37973,15 +37973,15 @@
         }
       }
     },
-    "rainbowvote": true,
     "urls": {
-      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamerverkiezingen-2025/partijen-2025/partij-voor-de-dieren/noi-van-mondfrans/",
       "partijwebsite": "https://www.partijvoordedieren.nl/personen/no%C3%AF-van-mondfrans",
-      "LinkedIn": "https://www.linkedin.com/in/no%C3%AF-van-mondfrans-7ab751270/",
-      "Instagram": "https://www.instagram.com/annoiiyed/",
-      "BlueSky": "https://bsky.app/profile/annoiiyed.bsky.social"
+      "LinkedIn": "https://nl.linkedin.com/in/no%C3%AF-van-mondfrans-7ab751270",
+      "Instagram": "https://www.instagram.com/annoiiyed/?hl=en",
+      "BlueSky": "https://bsky.app/profile/annoiiyed.bsky.social",
+      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamerverkiezingen-2025/partijen-2025/partij-voor-de-dieren/noi-van-mondfrans/"
     },
-    "leeftijd": "27"
+    "leeftijd": "27",
+    "rainbowvote": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Navid_S.N._Madani",
@@ -38075,11 +38075,11 @@
         }
       }
     },
-    "leeftijd": "31",
     "urls": {
       "partijwebsite": "https://www.partijvoordedieren.nl/personen/pam-wijnans",
       "Instagram": "https://www.instagram.com/pamwijnans/"
-    }
+    },
+    "leeftijd": "31"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Yeattem_Y._Wong",
@@ -38126,12 +38126,12 @@
         }
       }
     },
-    "leeftijd": "41",
     "urls": {
       "partijwebsite": "https://www.partijvoordedieren.nl/personen/yeattem-wong",
       "LinkedIn": "https://nl.linkedin.com/in/yeattem-wong-71361393",
       "Instagram": "https://www.instagram.com/yeattem/?__d=11"
-    }
+    },
+    "leeftijd": "41"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Janneke_J._Lierop",
@@ -38178,13 +38178,13 @@
         }
       }
     },
-    "leeftijd": "35",
     "urls": {
       "partijwebsite": "https://www.partijvoordedieren.nl/personen/janneke-van-lierop",
       "LinkedIn": "https://www.linkedin.com/in/janneke-van-lierop-a0206446/",
       "Instagram": "https://www.instagram.com/janneke.vanlierop/",
       "Facebook": "https://www.facebook.com/janneke.vanlierop/"
-    }
+    },
+    "leeftijd": "35"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Arjan_R.A._Groters",
@@ -38231,11 +38231,11 @@
         }
       }
     },
+    "leeftijd": "42",
     "rainbowvote": true,
     "urls": {
       "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamerverkiezingen-2025/partijen-2025/partij-voor-de-dieren/arjan-groters/"
-    },
-    "leeftijd": "42"
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Anne_Johan_A.J._Woudstra",
@@ -38329,18 +38329,18 @@
         }
       }
     },
-    "rainbowvote": true,
     "urls": {
-      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamerverkiezingen-2025/partijen-2025/partij-voor-de-dieren/vania-nasroen/",
       "partijwebsite": "https://www.partijvoordedieren.nl/personen/vania-nasroen",
-      "LinkedIn": "https://www.linkedin.com/in/vaniapn/"
+      "LinkedIn": "https://www.linkedin.com/in/vaniapn/",
+      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamerverkiezingen-2025/partijen-2025/partij-voor-de-dieren/vania-nasroen/"
     },
     "vinddebeta": true,
     "leeftijd": "25",
+    "rainbowvote": true,
     "studies": [
       {
         "study": "Biotechnologie",
-        "university": "Universiteit Wageningen"
+        "institute": "Universiteit Wageningen"
       }
     ]
   },
@@ -38441,14 +38441,14 @@
         }
       }
     },
-    "rainbowvote": true,
+    "leeftijd": "25",
     "urls": {
-      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamerverkiezingen-2025/partijen-2025/partij-voor-de-dieren/tim-van-der-toorn/",
       "partijwebsite": "https://www.partijvoordedieren.nl/personen/tim-van-der-toorn",
       "LinkedIn": "https://www.linkedin.com/in/timvdtoorn/",
-      "Instagram": "https://www.instagram.com/tim.vdtoorn/"
+      "Instagram": "https://www.instagram.com/tim.vdtoorn/",
+      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamerverkiezingen-2025/partijen-2025/partij-voor-de-dieren/tim-van-der-toorn/"
     },
-    "leeftijd": "25"
+    "rainbowvote": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Judith_J._Lammers",
@@ -38495,7 +38495,6 @@
         }
       }
     },
-    "vinddebeta": true,
     "urls": {
       "partijwebsite": "https://www.partijvoordedieren.nl/personen/judith-lammers",
       "LinkedIn": "https://www.linkedin.com/in/judithlammers/",
@@ -38503,11 +38502,12 @@
       "Instagram": "https://www.instagram.com/judithlammers1/",
       "BlueSky": "https://bsky.app/profile/judithlammers.bsky.social"
     },
+    "vinddebeta": true,
     "leeftijd": "49",
     "studies": [
       {
         "study": "Econometrie",
-        "university": "Universiteit Tilburg"
+        "institute": "Universiteit Tilburg"
       }
     ]
   },
@@ -38650,13 +38650,13 @@
         }
       }
     },
-    "leeftijd": "50",
     "urls": {
       "partijwebsite": "https://www.partijvoordedieren.nl/personen/ang%C3%A9lique-voskamp",
       "LinkedIn": "https://nl.linkedin.com/in/ang%C3%A9lique-voskamp-43010531",
       "Instagram": "https://www.instagram.com/virgievegie/",
       "Facebook": "https://www.facebook.com/angelique.voskamp/"
-    }
+    },
+    "leeftijd": "50"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Virginia_G.V.A.A.D._Jonkers",
@@ -38703,13 +38703,13 @@
         }
       }
     },
-    "leeftijd": "45",
     "urls": {
       "partijwebsite": "https://eindhoven.partijvoordedieren.nl/personen/virginia-jonkers",
       "LinkedIn": "https://nl.linkedin.com/in/virginiajonkers",
       "Twitter": "https://x.com/virginiajonkers?lang=kn",
       "Instagram": "https://www.instagram.com/p/DNfrP09syEw/"
-    }
+    },
+    "leeftijd": "45"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Janneke_J.M._Schotveld",
@@ -38756,12 +38756,12 @@
         }
       }
     },
-    "leeftijd": "51",
     "urls": {
       "partijwebsite": "https://www.partijvoordedieren.nl/personen/janneke-schotveld",
       "Instagram": "https://www.instagram.com/schotveldjanneke/?hl=en",
       "BlueSky": "https://bsky.app/profile/jannekeschotveld.bsky.social"
-    }
+    },
+    "leeftijd": "51"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Jesse_J._Luijendijk",
@@ -38882,13 +38882,13 @@
         "partij_naam": "Partij voor de Dieren"
       }
     },
-    "leeftijd": "39",
     "urls": {
       "partijwebsite": "https://www.partijvoordedieren.nl/personen/eva-van-esch",
       "LinkedIn": "https://nl.linkedin.com/in/eva-van-esch/en",
       "Instagram": "https://www.instagram.com/evavanesch_pvdd/?hl=en",
       "Twitter": "https://twitter.com/EvavanEsch"
     },
+    "leeftijd": "39",
     "tweedekamer": {
       "member": true,
       "fractions": [
@@ -39078,13 +39078,13 @@
         }
       }
     },
-    "leeftijd": "34",
     "urls": {
       "partijwebsite": "https://www.partijvoordedieren.nl/personen/ria-strik",
       "LinkedIn": "https://www.linkedin.com/in/ria-strik-25040782/?locale=nl_NL",
       "Instagram": "https://www.instagram.com/strikkie?igsh=dnZ4Zm54Nnh0NnBr",
       "BlueSky": "https://bsky.app/profile/strikkie91.bsky.social"
-    }
+    },
+    "leeftijd": "34"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Lizzy_E.M._Coeverden",
@@ -39131,12 +39131,12 @@
         }
       }
     },
-    "leeftijd": "33",
     "urls": {
       "partijwebsite": "https://www.partijvoordedieren.nl/personen/lizzy-van-coeverden",
       "LinkedIn": "https://nl.linkedin.com/in/lizzyvancoeverden",
       "Instagram": "https://www.instagram.com/lizzyvancoeverden/"
-    }
+    },
+    "leeftijd": "33"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Lidewij_L.G._Vos",
@@ -39194,7 +39194,7 @@
     "studies": [
       {
         "study": "Scheikunde",
-        "university": "Utrecht University"
+        "institute": "Utrecht University"
       }
     ],
     "tweedekamer": {
@@ -39483,7 +39483,7 @@
     "studies": [
       {
         "study": "Geologie",
-        "university": "Universiteit Leiden"
+        "institute": "Universiteit Leiden"
       }
     ],
     "tweedekamer": {
@@ -39551,7 +39551,7 @@
     "studies": [
       {
         "study": "Technische bedrijfskunde",
-        "university": "Universiteit Twente"
+        "institute": "Universiteit Twente"
       },
       {
         "study": "Gymnasium",
@@ -39754,7 +39754,7 @@
     "studies": [
       {
         "study": "Werktuigbouwkunde",
-        "university": "Avans Hogeschool"
+        "institute": "Avans Hogeschool"
       }
     ]
   },
@@ -40708,7 +40708,7 @@
     "studies": [
       {
         "study": "Applied Mathematics",
-        "university": "Universiteit van Twente"
+        "institute": "Universiteit van Twente"
       }
     ]
   },
@@ -41964,7 +41964,7 @@
     "studies": [
       {
         "study": "Civil Engineering",
-        "university": "Universiteit Twente"
+        "institute": "Universiteit Twente"
       }
     ],
     "tweedekamer": {
@@ -42950,7 +42950,7 @@
     "studies": [
       {
         "study": "Werktuigbouwkunde",
-        "university": "Hoornbeeck College"
+        "institute": "Hoornbeeck College"
       }
     ]
   },
@@ -43614,7 +43614,7 @@
     "studies": [
       {
         "study": "Physics & Business",
-        "university": "Hogeschool Saxion"
+        "institute": "Hogeschool Saxion"
       }
     ]
   },
@@ -43851,7 +43851,7 @@
     "studies": [
       {
         "study": "Veeteelt",
-        "university": "Universiteit Wageningen"
+        "institute": "Universiteit Wageningen"
       }
     ]
   },
@@ -44326,7 +44326,7 @@
     "studies": [
       {
         "study": "Werktuigbouwkunde",
-        "university": "Universiteit Twente"
+        "institute": "Universiteit Twente"
       }
     ]
   },
@@ -44485,7 +44485,7 @@
     "studies": [
       {
         "study": "Gebouw Gebonden Installatietechniek",
-        "university": "Hogeschool van Arnhem en Nijmegen"
+        "institute": "Hogeschool van Arnhem en Nijmegen"
       }
     ]
   },
@@ -44543,7 +44543,7 @@
     "studies": [
       {
         "study": "Civil Engineering",
-        "university": "HAN University of Applied Sciences"
+        "institute": "HAN University of Applied Sciences"
       }
     ]
   },
@@ -44702,7 +44702,7 @@
     "studies": [
       {
         "study": "Operationele Technologie",
-        "university": "Hogeschool Utrecht"
+        "institute": "Hogeschool Utrecht"
       }
     ]
   },
@@ -44760,7 +44760,7 @@
     "studies": [
       {
         "study": "Land en Watermanagement",
-        "university": "Van Hall Larenstein University of Applied Sciences"
+        "institute": "Van Hall Larenstein University of Applied Sciences"
       }
     ]
   },
@@ -44892,7 +44892,7 @@
     "studies": [
       {
         "study": "Civil Engineering",
-        "university": "Van Hall Larenstein University of Applied Sciences"
+        "institute": "Van Hall Larenstein University of Applied Sciences"
       }
     ]
   },
@@ -45267,7 +45267,7 @@
     "studies": [
       {
         "study": "Horticultral Technology",
-        "university": "Rijks Hogere Tuinbouwschool Utrecht & Wageningen Universiteir"
+        "institute": "Rijks Hogere Tuinbouwschool Utrecht & Wageningen Universiteir"
       }
     ]
   },
@@ -45325,7 +45325,7 @@
     "studies": [
       {
         "study": "Civil Engineering",
-        "university": "Hogeschool Zeeland"
+        "institute": "Hogeschool Zeeland"
       }
     ]
   },
@@ -45383,7 +45383,7 @@
     "studies": [
       {
         "study": "Wiskunde en Toepassingen",
-        "university": "Utrecht University"
+        "institute": "Utrecht University"
       }
     ]
   },
@@ -45492,7 +45492,7 @@
     "studies": [
       {
         "study": "Bouwkunde",
-        "university": "Windesheim"
+        "institute": "Windesheim"
       }
     ]
   },
@@ -45998,7 +45998,7 @@
     "studies": [
       {
         "study": "Land- and watermanagement",
-        "university": "Van Hall Larenstein University of Applied Sciences"
+        "institute": "Van Hall Larenstein University of Applied Sciences"
       }
     ]
   },
@@ -46741,7 +46741,7 @@
     "studies": [
       {
         "study": "Technische bedrijfskunde / bouwkunde",
-        "university": "Technische Universiteit Eindhoven"
+        "institute": "Technische Universiteit Eindhoven"
       }
     ]
   },
@@ -46826,7 +46826,7 @@
     "studies": [
       {
         "study": "Tropical forestry",
-        "university": "Wageningen University & Research"
+        "institute": "Wageningen University & Research"
       }
     ]
   },
@@ -47124,7 +47124,7 @@
     "studies": [
       {
         "study": "Econometrie",
-        "university": "Erasmus Universiteit Rotterdam"
+        "institute": "Erasmus Universiteit Rotterdam"
       }
     ]
   },
@@ -47686,7 +47686,7 @@
     "studies": [
       {
         "study": "Technische Bedrijfskunde",
-        "university": "Haagse Hogeschool"
+        "institute": "Haagse Hogeschool"
       }
     ]
   },
@@ -48504,7 +48504,7 @@
     "studies": [
       {
         "study": "Natuur- en sterrenkunde",
-        "university": "Universiteit Utrecht"
+        "institute": "Universiteit Utrecht"
       }
     ]
   },
@@ -48562,7 +48562,7 @@
     "studies": [
       {
         "study": "Tropisch Landgebruik",
-        "university": "Wageningen University & Research"
+        "institute": "Wageningen University & Research"
       }
     ]
   },
@@ -48828,17 +48828,17 @@
         "partij_naam": "Volt"
       }
     },
-    "nerdvote": true,
     "urls": {
-      "nerdvote.nl": "https://nerdvote.nl/#:~:text=Marieke%20Koekkoek",
       "partijwebsite": "https://voltnederland.org/mensen/marieke-koekkoek",
       "LinkedIn": "https://www.linkedin.com/in/marieke-koekkoek/?originalSubdomain=nl",
       "Twitter": "https://x.com/koekkoekmarieke",
       "Instagram": "https://www.instagram.com/marieke_koekkoek/",
       "Facebook": "https://www.facebook.com/people/Marieke-Koekkoek/61572002518843/#",
-      "BlueSky": "https://bsky.app/profile/did:plc:b4lumb5k5nzmlhofbs6exe43?ref_src=embed"
+      "BlueSky": "https://bsky.app/profile/did:plc:b4lumb5k5nzmlhofbs6exe43?ref_src=embed",
+      "nerdvote.nl": "https://nerdvote.nl/#:~:text=Marieke%20Koekkoek"
     },
     "leeftijd": "34",
+    "nerdvote": true,
     "tweedekamer": {
       "member": true,
       "fractions": [
@@ -48947,12 +48947,12 @@
         }
       }
     },
-    "leeftijd": "32",
     "urls": {
       "partijwebsite": "https://voltnederland.org/mensen/4-simone-ritzer",
       "LinkedIn": "https://www.linkedin.com/in/simoneritzer/?original_referer=https%3A%2F%2Fwww%2Egoogle%2Ecom%2F&originalSubdomain=nl",
       "Instagram": "https://www.instagram.com/simone.ritzer/"
-    }
+    },
+    "leeftijd": "32"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Bjorn_B._Beijnon",
@@ -49026,11 +49026,11 @@
         "partij_naam": "Volt"
       }
     },
+    "leeftijd": "31",
     "rainbowvote": true,
     "urls": {
       "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamerverkiezingen-2025/partijen-2025/volt/bjorn-beijnon/"
-    },
-    "leeftijd": "31"
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Laura_L.C.G._Harks",
@@ -49077,13 +49077,13 @@
         }
       }
     },
-    "leeftijd": "27",
     "urls": {
       "partijwebsite": "https://voltnederland.org/mensen/6-laura-harks",
       "LinkedIn": "https://www.linkedin.com/in/lauraharks/",
-      "Instagram": "https://www.instagram.com/laura_harks/",
-      "Twitter": "https://x.com/LauraHarks"
-    }
+      "Twitter": "https://x.com/LauraHarks",
+      "Instagram": "https://www.instagram.com/laura_harks/"
+    },
+    "leeftijd": "27"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Jeroen_J.G._Princen",
@@ -49177,13 +49177,13 @@
         }
       }
     },
-    "leeftijd": "53",
     "urls": {
       "partijwebsite": "https://voltnederland.org/mensen/inge-vossen-van-beers",
       "LinkedIn": "https://www.linkedin.com/in/inge-vossen-van-beers-60582713/",
       "Instagram": "https://www.instagram.com/ingevossenvanbeers/",
       "Facebook": "https://www.facebook.com/inge.vossenvanbeers/"
-    }
+    },
+    "leeftijd": "53"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Emre_E._Güngör",
@@ -49277,13 +49277,13 @@
         }
       }
     },
-    "leeftijd": "36",
     "urls": {
       "partijwebsite": "https://voltnederland.org/mensen/10-anna-veltkamp",
       "LinkedIn": "https://www.linkedin.com/in/amveltkamp/",
       "Instagram": "https://www.instagram.com/anna.veltkamp/",
       "Facebook": "https://www.facebook.com/anna.veltkamp"
-    }
+    },
+    "leeftijd": "36"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Erik_E._Kemp",
@@ -49330,18 +49330,18 @@
         }
       }
     },
-    "nerdvote": true,
-    "urls": {
-      "nerdvote.nl": "https://nerdvote.nl/#:~:text=Erik%20Kemp",
-      "partijwebsite": "https://voltnederland.org/mensen/11-erik-kemp",
-      "LinkedIn": "https://www.linkedin.com/in/erikkemp/"
-    },
     "vinddebeta": true,
+    "urls": {
+      "partijwebsite": "https://voltnederland.org/mensen/11-erik-kemp",
+      "LinkedIn": "https://www.linkedin.com/in/erikkemp/",
+      "nerdvote.nl": "https://nerdvote.nl/#:~:text=Erik%20Kemp"
+    },
     "leeftijd": "31",
+    "nerdvote": true,
     "studies": [
       {
         "study": "Computer Science",
-        "university": "TU Twente"
+        "institute": "TU Twente"
       }
     ]
   },
@@ -49390,12 +49390,12 @@
         }
       }
     },
-    "leeftijd": "53",
     "urls": {
       "partijwebsite": "https://voltnederland.org/drenthe/mensen/monique-fikenscher",
       "LinkedIn": "https://www.linkedin.com/in/monique-fikenscher-9b149a232/",
       "Instagram": "https://www.instagram.com/monique.franssen/"
-    }
+    },
+    "leeftijd": "53"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Roel_R.W._Yska",
@@ -49494,12 +49494,12 @@
         }
       }
     },
-    "leeftijd": "34",
     "urls": {
       "partijwebsite": "https://voltnederland.org/mensen/14-mette-blom",
       "LinkedIn": "https://www.linkedin.com/in/mette-blom-051b4253/",
       "Instagram": "https://www.instagram.com/metjeblom.volt/"
-    }
+    },
+    "leeftijd": "34"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Geert_G.A._Veer",
@@ -49593,13 +49593,13 @@
         }
       }
     },
-    "leeftijd": "32",
     "urls": {
       "partijwebsite": "https://voltnederland.org/mensen/16-anne-van-den-ende",
       "LinkedIn": "https://www.linkedin.com/in/anne-van-den-ende/",
       "Instagram": "https://www.instagram.com/anne.vandenende.volt/",
       "BlueSky": "https://bsky.app/profile/annevandenende.bsky.social"
-    }
+    },
+    "leeftijd": "32"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Michael_M.T._Tai",
@@ -49720,11 +49720,11 @@
         }
       }
     },
-    "leeftijd": "40",
     "urls": {
       "partijwebsite": "https://voltnederland.org/mensen/18-karin-nielsen",
       "LinkedIn": "https://www.linkedin.com/in/karin-nielsen-36603047/?originalSubdomain=nl"
-    }
+    },
+    "leeftijd": "40"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Jesse_J.J._Mulkom",
@@ -49823,12 +49823,12 @@
         }
       }
     },
-    "leeftijd": "50",
     "urls": {
       "partijwebsite": "https://voltnederland.org/mensen/20-jefte-erens",
       "LinkedIn": "https://www.linkedin.com/in/jefteerens/",
       "Instagram": "https://www.instagram.com/jefteerens/"
-    }
+    },
+    "leeftijd": "50"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Wiebe_W._Ende",
@@ -49915,12 +49915,12 @@
         "partij_naam": "Volt"
       }
     },
-    "leeftijd": "24",
     "urls": {
       "partijwebsite": "https://voltnederland.org/mensen/22-jolijn-van-der-linden",
-      "LinkedIn": "https://www.linkedin.com/in/jolijn-van-der-linden-734324202",
-      "Instagram": "https://www.instagram.com/lindenjolijn"
-    }
+      "LinkedIn": "https://www.linkedin.com/in/jolijn-van-der-linden-734324202/?original_referer=https%3A%2F%2Fwww%2Egoogle%2Ecom%2F&originalSubdomain=nl",
+      "Instagram": "https://www.instagram.com/lindenjolijn/"
+    },
+    "leeftijd": "24"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Matthijs_M._Nieuwenhuis",
@@ -50014,15 +50014,15 @@
         }
       }
     },
-    "rainbowvote": true,
     "urls": {
-      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamerverkiezingen-2025/partijen-2025/volt/nova-rasenberg/",
       "partijwebsite": "https://voltnederland.org/mensen/24-novella-rasenberg",
-      "LinkedIn": "https://www.linkedin.com/in/nova-rasenberg-8a6005213",
-      "Instagram": "https://www.instagram.com/nova.political/",
-      "BlueSky": "https://bsky.app/profile/nova-political.bsky.social"
+      "LinkedIn": "https://www.linkedin.com/in/nova-rasenberg-8a6005213/",
+      "Instagram": "https://www.instagram.com/novalinskii/",
+      "BlueSky": "https://bsky.app/profile/nova-political.bsky.social",
+      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamerverkiezingen-2025/partijen-2025/volt/nova-rasenberg/"
     },
-    "leeftijd": "30"
+    "leeftijd": "30",
+    "rainbowvote": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Tim_T.L.A._Areago",
@@ -50069,14 +50069,14 @@
         }
       }
     },
-    "rainbowvote": true,
+    "leeftijd": "24",
     "urls": {
-      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamerverkiezingen-2025/partijen-2025/volt/temitope-areago/",
       "partijwebsite": "https://voltnederland.org/mensen/25-tim-areago",
       "LinkedIn": "https://www.linkedin.com/in/temitope-tim-areago-9b595b188",
-      "Instagram": "https://www.instagram.com/tim.a_volt?"
+      "Instagram": "https://www.instagram.com/tim.a_volt?",
+      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamerverkiezingen-2025/partijen-2025/volt/temitope-areago/"
     },
-    "leeftijd": "24"
+    "rainbowvote": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Annemieke_A._Linden",
@@ -50123,11 +50123,11 @@
         }
       }
     },
-    "leeftijd": "52",
     "urls": {
       "partijwebsite": "https://voltnederland.org/mensen/26-annemieke-van-der-linden",
       "LinkedIn": "https://www.linkedin.com/in/annemieke-van-der-linden-306911376/"
-    }
+    },
+    "leeftijd": "52"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Leslie_L._Scherbeijn",
@@ -50184,7 +50184,7 @@
     "studies": [
       {
         "study": "Business Informatics",
-        "university": "HZ University of Applied Sciences"
+        "institute": "HZ University of Applied Sciences"
       }
     ]
   },
@@ -50233,13 +50233,13 @@
         }
       }
     },
-    "leeftijd": "53",
     "urls": {
       "partijwebsite": "https://voltnederland.org/mensen/28-laura-van-strien",
       "LinkedIn": "https://www.linkedin.com/in/lauravanstrien/",
       "Twitter": "https://x.com/lauravanstrien?lang=en",
       "BlueSky": "https://bsky.app/profile/lauravanstrien.bsky.social"
-    }
+    },
+    "leeftijd": "53"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Tom_A.J.J._Doesburg",
@@ -50286,11 +50286,11 @@
         }
       }
     },
+    "leeftijd": "39",
     "rainbowvote": true,
     "urls": {
       "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamerverkiezingen-2025/partijen-2025/volt/tom-van-doesburg/"
-    },
-    "leeftijd": "39"
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Marion_M.H.F._Kampen",
@@ -50337,13 +50337,13 @@
         }
       }
     },
-    "leeftijd": "57",
     "urls": {
       "partijwebsite": "https://voltnederland.org/mensen/30-marion-van-kampen",
       "LinkedIn": "https://www.linkedin.com/in/marionvankampen/",
       "Instagram": "https://www.instagram.com/marionvankampen/",
       "BlueSky": "https://bsky.app/profile/marionvankampen.bsky.social"
-    }
+    },
+    "leeftijd": "57"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Sjoerd_S.W._Wennekes",
@@ -50390,11 +50390,11 @@
         }
       }
     },
+    "leeftijd": "43",
     "rainbowvote": true,
     "urls": {
       "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamerverkiezingen-2025/partijen-2025/volt/sjoerd-wennekes/"
-    },
-    "leeftijd": "43"
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Lore_L.A.E._Eckelmans",
@@ -50441,12 +50441,12 @@
         }
       }
     },
-    "leeftijd": "19",
     "urls": {
       "partijwebsite": "https://voltnederland.org/mensen/32-lore-eckelmans",
       "LinkedIn": "https://www.linkedin.com/in/lore-eckelmans-77664626a/?originalSubdomain=nl",
-      "Instagram": "https://www.instagram.com/lore_eckelmans"
-    }
+      "Instagram": "https://www.instagram.com/lore_eckelmans/?hl=en"
+    },
+    "leeftijd": "19"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Christiaan_C.H._Meinsma",
@@ -50567,13 +50567,13 @@
         "partij_naam": "Volt"
       }
     },
-    "leeftijd": "40",
     "urls": {
       "partijwebsite": "https://voltnederland.org/mensen/34-julia-hamel",
       "LinkedIn": "https://www.linkedin.com/in/julia-hamel-890a4215/",
       "Instagram": "https://www.instagram.com/juliahamel/",
       "BlueSky": "https://bsky.app/profile/juliahamel.bsky.social"
-    }
+    },
+    "leeftijd": "40"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Daan_D.C._Stokvis",
@@ -50672,12 +50672,12 @@
         }
       }
     },
-    "leeftijd": "19",
     "urls": {
-      "partijwebsite": "https://voltnederland.org/mensen/36-tris-westerman",
-      "LinkedIn": "https://www.linkedin.com/in/tris-westerman",
-      "Instagram": "https://www.instagram.com/tris.westerman"
-    }
+      "partijwebsite": "https://voltnederland.org/gelderland/mensen/tris-westerman",
+      "LinkedIn": "https://www.linkedin.com/in/tris-westerman/?originalSubdomain=nl",
+      "Instagram": "https://www.instagram.com/tris.westerman/"
+    },
+    "leeftijd": "19"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Quinten_Q.H.M._Buijs",
@@ -50776,12 +50776,12 @@
         }
       }
     },
-    "leeftijd": "27",
     "urls": {
       "partijwebsite": "https://voltnederland.org/mensen/38-iris-van-der-veldt",
       "LinkedIn": "https://www.linkedin.com/in/iris-van-der-veldt-764b4014b/",
       "Instagram": "https://www.instagram.com/irissophia_v/"
-    }
+    },
+    "leeftijd": "27"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Mark_M._Croes",
@@ -50837,7 +50837,7 @@
     "studies": [
       {
         "study": "Informatica & Econometrie",
-        "university": "UvA & VU Amsterdam"
+        "institute": "UvA & VU Amsterdam"
       }
     ]
   },
@@ -50886,12 +50886,12 @@
         }
       }
     },
-    "leeftijd": "50",
     "urls": {
       "partijwebsite": "https://voltnederland.org/gelderland/mensen/vivienne-van-der-veen",
       "LinkedIn": "https://www.linkedin.com/in/vivienne-van-der-veen-6771a13a/?originalSubdomain=nl",
       "Instagram": "https://www.instagram.com/viviennevdvvolt?igsh=MTd5ejZwMnhhYzhwOQ=="
-    }
+    },
+    "leeftijd": "50"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Giovanni_G.A._Hagen",
@@ -50948,7 +50948,7 @@
     "studies": [
       {
         "study": "Biomedische wetenschappen",
-        "university": "Leiden University"
+        "institute": "Leiden University"
       }
     ]
   },
@@ -50997,12 +50997,12 @@
         }
       }
     },
-    "leeftijd": "63",
     "urls": {
       "partijwebsite": "https://voltnederland.org/mensen/42-adda-van-zanden",
       "LinkedIn": "https://www.linkedin.com/in/adda-van-zanden-507202b/",
       "Instagram": "https://www.instagram.com/addavanzanden/"
-    }
+    },
+    "leeftijd": "63"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Bart_B.P._Klijnsma",
@@ -51613,7 +51613,7 @@
     "studies": [
       {
         "study": "Milieuwetenschappen, Ecologie en Natuurbescherming",
-        "university": "University of Durham, University College London"
+        "institute": "University of Durham, University College London"
       }
     ],
     "tweedekamer": {
@@ -53368,7 +53368,7 @@
     "studies": [
       {
         "study": "Biochemistry, Molecular Biology",
-        "university": "Universiteit Wageningen"
+        "institute": "Universiteit Wageningen"
       }
     ]
   },
@@ -58363,12 +58363,12 @@
         }
       }
     },
-    "leeftijd": "25",
     "urls": {
-      "partijwebsite": "https://bij1.org/team/naomi-tuininga/",
+      "partijwebsite": "https://bij1.org/team/naomi/",
       "LinkedIn": "https://www.linkedin.com/in/naomi-tuininga-14629b1b7/",
-      "Instagram": "https://www.instagram.com/naomituininga"
-    }
+      "Instagram": "https://www.instagram.com/naomituininga/?hl=en"
+    },
+    "leeftijd": "25"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Teun_T._Otte",
@@ -58466,12 +58466,12 @@
         }
       }
     },
-    "leeftijd": "25",
     "urls": {
-      "partijwebsite": "https://bij1.org/team/precious-sadhoe/",
+      "partijwebsite": "https://rotterdam.bij1.org/precious-sadhoe",
       "LinkedIn": "https://www.linkedin.com/in/precious-sadhoe-99b0b922b/",
-      "Instagram": "https://www.instagram.com/awesome_as_always"
-    }
+      "Instagram": "https://www.instagram.com/awesome_as_always/?hl=en"
+    },
+    "leeftijd": "25"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Marchiano_M.R._Campenhout",
@@ -58617,12 +58617,12 @@
         }
       }
     },
-    "leeftijd": "29",
     "urls": {
-      "partijwebsite": "https://bij1.org/team/noura-oul-fakir-2/",
+      "partijwebsite": "https://utrecht.bij1.org/kandidaten/noura-oul-fakir/",
       "LinkedIn": "https://www.linkedin.com/in/nouraoulfakir/",
       "Instagram": "https://www.instagram.com/het_norakel"
-    }
+    },
+    "leeftijd": "29"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Soheila_S._Najand",
@@ -58669,10 +58669,10 @@
         }
       }
     },
-    "leeftijd": "68",
     "urls": {
       "LinkedIn": "https://www.linkedin.com/in/snajand/"
-    }
+    },
+    "leeftijd": "68"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Carolien_C._Nieuweboer",
@@ -58719,11 +58719,11 @@
         }
       }
     },
-    "leeftijd": "36",
     "urls": {
       "LinkedIn": "https://www.linkedin.com/in/caroliennieuweboer/",
       "Instagram": "https://www.instagram.com/krolien/?hl=en"
-    }
+    },
+    "leeftijd": "36"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Venus_V._Bijleveld",
@@ -58770,11 +58770,11 @@
         }
       }
     },
-    "leeftijd": "35",
     "urls": {
       "Instagram": "https://www.instagram.com/iammamaqueen/?hl=en",
       "Facebook": "https://www.facebook.com/venusbijleveld/"
-    }
+    },
+    "leeftijd": "35"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Nathan_N._Miango",
@@ -58873,12 +58873,12 @@
         }
       }
     },
-    "leeftijd": "26",
     "urls": {
-      "partijwebsite": "https://bij1.org/team/marie-louise-beekmans/",
       "LinkedIn": "https://www.linkedin.com/in/marie-louise-beekmans-b0a5a7170/",
-      "Instagram": "https://www.instagram.com/_marielouisee"
-    }
+      "Instagram": "https://www.instagram.com/_marielouisee/?hl=en",
+      "partijwebsite": "https://bij1.org/team/marie-louise-beekmans/"
+    },
+    "leeftijd": "26"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Tikhoe_T.J.D._Isaack",
@@ -58977,12 +58977,12 @@
         }
       }
     },
-    "leeftijd": "25",
     "urls": {
-      "partijwebsite": "https://bij1.org/team/14-gul-streutker/",
       "LinkedIn": "https://www.linkedin.com/in/g%C3%BCl-streutker-b79685198/",
-      "Instagram": "https://www.instagram.com/gulstreutker"
-    }
+      "Instagram": "https://www.instagram.com/gulstreutker?igsh=eWVieHp6dm4zMWN6",
+      "partijwebsite": "https://bij1.org/team/14-gul-streutker/"
+    },
+    "leeftijd": "25"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Yuval_Y._Gal",
@@ -59184,7 +59184,6 @@
         "partij_naam": "BIJ1"
       }
     },
-    "leeftijd": "40",
     "urls": {
       "partijwebsite": "https://www.yvetteluhrs.nl/nl/",
       "LinkedIn": "https://www.linkedin.com/in/yvette-luhrs/",
@@ -59192,7 +59191,8 @@
       "Instagram": "https://www.instagram.com/yvette.luhrs?igsh=dDFhYmI3cGltOXZy",
       "Facebook": "https://www.facebook.com/watdoetYvette/",
       "BlueSky": "https://bsky.app/profile/yvetteluhrs.bsky.social"
-    }
+    },
+    "leeftijd": "40"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Joanna_A.T.P.J._Rijsdam",
@@ -59239,10 +59239,10 @@
         }
       }
     },
-    "leeftijd": "48",
     "urls": {
       "Instagram": "https://www.instagram.com/joanna__rd/?hl=en"
-    }
+    },
+    "leeftijd": "48"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Andre_A.R._Damian",
@@ -59341,11 +59341,11 @@
         }
       }
     },
-    "leeftijd": "42",
     "urls": {
       "LinkedIn": "https://www.linkedin.com/in/chihiro-geuzebroek-0037ba21/",
       "Instagram": "https://www.instagram.com/chihiro_darling/?hl=en"
-    }
+    },
+    "leeftijd": "42"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Stevie_S.J._Nolten",
@@ -59392,12 +59392,12 @@
         }
       }
     },
-    "leeftijd": "33",
     "urls": {
       "LinkedIn": "https://www.linkedin.com/in/stevie-n-81860879/",
       "Twitter": "https://x.com/stevienolten",
       "Instagram": "https://www.instagram.com/stevie_jane/?locale=pt_BR&hl=fa"
-    }
+    },
+    "leeftijd": "33"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Vayhishta_V.R._Miskin",
@@ -59471,11 +59471,11 @@
         "partij_naam": "BIJ1"
       }
     },
-    "leeftijd": "39",
     "urls": {
       "LinkedIn": "https://www.linkedin.com/in/vayhishtamiskin/",
       "Instagram": "https://www.instagram.com/vayhishta/?hl=en"
-    }
+    },
+    "leeftijd": "39"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Glenn_G.O._Helberg",
@@ -61081,7 +61081,7 @@
     "studies": [
       {
         "study": "Bestuurlijke informatiekunde",
-        "university": "Katholieke Universiteit Brabant"
+        "institute": "Katholieke Universiteit Brabant"
       }
     ]
   },
@@ -67886,7 +67886,7 @@
     "studies": [
       {
         "study": "Bouwtechniek",
-        "university": "Hogeschool van Rotterdam"
+        "institute": "Hogeschool van Rotterdam"
       }
     ]
   },
