@@ -2939,8 +2939,10 @@
     "university": "Fontys Hogeschool Venlo",
     "urls": {
       "partijwebsite": "https://www.pvv.nl/tweede-kamerfractie.html#:~:text=Jan%20Valize",
-      "LinkedIn": "https://www.linkedin.com/in/jan-valize-a4a07977/"
-    }
+      "LinkedIn": "https://www.linkedin.com/in/jan-valize-a4a07977/",
+      "nerdvote.nl": "https://nerdvote.nl/#:~:text=Jan%20Valize"
+    },
+    "nerdvote": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Chris_C.J._Faddegon",
@@ -7673,9 +7675,11 @@
       "LinkedIn": "https://nl.linkedin.com/in/barbara-kathmann-3a825738",
       "Instagram": "https://www.instagram.com/barbarakathmann/?hl=en",
       "Facebook": "https://www.facebook.com/KathmannBarbara/",
-      "BlueSky": "https://bsky.app/profile/did:plc:hu4k2wttrtyfyy2ylq4xqlcr"
+      "BlueSky": "https://bsky.app/profile/did:plc:hu4k2wttrtyfyy2ylq4xqlcr",
+      "nerdvote.nl": "https://nerdvote.nl/#:~:text=Barbara%20Kathmann"
     },
-    "leeftijd": "47"
+    "leeftijd": "47",
+    "nerdvote": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Lyle_L._Muns",
@@ -11135,7 +11139,11 @@
         "partij_naam": "VVD"
       }
     },
-    "leeftijd": "36"
+    "leeftijd": "36",
+    "nerdvote": true,
+    "urls": {
+      "nerdvote.nl": "https://nerdvote.nl/#:~:text=Queeny%20Rajkowski"
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Ulysse_U._Ellian",
@@ -12654,7 +12662,11 @@
         }
       }
     },
-    "leeftijd": "41"
+    "leeftijd": "41",
+    "nerdvote": true,
+    "urls": {
+      "nerdvote.nl": "https://nerdvote.nl/#:~:text=Joost%20Hoebink"
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Martijn_M.R.G._Buijsse",
@@ -12760,9 +12772,11 @@
     "university": "TU Eindhoven",
     "urls": {
       "partijwebsite": "https://www.vvd.nl/profielen/martijn-buijsse-2/",
-      "LinkedIn": "https://www.linkedin.com/in/martijnbuijsse"
+      "LinkedIn": "https://www.linkedin.com/in/martijnbuijsse",
+      "nerdvote.nl": "https://nerdvote.nl/#:~:text=Martijn%20Buijsse"
     },
-    "leeftijd": "44"
+    "leeftijd": "44",
+    "nerdvote": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Peter_P.W._Kessel",
@@ -17899,9 +17913,11 @@
       "partijwebsite": "https://d66.nl/mensen/hanneke-van-der-werf/",
       "LinkedIn": "https://www.linkedin.com/in/hannekevanderwerf/?originalSubdomain=nl",
       "Twitter": "https://x.com/hannekevdwerf",
-      "Instagram": "https://www.instagram.com/hannekevdw/"
+      "Instagram": "https://www.instagram.com/hannekevdw/",
+      "nerdvote.nl": "https://nerdvote.nl/#:~:text=Hanneke%20van%20der%20Werf"
     },
-    "leeftijd": "40"
+    "leeftijd": "40",
+    "nerdvote": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Mpanzu_P._Bamenga",
@@ -18546,9 +18562,11 @@
     "urls": {
       "partijwebsite": "https://d66.nl/rotterdam/mensen/sarah-el-boujdaini-2/",
       "LinkedIn": "https://www.linkedin.com/in/sarah-el-boujdaini-53028449/?originalSubdomain=nl",
-      "Instagram": "https://www.instagram.com/sarahboujdaini/"
+      "Instagram": "https://www.instagram.com/sarahboujdaini/",
+      "nerdvote.nl": "https://nerdvote.nl/#:~:text=Sarah%20El%20Boujdaini"
     },
-    "leeftijd": "31"
+    "leeftijd": "31",
+    "nerdvote": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Henk-Jan_H._Oosterhuis",
@@ -25087,7 +25105,11 @@
         }
       }
     },
-    "leeftijd": "33"
+    "leeftijd": "33",
+    "nerdvote": true,
+    "urls": {
+      "nerdvote.nl": "https://nerdvote.nl/#:~:text=Hemin%20Hawezy"
+    }
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Ankie_A.J.M._Hoon",
@@ -44966,9 +44988,11 @@
       "Twitter": "https://x.com/koekkoekmarieke",
       "Instagram": "https://www.instagram.com/marieke_koekkoek/",
       "Facebook": "https://www.facebook.com/people/Marieke-Koekkoek/61572002518843/#",
-      "BlueSky": "https://bsky.app/profile/did:plc:b4lumb5k5nzmlhofbs6exe43?ref_src=embed"
+      "BlueSky": "https://bsky.app/profile/did:plc:b4lumb5k5nzmlhofbs6exe43?ref_src=embed",
+      "nerdvote.nl": "https://nerdvote.nl/#:~:text=Marieke%20Koekkoek"
     },
-    "leeftijd": "34"
+    "leeftijd": "34",
+    "nerdvote": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Rens_R.W._Boer",
@@ -45446,9 +45470,11 @@
     "university": "TU Twente",
     "urls": {
       "partijwebsite": "https://voltnederland.org/mensen/11-erik-kemp",
-      "LinkedIn": "https://www.linkedin.com/in/erikkemp/"
+      "LinkedIn": "https://www.linkedin.com/in/erikkemp/",
+      "nerdvote.nl": "https://nerdvote.nl/#:~:text=Erik%20Kemp"
     },
-    "leeftijd": "31"
+    "leeftijd": "31",
+    "nerdvote": true
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Monique_H.M._Fikenscher",
