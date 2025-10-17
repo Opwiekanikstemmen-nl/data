@@ -1,86 +1,65 @@
 [
 	{
-		"kandidaat": "https://opwiekanikstemmen.nl/id/person/Raoul%20R.J.%20White",
+		"kandidaat": "https://opwiekanikstemmen.nl/id/person/Nathalie_N._Berkel",
 		"kleurdekamer": true,
 		"urls": {
-			"Kleur de Kamer": "https://kleurdekamer.nl/raoulwhite-2/"
+			"Kleur de Kamer": "https://kleurdekamer.nl/"
 		}
 	},
 	{
-		"kandidaat": "https://opwiekanikstemmen.nl/id/person/Spencer%20S.T.%20Alberg",
+		"kandidaat": "https://opwiekanikstemmen.nl/id/person/Mpanzu_P._Bamenga",
 		"kleurdekamer": true,
 		"urls": {
-			"Kleur de Kamer": "https://kleurdekamer.nl/spenceralberg-2/"
+			"Kleur de Kamer": "https://kleurdekamer.nl/"
 		}
 	},
 	{
-		"kandidaat": "https://opwiekanikstemmen.nl/id/person/Glimina%20G.%20Chakor",
+		"kandidaat": "https://opwiekanikstemmen.nl/id/person/Anouschka_A.N._Biekman",
 		"kleurdekamer": true,
 		"urls": {
-			"Kleur de Kamer": "https://kleurdekamer.nl/gliminachakor-2/"
+			"Kleur de Kamer": "https://kleurdekamer.nl/"
 		}
 	},
 	{
-		"kandidaat": "https://opwiekanikstemmen.nl/id/person/Funda%20F.%20Ileri",
+		"kandidaat": "https://opwiekanikstemmen.nl/id/person/Faith_F.H._Bruyning",
 		"kleurdekamer": true,
 		"urls": {
-			"Kleur de Kamer": "https://kleurdekamer.nl/fundaileri-3/"
+			"Kleur de Kamer": "https://kleurdekamer.nl/"
 		}
 	},
 	{
-		"kandidaat":  "https://opwiekanikstemmen.nl/id/person/Kıvılcım%20K.%20Pınar",
+		"kandidaat": "https://opwiekanikstemmen.nl/id/person/Raoul_R.J._White",
 		"kleurdekamer": true,
 		"urls": {
-			"Kleur de Kamer": "https://kleurdekamer.nl/kivilcimpinar-3/"
+			"Kleur de Kamer": "https://kleurdekamer.nl/"
 		}
 	},
 	{
-		"kandidaat": "https://opwiekanikstemmen.nl/id/person/Emma%20E.E.%20Manhoef",
+		"kandidaat": "https://opwiekanikstemmen.nl/id/person/Glimina_G._Chakor",
 		"kleurdekamer": true,
 		"urls": {
-			"Kleur de Kamer": "https://kleurdekamer.nl/emmamanhoef-2/"
-		}	
-	},
-	{
-		"kandidaat": "https://opwiekanikstemmen.nl/id/person/Fonda%20F.%20Sahla",
-		"kleurdekamer": true,
-		"urls": {
-			"Kleur de Kamer": "https://kleurdekamer.nl/fondasahla-2/"
+			"Kleur de Kamer": "https://kleurdekamer.nl/"
 		}
 	},
 	{
-		"kandidaat": "https://opwiekanikstemmen.nl/id/person/Malcolm%20M.G.%20Jones",
+		"kandidaat": "https://opwiekanikstemmen.nl/id/person/Yalda_Y._Qadiri",
 		"kleurdekamer": true,
 		"urls": {
-			"Kleur de Kamer": "https://kleurdekamer.nl/malcolmjones-2/"
+			"Kleur de Kamer": "https://kleurdekamer.nl/"
 		}
 	},
 	{
-		"kandidaat": "https://opwiekanikstemmen.nl/id/person/Hind%20H.%20Dekker-Abdulaziz",
+		"kandidaat": "https://opwiekanikstemmen.nl/id/person/Don_D.G.M._Ceder",
 		"kleurdekamer": true,
 		"urls": {
-			"Kleur de Kamer": "https://kleurdekamer.nl/hinddekkerabdulaziz/"
+			"Kleur de Kamer": "https://kleurdekamer.nl/"
 		}
 	},
 	{
-		"kandidaat": "https://opwiekanikstemmen.nl/id/person/Faith%20F.H.%20Bruyning",
+		"kandidaat": "https://opwiekanikstemmen.nl/id/person/Ines_I._Kostić",
 		"kleurdekamer": true,
 		"urls": {
-			"Kleur de Kamer": "https://kleurdekamer.nl/faithbruyning-2/"
-		}
-	},
-	{
-		"kandidaat": "https://opwiekanikstemmen.nl/id/person/Wesley%20W.I.%20Pechler",
-		"kleurdekamer": true,
-		"urls": {
-			"Kleur de Kamer": "https://kleurdekamer.nl/wesleypechler-2/"
-		}
-	},
-	{
-		"kandidaat": "https://opwiekanikstemmen.nl/id/person/Emel%20E.%20Gün",
-		"kleurdekamer": true,
-		"urls": {
-			"Kleur de Kamer": "https://kleurdekamer.nl/emel-gun/"
+			"Kleur de Kamer": "https://kleurdekamer.nl/"
 		}
 	}
 ]
