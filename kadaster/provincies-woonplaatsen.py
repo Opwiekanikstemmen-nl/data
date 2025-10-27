@@ -26,7 +26,7 @@ with open('../kadaster/cbs_woonplaats_gemeente.json') as fs:
 used_woonplaatsen = []
 
 for kandidaat in kandidaten:
-    woonplaats = kandidaat['verkiezingen']['tk2023']['woonplaats']
+    woonplaats = kandidaat['verkiezingen']['tk2025']['woonplaats']
     if woonplaats not in used_woonplaatsen:
         used_woonplaatsen.append(woonplaats)
 
