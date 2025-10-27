@@ -68,5 +68,12 @@
     "urls": {
       "nerdvote.nl": "https://nerdvote.nl/#:~:text=Joost%20Hoebink"
     }
+  },
+  {
+    "kandidaat": "https://opwiekanikstemmen.nl/id/person/Cynthia_C.M.J._Pallandt",
+    "nerdvote": true,
+    "urls": {
+      "nerdvote.nl": "https://nerdvote.nl/#:~:text=Cynthia%20Pallandt"
+    }
   }
 ]

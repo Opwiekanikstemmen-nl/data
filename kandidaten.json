@@ -14782,11 +14782,7 @@
         }
       }
     },
-    "leeftijd": "41",
-    "nerdvote": true,
-    "urls": {
-      "nerdvote.nl": "https://nerdvote.nl/#:~:text=Joost%20Hoebink"
-    }
+    "leeftijd": "41"
   },
   {
     "iri": "https://opwiekanikstemmen.nl/id/person/Martijn_M.R.G._Buijsse",
@@ -37399,8 +37395,10 @@
       "LinkedIn": "https://www.linkedin.com/in/cynthia-pallandt/?locale=en_US",
       "Instagram": "https://www.instagram.com/cynthiapallandt/",
       "BlueSky": "https://bsky.app/profile/cynthiapallandt.bsky.social",
-      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamerverkiezingen-2025/partijen-2025/partij-voor-de-dieren/cynthia-pallandt/"
+      "rainbowvote.nu": "https://rainbowvote.nu/tweede-kamerverkiezingen-2025/partijen-2025/partij-voor-de-dieren/cynthia-pallandt/",
+      "nerdvote.nl": "https://nerdvote.nl/#:~:text=Cynthia%20Pallandt"
     },
+    "nerdvote": true,
     "leeftijd": "37",
     "rainbowvote": true
   },
