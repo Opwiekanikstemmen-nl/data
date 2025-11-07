@@ -20,3 +20,16 @@ Additionally, there are the following folders:
 5. Update the info in `kadaster` with the scripts there
 6. Add the kadaster info from the data folder `cd ../ && python3 add_gemeente_info.py -t kandidaten.json -c kadaster/combi_gemeentes.json -g kadaster/kandidaat-gemeente.json`
 7. Add party list info `python3 add_partywebsite_data.py -t kandidaten.json -p partijen.json -f partijwebsite-lijsten`
+
+## Adding votes
+Using [electiontool](https://github.com/kroncrv/electiontool?tab=readme-ov-file), create a csv-file based on the EML-files.
+
+For example: 
+1. Download the [counting files from tk2025](https://www.kiesraad.nl/adviezen-en-publicaties/publicaties/2025/11/07/digitale-tellingsbestanden-gemeentelijk---en-hoofdstembureaus) ('Digitale tellingsbestanden hoofdstembureaus')
+2. Unzip the file
+3. Clone the electiontool repository `git clone https://github.com/kroncrv/electiontool.git`
+4. Install the dependencies (e.g. `pip install dataknead xmltodict dpath` or following their README)
+5. Copy the path to the `Kieskring tellingen` folder
+6. Run python3 `./electiontool.py -i <path to tellingen> -o <desired filename> --output-structure candidates --add-percentages` (e.g. `python3 ./electiontool.py -i ./tellingen -o tk2025.csv --output-structure candidates --add-percentages`)
+7. Copy the output csv to this folder
+8. Run `python3 merge_vote_csv.py -s tk2025.csv`
